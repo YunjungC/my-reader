@@ -11,6 +11,12 @@ top_n: 10
 summary_chars: 220
 
 feeds:
+
+  # 구글 알리미 (알리미 설정 → 전송 위치 "RSS 피드" → RSS 아이콘 주소)
+  - name: Google 알리미 - 과기정통부 AI 정책
+    url: https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386
+    site: https://www.google.com/alerts
+
   # AI Matters: 사이트의 RSS가 봇 차단 때문에 막혀 있어서,
   # 구글 뉴스가 수집한 AI Matters 기사로 대신 받습니다.
   # 구글 알리미에서 "site:aimatters.co.kr" 알림을 RSS로 만들었다면
@@ -18,17 +24,7 @@ feeds:
   - name: AI Matters (구글 알리미)
     url: https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555
     site: https://aimatters.co.kr
-
-  # 구글 알리미 (알리미 설정 → 전송 위치 "RSS 피드" → RSS 아이콘 주소)
-  - name: Google 알리미 - 과기정통부 AI 정책
-    url: https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386
-    site: https://www.google.com/alerts
     
-  # 며칠 비교해 보고 알리미가 충분하면 아래 3줄은 지워도 됩니다
-  - name: AI Matters (구글 뉴스)
-    url: https://news.google.com/rss/search?q=site:aimatters.co.kr&hl=ko&gl=KR&ceid=KR:ko
-    site: https://aimatters.co.kr
-
   - name: Axios
     url: https://api.axios.com/feed/top/
     site: https://www.axios.com
