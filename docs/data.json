@@ -1,5 +1,5 @@
 {
- "generated_at": 1793293075,
+ "generated_at": 1793314199,
  "top_n": 10,
  "feeds": [
   {
@@ -8,6 +8,46 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "357f6c811a0ed037",
+     "title": "'다문화 우대' 정책 기조 바뀌나… 정부 는 기준 재검토, 경기도는 조직개편 - 수원일보",
+     "link": "https://www.suwonilbo.kr/view.html?id=L261029101248fbef",
+     "summary": "李, 다문화 우대제도 폐지 필요성 제기…청와대 시행령 개정 검토 경기도, 이민사회국 2년 만에 폐지 추진…성평등가족국으로 통합 정부 는 형평성, 경기도는 ...",
+     "source": "",
+     "ts": 1793298425
+    },
+    {
+     "id": "640815b1fbc9969c",
+     "title": "중기부, 2030년까지 제조 中企 6000곳에 AI 도입…5조원 이상 투입",
+     "link": "https://biz.chosun.com/industry/business-venture/2026/10/29/ZUK2ASA7HVAKLFFD62DKMZQYQU/",
+     "summary": "... 정책 조정회의에서 이 같은 내용을 담은 '중소제조 피지컬 AI 확산 ... 과학기술정보통신부 의 '모두의 AI 공장장' 등 국가 전략 프로젝트 에서 확보한 ...",
+     "source": "",
+     "ts": 1793295701
+    },
+    {
+     "id": "9c086fc410e2f3ae",
+     "title": "정부 , 신종담배 유해성 관리 강화...검사 확대·첨가물 규제 추진 - 의학신문",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3015157",
+     "summary": "AI 생성 사진. 보건복지부와 식품의약품안전처는 29일 담배유해성관리 정책 위원회 심의를 거쳐 이 같은 내용을 담은 '제1 ...",
+     "source": "",
+     "ts": 1793293587
+    },
+    {
+     "id": "e29a9d519ec75144",
+     "title": "정부 , 오는 2030년까지 수도권 공공택지에서 10만4천호 착공 - 연합인포맥스",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441815",
+     "summary": "관련기사 · 美 국채가, 뜨거운 GDP·PCE에도 강세…안전 선호 여파 · 美 9월 근원 PCE 가격지수 전월비 0.3%↑…예상치 부합(종합) · ECB, 예상대로 3대 정책 금리 ...",
+     "source": "",
+     "ts": 1793292977
+    },
+    {
+     "id": "63d3011d75dd614f",
+     "title": "국토장관 \"역대 정부 최대 수준의 공급…청년·신혼부부 선호 입지\" - 연합인포맥스",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441832",
+     "summary": "최신뉴스 오늘의 마켓뷰 심층분석 오피니언 정책 /금융 채권/외환 IB/기업 ... AI 학습 및 활용 금지>. 한이임 기자 yyhan@yna.co.kr. 많이 본 뉴스. 1 ...",
+     "source": "",
+     "ts": 1793292977
+    },
     {
      "id": "1bfd3063af4b038d",
      "title": "과기정통부 , 中 AI 기술 수출제한 영향 긴급 실태조사...위험요소 등 파악 - 전자신문",
@@ -41,56 +81,16 @@
      "ts": 1793284082
     },
     {
-     "id": "0655aaff875c00c9",
-     "title": "美 동결에도 韓 금융시장 '살얼음판'… 정부 , 긴급 바이백 검토 - 조세일보",
-     "link": "http://www.joseilbo.com/news/htmls/2026/10/20261029578419.html",
-     "summary": "연준 정책 금리 3.75~4.00% 동결…美 중간선거·국제유가· AI 투자 불확실성 경계 국내 증시 급락·반등 반복… 정부 , 금융·외환시장 변동성 확대 시 신속 대응",
+     "id": "46343d39b95c7175",
+     "title": "구미·청주·포항 '제조 AI 혁신동맹' 출범…전국 13개 산단 협력망 구축 - 신아일보",
+     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077389",
+     "summary": "... 구미가 인공지능 ( AI )을 활용한 제조산업 혁신의 핵심 거점으로 도약하기 위한 발판을 마련 ... 컨퍼런스에서는 정부 의 제조 AI 정책 방향과 향후 지원사업도 소개 ...",
      "source": "",
-     "ts": 1793280298
-    },
-    {
-     "id": "dc82f3208754221a",
-     "title": "현대차그룹, 새만금 AI 밸리 구축 추진… 정부 와 인허가· 정책 지원 협의",
-     "link": "https://www.ttlnews.com/news/articleView.html?idxno=3156862",
-     "summary": "현대자동차그룹이 서해안 간척지 새만금 일대를 재생에너지와 차세대 피지컬 AI , 수소 생태계가 결합한 첨단 테크 거점으로 전환하는 프로젝트 에 본격 착수 ...",
-     "source": "",
-     "ts": 1793279845
-    },
-    {
-     "id": "51043f03fd970fb6",
-     "title": "제약바이오 200개사 키우고 제조현장 AI 전환…2030년 5조원 투입 - 불교방송",
-     "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115579",
-     "summary": "정부 가 오는 2030년까지 유망 제약바이오 기업 200곳을 육성하고, 중소 제조현장의 인공지능 전환에 5조 원 이상을 투입합니다.한성숙 국무총리는 오늘(29 ...",
-     "source": "",
-     "ts": 1793278629
-    },
-    {
-     "id": "dc115423d52efd7f",
-     "title": "중소 제조현장을 피지컬 AI 혁신의 무대로, 「중소제조 피지컬 AI 확산 전략」 발표",
-     "link": "https://eiec.kdi.re.kr/policy/callDownload.do?num=288783&filenum=1&dtime=20261029213839",
-     "summary": "정책 조정회의에서 「중소제조 ... 과학기술정보통신부 의 모두의 AI 공장장* 등. 메가 프로젝트 의 성과와 산업통상부의 암묵지 기반 AI 모델을 중소 제조.",
-     "source": "",
-     "ts": 1793277673
-    },
-    {
-     "id": "a5031685f358767f",
-     "title": "중소 제조현장에 피지컬 AI 확산…2030년까지 5조 원 이상 투입 - 한국방송뉴스",
-     "link": "https://www.ikbn.news/news/article.html?no=216709",
-     "summary": "... 인공지능 ( AI )을 도입한다. 디지털 전환(DX)으로 축적한 제조데이터를 바탕 ... 과학기술정보통신부 의 '모두의 AI 공장장' 등 메가 프로젝트 성과와 산업 ...",
-     "source": "",
-     "ts": 1793275887
-    },
-    {
-     "id": "87def0ef71430354",
-     "title": "과기정통부 , 내년 '피지컬 AI 트레이닝센터' 구축…현장 실증 병행 - 매일일보",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2012159",
-     "summary": "... = 권소윤 인턴기자 | 정부 가 피지컬 인공지능 ( AI ) ... 과기정통부 는 '대한민국 대도약 3대 메가 프로젝트 '의 하나로 피지컬 AI 경쟁력 강화 정책 을 추진하고 있다.",
-     "source": "",
-     "ts": 1793275791
+     "ts": 1793281714
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "cf53c0f1af",
@@ -98,6 +98,62 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
    "items": [
+    {
+     "id": "e77ca26ed3644736",
+     "title": "독창성 평가, 질문 바꾸자 GPT-5.4 정확도 93.5 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57699/",
+     "summary": "독창성 평가를 AI에 맡기면 얼마나 일관될까. Ai2 연구에서 질문 표현을 바꾸자 GPT-5.4 정확도가 93.5%에서 40.9%로 달라진 결과와 실험 조건을 정리 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "6db32af2c7293245",
+     "title": "구글 AI 학습법: 수면 단계로 최대 1천만 토큰 기억 실험 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57703/",
+     "summary": "구글 연구진이 새 지식을 배워도 기존 지식을 덜 잊는 수면 단계 학습법을 공개했습니다. 단기·장기 기억 정리와 최대 1천만 토큰 규모의 연구 결과를 설명 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "238f7e2a9d56a7af",
+     "title": "터치 맥북 프로 공개: 14·16인치 PROLED XDR 사양과 가격 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57708/",
+     "summary": "터치 맥북 프로의 공식 사진과 영상으로 화면 조작, PROLED XDR 디스플레이, M5 Pro·M5 Max 구성과 미국 가격·판매 일정을 확인하세요.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "3f28030a51f3b07f",
+     "title": "아크로뱃 AI 사용법 6단계: PDF 음성 요약과 발표자료 만들기 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/57696/",
+     "summary": "아크로뱃 AI로 긴 PDF를 음성 요약과 발표자료로 바꾸는 방법. PDF Space 생성, 팟캐스트 선택, 출처 확인, 슬라이드 수정과 내보내기를 설명합니다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "6f3d4640c7c3e3b6",
+     "title": "챗GPT API 크레딧 월 최대 500달러: 프로·비즈니스 조건 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57734/",
+     "summary": "챗GPT 프로·비즈니스 구독자의 API 크레딧 지급액과 신청 조건. 7일 유지, API 조직 연결, 만료 시점과 코덱스 적용 제외를 공식 영상과 함께 정리합니다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "97a74fae00083a96",
+     "title": "마이크로소프트, AI 모델 20종 이상 지원하는 코파일럿 하네스 공개 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57701/",
+     "summary": "마이크로소프트가 여러 AI 모델을 같은 환경에서 실행하는 '코파일럿 하네스'를 기업과 개발자에게 제공한다. 회사는 28일 깃허브가 개발한 실행 환경을 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "0597361a1128701b",
+     "title": "인스타그램 90분 가로 영상 테스트: 피처스·릴스·TV 연결 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57736/",
+     "summary": "인스타그램이 최대 90분 가로 영상 피처스를 테스트합니다. 릴스와 본편 연결, 탐색 화면, TV 지원과 단계별 제공 상태를 모세리 인터뷰로 확인하세요.",
+     "source": "",
+     "ts": null
+    },
     {
      "id": "05619e194fe69b63",
      "title": "한국 챗GPT 업무 활용, 코딩은 줄고 시각 디자인 비중 2.8배로 확대 - AI 매터스",
@@ -121,66 +177,10 @@
      "summary": "고객 데이터·AI 기업 인보카가 28일(현지 시각) 구글 광고에서 시작한 고객 문의에 응답하는 '메시징 에이전트 포 구글 애즈'를 베타로 출시했다.",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "38ce3630fa8f5bc0",
-     "title": "구글, 기업용 AI 기능을 검색·제미나이로 확대 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57666/",
-     "summary": "구글이 기업용 AI 에이전트에서 개발한 기능을 검색과 제미나이 앱으로 확대하겠다고 밝혔다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "db596e22c738d723",
-     "title": "아마존 “AI 토큰 사용량을 성과 목표로 삼지 말라” - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57622/",
-     "summary": "아마존이 소프트웨어 엔지니어의 AI 활용을 평가할 때 토큰 사용량과 코드 변경량을 성과 목표로 삼으면 비용과 복잡성이 증가할 수 있다고 밝혔다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "2228d7f4bc648dbf",
-     "title": "코디악, 미국 운송사와 무인 트럭 75대 도입 계약 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57660/",
-     "summary": "미국 자율주행 기업 코디악이 장거리 운송사 DTL 트랜스포트와 무인 트럭 75대에 자율주행 시스템을 적용하는 계약을 체결했다고 28일 밝혔다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "d690f2c20b6b6609",
-     "title": "구글, 디맨드젠 광고 데이터 측정 기능 확대 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57644/",
-     "summary": "구글이 10월 디맨드젠 업데이트에서 광고주의 자체 데이터 연결과 전환 측정을 개선하는 기능을 소개했다. 데이터 설정에 따른 전환 증가를 확인하는 지표를 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "7acbd8ae8ae09711",
-     "title": "액트온, 금융기관 고객관리 마케팅 자동화 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57646/",
-     "summary": "마케팅 자동화 기업 액트온이 28일(현지 시각) 신용협동조합과 지역은행을 위한 고객 생애주기 마케팅 프로그램을 발표했다. 신규 고객 확보부터 초기 이용 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "1d675d220fc7e539",
-     "title": "액시엄, AI로 1만5000쪽 수학 증명 검증 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57672/",
-     "summary": "수학 AI 기업 액시엄이 '유한 단순군 분류'의 전체 증명을 컴퓨터로 검증할 수 있는 형태로 변환했다고 26일 발표했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "8011071d94c315f3",
-     "title": "뉴욕주, 미성년자 보호 AI 챗봇 법안 서명 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57624/",
-     "summary": "캐시 호컬 뉴욕 주지사가 28일(현지 시각) 아동을 AI 챗봇과 인터넷 연결 베이비 모니터의 위험에서 보호하기 위한 법안에 서명했다고 주지사실이 밝혔다.",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "25ac01331a",
@@ -188,6 +188,46 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "1149d7eccad6279c",
+     "title": "Election Day isn't here, but the ballot battles are",
+     "link": "https://www.axios.com/2026/10/29/midterms-election-lawsuits-ballot-disputes",
+     "summary": "The 2026 midterms already face a messy pileup of lawsuits and ballot battles, raising fears about election confidence before voters even finish casting ballots . Why it matters: Election challenges aren't unusual, but a…",
+     "source": "",
+     "ts": 1793312999
+    },
+    {
+     "id": "bf484f4d8dcd2f76",
+     "title": "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says",
+     "link": "https://www.axios.com/2026/10/29/fired-general-leaks-iran-ukraine",
+     "summary": "The Pentagon's top military planner admitted to leaking classified information about Ukraine and Iran to two reporters from separate outlets over a one-year period, according to an internal report of the investigation s…",
+     "source": "",
+     "ts": 1793311726
+    },
+    {
+     "id": "b443906186016f66",
+     "title": "Top U.S. Middle East commander briefs Trump on Iran blockade",
+     "link": "https://www.axios.com/2026/10/29/brad-cooper-briefs-trump-iran-naval-blockade",
+     "summary": "U.S. Central Command chief Adm. Brad Cooper, the commander of forces in the Middle East, briefed President Trump Thursday on the state of the Iran war, with a focus on the ongoing naval blockade , according to two U.S.…",
+     "source": "",
+     "ts": 1793309873
+    },
+    {
+     "id": "9e4e991dc3fda151",
+     "title": "The bizarre twist shaking up Alaska's Senate race and catching Trump's ire",
+     "link": "https://www.axios.com/2026/10/29/alaska-senate-race-dan-sullivan-trump",
+     "summary": "Alaska's tight Senate race is facing a new controversy over two candidates named Dan Sullivan appearing on the ballot — a twist that's drawn attention from President Trump . The big picture: The controversy is adding un…",
+     "source": "",
+     "ts": 1793304321
+    },
+    {
+     "id": "64ce921a4adf8369",
+     "title": "After losing his majority, Netanyahu tries to delegitimize election results",
+     "link": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results",
+     "summary": "After his far-right coalition lost 11 seats in the election, Israeli Prime Minister Benjamin Netanyahu is trying to discredit the results by claiming there was mass voting fraud in Arab communities. Why it matters: Neta…",
+     "source": "",
+     "ts": 1793295979
+    },
     {
      "id": "7de8ac18f2b2d84b",
      "title": "Exclusive: How the permitting bill could change the energy landscape",
@@ -227,50 +267,10 @@
      "summary": "House progressives are planning to use their growing power to force votes next year on their most sweeping and divisive policies, including Medicare for All, abolishing ICE and cutting aid to Israel. Why it matters: The…",
      "source": "",
      "ts": 1793264409
-    },
-    {
-     "id": "978403e153a0f9ed",
-     "title": "Vance tells top Iranian official negotiations must address nuclear program",
-     "link": "https://www.axios.com/2026/10/28/vance-iran-nuclear-talks-letter",
-     "summary": "Vice President Vance sent a letter to Iran's national security chief stressing that any negotiations to head off U.S. military strikes \"require discussions on the nuclear issue,\" a U.S. official said. Why it matters: Th…",
-     "source": "",
-     "ts": 1793230123
-    },
-    {
-     "id": "52d049e2e35ecf21",
-     "title": "Attack ads flood Mississippi's shockingly-competitive Senate race",
-     "link": "https://www.axios.com/2026/10/28/mississippi-senate-scott-colom-hyde-smith",
-     "summary": "The most-aired ad in the closing stretch of Mississippi's Senate race features a Jeffrey Epstein survivor attacking GOP Sen. Cindy Hyde-Smith for voting against releasing files related to the convicted human trafficker.…",
-     "source": "",
-     "ts": 1793229873
-    },
-    {
-     "id": "26f497c3a96137de",
-     "title": "\"Nauseously optimistic\": Anxious House Democrats brace for midterm Election Day",
-     "link": "https://www.axios.com/2026/10/28/2026-election-democrats-house-midterm-results",
-     "summary": "Democrats will happily tell you how good they feel about retaking the House on Tuesday — just as soon as they stop hyperventilating into a paper bag. Why it matters: They've been burned too many times on Election Day to…",
-     "source": "",
-     "ts": 1793229820
-    },
-    {
-     "id": "1e394f78eec7c7fa",
-     "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
-     "link": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
-     "summary": "Regional mediators led by Qatar are trying to reach a diplomatic deal to restart negotiations between the U.S. and Iran and prevent the resumption of war after the midterm elections, three U.S., Israeli and regional sou…",
-     "source": "",
-     "ts": 1793210424
-    },
-    {
-     "id": "79decea20b9aebbf",
-     "title": "Exclusive: Controversial ad backfiring on Ramaswamy, GOP poll finds",
-     "link": "https://www.axios.com/2026/10/28/gop-poll-ramaswamy-ad-damage",
-     "summary": "Republicans fear that Vivek Ramaswamy 's explosive attack ad featuring his opponent's estranged mother could cost them the Ohio governor's race, based on new internal polling that shows him falling further behind, Axios…",
-     "source": "",
-     "ts": 1793207519
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "faad7d456069f03f",
-     "title": "DoorDash, 약 25.5조원에 Instacart 인수 추진",
-     "link": "https://news.hada.io/topic?id=36235",
-     "summary": "DoorDash 가 Instacart를 주당 65달러, 총 지분가치 약 170억 달러($17b) 에 인수하는 확정 계약을 체결함. 인수 대가의 최소 75%는 현금이며, 주식은 최대 25%로 제한됨 DoorDash의 배송망 과 Instacart의 식료품 주문 처리 기술을 결합해, 지역 매...",
+     "id": "324e5eea4222c7c9",
+     "title": "정보 유출 사이트의 미국 국토안보부(DHS) 직원 정보 공개",
+     "link": "https://news.hada.io/topic?id=36250",
+     "summary": "",
      "source": "",
-     "ts": 1793288865
+     "ts": 1793310162
     },
     {
-     "id": "2710c8dff44a6fa4",
-     "title": "FBI가 마틴 루서 킹 주니어의 자살을 유도하려 보낸 편지(2014)",
-     "link": "https://news.hada.io/topic?id=36234",
-     "summary": "FBI 는 마틴 루서 킹 주니어를 대규모로 감시한 뒤, 자살을 유도하려는 서명 없는 편지를 그의 집으로 보냄 1963년 “I Have a Dream” 연설 이후 FBI 국내정보 책임자 윌리엄 설리번은 킹을 공산주의와 국가안보 측면에서 위험한 인물로 지목함 FBI 국장 ...",
+     "id": "4021b82635eac65b",
+     "title": "Tomáš Mikolov, 체코 대통령에게 공로 메달 수훈",
+     "link": "https://news.hada.io/topic?id=36249",
+     "summary": "AI 연구자 Tomáš Mikolov 가 과학 분야의 국가 기여를 인정받아 체코 대통령에게 공로 메달을 받음 Mikolov는 Word2Vec 공동 개발자 중 한 명으로, 단어를 수학적 벡터로 나타내 의미 관계를 포착하는 이 방법은 현대 언어 모델 발전의 중요한 토대 중 하나가 됨",
      "source": "",
-     "ts": 1793288685
+     "ts": 1793309982
     },
     {
-     "id": "72e9330e8429610b",
-     "title": "Mistral Large 4(Le Chonk), 가중치 공개",
-     "link": "https://news.hada.io/topic?id=36233",
-     "summary": "Mistral이 1조 파라미터 네이티브 멀티모달 모델 Mistral Large 4 의 개선된 가중치를 공개함. 공개 프리뷰 이후 강화학습을 확대해 코딩, 방어적 사이버보안, 추론 효율을 높임 Artificial Analysis Coding Agent Index 에서 GLM-5.3와 사실상 동률인 48%로 오픈웨이...",
+     "id": "327aa10460648d71",
+     "title": "중국 스파이 의혹 인물, Nvidia CEO Jensen Huang과 ‘긴밀한 관계’",
+     "link": "https://news.hada.io/topic?id=36248",
+     "summary": "New York Times에 따르면 미국 정보기관은 Megaspeed 임원 Alice Huang 의 통신을 감시하다 Jensen Huang과의 접촉을 확인했으며, 그녀가 중국 정부에 정보를 전달했다고 판단함 Jensen Huang이 정보 수집 활동을 알고 있었다는 증거는 보도에 없으며 , 전달된 정보의...",
      "source": "",
-     "ts": 1793288505
+     "ts": 1793309802
     },
     {
-     "id": "69643a55f55df8b3",
-     "title": "Show GN: 만든 사람도 결과를 미리 모르는 사다리타기 (drand 예약 추첨)",
-     "link": "https://news.hada.io/topic?id=36232",
-     "summary": "카톡방에서 사다리타기 링크를 돌리면 늘 「조작 아니냐」는 말이 나옵니다. 실제로 흔히 쓰는 사다리 공유 사이트를 열어 보니, 링크에 사다리 모양이 통째로 들어 있어서 만든 사람이 원하는 결과가 나올 때까지 다시 섞은 뒤 그 링크만 보낼 수 있었습니다. 받는 사람은 알 방법이 없고요. 그래서 결과를 「",
+     "id": "91d9bf162c092e66",
+     "title": "우리는 “그냥 어울려 지내지” 않을 것이다",
+     "link": "https://news.hada.io/topic?id=36247",
+     "summary": "특이점 이후 “ 그냥 어울려 지내며 ” 무한한 여가를 누리리라는 기대와 달리, 탈희소성 AI 유토피아는 인간관계의 전제 자체를 약화할 수 있음 저렴한 초인적 지능이 일과 교육을 무의미하게 만들면, 사람들이 만나 관계를 쌓아 온 직장과 학습 공동체",
      "source": "",
-     "ts": 1793285364
+     "ts": 1793306510
     },
     {
-     "id": "1118bc4c8d31020d",
-     "title": "미국, 단 3개월 만에 역대 최대인 20.2GWh 배터리 저장 용량 추가",
-     "link": "https://news.hada.io/topic?id=36231",
-     "summary": "미국의 2026년 2분기 배터리 저장 설비 신규 설치량 이 20.2GWh로 분기 최고치를 기록했으며, 상반기 설치량은 전년 대비 23% 증가한 30.8GWh에 달함 성장은 전력망용 대규모 배터리 가 주도했으며, 2분기 약 18GWh가 설치됨 배터리는 전력이 풍부하고 저렴...",
+     "id": "6cf97fa1871816cb",
+     "title": "패트릭 스튜어트 별세",
+     "link": "https://news.hada.io/topic?id=36246",
+     "summary": "Patrick Stewart 가 Los Angeles 자택에서 86세로 별세함. 사인은 알츠하이머병과 루이소체 치매로, 사망 소식은 소셜미디어를 통해 발표됨 영국의 셰익스피어 연극 배우로 명성을 쌓은 뒤, 1987년 《Star Trek: The Next Generation》의 Jean-Luc Picard 함장 으로 ...",
      "source": "",
-     "ts": 1793285161
+     "ts": 1793306330
     },
     {
-     "id": "7d94e465fbd62c52",
-     "title": "논리 버그만으로 Microsoft Edge 전체 익스플로잇 체인 구축하기",
-     "link": "https://news.hada.io/topic?id=36230",
-     "summary": "Pwn2Own Berlin 2026을 위해 메모리 손상 없이 논리 버그만으로 Microsoft Edge에서 임의 코드 실행까지 이어지는 체인을 구축함 브라우저 내부 탐색 API가 출발 탭을 명시하지 않으면 활성 탭을 사용 하는 동작을 이용해, 다른 사이트에서 JavaScript를 실행하는 범...",
+     "id": "b93ade0733c6db80",
+     "title": "NetBSD, 새로운 텍스트 편집기 atto 추가",
+     "link": "https://news.hada.io/topic?id=36245",
+     "summary": "NetBSD-current 기본 시스템에 새 편집기 atto(1) 이 포함됨 신규 사용자의 적응 을 돕기 위해 vi(1)과 xedit(1) 외에 선택할 수 있는 대안으로 추가함 모드 구분이 없는 화면 기반 편집기 로, nano, pico, xedit, emacs...",
      "source": "",
-     "ts": 1793284981
+     "ts": 1793302791
     },
     {
-     "id": "a024e7b0817c15b7",
-     "title": "Gemini 4 Carbon, Artificial Analysis Intelligence Index v5에서 새로운 1위 기록",
-     "link": "https://news.hada.io/topic?id=36229",
-     "summary": "Google의 Gemini 4 Carbon 이 Intelligence Index v5에서 59점으로 1위를 기록함. 복잡한 추론, 지식, 과학 과제에서 강점을 보이며 9개 평가 중 4개에서 최고 점수를 얻음 코딩 에이전트 평가 에서는 Antigravity CLI와 함께 사용했을 때 59점으로, Claude Opus 5.5...",
+     "id": "c10b4c5633790420",
+     "title": "LLM 문체가 만드는 글의 불쾌한 골짜기",
+     "link": "https://news.hada.io/topic?id=36244",
+     "summary": "LLM 특유의 문체 는 실제 AI 사용 여부와 별개로 읽고 싶은 마음을 약화시키고 거부감을 일으킬 수 있음 LLM으로 초안을 쓰는 방식 은 사람이 편집해도 특유의 문체를 지우기 어려워 피하는 것이 좋으며, 개요에 도움을 받더라도 본문은 직접 쓰기를 권함 L...",
      "source": "",
-     "ts": 1793284801
+     "ts": 1793302611
     },
     {
-     "id": "f6131d50990f3566",
-     "title": "스파이 활동 의혹을 받는 이스라엘 기업, Starlink 사용자를 표적으로 삼아",
-     "link": "https://news.hada.io/topic?id=36228",
-     "summary": "이스라엘 광고 기술 기업 Discover-Tech 가 Starlink 사용자에게 대규모로 광고를 노출했으며, 위치 파악이나 감시가 목적이었을 가능성이 크다고 TrendAI 연구진이 판단함 광고 데이터 분석 결과, 이 업체는 100개국 이상에서 Starlink 트래픽 대상 광고 입찰 1위 였...",
+     "id": "2000f441271a27cb",
+     "title": "H.264는 마법이다 (2016)",
+     "link": "https://news.hada.io/topic?id=36243",
+     "summary": "H.264 는 덜 중요한 시각 정보를 버리는 손실 압축, 프레임 사이의 움직임을 활용하는 예측, 무손실 엔트로피 부호화를 결합해 영상 전송에 필요한 데이터량을 줄임 Apple 홈페이지를 캡처한 예시에서 300프레임짜리 5초 영상은 175KB 인 반면, PNG 스크린샷 한 장은...",
      "source": "",
-     "ts": 1793280800
+     "ts": 1793299188
     },
     {
-     "id": "bd49f5cee33fed7f",
-     "title": "Show GN: oh-my-ouroboros - 피드백과 점검으로 스스로 다듬어지는 Claude Code 하네스",
-     "link": "https://news.hada.io/topic?id=36227",
-     "summary": "안녕하세요. ML 연구와 엔지니어링 작업에 사용하고 있는 Claude Code 하네스, oh-my-ouroboros를 공개합니다. https://github.com/DaeSeokSong/oh-my-ouroboros Claude Code를 오래 사용하다 보면 규칙과 스킬이 계속 늘어납니다. 같은 실수를 반복하지 않게 규칙을 추가하지만, 시간이 지나면 어떤 규",
+     "id": "de20cb065fe82ea7",
+     "title": "Google 검색, 이제 Alphabet 매출의 절반 미만",
+     "link": "https://news.hada.io/topic?id=36242",
+     "summary": "2026년 3분기 Google 검색 매출은 634억 달러 , Alphabet 전체 매출의 49.7% 로 검색 매출을 별도 공시한 이후 처음으로 절반 아래로 내려감 검색 매출 자체는 전년 동기 대비 12% 증가 했지만, 나머지 사업 매출이 40% 증가 하면서...",
      "source": "",
-     "ts": 1793280550
+     "ts": 1793299007
     },
     {
-     "id": "1de5592132c8bf15",
-     "title": "사용자 조작이나 알림 없이 발생하는 Android 원격 서비스 거부 공격",
-     "link": "https://news.hada.io/topic?id=36225",
-     "summary": "잘못 구성된 WAP Push SMS 한 건으로 Android의 com.android.phone 프로세스가 종료되며, 사용자 조작이나 알림 없이 긴급전화를 포함한 진행 중 통화 가 끊김 원인은 WSP 헤더 길이를 long 에서 int 로 변환할 때 범...",
+     "id": "5c26cbe414e7d26d",
+     "title": "멕시코는 미국에서 살 수 없는 전기차의 전시장",
+     "link": "https://news.hada.io/topic?id=36241",
+     "summary": "멕시코에서는 중국 전기차 가 낮은 가격에 배터리, 소프트웨어, 고급 실내 기능을 묶어 판매되지만, 미국에서는 관세와 무역 장벽, 소프트웨어 규제로 사실상 진입이 막혀 있음 중국 브랜드의 멕시코 자동차 시장 점유율은 5년 만에 1% 미만에서 15% 로 늘었으며, 전...",
      "source": "",
-     "ts": 1793277556
+     "ts": 1793295817
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "d1c587ecba",
@@ -368,6 +368,22 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "07b8277675a3d49f",
+     "title": "API credits benefit for eligible ChatGPT subscriptions",
+     "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+     "summary": "",
+     "source": "",
+     "ts": 1793314109
+    },
+    {
+     "id": "672400a4a73efc0d",
+     "title": "Building a multiplayer game world with autonomous Fable-class models",
+     "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+     "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of wh…",
+     "source": "",
+     "ts": 1793293226
+    },
     {
      "id": "18c36f7241d29e16",
      "title": "Quoting Ben Hylak",
@@ -431,26 +447,10 @@
      "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasi…",
      "source": "",
      "ts": 1793041225
-    },
-    {
-     "id": "d4fc15392e5cfcdd",
-     "title": "webframe: evaluated as a scraper and a sandbox",
-     "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-     "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden…",
-     "source": "",
-     "ts": 1793031300
-    },
-    {
-     "id": "0c0ce1d91251a58f",
-     "title": "Seam Cutter",
-     "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-     "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a…",
-     "source": "",
-     "ts": 1792941019
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "f9eb976542",
@@ -458,6 +458,70 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "00ca9ffc93d670c7",
+     "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+     "summary": "앤트로픽이 '클로드'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은 최근 공식 연구 블로그를 통해 '자기…",
+     "source": "",
+     "ts": 1793344919
+    },
+    {
+     "id": "15b9a6352d86bc57",
+     "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216823",
+     "summary": "오픈AI가 '챗GPT'의 유료 프로 및 기업용 요금제에서 AI 작업에 사용할 수 있는 기본 사용량을 최대 2배 늘렸다. 기존 월 200달러 요금제에 예고했던 사용량 축소 계획도 철회했다. 이번 조치는 오픈AI가 이달 초부터 진행한 28일 연속 서비스 개선 캠페인의 25일차 발표로, 모델 성능과 작업 속도를 높이는 데 이어 이용자가 실제로 처리할 수 있는 업무량을 늘리는 데 초점을 맞췄다.티…",
+     "source": "",
+     "ts": 1793343144
+    },
+    {
+     "id": "a0750a8eaf65992f",
+     "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216822",
+     "summary": "앤트로픽이 미국 정부를 제치고 스페이스X의 최대 고객으로 올라섰다. 올해 3분기 스페이스X 전체 매출의 34.5%가 앤트로픽에 AI 컴퓨팅 자원을 제공한 데서 발생한 것으로 알려졌다. 블룸버그는 29일(현지시간) 사정에 정통한 관계자를 인용, 스페이스X가 최근 분기 공시에서 익명으로 처리한 최대 고객 '고객 B(Customer B)'가 앤트로픽이라고 전했다.스페이스X는 지난 22일 공개한…",
+     "source": "",
+     "ts": 1793341778
+    },
+    {
+     "id": "50083dae4c87bcfb",
+     "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216821",
+     "summary": "미스트랄 AI가 이달 초 선보인 '미스트랄 라지 4(Mistral Large 4)'의 성능을 개선하고 모델 가중치를 공개하며 정식 출시했다. 기존에는 API를 통해서만 이용할 수 있었지만, 이제 기업과 개발자가 직접 모델을 내려받아 자체 시스템에서 운영하고 추가 학습할 수 있게 됐다. 특히 사이버 보안에 초점을 맞춰 외부 AI 서비스에 의존하지 않고 기업 내부에서 취약점 분석과 사고 대응을…",
+     "source": "",
+     "ts": 1793341009
+    },
+    {
+     "id": "2c16e0213f0d4618",
+     "title": "[10월29일] 자신을 AI로 복제한 '특이점' 예언자…'또 다른 나'는 나와 같은 인물인가",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216776",
+     "summary": "인간과 AI가 하나로 합쳐지는 미래를 예언한 세계적인 미래학자 레이 커즈와일(78)이 자신의 디지털 복제본을 실제로 만들었습니다. 이 AI는 얼굴과 목소리는 물론, 지식과 사고방식까지 재현하며 사람들과 대화합니다. 특히 만들어진 이후에도 새로운 정보를 배우고 대화 경험을 기억하도록 설계됐습니다. 그가 사망하더라도 복제 AI는 계속 존재하며 독자적인 경험을 쌓을 수 있다는 점에서, 인간의 정…",
+     "source": "",
+     "ts": 1793340000
+    },
+    {
+     "id": "01badc5eae94a989",
+     "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216820",
+     "summary": "중국 AI 기업들이 최첨단 모델의 성능을 확보하기 위해 집중적으로 분석하는 대상이 앤트로픽의 '클로드'에서 오픈AI의 'GPT-6 아스트라'로 바뀌고 있는 것으로 알려졌다. 딥시크와 문샷 AI는 최근 출시한 AI 모델을 개발하면서 아스트라의 출력 데이터를 학습에 상당 부분 활용한 것으로 전해졌다.디 인포메이션은 28일(현지시간) 중국 AI 연구소들의 모델 개발에 정통한 관계자들을 인용, 앤…",
+     "source": "",
+     "ts": 1793339463
+    },
+    {
+     "id": "a3260a846dd0cd78",
+     "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216819",
+     "summary": "오픈AI가 AI 모델의 행동 원칙을 대폭 개편하고, 인간의 의도를 이해해 스스로 판단하는 능력을 핵심 기준으로 제시했다. AI가 단순한 질의응답을 넘어 복잡한 업무를 자율적으로 수행하는 에이전트로 발전하면서, 이용자의 지시만으로는 모든 상황을 통제하기 어려워졌기 때문이다. 이에 따라 AI가 예상하지 못한 상황에서도 인간의 목적과 가치를 바탕으로 판단하되, 이용자의 감독과 통제권을 유지하도록…",
+     "source": "",
+     "ts": 1793338169
+    },
+    {
+     "id": "baa87973c8f2e8da",
+     "title": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216818",
+     "summary": "미국 정보당국이 젠슨 황 엔비디아 CEO와 가까운 중국 여성 사업가를 중국 정보기관의 정보원으로 판단한 사실이 알려졌다. 도널드 트럼프 미국 대통령은 약 1년 전 관련 첩보를 보고받았지만, 별다른 조치를 취하지 않은 것으로 전해졌다. 황 CEO는 해당 인물과의 만남은 정상적인 고객 관계였으며, 관련 기업의 AI 칩 불법 유출 의혹도 사실이 아니라고 반박했다.뉴욕타임스(NYT)는 29일(현지…",
+     "source": "",
+     "ts": 1793336796
+    },
     {
      "id": "565c46d82f41d304",
      "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발",
@@ -473,74 +537,10 @@
      "summary": "글로벌 AI 모델 평가업체 아티피셜 애널리시스(AA)가 종합 성능 평가 기준을 대폭 개편하면서 주요 AI 모델의 순위가 달라졌다. 오픈AI의 'GPT-6 아스트라'와 'GPT-6.1 솔'이 상위권으로 올라왔으며, 구글의 최신 모델 '제미나이 4 카본'이 앤트로픽의 '클로드 오퍼스 5.5'를 제치고 1위를 차지했다. 새 평가에서는 기존 지식·추론 문제의 비중을 조정하고 실제 코딩과 과학 연구…",
      "source": "",
      "ts": 1793296800
-    },
-    {
-     "id": "50f9f80af8443d54",
-     "title": "엔비디아, 40개 언어 지원하는 음성 인식 AI 공개…오픈 모델 최고 정확도 달성",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216779",
-     "summary": "엔비디아가 40개 언어의 음성을 텍스트로 변환하고 여러 사람이 겹쳐 말하는 상황에서도 화자를 구분하는 오픈웨이트 AI 모델을 공개했다. 자연어 명령으로 받아쓰기 방식을 지정할 수 있고, 전문용어와 고유명사 인식도 지원한다. 공개 음성 인식 모델 성능 평가에서 최고 수준의 정확도를 기록했다.엔비디아는 28일(현지시간) 음성 인식 AI 모델 '네모트론 3.5 트랜스크라이브(Nemotron 3.…",
-     "source": "",
-     "ts": 1793296202
-    },
-    {
-     "id": "0f11559081ac7167",
-     "title": "광주 20대, 수도권으로 순유출…전남에선 오히려 순유입",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216814",
-     "summary": "올해 상반기 광주의 20대는 수도권으로 빠져나간 인원이 들어온 인원보다 많았지만, 전남과의 이동에서는 반대였다. 50·60대는 전남으로의 순유출이 두드러져 연령에 따라 인구 이동의 방향이 달랐다.국가데이터처 국가통계포털(KOSIS)의 전출지·전입지·연령별 이동자수를 분석한 결과, 올해 1~6월 광주의 20대는 수도권과의 이동에서 2218명이 순유출됐다. 전남과의 이동에서는 527명이 광주로…",
-     "source": "",
-     "ts": 1793294400
-    },
-    {
-     "id": "b867e348b290f02c",
-     "title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216804",
-     "summary": "오픈AI가 올해 안에 '챗GPT'의 일반 대화 기능과 업무 자동화 기능(챗GPT 워크)을 통합한다. 이용자가 별도의 작업 모드로 전환하지 않아도 AI에 질문하고 문서를 작성하거나 외부 프로그램을 조작하는 등 복잡한 업무를 하나의 대화에서 처리할 수 있도록 개편할 계획이다. AI가 질문에 답하는 챗봇을 넘어 실제 업무를 수행하는 에이전트로 진화하면서, 일반 대화와 작업 실행의 경계를 없애려는…",
-     "source": "",
-     "ts": 1793294400
-    },
-    {
-     "id": "c23509d1af748651",
-     "title": "앤트로픽, 계약서 검토·법률 조사 자동화하는 '클로드' 도구 출시",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216808",
-     "summary": "앤트로픽이 기업 법무팀의 계약서 검토와 법률 조사 등을 자동화하는 도구를 출시했다. 법률 문서를 분석해 계약 조건의 문제점을 찾아내고, 여러 국가의 관련 법규를 비교하거나 규제 변화와 법무 요청을 추적하는 기능을 제공한다.앤트로픽은 28일(현지시간) 기업용 법률 AI 서비스 ‘클로드 포 리걸(Claude for Legal)’에 법무 업무용 ‘아티팩트(Artifacts)’ 갤러리를 추가했다고…",
-     "source": "",
-     "ts": 1793293732
-    },
-    {
-     "id": "056aea9aa1a72260",
-     "title": "오픈AI·앤트로픽, 미 중간선거 앞두고 AI 악용 감시 강화",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216803",
-     "summary": "오픈AI와 앤트로픽이 오는 11월3일 미국 중간선거를 앞두고 AI를 악용한 허위정보 유포와 조직적인 여론 조작을 막기 위한 대응을 강화한다. 오픈AI는 수백명의 직원을 투입한 선거 상황실을 가동하고, 앤트로픽은 가짜 언론사 운영과 조직적인 선거 개입을 탐지하는 기능을 개선했다.28일(현지시간) 폴리티코에 따르면, 오픈AI는 이번 주부터 모든 투표 집계가 끝날 때까지 '선거 운영 센터(Ele…",
-     "source": "",
-     "ts": 1793293315
-    },
-    {
-     "id": "e40c360e92a489aa",
-     "title": "푸틴 \"머스크는 진정한 천재\" 극찬...러시아판 스타링크 개발은 이제 첫걸음",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216811",
-     "summary": "블라디미르 푸틴 러시아 대통령이 일론 머스크 CEO를 “진정한 천재”라고 극찬했다. 러시아가 자체 위성 인터넷망 구축에 나섰지만, 머스크의 스페이스X가 운영하는 ‘스타링크(Starlink)’와 비교하면 아직 초기 단계에 불과하다는 점도 인정했다.BBC와 로이터 등에 따르면, 푸틴 대통령은 28일(현지시간) 모스크바에서 열린 러시아·아프리카 정상회의 관련 행사에서 러시아의 저궤도 위성 인터넷…",
-     "source": "",
-     "ts": 1793292876
-    },
-    {
-     "id": "126fc1e146199ca0",
-     "title": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216798",
-     "summary": "카카오(대표 정신아)는 개인화 AI 에이전트의 기반 기술인 임베딩 모델 '카나나-2-임베딩’ 2종을 허깅페이스에 오픈소스로 공개했다고 29일 밝혔다.공개한 모델은 30억(3B) 매개변수 규모의 ‘카나나-2-3B-임베딩’과 13억(1.3B) 매개변수의 ‘카나나-2-1.3B-임베딩’ 등 2종이다. 텍스트의 의미를 수치화해 질문과 관련된 정보를 검색하는 모델에 해당한다.일반 언어모델과 달리 질문…",
-     "source": "",
-     "ts": 1793292613
-    },
-    {
-     "id": "71bd71f58de5e530",
-     "title": "말레이시아 공항서 160억 규모 AI 칩 압수...중국 밀수 경로 의심",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216805",
-     "summary": "말레이시아 세관 당국이 쿠알라룸푸르 국제공항에서 1210만달러(약 160억원) 상당의 첨단 AI 반도체가 탑재된 서버 30대를 압수했다. 세관은 해당 물품이 수출 규제를 피하기 위해 허위 신고된 것으로 보고, 지난 6월 적발된 사건과 연관된 반도체 밀수 조직을 추적하고 있다.로이터는 28일(현지시간) 말레이시아 세관 당국이 지난 15일 쿠알라룸푸르 국제공항 자유무역구에서 검사 도중 첨단 A…",
-     "source": "",
-     "ts": 1793292499
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "263d8d0ce8",
@@ -638,6 +638,14 @@
    "url": "https://www.microsoft.com/en-us/research/feed/",
    "site": "https://www.microsoft.com/en-us/research",
    "items": [
+    {
+     "id": "9e5c9d9f241b709e",
+     "title": "Microsoft Research Focus – Edition #97",
+     "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+     "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-…",
+     "source": "",
+     "ts": 1793301556
+    },
     {
      "id": "ef05d9c57c787739",
      "title": "Flint-interactive: A language for creating interactive data visualizations",
@@ -709,18 +717,10 @@
      "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales an…",
      "source": "",
      "ts": 1790690402
-    },
-    {
-     "id": "3c2fdddd39466c92",
-     "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-     "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-     "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can cr…",
-     "source": "",
-     "ts": 1790629200
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,30 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "dabd11ec87c456ae",
+     "title": "700MW data center project proposed outside Lansing, Michigan",
+     "link": "https://www.datacenterdynamics.com/en/news/700mw-data-center-project-proposed-outside-lansing-michigan/",
+     "summary": "Local officials blindsided by proposal from local economic development agency",
+     "source": "",
+     "ts": 1793293624
+    },
+    {
+     "id": "40e29aa22dda05c6",
+     "title": "Turkish police make 85 arrests over last month's arson attack against Starlink satellite station in Poland",
+     "link": "https://www.datacenterdynamics.com/en/news/turkish-police-make-85-arrests-over-last-months-arson-attack-against-starlink-satellite-station-in-poland/",
+     "summary": "As the net widens over arson attack on September 23",
+     "source": "",
+     "ts": 1793293406
+    },
+    {
+     "id": "2e30fd2b4d4b6e8d",
+     "title": "OneQode leases 14MW from AdaniConneX in India",
+     "link": "https://www.datacenterdynamics.com/en/news/oneqode-leases-14mw-from-adaniconnex-in-india/",
+     "summary": "AI cloud company's first deployment in India, more planned",
+     "source": "",
+     "ts": 1793293275
+    },
     {
      "id": "fee77ac9460a91da",
      "title": "GTC Berlin: Nvidia wants you to know it cares – just don’t ask too many questions",
@@ -873,34 +897,10 @@
      "summary": "A vote is set for next month",
      "source": "",
      "ts": 1793287966
-    },
-    {
-     "id": "2e42b87e28d31924",
-     "title": "Orange seeks compensation from Nokia over outage in France earlier this month - report",
-     "link": "https://www.datacenterdynamics.com/en/news/orange-seeks-compensation-from-nokia-over-outage-in-france-earlier-this-month-report/",
-     "summary": "The outage last week impacted millions of Orange customers",
-     "source": "",
-     "ts": 1793287879
-    },
-    {
-     "id": "e682c58fbdea493c",
-     "title": "Marwynn plots up to $500m AI data center and solar farm in Grenada",
-     "link": "https://www.datacenterdynamics.com/en/news/marwynn-plots-up-to-500m-ai-data-center-and-solar-farm-in-grenada/",
-     "summary": "Signs MoU with Grenada National Resort, a large-scale luxury tourism and real estate development",
-     "source": "",
-     "ts": 1793287327
-    },
-    {
-     "id": "46a3de86c16d84d5",
-     "title": "Simplifying safety to drive savings",
-     "link": "https://www.datacenterdynamics.com/en/whitepapers/simplifying-safety-to-drive-savings/",
-     "summary": "How Fastenal used consolidation to standardize data center spend",
-     "source": "",
-     "ts": 1793287324
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   },
   {
    "id": "c15f1e5a65",
@@ -998,6 +998,14 @@
    "url": "https://www.theregister.com/software/headlines.atom",
    "site": "https://www.theregister.com",
    "items": [
+    {
+     "id": "f9482e1e329ce711",
+     "title": "Howler will have AI answer your questions, then burn the chat",
+     "link": "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
+     "summary": "Ask AI dumb things and leave no local chat history, all with the style of a kids' fantasy novel – or rather, one of its magical letters",
+     "source": "",
+     "ts": 1793304245
+    },
     {
      "id": "732cc5c02fbc737e",
      "title": "Matrix takes sovereign messaging into the realm of the tech giants",
@@ -1069,18 +1077,10 @@
      "summary": "CentOS roots give way to homegrown containers, AI tools, and a workstation edition we took for a spin",
      "source": "",
      "ts": 1792510200
-    },
-    {
-     "id": "2ef0440dca1b65e8",
-     "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
-     "link": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
-     "summary": "Keeping vendors happy is costing businesses millions, even when everything was working fine in the first place",
-     "source": "",
-     "ts": 1792507380
     }
    ],
    "error": null,
-   "last_ok": 1793293075
+   "last_ok": 1793314199
   }
  ]
 }
