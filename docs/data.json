@@ -1,5 +1,5 @@
 {
- "generated_at": 1793235082,
+ "generated_at": 1793235278,
  "top_n": 10,
  "feeds": [
   {
@@ -8,70 +8,6 @@
    "url": "https://news.google.com/rss/search?q=site:aimatters.co.kr&hl=ko&gl=KR&ceid=KR:ko",
    "site": "https://aimatters.co.kr",
    "items": [
-    {
-     "id": "4b100b79ab103678",
-     "title": "벡터·SCSK, 차량용 임베디드 소프트웨어 개발 협력",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9veWFrU1l6ak00M2kxUEtGWGVaSmJha3pSd2kza05FS2ZoX2dWX2tpZFZjcHFHT09nTjBMTldvN2s0TGJlcmRzQ1VYU042VTQteGxnbQ?oc=5",
-     "summary": "벡터·SCSK, 차량용 임베디드 소프트웨어 개발 협력 AI 매터스",
-     "source": "AI 매터스",
-     "ts": 1793234212
-    },
-    {
-     "id": "08782cff1ab80dfd",
-     "title": "테스토코리아, BIX 2026서 제약·바이오 측정기 소개",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ubmRodmJUb3pSZVVCblRTN0xLbVEtTDBJaFlhTGJXWDdvVHpCR0lPdnd4ZzM4UWtWSk5lQTlSdV9paFFzaDVONnk5NlV3MVBESFhVSg?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793234197
-    },
-    {
-     "id": "c312388e2152324c",
-     "title": "앤트로픽, 기업 클로드 사용 성과 보여주는 ‘스마트 리포트’ 출시",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12RmppMUdYaEtIdTR3QXRVampHTUdTVTNNV2g3N1hOQVd2bUJPRWlwMjlDMVdHNXl5MTE5dXR5M3BQLXZzRFVQT21KT2FfYzV0X0RjSQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793233145
-    },
-    {
-     "id": "a3f9e411c89c5f52",
-     "title": "앤트로픽, 美 국립과학재단 등 20곳에 클로드 무료 크레딧",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpQlQxd3A3RHlUQ3NvZmxSZ1NqQi1zSnJ1ZE5ENU1qY0xOTWVBcVFDR0E0RzRJYl9OMUpSV3ZZc2l5Tkw5MURUTGdBb0ZHU2pKM2l6Vg?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793233125
-    },
-    {
-     "id": "d61a475d8611fc6c",
-     "title": "엔비디아, 40개 언어 받아쓰는 오픈 음성인식 모델 공개",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56NklJX0Q1ZTkyZlVLQTdzNGxkUlZ1TVpaNERPR25NN2g0c3JJRUZjc2RmR3JHNjNLdmhWSks5cW85Mnd2enhDcTQ0dEpBd2Q4ZnQ0Vw?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793233064
-    },
-    {
-     "id": "888640bd2d0f0805",
-     "title": "메타, 일기 써 주는 AI 펫 앱 ‘와들 월드’ 필리핀 출시",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mT28yMlZSb2UzT01LeG5XZkN5RVRaRVhjVHlqWUpLNG42WmZBdWNFenN2cFRvbXFiV1NpVUFkUldHc2UxbVJBS2lqMDJCaVVSNVp3Qg?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793232866
-    },
-    {
-     "id": "2038d92afbd070f8",
-     "title": "크롬 자동 완성, 지메일 속 주문번호와 항공편 정보까지 입력",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TcXNldzV4OS1kbE11NHpFOTh4OVBLd1lNc2VnN0dsZEFaZ3pNZjR4c19HSWtEcE8zVGZjSnd2c1UyUEU0VXNWamVSZmQ4Z243Q3RGbQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793232812
-    },
-    {
-     "id": "f1ac037e27f1212c",
-     "title": "브라질 룰라 \"재생에너지로 데이터센터 유치…자체 AI 개발\"",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QVGZ2WUt4Q0p1dmVMUEUtdXR1QkVmYXcxVWN1RHl0WHo2SWRoQXIzNzUxUTMyVzlpZkkxSUxQd0tsX0JRQ0tsOW93Vk56ZE9HdWtQbw?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793173255
-    },
     {
      "id": "f5bdeaa2dc544795",
      "title": "앤트로픽, 상장 서류에 \"클로드에 광고 넣지 않겠다\" 명시",
@@ -87,10 +23,74 @@
      "summary": "",
      "source": "AI 매터스",
      "ts": 1793172944
+    },
+    {
+     "id": "4cfa3c5fb230768f",
+     "title": "리퀴드 AI, 스마트폰용 소형 오픈 모델 ‘LFM3’ 6종 공개",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yWGtURURvbVh2QVNXajdpZTJRT0pWVExYV1hOeHRlZVRHdjJUVndaT3h3RExJX3R5bXlJMXdWSzA4TncwM3MtcG4wdEdkYzF6YTk1Mg?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793151771
+    },
+    {
+     "id": "d49b01aec1773cbf",
+     "title": "DOGE 출신 보안 업체, AI 에이전트로 앤트로픽 내부망 접근",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vX01LYVdUX21DaWZsdWphcXMwcWcxN3JNNWE4X3VrWlE1X2Y2X05Pc1Q0TVAzZE5vaHRRNHdkNzVpb2ZpVzYxVDJyYmdvYVBoS29iNg?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793087527
+    },
+    {
+     "id": "61b207a8fcf9bc0d",
+     "title": "제미나이는 왜 엉망이 됐을까",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFTzdYZnFhT1VmQl81Nzkwc3Y5OE5VMXlwM0h4RzQ5aURPMGQ1d3cxcVo3UVFIWEtLUS1BY3dmaUJISUw5SGd3Um56eDVGUHFGVXQ2MQ?oc=5",
+     "summary": "제미나이는 왜 엉망이 됐을까 AI 매터스",
+     "source": "AI 매터스",
+     "ts": 1792983745
+    },
+    {
+     "id": "7af54e8e345e0de2",
+     "title": "오픈AI 출신 케빈 웨일, 로봇 신약 실험실로 2,849억 원 유치",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDM19zQUZ6UXpNTF9nakR5TUVHY2I2THBKYUc2SDdzbTNUd21HUS1NUVFpZ3QzNVJ2d0NQN21TajRpYzN0aGxQbkdNUGI3VDRhODh2QQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1792736008
+    },
+    {
+     "id": "d3a653b57783d6e1",
+     "title": "메타, 시위 단체 인스타그램 정지 원인으로 클로드 도구 지목",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtdnFFWWlxb1hPVG5BTXVZd05xYVNlVUhGVExkbXFoWG9CZjFxdHowWVFtdXRtcG14cFppdWJVb1RvOGVwcFZiY1pJY0NhckNQMTItbQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1792480021
+    },
+    {
+     "id": "09973ff172d900a8",
+     "title": "대만, AI 서버 中 불법 수출에 최대 징역 5년 추진",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VYm1wdmdXVWZXeldfLVQwR3NNTnNzWTg4X0JSLXZpQmtSaVBNdWliQlVaeVJXRWJVU3FDZXhhRzdUTGpQS3B0NWY1RU5rLXhvcWRvMA?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1792377994
+    },
+    {
+     "id": "0050b5ab5e24a78e",
+     "title": "xAI, 그록 보이스 3.0 공개…음성 대화 지수 1위",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWcHVneW9FbFZFb3VHaUJCQkhZSGlDVUVnMlA0dElNdVBUOWNhczVjUEtqcHZpWTJ1aFYyR1p5SmNTLVVWU2xab3VQNDM0aERUSS1ZVQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1792044214
+    },
+    {
+     "id": "8223235a1b71e6ca",
+     "title": "사카나 AI, 논문 속 핵심 오류 73% 찾는 AI 심사 도구 공개",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQy16aHJrSDlOTHdCNmJhenNPcm14R3Rnd3BNeVdqbi16cFdLbVpjODVVdXRvWWx1aUtvbnFTWVlSTm1nMFVhVExIbHJNcW15WVhkcw?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1791918795
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "f70c512690",
@@ -180,7 +180,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "25ac01331a",
@@ -270,7 +270,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "cc992ff5f1",
@@ -360,7 +360,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "f9eb976542",
@@ -540,7 +540,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "2c60dce9bd",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793235082
+   "last_ok": 1793235278
   }
  ]
 }
