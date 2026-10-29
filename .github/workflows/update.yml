@@ -1,0 +1,58 @@
+name: 뉴스 갱신
+
+on:
+  schedule:
+    # 2시간마다 (UTC 기준 17분)
+    - cron: "17 */2 * * *"
+  workflow_dispatch: {}      # Actions 탭 → "Run workflow"로 바로 갱신
+  push:
+    branches: [main]
+    paths-ignore:
+      - docs/data.json       # 봇이 올린 data.json 때문에 다시 돌지 않도록
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 피드 수집
+        run: python fetch.py
+
+      - name: 수집 결과 저장 (다음 실행 때 실패한 피드는 직전 기사 유지)
+        run: |
+          git config user.name  "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add docs/data.json
+          if git diff --cached --quiet; then
+            echo "새 기사 없음"
+          else
+            git commit -m "뉴스 갱신 $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
