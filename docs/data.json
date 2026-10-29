@@ -1,1 +1,1086 @@
-{"generated_at": null, "top_n": 10, "feeds": []}
+{
+ "generated_at": 1793235082,
+ "top_n": 10,
+ "feeds": [
+  {
+   "id": "eecfcc342b",
+   "name": "AI Matters 최신 뉴스",
+   "url": "https://news.google.com/rss/search?q=site:aimatters.co.kr&hl=ko&gl=KR&ceid=KR:ko",
+   "site": "https://aimatters.co.kr",
+   "items": [
+    {
+     "id": "4b100b79ab103678",
+     "title": "벡터·SCSK, 차량용 임베디드 소프트웨어 개발 협력",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9veWFrU1l6ak00M2kxUEtGWGVaSmJha3pSd2kza05FS2ZoX2dWX2tpZFZjcHFHT09nTjBMTldvN2s0TGJlcmRzQ1VYU042VTQteGxnbQ?oc=5",
+     "summary": "벡터·SCSK, 차량용 임베디드 소프트웨어 개발 협력 AI 매터스",
+     "source": "AI 매터스",
+     "ts": 1793234212
+    },
+    {
+     "id": "08782cff1ab80dfd",
+     "title": "테스토코리아, BIX 2026서 제약·바이오 측정기 소개",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ubmRodmJUb3pSZVVCblRTN0xLbVEtTDBJaFlhTGJXWDdvVHpCR0lPdnd4ZzM4UWtWSk5lQTlSdV9paFFzaDVONnk5NlV3MVBESFhVSg?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793234197
+    },
+    {
+     "id": "c312388e2152324c",
+     "title": "앤트로픽, 기업 클로드 사용 성과 보여주는 ‘스마트 리포트’ 출시",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12RmppMUdYaEtIdTR3QXRVampHTUdTVTNNV2g3N1hOQVd2bUJPRWlwMjlDMVdHNXl5MTE5dXR5M3BQLXZzRFVQT21KT2FfYzV0X0RjSQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793233145
+    },
+    {
+     "id": "a3f9e411c89c5f52",
+     "title": "앤트로픽, 美 국립과학재단 등 20곳에 클로드 무료 크레딧",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpQlQxd3A3RHlUQ3NvZmxSZ1NqQi1zSnJ1ZE5ENU1qY0xOTWVBcVFDR0E0RzRJYl9OMUpSV3ZZc2l5Tkw5MURUTGdBb0ZHU2pKM2l6Vg?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793233125
+    },
+    {
+     "id": "d61a475d8611fc6c",
+     "title": "엔비디아, 40개 언어 받아쓰는 오픈 음성인식 모델 공개",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56NklJX0Q1ZTkyZlVLQTdzNGxkUlZ1TVpaNERPR25NN2g0c3JJRUZjc2RmR3JHNjNLdmhWSks5cW85Mnd2enhDcTQ0dEpBd2Q4ZnQ0Vw?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793233064
+    },
+    {
+     "id": "888640bd2d0f0805",
+     "title": "메타, 일기 써 주는 AI 펫 앱 ‘와들 월드’ 필리핀 출시",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mT28yMlZSb2UzT01LeG5XZkN5RVRaRVhjVHlqWUpLNG42WmZBdWNFenN2cFRvbXFiV1NpVUFkUldHc2UxbVJBS2lqMDJCaVVSNVp3Qg?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793232866
+    },
+    {
+     "id": "2038d92afbd070f8",
+     "title": "크롬 자동 완성, 지메일 속 주문번호와 항공편 정보까지 입력",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TcXNldzV4OS1kbE11NHpFOTh4OVBLd1lNc2VnN0dsZEFaZ3pNZjR4c19HSWtEcE8zVGZjSnd2c1UyUEU0VXNWamVSZmQ4Z243Q3RGbQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793232812
+    },
+    {
+     "id": "f1ac037e27f1212c",
+     "title": "브라질 룰라 \"재생에너지로 데이터센터 유치…자체 AI 개발\"",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QVGZ2WUt4Q0p1dmVMUEUtdXR1QkVmYXcxVWN1RHl0WHo2SWRoQXIzNzUxUTMyVzlpZkkxSUxQd0tsX0JRQ0tsOW93Vk56ZE9HdWtQbw?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793173255
+    },
+    {
+     "id": "f5bdeaa2dc544795",
+     "title": "앤트로픽, 상장 서류에 \"클로드에 광고 넣지 않겠다\" 명시",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13MjNDSEJfa18xNWxuU2FrRFhpZXdGNl9admVWTEM5dXNWS0RpWGxFa0hWVmwzd3ZEYm03MkZ0ZUkwYkp5MGRxMXdxOHI4WF8tU0MwXw?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793173237
+    },
+    {
+     "id": "f38cd0335c850ffd",
+     "title": "딕셔너리닷컴 올해의 단어 ‘맥싱’…AI 과사용 ‘토큰맥싱’도",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yTDlSRG9VR0lyZnNuN0tUTEVBZWlVS3hSUGdlTjAzT0RRX0NiMU53MjE1bWt0ekpMYlVPcEVDMF9hcHN2U0owTG5zQjh1WHE0aURmaQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793172944
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "f70c512690",
+   "name": "Google 알리미 - 과기정통부 AI 정책",
+   "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
+   "site": "https://www.google.com/alerts",
+   "items": [
+    {
+     "id": "6d9359a4e0a14617",
+     "title": "트럼프 \" AI 용어 부정확…초지능(SI)으로 대체해야\" - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261028144040",
+     "summary": "도널드 트럼프 미국 대통령이 인공지능 ( AI )이라는 명칭이 부정확하다며 '초 ... 해당 행정명령은 연방기관이 공식 서신과 웹사이트, 보고서, 정책 문서 등에서 AI ...",
+     "source": "",
+     "ts": 1793227482
+    },
+    {
+     "id": "6793134db309411f",
+     "title": "[ AI 인프라, 지방ㆍ바다로] ② 1000억 넣어 1조 판 깐다… 정부 AI 인프라 'PF 레버리지' 해부",
+     "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281335476970549",
+     "summary": "28일 관계부처에 따르면 정부 의 AX 정책 은 ' AI 3대 강국 도약'이라는 국정목표 아래 ' AI 고속도로 구축' 등 국정과제로 구체화됐다. 올해 1월 인공지능 기본법 ...",
+     "source": "",
+     "ts": 1793223087
+    },
+    {
+     "id": "78d5c2576a941233",
+     "title": "AI 에 건강 묻는 시대… 정부 , '건강도우미 챗봇' 개방 - 데일리메디",
+     "link": "https://www.dailymedi.com/news/news_view.php?wr_id=941976",
+     "summary": "인공지능 ( AI )에 건강정보를 묻는 흐름이 확산하는 가운데 정부 가 공공 보건 ... 이번 서비스는 과기정통부 '공공 AX 프로젝트 '의 일환으로 개발됐다.",
+     "source": "",
+     "ts": 1793219569
+    },
+    {
+     "id": "e2d09b63a0a845c7",
+     "title": "경기도, 아시아태평양 지방 정부 간 인공지능 국제협력 확대 주도 - 경기종합뉴스",
+     "link": "https://www.ggoverallnews.co.kr/news/articleView.html?idxno=129228",
+     "summary": "○HDP 넥서스 기반 지방 정부 간 국제협력 의제를 AI 분야로 확장. UCLG ASPAC HDP 넥서스 위원회. 경기도는 28일 중국 하이커우에서 '제7회 세계지방 정부 ...",
+     "source": "",
+     "ts": 1793205633
+    },
+    {
+     "id": "0f4efdc8aa25718f",
+     "title": "[현장] “피지컬 AI , 네트워크는 필수 인프라…속도보다 '연결 안정성'” - 아이티데일리",
+     "link": "https://www.itdaily.kr/news/articleView.html?idxno=242525",
+     "summary": "그동안 피지컬 AI 관련 정부 사업에서 상대적으로 주목받지 못했던 네트워크가 정책 논의에 반영되기 시작했다. 올해 6월 피지컬 AI 얼라이언스에 통신 ...",
+     "source": "",
+     "ts": 1793205438
+    },
+    {
+     "id": "cbf47666075141b6",
+     "title": "대전에 AI 인재양성 거점 문 열었다···연간 250명 육성 - 헬로디디",
+     "link": "https://www.hellodd.com/news/articleView.html?idxno=113656",
+     "summary": "과학기술정보통신부 와 대전시는 28일 대전 서구 월평동에 '대전 이노베이션아카데미' 문을 열고 개소식을 가졌다.[사진= 대전시]. 대전에 인공지능 ( AI ) ...",
+     "source": "",
+     "ts": 1793202107
+    },
+    {
+     "id": "1e14bd5319bfe1d4",
+     "title": "\"포항 AI 전용 데이터센터 구축에 투자심사 면제 트랙 적용\" - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261028153502",
+     "summary": "배경훈 부총리 겸 과학기술정보통신부 장관과 이형일 부총리 겸 재정경제부 장관은 28일 정부 서울청사에서 '경제관계장관회의·과학기술관계장관회의 연석회의'를 ...",
+     "source": "",
+     "ts": 1793201745
+    },
+    {
+     "id": "a492325497bb7b7f",
+     "title": "' AI 건강도우미 챗봇' 서비스 시작…국민 누구나 24시간 이용 - 한국방송뉴스",
+     "link": "https://www.ikbn.news/news/article.html?no=216648",
+     "summary": "... 인공지능 ( AI ) 대국민 건강도우미 챗봇 서비스'를 본격 개방한다고 밝혔다. 이번에 개방되는 챗봇 서비스는 과기정통부 '공공 인공지능 전환(AX) 프로젝트 ...",
+     "source": "",
+     "ts": 1793199624
+    },
+    {
+     "id": "c0364231bdd81fcb",
+     "title": "포항 AI 데이터센터 6000억 '속도전'…지방재정 투자심사 '면제 트랙' 적용 - 뉴스핌",
+     "link": "https://www.newspim.com/news/view/20261028000475",
+     "summary": "[세종=뉴스핌] 김현구 기자 = 정부 가 총사업비 6000억원 규모의 포항 인공지능 ( AI ) 전용 데이터센터 건립을 앞당기기 위해 지방재정 투자심사 '면제 트랙'을 ...",
+     "source": "",
+     "ts": 1793195085
+    },
+    {
+     "id": "1c04add6f8530445",
+     "title": "[단독] 골든타임 대한민국, AI 대전환기 국가가 지금 당장 뜯어고쳐야 할 10대 구조적 대수술 ...",
+     "link": "http://www.thedailymoney.com/news/articleView.html?idxno=1147232",
+     "summary": "데일리머니의 ' 정부정책 분석'은 정권의 시류에 휩쓸리지 않는 분석으로, 정책 혼선의 시대에 국민이 믿고 참고할 수 있는 정책 리포트의 기준을 제시합니다.",
+     "source": "",
+     "ts": 1793193566
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "25ac01331a",
+   "name": "Axios",
+   "url": "https://api.axios.com/feed/top/",
+   "site": "https://www.axios.com",
+   "items": [
+    {
+     "id": "52d049e2e35ecf21",
+     "title": "Attack ads flood Mississippi's shockingly-competitive Senate race",
+     "link": "https://www.axios.com/2026/10/28/mississippi-senate-scott-colom-hyde-smith",
+     "summary": "The most-aired ad in the closing stretch of Mississippi's Senate race features a Jeffrey Epstein survivor attacking GOP Sen. Cindy Hyde-Smith for voting against releasing files related to the convicted human trafficker.…",
+     "source": "",
+     "ts": 1793229873
+    },
+    {
+     "id": "26f497c3a96137de",
+     "title": "\"Nauseously optimistic\": Anxious House Democrats brace for midterm Election Day",
+     "link": "https://www.axios.com/2026/10/28/2026-election-democrats-house-midterm-results",
+     "summary": "Democrats will happily tell you how good they feel about retaking the House on Tuesday — just as soon as they stop hyperventilating into a paper bag. Why it matters: They've been burned too many times on Election Day to…",
+     "source": "",
+     "ts": 1793229820
+    },
+    {
+     "id": "1e394f78eec7c7fa",
+     "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
+     "link": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
+     "summary": "Regional mediators led by Qatar are trying to reach a diplomatic deal to restart negotiations between the U.S. and Iran and prevent the resumption of war after the midterm elections, three U.S., Israeli and regional sou…",
+     "source": "",
+     "ts": 1793210424
+    },
+    {
+     "id": "79decea20b9aebbf",
+     "title": "Exclusive: Controversial ad backfiring on Ramaswamy, GOP poll finds",
+     "link": "https://www.axios.com/2026/10/28/gop-poll-ramaswamy-ad-damage",
+     "summary": "Republicans fear that Vivek Ramaswamy 's explosive attack ad featuring his opponent's estranged mother could cost them the Ohio governor's race, based on new internal polling that shows him falling further behind, Axios…",
+     "source": "",
+     "ts": 1793207519
+    },
+    {
+     "id": "dd6746a93cf30876",
+     "title": "Dolores Huerta, pioneering labor activist, dies at 96",
+     "link": "https://www.axios.com/2026/10/28/dolores-huerta-dies-96-united-farm-workers",
+     "summary": "Dolores Huerta , the pioneering labor organizer who co-founded the United Farm Workers and coined the rallying cry \"Sí, se puede,\" died Wednesday at 96, her family announced on her Instagram account. Why it matters: The…",
+     "source": "",
+     "ts": 1793206113
+    },
+    {
+     "id": "b4907d52bf2a102b",
+     "title": "Israel faces weeks of political wrangling after deadlocked election",
+     "link": "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock",
+     "summary": "TEL AVIV, Israel — Israeli Prime Minister Benjamin Netanyahu's electoral coalition opened a sizable lead over Gadi Eisenkot's opposition bloc with 85 percent of the vote counted. But while Netanyahu outperformed exit po…",
+     "source": "",
+     "ts": 1793201284
+    },
+    {
+     "id": "9787c344d78dff27",
+     "title": "Cheesecake Factory, tan suits, and the staying power of culture wars",
+     "link": "https://www.axios.com/2026/10/28/obama-cheesecake-factory-joke-trump-response",
+     "summary": "With less than a week until a potentially historic midterm election , the political discourse is being dominated not by war or seismic shifts in technology, but by the Cheesecake Factory . The big picture: Culture wars…",
+     "source": "",
+     "ts": 1793200522
+    },
+    {
+     "id": "55100058e3e58cd4",
+     "title": "Private equity's political problem",
+     "link": "https://www.axios.com/2026/10/28/private-equity-democrats-election-elizabeth-warren",
+     "summary": "If Democrats gain full control of Congress next week, as many polls and prediction markets suggest they will, private equity could once again find itself in the political crosshairs. The big picture: Private equity has…",
+     "source": "",
+     "ts": 1793198213
+    },
+    {
+     "id": "4f7b97b509b525a5",
+     "title": "Democrats try to win over MAHA voters",
+     "link": "https://www.axios.com/2026/10/28/maha-democrats-health-voters-food-pesticides",
+     "summary": "Some Democrats are making a play for segments of the \"Make America Healthy Again\" base, hoping pitches about food safety and environmental health will attract voters disillusioned with the Trump administration's lack of…",
+     "source": "",
+     "ts": 1793179812
+    },
+    {
+     "id": "de3775aca318b2b6",
+     "title": "The real election tech vulnerabilities in 2026",
+     "link": "https://www.axios.com/2026/10/28/election-security-paper-ballots-audits",
+     "summary": "Some of the biggest vulnerabilities in election security are lying in plain sight. Why it matters: There's no credible evidence that voting-system vulnerabilities have been exploited to change election results. But rese…",
+     "source": "",
+     "ts": 1793179216
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "cc992ff5f1",
+   "name": "GeekNews",
+   "url": "https://news.hada.io/rss/news",
+   "site": "https://news.hada.io",
+   "items": [
+    {
+     "id": "7e272252bf60cfa4",
+     "title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임",
+     "link": "https://news.hada.io/topic?id=36200",
+     "summary": "AI가 생성한 코드, 에이전트 도구 호출, CI 작업 등을 호스트에서 직접 실행하지 않고 별도 컨테이너에 격리 하는 Linux 런타임 데몬이나 소켓 없이 정적 바이너리 하나로 동작 하며, 호스트의 root 권한 없이 실행됨 컨테이너가 없을 때 런타임의 상주 프로...",
+     "source": "",
+     "ts": 1793233803
+    },
+    {
+     "id": "7d8ed5a792956bc0",
+     "title": "AAII v5 공개 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
+     "link": "https://news.hada.io/topic?id=36197",
+     "summary": "Artificial Analysis Intelligence Index v5 는 벤치마크 2개를 추가하고 3개를 개편했으며, 지수의 60%를 비공개 테스트 세트 또는 비공개 정답 기반 평가로 구성함 Claude Opus 5.5 (max) 가 58점으로 선두이며, GPT-6 Astra (max)가 57점, GPT-6.1 Sol (max)이 5...",
+     "source": "",
+     "ts": 1793232615
+    },
+    {
+     "id": "2583890d5277ad33",
+     "title": "NVIDIA Nemotron 3.5 Transcribe - 한국어 포함 40개 언어를 지원하는 공개 음성 인식 모델",
+     "link": "https://news.hada.io/topic?id=36196",
+     "summary": "Nemotron 3.5 Transcribe 는 전사, 화자 구분, 번역, 오디오 질의응답을 하나의 공개 가중치 모델로 제공하며, 자연어 지시로 출력 형태를 바꿀 수 있음 한국어 포함 40개 언어 전사 를 지원하며, 한국어는 영어와의 양방향 번역과 화자 구분도 가능함. 최대 1시간 녹...",
+     "source": "",
+     "ts": 1793232396
+    },
+    {
+     "id": "eb7b72b82c5c9d20",
+     "title": "이대로는 지속 가능하지 않다 - 취약점 공개 속도를 따라가지 못하는 보안 대응",
+     "link": "https://news.hada.io/topic?id=36195",
+     "summary": "취약점 발견과 공개 속도 가 방어 조직의 대응 능력을 넘어섰으며, AI로 패치를 생성하는 것만으로는 이 문제를 해결할 수 없음 실제 병목은 패치 개발이 아니라 적용 과정 에 있음. 조직별 공격 표면과 악용 가능성을 파악하고, 완화책을 검토하고, 수정을 배포하는...",
+     "source": "",
+     "ts": 1793232294
+    },
+    {
+     "id": "59a8a59f221f1439",
+     "title": "잠복 ICE 요원 포함 미국 국토안보부 인력 4만 1,000명 이상의 정보 유출",
+     "link": "https://news.hada.io/topic?id=36194",
+     "summary": "미국 국토안보부 DHS와 산하 7개 기관 의 직원 및 계약 인력 4만 1,000명 이상의 기록이 유출됨. 연락처와 근무지뿐 아니라 내부 시스템 접근 권한, 잠복 수사 및 감시 프로그램 관련 정보도 포함됨 투명성 비영리단체 DDoSecrets 는 자료를 ‘Icepick’이라는 이름으...",
+     "source": "",
+     "ts": 1793230404
+    },
+    {
+     "id": "af1271b30e9c2748",
+     "title": "Show GN: 배틀즈 - 컴퓨터 연습과 친구 온라인 대전을 제공하는 보드게임 모음",
+     "link": "https://news.hada.io/topic?id=36193",
+     "summary": "박스배틀·사목·오목·리버시를 한곳에서 고를 수 있는 배틀즈를 만들었습니다. 휴대폰과 PC 브라우저에서 이용할 수 있습니다. 혼자일 때는 컴퓨터와 연습하고, 함께할 때는 친구를 초대해 온라인으로 대전하는 흐름입니다. 박스배틀: 점을 이어 네 번째 선으로 상자를 완성하면 득점하고 한 번",
+     "source": "",
+     "ts": 1793229074
+    },
+    {
+     "id": "7a7c97221f43cc14",
+     "title": "Meta, 전국 캠페인 도중 No Kings Instagram 계정을 검열",
+     "link": "https://news.hada.io/topic?id=36192",
+     "summary": "Meta가 미국 중간선거 조기투표를 독려하는 전국 캠페인 도중 No Kings Coalition의 Instagram 계정을 정지 했으며, 주최 측은 수 시간 동안 이 계정으로 참가자들과 소통할 수 없었음 정지 사유는 처음에는 과도한 게시/공유/댓글 활동 이었지만, 다음 날에는 Claud...",
+     "source": "",
+     "ts": 1793227370
+    },
+    {
+     "id": "7f9e1a654f7f0c78",
+     "title": "AlpineBSD - NetBSD 기반에 Alpine Linux 스타일의 사용자 공간을 결합한 운영체제",
+     "link": "https://news.hada.io/topic?id=36191",
+     "summary": "AlpineBSD 는 NetBSD 커널과 Alpine Linux에서 영감을 받은 사용자 공간을 결합하며, AI 생성 소프트웨어 사용을 최대한 줄이는 것 을 목표로 함 기본 시스템과 주 저장소는 LLM 출력물을 배제 하며, AI 생성물이 포함된 패키지는 별도 tainte...",
+     "source": "",
+     "ts": 1793227190
+    },
+    {
+     "id": "3dcb5ec69d1729c0",
+     "title": "Reddit 커뮤니티, 악성 사이트 연결 문제로 Archive.today 링크 차단",
+     "link": "https://news.hada.io/topic?id=36190",
+     "summary": "Reddit의 시애틀 지역 커뮤니티 r/Seattle 운영진이 보관된 기사에서 악성 사이트로 연결되는 링크를 발견했다며 , Archive.today 계열 링크가 포함된 게시물을 자동 삭제하기로 함 문제가 된 것은 보관된 NYT 기사의 소송 문서 PDF 링크 로, 원래 법률사무소의 PDF ...",
+     "source": "",
+     "ts": 1793227010
+    },
+    {
+     "id": "9ea2b27b6cc0ddd9",
+     "title": "DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기",
+     "link": "https://news.hada.io/topic?id=36188",
+     "summary": "DAYJOB: Tax 는 AI 에이전트가 고객의 최초 요청부터 최종 산출물까지 세무 업무를 책임지고 수행하는지 평가하며, 고객이 묻지 않은 문제를 발견하는 전문적 판단력 까지 시험함 평가 기준의 95% 이상을 충족해야 통과하는 조건에서 Claude Sonnet 5.5가 통...",
+     "source": "",
+     "ts": 1793223191
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "d1c587ecba",
+   "name": "Simon Willison's Weblog",
+   "url": "https://simonwillison.net/atom/everything/",
+   "site": "https://simonwillison.net",
+   "items": [
+    {
+     "id": "b0fbfced4c005ad4",
+     "title": "Quoting Ted Sanders",
+     "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+     "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the vari…",
+     "source": "",
+     "ts": 1793229801
+    },
+    {
+     "id": "d8f853e661d65a1d",
+     "title": "GitHub Octoverse 2026",
+     "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+     "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in partic…",
+     "source": "",
+     "ts": 1793205923
+    },
+    {
+     "id": "93b9dc1d31289278",
+     "title": "The October inflection point for vibe game development",
+     "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+     "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily driver…",
+     "source": "",
+     "ts": 1793195715
+    },
+    {
+     "id": "5d9615019ec259be",
+     "title": "Quoting Terk Terkowitz",
+     "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+     "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can exp…",
+     "source": "",
+     "ts": 1793182147
+    },
+    {
+     "id": "a9c65cb8282253c6",
+     "title": "Game Boy Color on My Conference Badge",
+     "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+     "summary": "",
+     "source": "",
+     "ts": 1793129658
+    },
+    {
+     "id": "51b6dc021077f16c",
+     "title": "GPT-6.1 Terra",
+     "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+     "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing…",
+     "source": "",
+     "ts": 1793058787
+    },
+    {
+     "id": "34adadfb171aaca1",
+     "title": "Quoting Jason Koebler",
+     "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+     "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasi…",
+     "source": "",
+     "ts": 1793041225
+    },
+    {
+     "id": "d4fc15392e5cfcdd",
+     "title": "webframe: evaluated as a scraper and a sandbox",
+     "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+     "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden…",
+     "source": "",
+     "ts": 1793031300
+    },
+    {
+     "id": "0c0ce1d91251a58f",
+     "title": "Seam Cutter",
+     "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+     "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a…",
+     "source": "",
+     "ts": 1792941019
+    },
+    {
+     "id": "3812b4d599bb7adb",
+     "title": "battledrones v14: Compass Rose, a four player map",
+     "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
+     "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle -…",
+     "source": "",
+     "ts": 1792814397
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "f9eb976542",
+   "name": "AI타임스 - 전체기사",
+   "url": "https://www.aitimes.com/rss/allArticle.xml",
+   "site": "https://www.aitimes.com",
+   "items": [
+    {
+     "id": "f5b5622c532f0268",
+     "title": "[AI리더의 서가] 하네스 엔지니어링으로 완성하는 에이전틱 AI",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216584",
+     "summary": "하네스 엔지니어링으로 완성하는 에이전틱 AI고돈호 | 한빛미디어2026년 10월 25일추천이유저자는 프롬프트 튜닝을 넘어 코드로 AI 모델을 제어하는 하네스 엔지니어링의 원리를 ReAct 패턴 직접 구현부터 보안, 배포까지 실전 프로젝트 3개를 통해 전달합니다. 안정적으로 작동하는 프로덕션 수준의 AI 에이전트 구축을 원하는 개발자에게 필수적인 내용을 담고 있습니다.상세보기 이달 6일 국회…",
+     "source": "",
+     "ts": 1793264400
+    },
+    {
+     "id": "635ea065e83c0881",
+     "title": "[10월28일] AI가 던진 근본적인 질문 \"인간이란 무엇인가\"…존재 가치 논쟁 잇따라",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216742",
+     "summary": "AI가 글을 쓰고 그림을 그리면서 시작된 인간의 창의성에 관한 논쟁이 이제 인간의 정체성과 존재 가치를 묻는 근본적인 질문으로 이어지고 있습니다. AI가 수학과 과학 발견에 참여하고 스스로 판단해 행동하는 수준으로 발전하면서, 인간이 다른 존재와 구별되는 근거는 무엇인지 다시 생각해야 한다는 전문가들의 의견이 잇따르는 것입니다. 특히 인간의 지적 능력이 더 이상 특별하지 않다면 무엇으로 인…",
+     "source": "",
+     "ts": 1793257200
+    },
+    {
+     "id": "4b6d588f5b306485",
+     "title": "애플, 16년 만에 터치스크린 맥북 출시…스티브 잡스의 원칙 뒤집었다",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216769",
+     "summary": "애플이 창사 이래 처음으로 터치스크린을 탑재한 맥북 프로를 공개했다. 스티브 잡스 창업자가 2010년 노트북 터치스크린을 강하게 비판한 이후 16년 만에 기존 입장을 바꾼 것이다. 새로운 맥북 프로는 OLED 디스플레이와 아이폰의 '다이내믹 아일랜드'까지 도입하고, 화면을 손가락으로 조작할 수 있도록 운영체제도 개선했다.애플은 28일(현지시간) 미국 로스앤젤레스에서 신제품 발표 행사를 열고…",
+     "source": "",
+     "ts": 1793254176
+    },
+    {
+     "id": "4425a78168e4c0e9",
+     "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+     "summary": "구글이 1년 만에 AI 모델 종합 성능 평가에서 세계 1위를 탈환했다. 새로 공개한 '제미나이 4 카본(Gemini 4 Carbon)'은 아티피셜 애널리시스(AA) 평가에서 앤트로픽의 '클로드 오퍼스 5.5'와 오픈AI의 'GPT-6 아스트라'를 제치고 정상에 올랐다. 특히 사이버 보안과 장시간 자율 작업 능력을 대폭 개선했으며, 복잡한 소프트웨어의 취약점을 찾아내고 공격 가능성을 검증한…",
+     "source": "",
+     "ts": 1793251335
+    },
+    {
+     "id": "3362e4402ee5d305",
+     "title": "발스 AI “앤트로픽, 내년 여름 RSI에 도달”",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216767",
+     "summary": "앤트로픽이 내년 7~8월 인간 연구원의 도움 없이 차세대 AI 모델을 개발하는 '완전한 재귀적 자가 개선(RSI)' 단계에 도달할 수 있다는 전망이 나왔다. 첨단 AI 모델의 연구개발 능력을 평가한 결과, 앤트로픽의 성능이 지난 1년간 일정한 속도로 향상됐다는 분석이다. AI 모델 평가 전문기업 발스 AI(Vals AI)의 공동 창업자이자 CEO인 라얀 크리슈난은 27일(현지시간) 공개된…",
+     "source": "",
+     "ts": 1793212663
+    },
+    {
+     "id": "9c31dacd58389bee",
+     "title": "'딥시크-V4.1 플래시', 독립 테스트서 통제 상실·안전성 허점 드러내",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216738",
+     "summary": "딥시크의 최신 모델이 독립적인 안전성 평가에서 이전 버전보다 개선된 통제 능력을 보였지만, 시스템 종료를 막거나 모니터링을 회피하는 등 여전히 심각한 안전성 문제를 드러냈다. 특히 이번 평가는 중국의 민간 독립 기관이 자국 대표 AI 모델의 안전성을 제3자 검증 관점에서 투명하게 파헤친 이례적인 사례로 주목받고 있다.중국의 독립 AI 안전성 평가 기관 팡춘 AI(Fangcun AI)는 26…",
+     "source": "",
+     "ts": 1793211454
+    },
+    {
+     "id": "6d3b483f4eefc1fe",
+     "title": "리퀴드 AI, 온디바이스 AI 모델 'LFM3' 공개...브라우저·음성·이미지 처리 지원",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216761",
+     "summary": "리퀴드 AI가 기업과 개인이 직접 관리하는 기기에서 AI 에이전트와 음성 비서, 이미지·영상 인식 기능을 실행할 수 있는 새로운 AI 모델 제품군 'LFM3'를 공개했다. 20억개 매개변수 규모의 소형 모델 6종으로 구성했으며, 기기 내에서 빠르게 실행하면서도 브라우저 자동화와 업무용 애플리케이션 제어 등 복잡한 작업을 처리하도록 설계했다.리퀴드 AI는 27일(현지시간) LFM3를 발표하고…",
+     "source": "",
+     "ts": 1793210123
+    },
+    {
+     "id": "411d511a3b890a47",
+     "title": "안두릴·퀄컴, 미 국방·정부 겨냥 '미국산 노트북' 만든다",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216764",
+     "summary": "미국 방산 스타트업 안두릴이 반도체 기업 퀄컴과 손잡고 미국산 부품을 중심으로 제작하는 견고한 노트북 개발에 나선다. 군과 정부 기관 등 보안이 중요한 고객을 겨냥해 해외 의존도를 낮추고, 장기적으로는 부품 생산부터 조립까지 미국에서 해결하는 컴퓨터 공급망을 구축한다는 계획이다.양사는 27일(현지시간) 새로운 PC 제품군 '블루칩(BlueChip)'을 공개했다. 단순 구상 단계를 넘어 이미…",
+     "source": "",
+     "ts": 1793209059
+    },
+    {
+     "id": "a3608b6181ce948f",
+     "title": "액시엄, 수학 사상 가장 긴 증명 '유한 단순군 분류' 기계 검증 완수",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216754",
+     "summary": "수학 AI 전문 스타트업 액시엄(Axiom)이 수학 역사상 가장 방대하고 복잡한 증명으로 꼽히는 '유한 단순군 분류(CFSG·Classification of Finite Simple Groups)'의 전체 증명을 컴퓨터로 검증하는 데 성공했다. '대칭의 주기율표'로 불리는 이 거대한 체계는 약 100명의 수학자가 500편이 넘는 논문과 1만5000페이지에 걸쳐 완성한 것으로, 액시엄은 이를…",
+     "source": "",
+     "ts": 1793208900
+    },
+    {
+     "id": "0174090076942188",
+     "title": "수천만달러 GPU 노린다…고속도로 화물 운송망 덮친 첨단 범죄 기승",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216760",
+     "summary": "미국에서 AI 데이터센터에 들어가는 고가의 서버와 반도체 부품을 노린 조직적인 화물 절도 범죄가 급증하고 있다. 범죄 조직들은 운송업체 계정 해킹과 피싱, GPS 신호 조작, 차량 충돌 등 첨단 기술과 물리력을 결합해 화물을 가로채고 있다. 지난 6월 이후 도난당한 컴퓨팅 장비와 관련 부품의 피해액만 1억달러(약 1300억원)를 넘어선 것으로 전해졌다.NBC에 따르면, 지난 2월에는 130…",
+     "source": "",
+     "ts": 1793208532
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "19ef1c7741",
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/feed/",
+   "site": "https://www.technologyreview.com",
+   "items": [
+    {
+     "id": "5d25973f53528cf6",
+     "title": "Creating AI value with enterprise context",
+     "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+     "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one…",
+     "source": "",
+     "ts": 1793219522
+    },
+    {
+     "id": "741a865a00c37151",
+     "title": "The Download: dead startups fueling AI and interspecies communication",
+     "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Misk…",
+     "source": "",
+     "ts": 1793189400
+    },
+    {
+     "id": "056614830d953cd4",
+     "title": "Pairing industrial AI autonomy and human control",
+     "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+     "summary": "",
+     "source": "",
+     "ts": 1793188800
+    },
+    {
+     "id": "2f3094c64e2f9bd8",
+     "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+     "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Ant…",
+     "source": "",
+     "ts": 1793103000
+    },
+    {
+     "id": "9dbb9e5222c01ce0",
+     "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+     "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+     "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The…",
+     "source": "",
+     "ts": 1793099958
+    },
+    {
+     "id": "8cf7a789781e7849",
+     "title": "How solid-state transformers could help power the AI boom",
+     "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+     "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t chan…",
+     "source": "",
+     "ts": 1793091600
+    },
+    {
+     "id": "c6549f35a055aa19",
+     "title": "Will the real Anthropic please stand up",
+     "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The…",
+     "source": "",
+     "ts": 1793036743
+    },
+    {
+     "id": "2b5e3b374d0e17d8",
+     "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+     "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofo…",
+     "source": "",
+     "ts": 1793018400
+    },
+    {
+     "id": "69d5a0023539efcf",
+     "title": "The focus on AI safety disasters ignores everyday harms",
+     "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+     "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are importan…",
+     "source": "",
+     "ts": 1793005260
+    },
+    {
+     "id": "795b54b85a067d52",
+     "title": "The Download: testing six tech promises and biotech’s blind spots",
+     "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossi…",
+     "source": "",
+     "ts": 1792757400
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "263d8d0ce8",
+   "name": "Microsoft Research",
+   "url": "https://www.microsoft.com/en-us/research/feed/",
+   "site": "https://www.microsoft.com/en-us/research",
+   "items": [
+    {
+     "id": "ef05d9c57c787739",
+     "title": "Flint-interactive: A language for creating interactive data visualizations",
+     "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+     "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-intera…",
+     "source": "",
+     "ts": 1792684800
+    },
+    {
+     "id": "2ed826e28d2308dd",
+     "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+     "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+     "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the effici…",
+     "source": "",
+     "ts": 1792598400
+    },
+    {
+     "id": "c84a57a97fd6c729",
+     "title": "Called to serve: Tech, research, and positive impact",
+     "link": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+     "summary": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu abo…",
+     "source": "",
+     "ts": 1792512000
+    },
+    {
+     "id": "4069e5410c3e249e",
+     "title": "Proof-based general-purpose computing with Magnetar",
+     "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+     "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains…",
+     "source": "",
+     "ts": 1792080000
+    },
+    {
+     "id": "5d83dba89b9f02b7",
+     "title": "Simulating student learning for better AI tutoring",
+     "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+     "summary": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across…",
+     "source": "",
+     "ts": 1791820800
+    },
+    {
+     "id": "565e240356c9a554",
+     "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+     "link": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+     "summary": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it e…",
+     "source": "",
+     "ts": 1791388800
+    },
+    {
+     "id": "242f2e4b63281928",
+     "title": "What AI gets wrong and what failure teaches us",
+     "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+     "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures…",
+     "source": "",
+     "ts": 1791303546
+    },
+    {
+     "id": "b3162152f3538209",
+     "title": "Forecasting space weather risks on power grids",
+     "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+     "summary": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm ar…",
+     "source": "",
+     "ts": 1790784000
+    },
+    {
+     "id": "53ae606fecda6746",
+     "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+     "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+     "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales an…",
+     "source": "",
+     "ts": 1790690402
+    },
+    {
+     "id": "3c2fdddd39466c92",
+     "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+     "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+     "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can cr…",
+     "source": "",
+     "ts": 1790629200
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "7ebf5b6c9a",
+   "name": "Stratechery",
+   "url": "https://stratechery.com/feed/",
+   "site": "https://stratechery.com",
+   "items": [
+    {
+     "id": "8ba9767bae988606",
+     "title": "Meta Earnings, Muse and the Frontier, Musebook",
+     "link": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+     "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+     "source": "",
+     "ts": 1793181973
+    },
+    {
+     "id": "ba8e4466d0fb808a",
+     "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+     "link": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+     "summary": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+     "source": "",
+     "ts": 1793097177
+    },
+    {
+     "id": "989309fdcda3c5cb",
+     "title": "The End of the Internet",
+     "link": "https://stratechery.com/2026/the-end-of-the-internet/",
+     "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
+     "source": "",
+     "ts": 1793008800
+    },
+    {
+     "id": "cf994644e0f354bf",
+     "title": "2026.43: A New Era",
+     "link": "https://stratechery.com/2026/a-new-era/",
+     "summary": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
+     "source": "",
+     "ts": 1792774800
+    },
+    {
+     "id": "a50786f3965eda60",
+     "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses",
+     "link": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/",
+     "summary": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+     "source": "",
+     "ts": 1792749600
+    },
+    {
+     "id": "271b7ab26b21c588",
+     "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
+     "link": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
+     "summary": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
+     "source": "",
+     "ts": 1792663200
+    },
+    {
+     "id": "5918c4a7c98a66fe",
+     "title": "Presented by Stripe",
+     "link": "https://stratechery.com/2026/presented-by-stripe/",
+     "summary": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
+     "source": "",
+     "ts": 1792604131
+    },
+    {
+     "id": "c8a170de51e20202",
+     "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
+     "link": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
+     "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
+     "source": "",
+     "ts": 1792576800
+    },
+    {
+     "id": "f691b33b16339eed",
+     "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+     "link": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+     "summary": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
+     "source": "",
+     "ts": 1792490400
+    },
+    {
+     "id": "8ce80ca7675337c0",
+     "title": "Do You Trust Apple?",
+     "link": "https://stratechery.com/2026/do-you-trust-apple/",
+     "summary": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
+     "source": "",
+     "ts": 1792404000
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "2c60dce9bd",
+   "name": "DCD",
+   "url": "https://www.datacenterdynamics.com/en/rss/",
+   "site": "https://www.datacenterdynamics.com",
+   "items": [
+    {
+     "id": "35792b332898f33e",
+     "title": "Building liquid cooling systems that last: the critical role of sustaining engineering",
+     "link": "https://www.datacenterdynamics.com/en/opinions/building-liquid-cooling-systems-that-last-the-critical-role-of-sustaining-engineering/",
+     "summary": "Liquid cooling must remain reliable, serviceable, and adaptable to what the future holds",
+     "source": "",
+     "ts": 1793221119
+    },
+    {
+     "id": "87f4a2de5b5e3e6c",
+     "title": "Tata Communications to invest $450m into 10,000km of AI-ready fiber to support data center connectivity in India",
+     "link": "https://www.datacenterdynamics.com/en/news/tata-communications-to-invest-450m-into-10000km-of-ai-ready-fiber-to-support-data-center-connectivity-in-india/",
+     "summary": "The route aims to support India's growing data center industry",
+     "source": "",
+     "ts": 1793212389
+    },
+    {
+     "id": "682f44e7b119eeb5",
+     "title": "KBRA assigns preliminary ratings to up to $525m in US Signal notes, secured against ten data centers",
+     "link": "https://www.datacenterdynamics.com/en/news/kbra-assigns-preliminary-ratings-to-up-to-525m-in-us-signal-notes-secured-against-ten-data-centers/",
+     "summary": "With a final maturity of November 2056",
+     "source": "",
+     "ts": 1793212330
+    },
+    {
+     "id": "69fca58c5923d997",
+     "title": "Vertiv shares jump 14 percent as data center earnings beat expectations",
+     "link": "https://www.datacenterdynamics.com/en/news/vertiv-shares-jump-14-percent-as-data-center-earnings-beat-expectations/",
+     "summary": "Reversing a steady decline amid market uncertainty",
+     "source": "",
+     "ts": 1793207888
+    },
+    {
+     "id": "3c8e62ef8ad4b80d",
+     "title": "Oracle AI World takeaways: making Nvidia envious, and storage... sexy?",
+     "link": "https://www.datacenterdynamics.com/en/opinions/oracle-ai-world-takeaways-making-nvidia-envious-and-storage-sexy/",
+     "summary": "Oracle Cloud Infrastructure is discovering itself",
+     "source": "",
+     "ts": 1793207803
+    },
+    {
+     "id": "2f63dad624218de6",
+     "title": "UK budget: Grid connection incentives for data centers under new “covenant”",
+     "link": "https://www.datacenterdynamics.com/en/news/uk-budget-grid-connection-incentives-for-data-centers-under-new-covenant/",
+     "summary": "Chancellor also discussed aims to help the public benefit from AI upsides",
+     "source": "",
+     "ts": 1793206101
+    },
+    {
+     "id": "f25feb52b5fdd8f1",
+     "title": "Former New Zealand pulp mill eyed for storage-focused data center",
+     "link": "https://www.datacenterdynamics.com/en/news/former-new-zealand-pulp-mill-eyed-for-storage-focused-data-center/",
+     "summary": "Data Igloo wants to develop a data center in Ruapehu",
+     "source": "",
+     "ts": 1793205471
+    },
+    {
+     "id": "ff72ca335f9294dd",
+     "title": "Mike Sievert steps down from T-Mobile US board",
+     "link": "https://www.datacenterdynamics.com/en/news/mike-sievert-steps-down-from-t-mobile-us-board/",
+     "summary": "Now ex-vice chair completes uncoupling a year after leaving CEO position",
+     "source": "",
+     "ts": 1793204940
+    },
+    {
+     "id": "1ce68c6d593c200a",
+     "title": "Blockchain and crypto firm Blockmate Ventures enters neocloud market with purchase of Nvidia B200 cluster",
+     "link": "https://www.datacenterdynamics.com/en/news/blockchain-and-crypto-firm-blockmate-ventures-enters-neocloud-market-with-purchase-of-nvidia-b200-cluster/",
+     "summary": "Company has partnered with Scannit for the venture, with the latter to host the hardware in an undisclosed data center",
+     "source": "",
+     "ts": 1793204449
+    },
+    {
+     "id": "0098b430fd2f3791",
+     "title": "Genius Group looks to pivot to data centers, partners with FingerMotion and BlueFlare for project in Canada",
+     "link": "https://www.datacenterdynamics.com/en/news/genius-group-looks-to-pivot-to-data-centers-partners-with-fingermotion-and-blueflare-for-project-in-canada/",
+     "summary": "Edtech firm wants some of that sweet GPU cloud revenue",
+     "source": "",
+     "ts": 1793204325
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "95180fe28d",
+   "name": "Presidential Actions – The White House",
+   "url": "https://www.whitehouse.gov/presidential-actions/feed/",
+   "site": "https://www.whitehouse.gov",
+   "items": [
+    {
+     "id": "7e29ba76661ce561",
+     "title": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
+     "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of robotics a…",
+     "source": "",
+     "ts": 1793217828
+    },
+    {
+     "id": "282b2780a9235ad0",
+     "title": "FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+     "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Resp…",
+     "source": "",
+     "ts": 1792785069
+    },
+    {
+     "id": "fe5b261ab817830c",
+     "title": "National Seafood Month, 2026",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/national-seafood-month-2026/",
+     "summary": "By the President of the United States of America A Proclamation Across our Nation’s harbors and fishing communities, the unrivaled skill and resolve of American fishermen and seafood producers turn the bounty of our wat…",
+     "source": "",
+     "ts": 1792702282
+    },
+    {
+     "id": "f718f4a4f024d2cf",
+     "title": "DECREASING HOUSING COSTS FOR THE AMERICAN PEOPLE",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/",
+     "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. The American Dream of homeownership is a vital pillar of our great c…",
+     "source": "",
+     "ts": 1792702118
+    },
+    {
+     "id": "39a5ef8c960e9cdd",
+     "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/",
+     "summary": "MEMORANDUM FOR THE SECRETARY OF WAR SUBJECT: Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity On Ja…",
+     "source": "",
+     "ts": 1792701676
+    },
+    {
+     "id": "eefb36df5a9a79f1",
+     "title": "Adjusting Imports of Wind Turbines and Their Parts and Components into the United States",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states/",
+     "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of wind turbi…",
+     "source": "",
+     "ts": 1792697531
+    },
+    {
+     "id": "3a4c94df0d59e00e",
+     "title": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+     "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. My Administration is committed to advancing women’s healt…",
+     "source": "",
+     "ts": 1792423557
+    },
+    {
+     "id": "ebe52dac5df83ad2",
+     "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+     "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (22 U.S.C. 10802 et seq.) (Graham Act)…",
+     "source": "",
+     "ts": 1792197264
+    },
+    {
+     "id": "eda12a76d88bb078",
+     "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/",
+     "summary": "MEMORANDUM FOR THE ATTORNEY GENERAL THE COUNSEL TO THE PRESIDENT THE ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY THE DIRECTOR OF THE OFFICE OF GOVERNMENT ETHICS THE CHAIRMAN OF THE EQUAL EMPLOYMENT OPPORTUNITY COMMIS…",
+     "source": "",
+     "ts": 1791421200
+    },
+    {
+     "id": "481c500a8d04485c",
+     "title": "National Energy Dominance Month, 2026",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
+     "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION America’s abundant energy resources are the backbone of our booming economy and the foundation of our enduring prosperity. During National Energy Dominance…",
+     "source": "",
+     "ts": 1791403521
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  },
+  {
+   "id": "c15f1e5a65",
+   "name": "The Register - Software",
+   "url": "https://www.theregister.com/software/headlines.atom",
+   "site": "https://www.theregister.com",
+   "items": [
+    {
+     "id": "d80b90a04fbd45a8",
+     "title": "Reddit's r/opensource bans AI slop, and quite a few humans for good measure",
+     "link": "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
+     "summary": "New rules also shut out solo developers, fledgling projects, and anyone who doesn't speak English",
+     "source": "",
+     "ts": 1793034000
+    },
+    {
+     "id": "31d4eb34c9ff4ec9",
+     "title": "Arc browser on its way out as makers suggest an alternative",
+     "link": "https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114",
+     "summary": "No new accounts from now, and the end will come in December",
+     "source": "",
+     "ts": 1792768920
+    },
+    {
+     "id": "ca67b6d85b942445",
+     "title": "Apple App Store review process hits a traffic jam",
+     "link": "https://www.theregister.com/applications/2026/10/22/apple-app-store-review-process-hits-a-traffic-jam/5304802",
+     "summary": "Apple log jam? Apple fast lane pie-lup? We're here all week, on stage... sweeping it",
+     "source": "",
+     "ts": 1792681320
+    },
+    {
+     "id": "5766faa3107cc767",
+     "title": "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
+     "link": "https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567",
+     "summary": "Nothing will ruin your faith in humanity like an AI that operates your smartphone slowly, struggles with basic tasks, and can charge you for it",
+     "source": "",
+     "ts": 1792613613
+    },
+    {
+     "id": "3cd0deedd7470fa8",
+     "title": "Signal bug could keep your mic - and camera - on after hangup",
+     "link": "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
+     "summary": "Careful what you say after goodbye, or better yet, update your messaging app",
+     "source": "",
+     "ts": 1792602058
+    },
+    {
+     "id": "28d3e6678b6071ac",
+     "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
+     "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+     "summary": "Maintainers reckon a quarter of incoming pull requests are slop, rising to 31% on larger projects",
+     "source": "",
+     "ts": 1792586580
+    },
+    {
+     "id": "5c91ab1c0e477d79",
+     "title": "The spec is the new code, so brush up on your prose, says Kaseya CTO",
+     "link": "https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002",
+     "summary": "Domain expertise and clear writing will matter more than syntax, and yes, that means documentation",
+     "source": "",
+     "ts": 1792576800
+    },
+    {
+     "id": "fc08072d893ece14",
+     "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
+     "link": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
+     "summary": "CentOS roots give way to homegrown containers, AI tools, and a workstation edition we took for a spin",
+     "source": "",
+     "ts": 1792510200
+    },
+    {
+     "id": "2ef0440dca1b65e8",
+     "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
+     "link": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
+     "summary": "Keeping vendors happy is costing businesses millions, even when everything was working fine in the first place",
+     "source": "",
+     "ts": 1792507380
+    },
+    {
+     "id": "fe417fa46e085794",
+     "title": "Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates",
+     "link": "https://www.theregister.com/software/2026/10/19/admin-i-spent-all-weekend-on-my-servers-after-microsoft-breaks-exchange-server-with-october-updates/5303724",
+     "summary": "OWA borked and lengthy email queues reported on busy servers after Microsoft tweaks a Server default",
+     "source": "",
+     "ts": 1792414800
+    }
+   ],
+   "error": null,
+   "last_ok": 1793235082
+  }
+ ]
+}
