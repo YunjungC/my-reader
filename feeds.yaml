@@ -15,7 +15,12 @@ feeds:
   # 구글 뉴스가 수집한 AI Matters 기사로 대신 받습니다.
   # 구글 알리미에서 "site:aimatters.co.kr" 알림을 RSS로 만들었다면
   # 그 주소로 바꿔 넣으면 더 빠르고 정확합니다.
-  - name: AI Matters 최신 뉴스
+  - name: AI Matters (구글 알리미)
+    url: https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555
+    site: https://aimatters.co.kr
+
+  # 며칠 비교해 보고 알리미가 충분하면 아래 3줄은 지워도 됩니다
+  - name: AI Matters (구글 뉴스)
     url: https://news.google.com/rss/search?q=site:aimatters.co.kr&hl=ko&gl=KR&ceid=KR:ko
     site: https://aimatters.co.kr
 
