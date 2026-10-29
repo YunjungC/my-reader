@@ -1,97 +1,7 @@
 {
- "generated_at": 1793236279,
+ "generated_at": 1793236321,
  "top_n": 10,
  "feeds": [
-  {
-   "id": "cf53c0f1af",
-   "name": "AI Matters (구글 알리미)",
-   "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
-   "site": "https://aimatters.co.kr",
-   "items": [
-    {
-     "id": "18742b25cbef737a",
-     "title": "美 법원, 알리바바 로비 업체 이용 기업의 국방부 계약 제한에 제동 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57512/",
-     "summary": "미국 연방법원이 알리바바를 대리하는 로비 업체와 거래하는 기업의 국방부 계약을 막는 조치를 중단하라는 가처분을 결정했다. 알리바바의 1260H 목록 지정 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "3bec23c3787f3ebe",
-     "title": "씨게이트, 분기 매출 5조 6,130억 원…전년보다 61% 증가 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57557/",
-     "summary": "씨게이트의 2027 회계연도 1분기 매출이 42억 3300만 달러로 전년보다 61% 증가했다. 순이익은 약 3.2배로 증가했고, 2분기 매출은 48억 달러 안팎으로 전망 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "becd18c102b2e03c",
-     "title": "중국 AI 기술주 4개월 새 40% 하락…시총 636조 원 증발 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57513/",
-     "summary": "중국 상하이 증시의 기술주 지수 커촹반 50이 4개월이 안 돼 약 40% 하락하며 시가총액 4800억 달러가 사라졌다. 로이터는 높은 기업가치와 AI 수요 의문, ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "02fef9aa59a15213",
-     "title": "브라질 룰라 \"재생에너지로 데이터센터 유치…자체 AI 개발\" - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57516/",
-     "summary": "4선에 성공한 룰라 브라질 대통령이 재생에너지를 활용해 데이터센터를 유치하고 미국과 중국 AI 의존을 줄이는 브라질 자체 AI를 개발하겠다고 밝혔다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "716de6c80f295192",
-     "title": "테라다인, 협동로봇 사업 3분기 매출 역대 최대…흑자 달성 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57498/",
-     "summary": "유니버설 로봇 모회사 테라다인의 로봇 부문이 3분기 매출 약 1288억 원으로 역대 3분기 최대치를 기록하고 흑자를 냈다. 회사 전체 매출은 전년 같은 기간 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "4d1ded60206e6c9f",
-     "title": "오라클, 엔비디아 베라 루빈 정식 출시…AI 에이전트용 CPU도 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57511/",
-     "summary": "오라클이 OCI에서 엔비디아 베라 루빈 NVL72와 AI 에이전트용 CPU 베라를 정식 출시하고 슈퍼클러스터를 수 기가와트 규모로 확장한다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "1fb58cd19501992f",
-     "title": "로봇 AI 개발사 피지컬 인텔리전스, 기업가치 26조 원에 1조 원대 투자 유치 협상",
-     "link": "https://aimatters.co.kr/news-report/57496/",
-     "summary": "여러 로봇을 움직이는 AI를 개발하는 피지컬 인텔리전스가 기업가치 약 26조 8400억 원을 인정받는 조건으로 1조 3420억 원 이상의 신규 투자 유치를 논의 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "a14c46a72111d33e",
-     "title": "시연 한 번으로 작업 배우는 로봇 AI 개발사 마첸타, 537억 원 투자 유치 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57497/",
-     "summary": "영국 임페리얼 칼리지 런던에서 분사한 로봇 AI 스타트업 마첸타가 약 537억 원 규모의 시드 투자를 유치했다. 사람이 한 번 보여 준 동작만 보고 새 작업을 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "2a34646163c565da",
-     "title": "앤트로픽, 상장 서류에 \"클로드에 광고 넣지 않겠다\" 명시 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57515/",
-     "summary": "앤트로픽 창업자들이 상장 투자설명서 서한에서 광고가 매출 목표가 되면 이용자 참여 압박이 커진다며 클로드에 광고를 도입하지 않겠다고 밝혔다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "e2b588e842b9a562",
-     "title": "자율주행 트럭 업체 오로라, 미국 물류사 차저에 무인 트럭 최대 500대 공급 추진 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/57505/",
-     "summary": "자율주행 트럭 업체 오로라가 미국 물류 기업 차저 로지스틱스와 무인 트럭 최대 500대 도입을 위한 양해각서를 체결했다. 차저는 2027년과 2028년에 걸쳐 ...",
-     "source": "",
-     "ts": null
-    }
-   ],
-   "error": null,
-   "last_ok": 1793236279
-  },
   {
    "id": "f70c512690",
    "name": "Google 알리미 - 과기정통부 AI 정책",
@@ -180,97 +90,97 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
-   "id": "eecfcc342b",
-   "name": "AI Matters (구글 뉴스)",
-   "url": "https://news.google.com/rss/search?q=site:aimatters.co.kr&hl=ko&gl=KR&ceid=KR:ko",
+   "id": "cf53c0f1af",
+   "name": "AI Matters (구글 알리미)",
+   "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
    "items": [
     {
-     "id": "f5bdeaa2dc544795",
-     "title": "앤트로픽, 상장 서류에 \"클로드에 광고 넣지 않겠다\" 명시",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13MjNDSEJfa18xNWxuU2FrRFhpZXdGNl9admVWTEM5dXNWS0RpWGxFa0hWVmwzd3ZEYm03MkZ0ZUkwYkp5MGRxMXdxOHI4WF8tU0MwXw?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793173237
+     "id": "18742b25cbef737a",
+     "title": "美 법원, 알리바바 로비 업체 이용 기업의 국방부 계약 제한에 제동 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57512/",
+     "summary": "미국 연방법원이 알리바바를 대리하는 로비 업체와 거래하는 기업의 국방부 계약을 막는 조치를 중단하라는 가처분을 결정했다. 알리바바의 1260H 목록 지정 ...",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "f38cd0335c850ffd",
-     "title": "딕셔너리닷컴 올해의 단어 ‘맥싱’…AI 과사용 ‘토큰맥싱’도",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yTDlSRG9VR0lyZnNuN0tUTEVBZWlVS3hSUGdlTjAzT0RRX0NiMU53MjE1bWt0ekpMYlVPcEVDMF9hcHN2U0owTG5zQjh1WHE0aURmaQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793172944
+     "id": "3bec23c3787f3ebe",
+     "title": "씨게이트, 분기 매출 5조 6,130억 원…전년보다 61% 증가 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57557/",
+     "summary": "씨게이트의 2027 회계연도 1분기 매출이 42억 3300만 달러로 전년보다 61% 증가했다. 순이익은 약 3.2배로 증가했고, 2분기 매출은 48억 달러 안팎으로 전망 ...",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "4cfa3c5fb230768f",
-     "title": "리퀴드 AI, 스마트폰용 소형 오픈 모델 ‘LFM3’ 6종 공개",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yWGtURURvbVh2QVNXajdpZTJRT0pWVExYV1hOeHRlZVRHdjJUVndaT3h3RExJX3R5bXlJMXdWSzA4TncwM3MtcG4wdEdkYzF6YTk1Mg?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793151771
+     "id": "becd18c102b2e03c",
+     "title": "중국 AI 기술주 4개월 새 40% 하락…시총 636조 원 증발 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57513/",
+     "summary": "중국 상하이 증시의 기술주 지수 커촹반 50이 4개월이 안 돼 약 40% 하락하며 시가총액 4800억 달러가 사라졌다. 로이터는 높은 기업가치와 AI 수요 의문, ...",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "d49b01aec1773cbf",
-     "title": "DOGE 출신 보안 업체, AI 에이전트로 앤트로픽 내부망 접근",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vX01LYVdUX21DaWZsdWphcXMwcWcxN3JNNWE4X3VrWlE1X2Y2X05Pc1Q0TVAzZE5vaHRRNHdkNzVpb2ZpVzYxVDJyYmdvYVBoS29iNg?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793087527
+     "id": "02fef9aa59a15213",
+     "title": "브라질 룰라 \"재생에너지로 데이터센터 유치…자체 AI 개발\" - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57516/",
+     "summary": "4선에 성공한 룰라 브라질 대통령이 재생에너지를 활용해 데이터센터를 유치하고 미국과 중국 AI 의존을 줄이는 브라질 자체 AI를 개발하겠다고 밝혔다.",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "61b207a8fcf9bc0d",
-     "title": "제미나이는 왜 엉망이 됐을까",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFTzdYZnFhT1VmQl81Nzkwc3Y5OE5VMXlwM0h4RzQ5aURPMGQ1d3cxcVo3UVFIWEtLUS1BY3dmaUJISUw5SGd3Um56eDVGUHFGVXQ2MQ?oc=5",
-     "summary": "제미나이는 왜 엉망이 됐을까 AI 매터스",
-     "source": "AI 매터스",
-     "ts": 1792983745
+     "id": "716de6c80f295192",
+     "title": "테라다인, 협동로봇 사업 3분기 매출 역대 최대…흑자 달성 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57498/",
+     "summary": "유니버설 로봇 모회사 테라다인의 로봇 부문이 3분기 매출 약 1288억 원으로 역대 3분기 최대치를 기록하고 흑자를 냈다. 회사 전체 매출은 전년 같은 기간 ...",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "7af54e8e345e0de2",
-     "title": "오픈AI 출신 케빈 웨일, 로봇 신약 실험실로 2,849억 원 유치",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDM19zQUZ6UXpNTF9nakR5TUVHY2I2THBKYUc2SDdzbTNUd21HUS1NUVFpZ3QzNVJ2d0NQN21TajRpYzN0aGxQbkdNUGI3VDRhODh2QQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1792736008
+     "id": "4d1ded60206e6c9f",
+     "title": "오라클, 엔비디아 베라 루빈 정식 출시…AI 에이전트용 CPU도 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57511/",
+     "summary": "오라클이 OCI에서 엔비디아 베라 루빈 NVL72와 AI 에이전트용 CPU 베라를 정식 출시하고 슈퍼클러스터를 수 기가와트 규모로 확장한다.",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "d3a653b57783d6e1",
-     "title": "메타, 시위 단체 인스타그램 정지 원인으로 클로드 도구 지목",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtdnFFWWlxb1hPVG5BTXVZd05xYVNlVUhGVExkbXFoWG9CZjFxdHowWVFtdXRtcG14cFppdWJVb1RvOGVwcFZiY1pJY0NhckNQMTItbQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1792480021
+     "id": "1fb58cd19501992f",
+     "title": "로봇 AI 개발사 피지컬 인텔리전스, 기업가치 26조 원에 1조 원대 투자 유치 협상",
+     "link": "https://aimatters.co.kr/news-report/57496/",
+     "summary": "여러 로봇을 움직이는 AI를 개발하는 피지컬 인텔리전스가 기업가치 약 26조 8400억 원을 인정받는 조건으로 1조 3420억 원 이상의 신규 투자 유치를 논의 ...",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "09973ff172d900a8",
-     "title": "대만, AI 서버 中 불법 수출에 최대 징역 5년 추진",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VYm1wdmdXVWZXeldfLVQwR3NNTnNzWTg4X0JSLXZpQmtSaVBNdWliQlVaeVJXRWJVU3FDZXhhRzdUTGpQS3B0NWY1RU5rLXhvcWRvMA?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1792377994
+     "id": "a14c46a72111d33e",
+     "title": "시연 한 번으로 작업 배우는 로봇 AI 개발사 마첸타, 537억 원 투자 유치 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57497/",
+     "summary": "영국 임페리얼 칼리지 런던에서 분사한 로봇 AI 스타트업 마첸타가 약 537억 원 규모의 시드 투자를 유치했다. 사람이 한 번 보여 준 동작만 보고 새 작업을 ...",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "0050b5ab5e24a78e",
-     "title": "xAI, 그록 보이스 3.0 공개…음성 대화 지수 1위",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWcHVneW9FbFZFb3VHaUJCQkhZSGlDVUVnMlA0dElNdVBUOWNhczVjUEtqcHZpWTJ1aFYyR1p5SmNTLVVWU2xab3VQNDM0aERUSS1ZVQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1792044214
+     "id": "2a34646163c565da",
+     "title": "앤트로픽, 상장 서류에 \"클로드에 광고 넣지 않겠다\" 명시 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57515/",
+     "summary": "앤트로픽 창업자들이 상장 투자설명서 서한에서 광고가 매출 목표가 되면 이용자 참여 압박이 커진다며 클로드에 광고를 도입하지 않겠다고 밝혔다.",
+     "source": "",
+     "ts": null
     },
     {
-     "id": "8223235a1b71e6ca",
-     "title": "사카나 AI, 논문 속 핵심 오류 73% 찾는 AI 심사 도구 공개",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQy16aHJrSDlOTHdCNmJhenNPcm14R3Rnd3BNeVdqbi16cFdLbVpjODVVdXRvWWx1aUtvbnFTWVlSTm1nMFVhVExIbHJNcW15WVhkcw?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1791918795
+     "id": "e2b588e842b9a562",
+     "title": "자율주행 트럭 업체 오로라, 미국 물류사 차저에 무인 트럭 최대 500대 공급 추진 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/57505/",
+     "summary": "자율주행 트럭 업체 오로라가 미국 물류 기업 차저 로지스틱스와 무인 트럭 최대 500대 도입을 위한 양해각서를 체결했다. 차저는 2027년과 2028년에 걸쳐 ...",
+     "source": "",
+     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "25ac01331a",
@@ -360,7 +270,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "cc992ff5f1",
@@ -450,7 +360,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "d1c587ecba",
@@ -540,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "f9eb976542",
@@ -630,7 +540,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "19ef1c7741",
@@ -720,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "263d8d0ce8",
@@ -810,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "7ebf5b6c9a",
@@ -900,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "2c60dce9bd",
@@ -990,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "95180fe28d",
@@ -1080,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   },
   {
    "id": "c15f1e5a65",
@@ -1170,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236279
+   "last_ok": 1793236321
   }
  ]
 }
