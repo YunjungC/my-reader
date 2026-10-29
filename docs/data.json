@@ -1,5 +1,5 @@
 {
- "generated_at": 1793236188,
+ "generated_at": 1793236279,
  "top_n": 10,
  "feeds": [
   {
@@ -90,97 +90,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
-  },
-  {
-   "id": "eecfcc342b",
-   "name": "AI Matters (구글 뉴스)",
-   "url": "https://news.google.com/rss/search?q=site:aimatters.co.kr&hl=ko&gl=KR&ceid=KR:ko",
-   "site": "https://aimatters.co.kr",
-   "items": [
-    {
-     "id": "f5bdeaa2dc544795",
-     "title": "앤트로픽, 상장 서류에 \"클로드에 광고 넣지 않겠다\" 명시",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13MjNDSEJfa18xNWxuU2FrRFhpZXdGNl9admVWTEM5dXNWS0RpWGxFa0hWVmwzd3ZEYm03MkZ0ZUkwYkp5MGRxMXdxOHI4WF8tU0MwXw?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793173237
-    },
-    {
-     "id": "f38cd0335c850ffd",
-     "title": "딕셔너리닷컴 올해의 단어 ‘맥싱’…AI 과사용 ‘토큰맥싱’도",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yTDlSRG9VR0lyZnNuN0tUTEVBZWlVS3hSUGdlTjAzT0RRX0NiMU53MjE1bWt0ekpMYlVPcEVDMF9hcHN2U0owTG5zQjh1WHE0aURmaQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793172944
-    },
-    {
-     "id": "4cfa3c5fb230768f",
-     "title": "리퀴드 AI, 스마트폰용 소형 오픈 모델 ‘LFM3’ 6종 공개",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yWGtURURvbVh2QVNXajdpZTJRT0pWVExYV1hOeHRlZVRHdjJUVndaT3h3RExJX3R5bXlJMXdWSzA4TncwM3MtcG4wdEdkYzF6YTk1Mg?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793151771
-    },
-    {
-     "id": "d49b01aec1773cbf",
-     "title": "DOGE 출신 보안 업체, AI 에이전트로 앤트로픽 내부망 접근",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vX01LYVdUX21DaWZsdWphcXMwcWcxN3JNNWE4X3VrWlE1X2Y2X05Pc1Q0TVAzZE5vaHRRNHdkNzVpb2ZpVzYxVDJyYmdvYVBoS29iNg?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1793087527
-    },
-    {
-     "id": "61b207a8fcf9bc0d",
-     "title": "제미나이는 왜 엉망이 됐을까",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFTzdYZnFhT1VmQl81Nzkwc3Y5OE5VMXlwM0h4RzQ5aURPMGQ1d3cxcVo3UVFIWEtLUS1BY3dmaUJISUw5SGd3Um56eDVGUHFGVXQ2MQ?oc=5",
-     "summary": "제미나이는 왜 엉망이 됐을까 AI 매터스",
-     "source": "AI 매터스",
-     "ts": 1792983745
-    },
-    {
-     "id": "7af54e8e345e0de2",
-     "title": "오픈AI 출신 케빈 웨일, 로봇 신약 실험실로 2,849억 원 유치",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDM19zQUZ6UXpNTF9nakR5TUVHY2I2THBKYUc2SDdzbTNUd21HUS1NUVFpZ3QzNVJ2d0NQN21TajRpYzN0aGxQbkdNUGI3VDRhODh2QQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1792736008
-    },
-    {
-     "id": "d3a653b57783d6e1",
-     "title": "메타, 시위 단체 인스타그램 정지 원인으로 클로드 도구 지목",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtdnFFWWlxb1hPVG5BTXVZd05xYVNlVUhGVExkbXFoWG9CZjFxdHowWVFtdXRtcG14cFppdWJVb1RvOGVwcFZiY1pJY0NhckNQMTItbQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1792480021
-    },
-    {
-     "id": "09973ff172d900a8",
-     "title": "대만, AI 서버 中 불법 수출에 최대 징역 5년 추진",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VYm1wdmdXVWZXeldfLVQwR3NNTnNzWTg4X0JSLXZpQmtSaVBNdWliQlVaeVJXRWJVU3FDZXhhRzdUTGpQS3B0NWY1RU5rLXhvcWRvMA?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1792377994
-    },
-    {
-     "id": "0050b5ab5e24a78e",
-     "title": "xAI, 그록 보이스 3.0 공개…음성 대화 지수 1위",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWcHVneW9FbFZFb3VHaUJCQkhZSGlDVUVnMlA0dElNdVBUOWNhczVjUEtqcHZpWTJ1aFYyR1p5SmNTLVVWU2xab3VQNDM0aERUSS1ZVQ?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1792044214
-    },
-    {
-     "id": "8223235a1b71e6ca",
-     "title": "사카나 AI, 논문 속 핵심 오류 73% 찾는 AI 심사 도구 공개",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQy16aHJrSDlOTHdCNmJhenNPcm14R3Rnd3BNeVdqbi16cFdLbVpjODVVdXRvWWx1aUtvbnFTWVlSTm1nMFVhVExIbHJNcW15WVhkcw?oc=5",
-     "summary": "",
-     "source": "AI 매터스",
-     "ts": 1791918795
-    }
-   ],
-   "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "f70c512690",
@@ -270,7 +180,97 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
+  },
+  {
+   "id": "eecfcc342b",
+   "name": "AI Matters (구글 뉴스)",
+   "url": "https://news.google.com/rss/search?q=site:aimatters.co.kr&hl=ko&gl=KR&ceid=KR:ko",
+   "site": "https://aimatters.co.kr",
+   "items": [
+    {
+     "id": "f5bdeaa2dc544795",
+     "title": "앤트로픽, 상장 서류에 \"클로드에 광고 넣지 않겠다\" 명시",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13MjNDSEJfa18xNWxuU2FrRFhpZXdGNl9admVWTEM5dXNWS0RpWGxFa0hWVmwzd3ZEYm03MkZ0ZUkwYkp5MGRxMXdxOHI4WF8tU0MwXw?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793173237
+    },
+    {
+     "id": "f38cd0335c850ffd",
+     "title": "딕셔너리닷컴 올해의 단어 ‘맥싱’…AI 과사용 ‘토큰맥싱’도",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yTDlSRG9VR0lyZnNuN0tUTEVBZWlVS3hSUGdlTjAzT0RRX0NiMU53MjE1bWt0ekpMYlVPcEVDMF9hcHN2U0owTG5zQjh1WHE0aURmaQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793172944
+    },
+    {
+     "id": "4cfa3c5fb230768f",
+     "title": "리퀴드 AI, 스마트폰용 소형 오픈 모델 ‘LFM3’ 6종 공개",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yWGtURURvbVh2QVNXajdpZTJRT0pWVExYV1hOeHRlZVRHdjJUVndaT3h3RExJX3R5bXlJMXdWSzA4TncwM3MtcG4wdEdkYzF6YTk1Mg?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793151771
+    },
+    {
+     "id": "d49b01aec1773cbf",
+     "title": "DOGE 출신 보안 업체, AI 에이전트로 앤트로픽 내부망 접근",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vX01LYVdUX21DaWZsdWphcXMwcWcxN3JNNWE4X3VrWlE1X2Y2X05Pc1Q0TVAzZE5vaHRRNHdkNzVpb2ZpVzYxVDJyYmdvYVBoS29iNg?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1793087527
+    },
+    {
+     "id": "61b207a8fcf9bc0d",
+     "title": "제미나이는 왜 엉망이 됐을까",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFTzdYZnFhT1VmQl81Nzkwc3Y5OE5VMXlwM0h4RzQ5aURPMGQ1d3cxcVo3UVFIWEtLUS1BY3dmaUJISUw5SGd3Um56eDVGUHFGVXQ2MQ?oc=5",
+     "summary": "제미나이는 왜 엉망이 됐을까 AI 매터스",
+     "source": "AI 매터스",
+     "ts": 1792983745
+    },
+    {
+     "id": "7af54e8e345e0de2",
+     "title": "오픈AI 출신 케빈 웨일, 로봇 신약 실험실로 2,849억 원 유치",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDM19zQUZ6UXpNTF9nakR5TUVHY2I2THBKYUc2SDdzbTNUd21HUS1NUVFpZ3QzNVJ2d0NQN21TajRpYzN0aGxQbkdNUGI3VDRhODh2QQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1792736008
+    },
+    {
+     "id": "d3a653b57783d6e1",
+     "title": "메타, 시위 단체 인스타그램 정지 원인으로 클로드 도구 지목",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtdnFFWWlxb1hPVG5BTXVZd05xYVNlVUhGVExkbXFoWG9CZjFxdHowWVFtdXRtcG14cFppdWJVb1RvOGVwcFZiY1pJY0NhckNQMTItbQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1792480021
+    },
+    {
+     "id": "09973ff172d900a8",
+     "title": "대만, AI 서버 中 불법 수출에 최대 징역 5년 추진",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VYm1wdmdXVWZXeldfLVQwR3NNTnNzWTg4X0JSLXZpQmtSaVBNdWliQlVaeVJXRWJVU3FDZXhhRzdUTGpQS3B0NWY1RU5rLXhvcWRvMA?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1792377994
+    },
+    {
+     "id": "0050b5ab5e24a78e",
+     "title": "xAI, 그록 보이스 3.0 공개…음성 대화 지수 1위",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWcHVneW9FbFZFb3VHaUJCQkhZSGlDVUVnMlA0dElNdVBUOWNhczVjUEtqcHZpWTJ1aFYyR1p5SmNTLVVWU2xab3VQNDM0aERUSS1ZVQ?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1792044214
+    },
+    {
+     "id": "8223235a1b71e6ca",
+     "title": "사카나 AI, 논문 속 핵심 오류 73% 찾는 AI 심사 도구 공개",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQy16aHJrSDlOTHdCNmJhenNPcm14R3Rnd3BNeVdqbi16cFdLbVpjODVVdXRvWWx1aUtvbnFTWVlSTm1nMFVhVExIbHJNcW15WVhkcw?oc=5",
+     "summary": "",
+     "source": "AI 매터스",
+     "ts": 1791918795
+    }
+   ],
+   "error": null,
+   "last_ok": 1793236279
   },
   {
    "id": "25ac01331a",
@@ -360,7 +360,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "cc992ff5f1",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "d1c587ecba",
@@ -540,7 +540,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "f9eb976542",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "19ef1c7741",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "263d8d0ce8",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "7ebf5b6c9a",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "2c60dce9bd",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "95180fe28d",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   },
   {
    "id": "c15f1e5a65",
@@ -1170,7 +1170,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793236188
+   "last_ok": 1793236279
   }
  ]
 }
