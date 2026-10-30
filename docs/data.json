@@ -1,5 +1,5 @@
 {
- "generated_at": 1793388426,
+ "generated_at": 1793404394,
  "top_n": 10,
  "feeds": [
   {
@@ -8,6 +8,30 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "8580c732dc188856",
+     "title": "[다음주 재정경제부 등 경제부처 일정 ] < 정책 /금융 < 기사본문 - 연합인포맥스",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442307",
+     "summary": "△15:00 부총리 국가 AI 전략위원회 제3차 전체회의(국가 AI 전략위원회). [방송 ... \"美 중간선거 후 분점 정부 유세…재정동력 추가 약화\" · 트럼프 \"이란과 ...",
+     "source": "",
+     "ts": 1793401482
+    },
+    {
+     "id": "a7cb55b30954c65e",
+     "title": "“하루 걸러 터졌다”… AI 해커에 정부 ·금융기관 뚫린 '이 나라' - 농민신문",
+     "link": "https://www.nongmin.com/article/20261030500293",
+     "summary": "일본이 인공지능 ( AI )을 앞세운 사이버 공격에 몸살을 앓고 있다. 9월 한국 은행권 정보 유출 때 거론된 것과 같은 AI 도구가 일본 공격에도 연루됐다는 주장 ...",
+     "source": "",
+     "ts": 1793394038
+    },
+    {
+     "id": "b8b45fbc6effe771",
+     "title": "[LIVE] 지방재정 확충을 위한 지방세재 개편 정책 토론회 - 경기도 소셜방송 LIVE경기",
+     "link": "https://www.gg.go.kr/live/movie/view.php?uid=33469&cate_s=&sort_s=",
+     "summary": "[LIVE] 경기도 피지컬 AI 대전환 선포식｜#제조의혁신 #돌봄의포용 #모두의 ... 정부 8.13 대책 후속. 주요 토론회·행사. 2026.09.23.",
+     "source": "",
+     "ts": 1793386786
+    },
     {
      "id": "16ded4a153ed1170",
      "title": "깃허브 제품 부사장 \" AI 코딩 가성비 시대 이끌 것\" - 지디넷코리아",
@@ -33,6 +57,14 @@
      "ts": 1793379341
     },
     {
+     "id": "7bdd80d68a4f5d81",
+     "title": "[2026 폴리뉴스·상생과통일포럼 제27차 산업포럼] '프런티어 AI 가 여는 대한민국 산업 대전환 ...",
+     "link": "https://www.polinews.co.kr/news/articleView.html?idxno=747358",
+     "summary": "배경훈 부총리 겸 과학기술정보통신부 장관이 기조발제를 맡아 AI 정책 의 비전과 국가 전략을 제시한다. 기조발제에 이어 박태현 산업통상부 산업 인공지능 정책관 ...",
+     "source": "",
+     "ts": 1793375918
+    },
+    {
      "id": "d1a68b196374c7fa",
      "title": "일본 정부 , 사이버보안 대책에 미국 AI 개발사와 협력 강화 방안 포함 추진 - 블루밍비트",
      "link": "https://bloomingbit.io/feed/news/123311",
@@ -55,42 +87,10 @@
      "summary": "... 정부 정책 이행을 위한 업무협약'을 체결했다. 양 기관은 '에너지와 철도의 혁신, 국민의 일상을 편리하게'라는 기치아래 인공지능 ( AI )·ESG 확산 등 정부 정책 ...",
      "source": "",
      "ts": 1793371462
-    },
-    {
-     "id": "88111bab0c47e5fc",
-     "title": "중기부, 2030년까지 스마트제조에 5조원 이상 투입… 중소제조 '피지컬 AI ' 확산 - FA저널",
-     "link": "https://www.fajournal.com/news/articleView.html?idxno=21465",
-     "summary": "... 29일 충남 천안 종근당에서 국무총리 주재 제16회 국가 ... 과학기술정보통신부 의 '모두의 AI 공장장' 등 메가 프로젝트 에서 확보한 범용 ...",
-     "source": "",
-     "ts": 1793368912
-    },
-    {
-     "id": "3fcbf8e245e9d117",
-     "title": "정부 , '1000조 투자' K-GX 과제 점검…\"모두 정상 추진\" - 한국무역협회",
-     "link": "https://www.kita.net/board/totalTradeNews/totalTradeNewsDetail.do;JSESSIONID_KITA=DFCEFF91032EFBD9D3897D00B8872B9B.Hyper?no=105775&siteId=1",
-     "summary": "K-GX 130개 과제 정상 추진 중…재정·금융 96.6% 공급. 7대 SEED 프로젝트 , 내년부터 투자·실증·사업화 착수. 주거·일자리·서민금융 3대 민생 프로젝트 작업반 ...",
-     "source": "",
-     "ts": 1793364924
-    },
-    {
-     "id": "ede775f7cae7a23a",
-     "title": "상명대, 나이지리아 고위급 공무원 초청 디지털 정부 연수 - 신아일보",
-     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078015",
-     "summary": "연수단은 국내 기업과 행정기관을 방문해 인공지능 ( AI )·클라우드 기술의 공공서비스 활용 방안을 살펴봤다. 상명대 산학협력단 컨소시엄은 지난 19일부터 26 ...",
-     "source": "",
-     "ts": 1793363890
-    },
-    {
-     "id": "769fb5dc8b4aef85",
-     "title": "[2026 공공기관 포럼] “평가의 역설 극복해야”… AI 혁신, 자율성 확대 촉구 | 아시아투데이",
-     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261030010010963",
-     "summary": "... 인공지능 ( AI ) ... 그는 \"해당 분야의 전문성은 공공기관이 매우 우수하다\"며 \"위험을 선제적으로 발견하고 대응하며 정부 에 정책 을 제안하는 기관으로 변화했으면 ...",
-     "source": "",
-     "ts": 1793359395
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "cf53c0f1af",
@@ -180,7 +180,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "25ac01331a",
@@ -189,12 +189,20 @@
    "site": "https://www.axios.com",
    "items": [
     {
+     "id": "1824d7eacf999ca6",
+     "title": "Trump DOJ loses last-minute California ballot bid",
+     "link": "https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court",
+     "summary": "A federal appeals court rejected the Justice Department's emergency bid to set aside mail ballots tied to more than 20,000 California voters the Trump administration suspects are noncitizens. Why it matters: The 2–1 rul…",
+     "source": "",
+     "ts": 1793394460
+    },
+    {
      "id": "841509f9c60ab4aa",
      "title": "Judge to probe whether Trump officials lied in golf course case",
      "link": "https://www.axios.com/2026/10/30/judge-investigation-doj-interior-trump-golf-course",
-     "summary": "A federal judge announced Friday she plans to appoint a special master to investigate whether Justice and Interior Department officials misled the court about the Trump administration's plans to renovate a D.C. golf cou…",
+     "summary": "A federal judge said Friday she plans to appoint a special master to investigate whether Justice and Interior Department officials misled the court about the Trump administration's plans to renovate a D.C. golf course,…",
      "source": "",
-     "ts": 1793387046
+     "ts": 1793394116
     },
     {
      "id": "3d6f71384535ae18",
@@ -259,18 +267,10 @@
      "summary": "El Salvador's strongman president, Nayib Bukele , is sending thousands of troops to Haiti to boost the island's push to wipe out its gang problem — and find four of his military personnel who were captured in a recent a…",
      "source": "",
      "ts": 1793352305
-    },
-    {
-     "id": "e9a6c75b3fa2a705",
-     "title": "Key Democrat warns permitting bill could create \"gold rush for gas\"",
-     "link": "https://www.axios.com/2026/10/30/key-house-democrat-permitting-bill-gold-rush-gas",
-     "summary": "A bipartisan deal to speed energy development is facing concerns it could favor natural gas over renewables because of President Trump's opposition to wind and solar. Why it matters: The worries from Rep. Sean Casten (D…",
-     "source": "",
-     "ts": 1793351705
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
+     "id": "857d08f35b087271",
+     "title": "Bunny CDN 보안 사고",
+     "link": "https://news.hada.io/topic?id=36311",
+     "summary": "bunny.net 인프라 공급업체 에서 서드파티 서버 관리 소프트웨어와 관련된 무단 접근 사고가 발생했으며, 해당 업체 서버에서는 아르메니아 소재 CDN 노드 하나가 운영되고 있었음 경고를 받은 뒤 20분 이내에 해당 서버로의 트래픽 라우팅을 중단 하고, 로그 보존과...",
+     "source": "",
+     "ts": 1793403103
+    },
+    {
+     "id": "37bbc513fe6ace8a",
+     "title": "Florilegium: LaTeX에서 절차적으로 생성하는 꽃 장식",
+     "link": "https://news.hada.io/topic?id=36310",
+     "summary": "Florilegium 은 이미지나 외부 자산 없이 Lua로 꽃잎, 잎, 줄기의 곡선을 계산해 LaTeX 페이지 여백에 수채화풍 꽃 장식을 그리는 패키지임 자동 성장 배치 는 줄기가 닿을 수 있는 가장 큰 빈 공간부터 가지와 꽃으로 채우며, 마지막 페이지에서 본문 아래 남은 공간...",
+     "source": "",
+     "ts": 1793400173
+    },
+    {
+     "id": "c5ccf9754ad58b00",
+     "title": "블록체인 분석업체들, Binance 63억 달러 해킹과 북한의 연관성 지목",
+     "link": "https://news.hada.io/topic?id=36309",
+     "summary": "TRM과 Chainalysis 는 세계 최대 암호화폐 거래소 Binance의 대규모 해킹 배후로 북한 해킹 조직 TraderTraitor 를 지목함 TRM 분석에 따르면 공격자는 10개 블록체인 의 Binance 지갑에서 약 63억6,000만 달러 를 빼냈으며, 대부분...",
+     "source": "",
+     "ts": 1793399992
+    },
+    {
+     "id": "42c6b32360c04bd7",
+     "title": "내가 가장 좋아하는 PowerMac은 Nintendo Wii",
+     "link": "https://news.hada.io/topic?id=36308",
+     "summary": "Nintendo GameCube/Wii 계열에 클래식 Mac OS를 이식하는 프로젝트 가 처음으로 데스크톱 부팅에 성공했으며, 실제 Wii 하드웨어에서는 Mac OS 7.6이 약 40초 만에 부팅됨 OpenBIOS와 런타임 패치 로 부팅 환경을 구성하고, Mac OS가 전제하는 Macintosh의 메모리 배...",
+     "source": "",
+     "ts": 1793399812
+    },
+    {
+     "id": "17573880a82574eb",
+     "title": "Tangled - 자체 호스팅과 협업을 결합한 연합형 코드 포지",
+     "link": "https://news.hada.io/topic?id=36307",
+     "summary": "Tangled 는 코드를 자체 서버에 호스팅하면서도 다른 사용자와 협업할 수 있는 연합형 코드 포지임. Git 호스팅이나 CI 실행기만 운영하거나 API 서버와 UI까지 모두 자체 운영할 수 있음 AT Protocol 을 기반으로 확장 기능, 사용자 정의 Git 호스팅 서버와 CI 구성...",
+     "source": "",
+     "ts": 1793395939
+    },
+    {
+     "id": "c9d951dc94a027b2",
+     "title": "Blackstone, “Anthropic은 IPO 이후에도 투자적격 신용등급을 받지 못할 수 있어”",
+     "link": "https://news.hada.io/topic?id=36306",
+     "summary": "",
+     "source": "",
+     "ts": 1793392261
+    },
+    {
+     "id": "9ec219380133ed64",
+     "title": "Proton CEO, AI 활용 ‘재면접’ 취소",
+     "link": "https://news.hada.io/topic?id=36304",
+     "summary": "Proton CEO Andy Yen 이 직원들의 AI 활용도를 확인하려던 재면접을 취소 함. 거의 전사 규모로 추진됐으며, 직원들에 따르면 AI를 충분히 쓰지 않으면 해고될 수 있다는 취지가 분명했던 절차임 취소는 보안 우려에도 AI 사용을 강하게 밀어붙이는 경영 방식...",
+     "source": "",
+     "ts": 1793388754
+    },
+    {
+     "id": "2751285fd59cc4ed",
+     "title": "미국 기술주, AI 비용 우려에 급락",
+     "link": "https://news.hada.io/topic?id=36303",
+     "summary": "대규모 AI 투자에 비해 실적이 기대에 못 미치면서 미국 기술주가 이틀 연속 하락함. 금요일 Nasdaq은 3.5% 넘게 떨어졌고 Intel은 장중 최대 30% 급락함 Meta, Alphabet, Oracle, Amazon, Microsoft의 2026년 지출 계획은 총 8,006억 달러 에 달하며, 막대한 AI 투...",
+     "source": "",
+     "ts": 1793385416
+    },
+    {
+     "id": "1c05d6f73564433a",
+     "title": "Northflank 침해 사고 발생",
+     "link": "https://news.hada.io/topic?id=36302",
+     "summary": "Northflank가 보안 사고 를 공지하고, 모든 사용자에게 환경 변수가 복호화됐다고 가정해 즉시 키를 비활성화하거나 교체하도록 권고함 교체 대상에는 워크로드의 시크릿 , 시크릿 그룹, 전역 시크릿이 포함됨 여러 사용자가 자신의 AI 키가 사용된...",
+     "source": "",
+     "ts": 1793385236
+    },
+    {
      "id": "4ccf75090f37daef",
      "title": "ICE, 가면을 되찾으려 삭제 요청 대행업체를 고용하다",
      "link": "https://news.hada.io/topic?id=36301",
      "summary": "FlokiNET 이 ICE를 대리하는 ZeroFox의 Icepick 사이트 삭제 요청을 거부함. 유출된 정부 직원의 업무상 신원 정보를 언론인과 시민의 공적 책임 추적에 쓰이는 자료로 판단함 데이터는 침해 사고로 유출 됐으며 당사자들은 공개에 동의하지 않았음. 다만 FlokiNET은...",
      "source": "",
      "ts": 1793382243
-    },
-    {
-     "id": "5103272951370bb1",
-     "title": "Medicare는 심장마비 치료에 5만 달러를 지불한다. 예방에도 100달러를 지불해야 한다",
-     "link": "https://news.hada.io/topic?id=36300",
-     "summary": "약 100달러의 관상동맥 석회화 점수(CAC) 검사 로 심장마비 발생 수년 전 동맥경화를 발견할 수 있지만, 보험 보장과 진료 체계의 제약으로 활용이 제한돼 있음 2026년 3월 ACC/AHA 지침 은 관상동맥질환 위험이 경계 수준이거나 중간 수준이고 예방 치료 시작 여부가...",
-     "source": "",
-     "ts": 1793382063
-    },
-    {
-     "id": "c6c79ba9c5532d05",
-     "title": "AI는 SRE를 대체하는 게 아니라 숙련도를 떨어뜨리고 있음",
-     "link": "https://news.hada.io/topic?id=36299",
-     "summary": "AI가 일상적인 장애 대응을 맡을수록 SRE는 드물고 복잡한 장애 에 집중하게 되지만, 이를 해결할 직관과 전문성을 연습할 기회는 줄어듦 자동화의 역설 은 자동화가 실패할 때 인간의 역할이 더 중요해지는 동시에, 개입에 필요한 숙련도는 실전 경험 부족으로 약해...",
-     "source": "",
-     "ts": 1793381883
-    },
-    {
-     "id": "492e672ca5bbba17",
-     "title": "Show GN: WORLD MODEL - 지금 쓸 수 있는 세계 AI 모델 1,100여 개를 한눈에 보는 도감",
-     "link": "https://news.hada.io/topic?id=36298",
-     "summary": "전 세계 개발사 138곳의 AI 모델 1,100여 개를 공식 발표 기준으로 모아 둔 사이트입니다. 분야는 대화·이미지·영상·음성·음악·비전·월드·3D·픽셀아트·검색·임베딩·판정으로 나눴습니다. 국가·분야·로컬 실행 가능 여부로 거르고, 지구본에서 국가별로 볼 수 있습니다 오픈 가중치 모",
-     "source": "",
-     "ts": 1793380433
-    },
-    {
-     "id": "710e4f6299c54e85",
-     "title": "63억 달러 규모 Binance 해킹, 단 20분 만에 실행됨",
-     "link": "https://news.hada.io/topic?id=36297",
-     "summary": "공격자가 최소 10개 블록체인의 Binance 지갑 에서 약 63억 달러의 암호화폐를 탈취했으며, 대부분의 자금이 약 20분 사이 빠져나감 공격 준비는 탈취 최소 36시간 전 시작됐으며, 소액 인출과 코드 시험을 거쳐 인터넷에 연결된 핫월렛에 공격 코드를 설치함 ...",
-     "source": "",
-     "ts": 1793378271
-    },
-    {
-     "id": "64a616b178185301",
-     "title": "Azure의 가장 약한 고리, 테넌트 간 완전한 침해 취약점 5건",
-     "link": "https://news.hada.io/topic?id=36296",
-     "summary": "Azure Logic Apps의 API Connections 에서 다른 테넌트의 연결과 백엔드에 접근할 수 있는 치명적 권한 상승 취약점 5건이 발견됐으며, 보고된 취약점은 모두 수정됨 공유 API Management 가 연결에 저장된 자격 증명으로 백엔드를 호출하는 구조여서, 호출 대상을 피...",
-     "source": "",
-     "ts": 1793378091
-    },
-    {
-     "id": "fde42095ca6bd3fc",
-     "title": "Cursor Marketplace의 Claude Code for VS Code 확장 프로그램에서 백도어 발견",
-     "link": "https://news.hada.io/topic?id=36295",
-     "summary": "Phorion이 Cursor Marketplace의 공식 Claude Code for VS Code 2.1.313 번들에서 지속적인 SSH 접근을 노리는 백도어를 발견함 악성 코드는 확장 프로그램의 정상 활성화 함수보다 먼저 실행되며, 공격자 SSH 공개키 를 심고 외부 서버로 역방향 SSH 터널을 연결함...",
-     "source": "",
-     "ts": 1793374447
-    },
-    {
-     "id": "e3365e5b1510f815",
-     "title": "Show HN: macOS의 ‘앱이 로컬 네트워크에서 기기를 찾도록 허용할까요?’ 팝업 자동 닫기",
-     "link": "https://news.hada.io/topic?id=36294",
-     "summary": "dontallow 는 macOS의 로컬 네트워크 접근 권한 팝업에서 ‘ 허용 안 함 ’을 자동으로 누르는 도구로, 기본 대기 시간은 0.25초이며 재부팅 후에도 작동함 macOS Sequoia 이후 일부 앱에서는 설치 경로 변경 등으로 권한 결정이 유지되지 않아 실행...",
-     "source": "",
-     "ts": 1793371159
-    },
-    {
-     "id": "a67dac09b60e4ba2",
-     "title": "미국 하원의원들, AI 거품 붕괴 시 빅테크 구제금융에 반대하는 민주당 결의안 발의 주도",
-     "link": "https://news.hada.io/topic?id=36293",
-     "summary": "Greg Casar와 Maxine Waters 하원의원이 AI 거품 붕괴 시 기업과 경영진 구제에 반대 하고, 노동자와 은퇴자, 저소득층을 보호하는 연방 대응을 지지하는 결의안을 공동 발의함 결의안은 AI 관련 기업의 수조 달러 부채 와 불투명한 민간 신용시장, 높은 주가수익비율...",
-     "source": "",
-     "ts": 1793370978
-    },
-    {
-     "id": "8cc71fe5fcee5e75",
-     "title": "Pico CSS, 더 이상 유지보수하지 않음",
-     "link": "https://news.hada.io/topic?id=36292",
-     "summary": "v2.1.1을 마지막으로 Pico CSS 유지보수를 종료 하며, 저장소를 아카이브하고 새 이슈, PR, 릴리스를 받지 않음 유지보수자는 AI가 필요한 CSS만 포함한 가볍고 독립적이며 접근성을 갖춘 HTML을 생성할 수 있어, 시맨틱 HTML용 최소 CSS 프레임워크의 필요성이 줄었다",
-     "source": "",
-     "ts": 1793367736
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "d1c587ecba",
@@ -368,6 +368,14 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "1649c5dd07045357",
+     "title": "dbreunig/nesformer",
+     "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+     "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Ma…",
+     "source": "",
+     "ts": 1793397562
+    },
     {
      "id": "07b8277675a3d49f",
      "title": "API credits benefit for eligible ChatGPT subscriptions",
@@ -439,18 +447,10 @@
      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing…",
      "source": "",
      "ts": 1793058787
-    },
-    {
-     "id": "34adadfb171aaca1",
-     "title": "Quoting Jason Koebler",
-     "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-     "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasi…",
-     "source": "",
-     "ts": 1793041225
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "f9eb976542",
@@ -465,6 +465,14 @@
      "summary": "엔비디아가 네이버 3대 주주에 오르며 AI 팩토리 협력이 본격화된다.네이버(대표 최수연)는 엔비디아를 대상으로 한 제3자 배정 유상증자 납입일이 다음 달 6일로 확정됐다고 30일 공시했다. 투자 규모는 10억달러(약 1조3400억원)로 신주 상장 예정일은 다음 달 27일이다.양사는 지난 7월 신주인수계약을 체결하며 네이버가 AI 팩토리 사업에 필요한 최소 90억달러(약 12조402억원) 규…",
      "source": "",
      "ts": 1793388977
+    },
+    {
+     "id": "9c6565a6791f1827",
+     "title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216836",
+     "summary": "광양만권경제자유구역청(청장 구충곤)은 30일 브리브 광주 바이 롯데호텔에서 GFEZ의 의료·철강·화학·항만물류 4개 산업 분야 전문가들과 지속가능한 발전 및 기업 투자유치 방안을 논의하는 '2026 전문가그룹 간담회'를 개최했다. 이번 행사에서는 급변하는 국내외 산업환경에 대응하고, GFEZ의 산업 경쟁력을 강화하기 위해 각 분야 전문가들이 지역의 산업 강점을 활용한 신규 투자유치 기회와…",
+     "source": "",
+     "ts": 1793375100
     },
     {
      "id": "b70a1895439226e7",
@@ -529,18 +537,10 @@
      "summary": "앤트로픽이 미국 정부를 제치고 스페이스X의 최대 고객으로 올라섰다. 올해 3분기 스페이스X 전체 매출의 34.5%가 앤트로픽에 AI 컴퓨팅 자원을 제공한 데서 발생한 것으로 알려졌다. 블룸버그는 29일(현지시간) 사정에 정통한 관계자를 인용, 스페이스X가 최근 분기 공시에서 익명으로 처리한 최대 고객 '고객 B(Customer B)'가 앤트로픽이라고 전했다.스페이스X는 지난 22일 공개한…",
      "source": "",
      "ts": 1793341778
-    },
-    {
-     "id": "50083dae4c87bcfb",
-     "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216821",
-     "summary": "미스트랄 AI가 이달 초 선보인 '미스트랄 라지 4(Mistral Large 4)'의 성능을 개선하고 모델 가중치를 공개하며 정식 출시했다. 기존에는 API를 통해서만 이용할 수 있었지만, 이제 기업과 개발자가 직접 모델을 내려받아 자체 시스템에서 운영하고 추가 학습할 수 있게 됐다. 특히 사이버 보안에 초점을 맞춰 외부 AI 서비스에 의존하지 않고 기업 내부에서 취약점 분석과 사고 대응을…",
-     "source": "",
-     "ts": 1793341009
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "2c60dce9bd",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793388426
+   "last_ok": 1793404394
   }
  ]
 }
