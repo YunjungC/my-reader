@@ -1,5 +1,5 @@
 {
- "generated_at": 1793404394,
+ "generated_at": 1793425975,
  "top_n": 10,
  "feeds": [
   {
@@ -9,12 +9,44 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "4b94ea246c50642e",
+     "title": "경상북도, '피지컬 AI ' 중심 메가특구 기획 본격화… 거버넌스 출범 - 연합인포맥스",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442227",
+     "summary": "... 프로젝트 를 구체화하기로 했습니다.포항은 로봇 파운드리와 시스템 ... 정부 메가특구 정책 에 선제 대응해 기업과 전문 기관이 함께 사업을 기획 ...",
+     "source": "",
+     "ts": 1793415030
+    },
+    {
+     "id": "aac9c92ca5d1ec9e",
+     "title": "기후위기&middot; AI 시대, 국민 생명지키는 「2027년 국가안전관리 집행계획」 확정",
+     "link": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156787067",
+     "summary": "행정안전부(장관 윤호중)는 기후위기 및 인공지능 ( AI ) 시대에 재난 ... 정부정책 사실은 이렇습니다. 실시간 인기뉴스 10.31. 10:12 기준. 이달 29일 ...",
+     "source": "",
+     "ts": 1793409321
+    },
+    {
+     "id": "f0015f715b766ee0",
+     "title": "AI 로 공무원을 대체할 수 있을까? 뉴질랜드와 네덜란드의 실험[딥다이브] - 동아일보",
+     "link": "https://www.donga.com/news/Economy/article/all/20261030/134937395/1",
+     "summary": "바로 공무원이죠. 뉴질랜드에 이어 네덜란드 정부 도 정부 부처 공무원 수를 대폭 감축하고 AI 를 도입하겠다는 정책 을 발표했습니다. 예산 절감을 위해 공무원 ...",
+     "source": "",
+     "ts": 1793408652
+    },
+    {
      "id": "8580c732dc188856",
      "title": "[다음주 재정경제부 등 경제부처 일정 ] < 정책 /금융 < 기사본문 - 연합인포맥스",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442307",
      "summary": "△15:00 부총리 국가 AI 전략위원회 제3차 전체회의(국가 AI 전략위원회). [방송 ... \"美 중간선거 후 분점 정부 유세…재정동력 추가 약화\" · 트럼프 \"이란과 ...",
      "source": "",
      "ts": 1793401482
+    },
+    {
+     "id": "b3812364c078e44a",
+     "title": "정부 , 2030년 자살률 18.9명 이하로…위기 발굴·대응 안전망 강화 - 한국방송뉴스",
+     "link": "https://www.ikbn.news/news/article.html?no=216781",
+     "summary": "인공지능 ( AI )과 데이터를 활용해 자살 위험을 조기에 찾아내는 체계도 구축 ... 한성숙 국무총리가 12일 서울 종로구 정부 서울청사에서 열린 자살예방 정책 위원회 ...",
+     "source": "",
+     "ts": 1793399662
     },
     {
      "id": "a7cb55b30954c65e",
@@ -55,42 +87,10 @@
      "summary": "지금은 인공지능 ( AI ) 시대로의 전환(AX)이 메가 트렌드다. 미국과 중국이 핵심 서비스를 개발하며 앞서가고 있다. 전자 정부 처럼 AI 시대로의 전환에서도 앞서갈 ...",
      "source": "",
      "ts": 1793379341
-    },
-    {
-     "id": "7bdd80d68a4f5d81",
-     "title": "[2026 폴리뉴스·상생과통일포럼 제27차 산업포럼] '프런티어 AI 가 여는 대한민국 산업 대전환 ...",
-     "link": "https://www.polinews.co.kr/news/articleView.html?idxno=747358",
-     "summary": "배경훈 부총리 겸 과학기술정보통신부 장관이 기조발제를 맡아 AI 정책 의 비전과 국가 전략을 제시한다. 기조발제에 이어 박태현 산업통상부 산업 인공지능 정책관 ...",
-     "source": "",
-     "ts": 1793375918
-    },
-    {
-     "id": "d1a68b196374c7fa",
-     "title": "일본 정부 , 사이버보안 대책에 미국 AI 개발사와 협력 강화 방안 포함 추진 - 블루밍비트",
-     "link": "https://bloomingbit.io/feed/news/123311",
-     "summary": "일본 정부 가 새로운 사이버보안 대책에 미국 인공지능 ( AI ) 개발사들과의 협력을 강화하는 방안을 포함할 계획인 것으로 전해졌다.",
-     "source": "",
-     "ts": 1793374771
-    },
-    {
-     "id": "e3f6435e1d5b74fc",
-     "title": "깃허브 \"올해 韓 이용자 350만 명… 정부 AI 정책 영향\" - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261030234712",
-     "summary": "카라드셰 디렉터는 인공지능 ( AI ) 기술 발전으로 소프트웨어 개발에 참여하는 사람이 늘고 있다고 설명했다. 전문 개발자뿐 아니라 프로그래밍을 배우는 ...",
-     "source": "",
-     "ts": 1793371974
-    },
-    {
-     "id": "acd4b8152f80df95",
-     "title": "한전KDN·철도공사, 양사 강점 연계 철도 에너지 효율화· AI 보안 강화 착수 - 에너지플랫폼뉴스",
-     "link": "http://www.e-platform.net/news/articleView.html?idxno=106586",
-     "summary": "... 정부 정책 이행을 위한 업무협약'을 체결했다. 양 기관은 '에너지와 철도의 혁신, 국민의 일상을 편리하게'라는 기치아래 인공지능 ( AI )·ESG 확산 등 정부 정책 ...",
-     "source": "",
-     "ts": 1793371462
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "cf53c0f1af",
@@ -99,88 +99,88 @@
    "site": "https://aimatters.co.kr",
    "items": [
     {
+     "id": "54e55690198d7efa",
+     "title": "[AI 활용팁] Word와 PPT를 무료로 대체! 월 12500원 아껴보자 | ArtCraft (아트크래프트) 2탄",
+     "link": "https://aimatters.co.kr/news-report/58068/",
+     "summary": "마이크로소프트 365 구독료가 부담스럽다면 무료 오픈소스 앱 워드크래프트와 덱크래프트가 대안이 될 수 있다. 워드와 파워포인트 파일을 그대로 열고 편집 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "d8339ff8c91b2c16",
+     "title": "레딧, 광고 매출 54% 증가…AI 검색 확산에 검색 유입 감소 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57895/",
+     "summary": "레딧의 3분기 광고 매출이 8억 4700만 달러로 54% 증가했다. 레딧은 AI 검색 확산으로 검색 유입이 줄어 4분기 일간 이용자가 10%대 초반 감소할 수 있다고 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "f8b82ec03c90a94e",
+     "title": "[AI 활용팁] 카드뉴스와 배너를 편집 가능한 피그마 레이어로 받는다 - GPT-6 아스트라",
+     "link": "https://aimatters.co.kr/ai-tool/58095/",
+     "summary": "챗GPT에 피그마 플러그인을 연결하면 대화창에서 지시한 카드뉴스와 배너, 썸네일 시안을 피그마 파일 안에 바로 생성할 수 있다. 이미지 생성 AI가 내놓는 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "42f4ee5b53b10bc1",
+     "title": "집라인, 배송 드론 소음 노출 68% 감소…비행 경로 실시간 조정 기술 적용 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/58015/",
+     "summary": "미국 드론 배송 업체 집라인이 비행 경로를 실시간으로 조정해 소음을 낮추는 기술을 보유 드론 전체에 적용했다. 집라인은 비행 1회당 전체 소음 노출이 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "f6da43a02c7d81dd",
+     "title": "월 10달러로 내 식당 브랜드 연다…원더, AI 외식 창업 플랫폼 공개 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/58062/",
+     "summary": "미국 푸드테크 업체 원더가 11월 17일 월 10달러로 자신만의 식당 브랜드를 운영하는 원더 크리에이트를 출시한다. AI가 브랜드 이름과 로고, 가격, ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "b62e294088d2e867",
+     "title": "솔트웨어, 데이터브릭스 행사서 폐쇄망 AI 플랫폼 '사피-ADP' 소개 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57962/",
+     "summary": "솔트웨어가 데이터브릭스 'Data+AI Learning Festival'에 참가해 데이터 플랫폼 구축 서비스와 폐쇄망 AI 플랫폼 사피-ADP를 소개했다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "822e92f38a8d1ef0",
+     "title": "광고 정보 기업 가이드라인, AI 에이전트에 美 광고 단가 추가 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/57900/",
+     "summary": "광고 정보 기업 가이드라인이 미국 디지털 광고 단가 데이터를 AI 에이전트와 MCP 서버에 추가했다. 10월 30일부터 제공되며 프로그래매틱 다이렉트 보기는 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "f360d79ab370a017",
+     "title": "심보틱, 월마트 물류센터 25곳에 창고 로봇 추가 공급…약 8조 원 규모 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/58012/",
+     "summary": "창고 자동화 로봇 업체 심보틱이 월마트와 상업 계약을 확대해 미국 지역 물류센터 25곳에 자동화 설비를 추가로 공급한다. 두 회사는 초기 지출 규모를 약 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "6224d322675077c4",
+     "title": "[AI 매터스 뉴스레터 #204] 제미나이는 왜 엉망이 됐을까",
+     "link": "https://aimatters.co.kr/news-report/aimatters-newsletter/58044/",
+     "summary": "구글이 10월 9일 무료 이용자 모델을 플래시 라이트 하나로 줄이고 11월에는 젬도 종료한다. 독자 설문에서는 42%가 제미나이가 구글 어시스턴트보다 퇴보 ...",
+     "source": "",
+     "ts": null
+    },
+    {
      "id": "f57b5a04223d80c2",
      "title": "리비안, AI 음성 비서 기술 폭스바겐에 라이선스 제공 - AI매터스",
      "link": "https://aimatters.co.kr/news-report/57974/",
      "summary": "리비안이 자체 개발한 AI 음성 비서 기술 일부를 폭스바겐 그룹에 라이선스로 제공한다. 최대 58억 달러 규모 합작 법인의 범위가 확대된 것으로, ...",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "8d077adafb3fbc18",
-     "title": "실험실 자동화 로봇 업체 오픈트론스, 535억 원 투자 유치 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/58013/",
-     "summary": "실험실 자동화 로봇 업체 오픈트론스가 4000만 달러(약 535억 원) 규모의 시리즈 E 투자를 유치했다. 투자금은 AI 기반 실험 실행 기능과 로봇, ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "bc4ce4c701e85d9c",
-     "title": "NYT \"中 정보원 의심 인물, 젠슨 황과 접촉\"…엔비디아 반박 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/58048/",
-     "summary": "미국 정보당국이 젠슨 황 엔비디아 CEO와 접촉한 메가스피드 임원 앨리스 황을 중국 정보원으로 판단했다고 뉴욕타임스가 보도했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "cab68b19820e9b04",
-     "title": "오픈AI, 챗GPT 프로 100과 500 사용량 2배 상향 및 프로 200 축소 철회 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/58046/",
-     "summary": "오픈AI가 챗GPT 프로 100과 프로 500의 워크, 코덱스 사용량을 2배로 상향하고, 9월 예고한 프로 200 사용량 축소 계획을 철회했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "de563af7213f8a7c",
-     "title": "2026년 10월 말 AI 성능 1위는 제미나이 4 카본, 가성비 1위는 GPT-6.1 테라 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/58081/",
-     "summary": "아티피셜 애널리시스가 인텔리전스 인덱스를 v5로 개편했다. 제미나이 4 카본이 59점으로 1위, 과제당 0.96달러인 GPT-6.1 테라가 가성비 1위다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "e02aa3f0693973ff",
-     "title": "딥시크와 문샷 AI, GPT-6 아스트라 증류해 신모델 학습 의혹 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/58047/",
-     "summary": "딥시크와 문샷 AI가 키미 K3.1 프로와 V4.1-플래시-1017을 개발하면서 오픈AI GPT-6 아스트라의 답변을 학습 데이터로 대량 활용했다고 디 인포메이션이 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "0be94fd673eefbf6",
-     "title": "AI가 부른 '공포의 10월'…해외 대형 해킹과 국내 피해 기업 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/58061/",
-     "summary": "10월 PHP와 깃랩 치명적 취약점, 인증서와 개발 도구 침해가 잇따랐다. 국내에서는 금융사 20곳 이상과 마이리얼트립, 놀유니버스, 대한항공, 진에어, ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "07a2eeaaa53f45cb",
-     "title": "DomoAI로 응원봉 로고까지 똑같이, 3만 원으로 뽑은 아이돌 AI 뮤직비디오 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/58074/",
-     "summary": "DomoAI 옴니 레퍼런스로 아이돌 팬메이드 AI 뮤직비디오를 만든 전 과정을 정리했다. 레퍼런스 입력과 프롬프트 작성 요령, 480P 테스트 후 업스케일하는 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "7bae979e2b701519",
-     "title": "오픈AI, 구글 TPU 구매 추진…TPU 최적화 엔지니어 채용 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/58049/",
-     "summary": "오픈AI가 구글의 AI 반도체 TPU 구매를 추진하고 TPU 최적화 엔지니어 채용에 나섰다. 구글은 2027년부터 오라클 클라우드에서도 TPU를 제공한다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "085a69f7b0201a79",
-     "title": "시에라클럽 \"美 데이터센터로 2030년 전력 탄소 42% 증가\" - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/58050/",
-     "summary": "미국 환경 단체 시에라클럽이 계획 중인 AI 데이터센터가 가동되면 2030년 미국 전력 부문 탄소 배출량이 2025년보다 42% 증가할 수 있다고 분석했다.",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "25ac01331a",
@@ -188,6 +188,30 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "7f18e64a52e9fb8a",
+     "title": "Judge blocks DOJ from threatening election workers before midterms",
+     "link": "https://www.axios.com/2026/10/31/doj-threats-election-workers-midterms",
+     "summary": "A federal judge Friday blocked the Trump administration from threatening election workers with criminal prosecution for counting ballots cast by registered voters the administration claims are ineligible. Why it matters…",
+     "source": "",
+     "ts": 1793412627
+    },
+    {
+     "id": "552d6535d0134c58",
+     "title": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
+     "link": "https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms",
+     "summary": "Qatari mediators held talks in Tehran for more than 12 hours on Friday in an effort to reach a deal to restart direct negotiations between the U.S. and Iran and avoid an outbreak of war after the midterms, according to…",
+     "source": "",
+     "ts": 1793408585
+    },
+    {
+     "id": "0e99562fde160a29",
+     "title": "Just four days before Election Day, DOJ probes Arizona voter registrations",
+     "link": "https://www.axios.com/local/phoenix/2026/10/31/doj-arizona-voter-registration-probe-election",
+     "summary": "The Justice Department is investigating the Arizona voter registration efforts of three Democratic-aligned groups after an \"undercover\" video purported to show volunteers willing to register non-citizens. Why it matters…",
+     "source": "",
+     "ts": 1793407757
+    },
     {
      "id": "1824d7eacf999ca6",
      "title": "Trump DOJ loses last-minute California ballot bid",
@@ -197,12 +221,12 @@
      "ts": 1793394460
     },
     {
-     "id": "841509f9c60ab4aa",
-     "title": "Judge to probe whether Trump officials lied in golf course case",
-     "link": "https://www.axios.com/2026/10/30/judge-investigation-doj-interior-trump-golf-course",
-     "summary": "A federal judge said Friday she plans to appoint a special master to investigate whether Justice and Interior Department officials misled the court about the Trump administration's plans to renovate a D.C. golf course,…",
+     "id": "bfa8ab4991d84a0b",
+     "title": "The viral anti-MAGA guy on Fox News is from Charlotte — and he has merch now",
+     "link": "https://www.axios.com/local/charlotte/2026/10/30/jonestown-fox-news-viral-clip-madpark-designs",
+     "summary": "Have you seen the Oct. 29 clip ? The one where a guy compared a Trump rally to the 1978 Jonestown massacre while he was live on Fox News. \"Wait, the Jonestown massacre?\" Fox correspondent Lucas Tomlinson asked. \"There's…",
      "source": "",
-     "ts": 1793394116
+     "ts": 1793391339
     },
     {
      "id": "3d6f71384535ae18",
@@ -243,34 +267,10 @@
      "summary": "Democrats weighing 2028 presidential bids are piling onto the AI hate wave in their messaging, per an analysis shared exclusively with Axios. Why it matters: Democrats are turning AI anxiety into a political rallying cr…",
      "source": "",
      "ts": 1793363566
-    },
-    {
-     "id": "0639ab2a83585fc7",
-     "title": "Why energy will have a starring role if Democrats take Congress",
-     "link": "https://www.axios.com/2026/10/30/energy-democrats-congress-midterms",
-     "summary": "President Trump's energy policies and investment deals could become major targets of Democratic investigations if the party wins control of either chamber of Congress. Why it matters: Congressional probes could expose n…",
-     "source": "",
-     "ts": 1793363034
-    },
-    {
-     "id": "958625da654e3e73",
-     "title": "Corporate America's Trump trap",
-     "link": "https://www.axios.com/2026/10/30/democrat-subpoenas-investigations-corporate-trump",
-     "summary": "America's corporate titans greeted President Trump's 2024 victory with open checkbooks , 12-figure investment pledges and fawning tributes to his coming \"Golden Age.\" Two years later, on the eve of a potential blue wave…",
-     "source": "",
-     "ts": 1793352738
-    },
-    {
-     "id": "edcb6a017413bbdb",
-     "title": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti",
-     "link": "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
-     "summary": "El Salvador's strongman president, Nayib Bukele , is sending thousands of troops to Haiti to boost the island's push to wipe out its gang problem — and find four of his military personnel who were captured in a recent a…",
-     "source": "",
-     "ts": 1793352305
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "857d08f35b087271",
+     "id": "1b84d75cf239d0c0",
+     "title": "Show HN: 약 1GB의 Qwen 가중치 안에서 작동하는 Nintendo",
+     "link": "https://news.hada.io/topic?id=36318&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "nesformer 는 NES의 6502 CPU, 2KB RAM, 카트리지 프로그램 ROM을 표준 Qwen3.5 체크포인트 안에서 실행함. 가중치는 학습하지 않고 컴파일러로 계산했으며, 모델이 CPU 실행 기록을 토큰 단위로 생성함 Gated DeltaNet 상태를 메모리로 사용 해 CPU 레지스터와 RAM,...",
+     "source": "",
+     "ts": 1793410598
+    },
+    {
+     "id": "6ff6d4d1335fbd2d",
+     "title": "Patrick Stewart가 Jean-Luc Picard 함장을 통해 가르쳐 준 사람의 됨됨이",
+     "link": "https://news.hada.io/topic?id=36317&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Patrick Stewart가 연기한 Jean-Luc Picard 함장 은 책을 좋아하고 상상력이 풍부하며 다소 너드 성향인 소년 세대에게 성숙하고 책임감 있는 어른의 본보기가 되었음 Stewart의 죽음 은 1990년대 Star Trek: The Next Generation을 보며 자란 일부 팬들에게 미래의 ...",
+     "source": "",
+     "ts": 1793410418
+    },
+    {
+     "id": "e8af8f2aa83a61ff",
+     "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
+     "link": "https://news.hada.io/topic?id=36315&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Android TV와 Google TV에 Wi-Fi로 연결해 제조사 광고/텔레메트리 서비스와 불필요한 기본 앱을 비활성화 하고, 간결한 홈 화면을 설치 루팅이나 펌웨어 교체 없이 ADB로 동작 하며, 앱을 삭제하지 않고 사용 중지하는 방식. 변경 전 상태를 기록하고 복구 스크립트...",
+     "source": "",
+     "ts": 1793406602
+    },
+    {
+     "id": "42cb629d374637c8",
+     "title": "좋아하는 웹사이트가 있다면 백업하세요",
+     "link": "https://news.hada.io/topic?id=36313&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "웹사이트 보존을 Internet Archive 같은 대형 조직에만 맡길 필요는 없으며, 개인도 직접 아카이브를 만들어 좋아하는 사이트와 정보를 보존할 수 있음 ArchiveWeb.page 는 브라우저로 페이지를 둘러보며 저장하는 도구로, 단일 페이지부터 소셜 미디어 게시물과 프...",
+     "source": "",
+     "ts": 1793405216
+    },
+    {
+     "id": "2d5bf443c6f2442c",
+     "title": "AT Protocol 사용자들은 이 데이터가 공개된다는 사실을 알고 있을까?",
+     "link": "https://news.hada.io/topic?id=36312&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "AT Protocol 앱의 공개 데이터에서 개인용 RSS 피드와 채팅 메시지를 쉽게 찾을 수 있지만, 사용자들이 공개 범위와 위험을 이해하는지는 불확실함 RSS 리더 Skyreader 는 구독 피드 주소를 공개 데이터로 저장하며, 앱 리뷰에 표시된 계정 이름만으로도 해당 사용자...",
+     "source": "",
+     "ts": 1793405036
+    },
+    {
+     "id": "a7b0aee347ad4746",
      "title": "Bunny CDN 보안 사고",
-     "link": "https://news.hada.io/topic?id=36311",
+     "link": "https://news.hada.io/topic?id=36311&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
      "summary": "bunny.net 인프라 공급업체 에서 서드파티 서버 관리 소프트웨어와 관련된 무단 접근 사고가 발생했으며, 해당 업체 서버에서는 아르메니아 소재 CDN 노드 하나가 운영되고 있었음 경고를 받은 뒤 20분 이내에 해당 서버로의 트래픽 라우팅을 중단 하고, 로그 보존과...",
      "source": "",
      "ts": 1793403103
     },
     {
-     "id": "37bbc513fe6ace8a",
+     "id": "bc60a5680f45a75c",
      "title": "Florilegium: LaTeX에서 절차적으로 생성하는 꽃 장식",
-     "link": "https://news.hada.io/topic?id=36310",
+     "link": "https://news.hada.io/topic?id=36310&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
      "summary": "Florilegium 은 이미지나 외부 자산 없이 Lua로 꽃잎, 잎, 줄기의 곡선을 계산해 LaTeX 페이지 여백에 수채화풍 꽃 장식을 그리는 패키지임 자동 성장 배치 는 줄기가 닿을 수 있는 가장 큰 빈 공간부터 가지와 꽃으로 채우며, 마지막 페이지에서 본문 아래 남은 공간...",
      "source": "",
      "ts": 1793400173
     },
     {
-     "id": "c5ccf9754ad58b00",
-     "title": "블록체인 분석업체들, Binance 63억 달러 해킹과 북한의 연관성 지목",
-     "link": "https://news.hada.io/topic?id=36309",
-     "summary": "TRM과 Chainalysis 는 세계 최대 암호화폐 거래소 Binance의 대규모 해킹 배후로 북한 해킹 조직 TraderTraitor 를 지목함 TRM 분석에 따르면 공격자는 10개 블록체인 의 Binance 지갑에서 약 63억6,000만 달러 를 빼냈으며, 대부분...",
+     "id": "8fa58bcc54d99246",
+     "title": "블록체인 분석업체들, 약 8.5조 원 규모 Binance 해킹에 북한 연관성 지목",
+     "link": "https://news.hada.io/topic?id=36309&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "TRM Labs와 Chainalysis가 Binance 해킹의 배후로 북한 해킹 조직 TraderTraitor를 지목 함. Binance는 수사기관과 범인의 신원을 확인 중이라고 밝힘 공격자는 10개 블록체인의 Binance 지갑에서 약 63억6,000만 달러(약 8.5조 원)를 탈취 했으며, 대부분의 자금 이...",
      "source": "",
      "ts": 1793399992
     },
     {
-     "id": "42c6b32360c04bd7",
+     "id": "4f865187e831d504",
      "title": "내가 가장 좋아하는 PowerMac은 Nintendo Wii",
-     "link": "https://news.hada.io/topic?id=36308",
+     "link": "https://news.hada.io/topic?id=36308&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
      "summary": "Nintendo GameCube/Wii 계열에 클래식 Mac OS를 이식하는 프로젝트 가 처음으로 데스크톱 부팅에 성공했으며, 실제 Wii 하드웨어에서는 Mac OS 7.6이 약 40초 만에 부팅됨 OpenBIOS와 런타임 패치 로 부팅 환경을 구성하고, Mac OS가 전제하는 Macintosh의 메모리 배...",
      "source": "",
      "ts": 1793399812
     },
     {
-     "id": "17573880a82574eb",
+     "id": "0e97ad7b6069ecd3",
      "title": "Tangled - 자체 호스팅과 협업을 결합한 연합형 코드 포지",
-     "link": "https://news.hada.io/topic?id=36307",
+     "link": "https://news.hada.io/topic?id=36307&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
      "summary": "Tangled 는 코드를 자체 서버에 호스팅하면서도 다른 사용자와 협업할 수 있는 연합형 코드 포지임. Git 호스팅이나 CI 실행기만 운영하거나 API 서버와 UI까지 모두 자체 운영할 수 있음 AT Protocol 을 기반으로 확장 기능, 사용자 정의 Git 호스팅 서버와 CI 구성...",
      "source": "",
      "ts": 1793395939
-    },
-    {
-     "id": "c9d951dc94a027b2",
-     "title": "Blackstone, “Anthropic은 IPO 이후에도 투자적격 신용등급을 받지 못할 수 있어”",
-     "link": "https://news.hada.io/topic?id=36306",
-     "summary": "",
-     "source": "",
-     "ts": 1793392261
-    },
-    {
-     "id": "9ec219380133ed64",
-     "title": "Proton CEO, AI 활용 ‘재면접’ 취소",
-     "link": "https://news.hada.io/topic?id=36304",
-     "summary": "Proton CEO Andy Yen 이 직원들의 AI 활용도를 확인하려던 재면접을 취소 함. 거의 전사 규모로 추진됐으며, 직원들에 따르면 AI를 충분히 쓰지 않으면 해고될 수 있다는 취지가 분명했던 절차임 취소는 보안 우려에도 AI 사용을 강하게 밀어붙이는 경영 방식...",
-     "source": "",
-     "ts": 1793388754
-    },
-    {
-     "id": "2751285fd59cc4ed",
-     "title": "미국 기술주, AI 비용 우려에 급락",
-     "link": "https://news.hada.io/topic?id=36303",
-     "summary": "대규모 AI 투자에 비해 실적이 기대에 못 미치면서 미국 기술주가 이틀 연속 하락함. 금요일 Nasdaq은 3.5% 넘게 떨어졌고 Intel은 장중 최대 30% 급락함 Meta, Alphabet, Oracle, Amazon, Microsoft의 2026년 지출 계획은 총 8,006억 달러 에 달하며, 막대한 AI 투...",
-     "source": "",
-     "ts": 1793385416
-    },
-    {
-     "id": "1c05d6f73564433a",
-     "title": "Northflank 침해 사고 발생",
-     "link": "https://news.hada.io/topic?id=36302",
-     "summary": "Northflank가 보안 사고 를 공지하고, 모든 사용자에게 환경 변수가 복호화됐다고 가정해 즉시 키를 비활성화하거나 교체하도록 권고함 교체 대상에는 워크로드의 시크릿 , 시크릿 그룹, 전역 시크릿이 포함됨 여러 사용자가 자신의 AI 키가 사용된...",
-     "source": "",
-     "ts": 1793385236
-    },
-    {
-     "id": "4ccf75090f37daef",
-     "title": "ICE, 가면을 되찾으려 삭제 요청 대행업체를 고용하다",
-     "link": "https://news.hada.io/topic?id=36301",
-     "summary": "FlokiNET 이 ICE를 대리하는 ZeroFox의 Icepick 사이트 삭제 요청을 거부함. 유출된 정부 직원의 업무상 신원 정보를 언론인과 시민의 공적 책임 추적에 쓰이는 자료로 판단함 데이터는 침해 사고로 유출 됐으며 당사자들은 공개에 동의하지 않았음. 다만 FlokiNET은...",
-     "source": "",
-     "ts": 1793382243
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "f9eb976542",
@@ -459,88 +459,88 @@
    "site": "https://www.aitimes.com",
    "items": [
     {
-     "id": "bedd646b47bce2aa",
-     "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216835",
-     "summary": "엔비디아가 네이버 3대 주주에 오르며 AI 팩토리 협력이 본격화된다.네이버(대표 최수연)는 엔비디아를 대상으로 한 제3자 배정 유상증자 납입일이 다음 달 6일로 확정됐다고 30일 공시했다. 투자 규모는 10억달러(약 1조3400억원)로 신주 상장 예정일은 다음 달 27일이다.양사는 지난 7월 신주인수계약을 체결하며 네이버가 AI 팩토리 사업에 필요한 최소 90억달러(약 12조402억원) 규…",
+     "id": "edaa9da12b480255",
+     "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216848",
+     "summary": "AI타임스와 이스트에이드의 10월 넷째 주(10월23일~29일) 이슈 분석 결과, 미국 중간선거를 앞두고 불거진 미·이란 전면전 우려를 비롯해 국내 증시 급락과 구룡마을 화재 등이 상위권에 올랐다.이번 주 검색량 1위는 '미국 이란 전면전 위험(5.43%)'이 차지했다. 미 중부사령부가 트럼프 대통령에게 이란 공격 방안을 보고하면서 공격 재개 임박 관측이 나왔으며, 미·이스라엘 두 정상이…",
      "source": "",
-     "ts": 1793388977
+     "ts": 1793449603
     },
     {
-     "id": "9c6565a6791f1827",
-     "title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216836",
-     "summary": "광양만권경제자유구역청(청장 구충곤)은 30일 브리브 광주 바이 롯데호텔에서 GFEZ의 의료·철강·화학·항만물류 4개 산업 분야 전문가들과 지속가능한 발전 및 기업 투자유치 방안을 논의하는 '2026 전문가그룹 간담회'를 개최했다. 이번 행사에서는 급변하는 국내외 산업환경에 대응하고, GFEZ의 산업 경쟁력을 강화하기 위해 각 분야 전문가들이 지역의 산업 강점을 활용한 신규 투자유치 기회와…",
+     "id": "720b7c5d8ba53f3e",
+     "title": "엔비디아, 엔스케일 자금난에 지원 검토…앤트로픽 60조 데이터센터 신용 보증",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216838",
+     "summary": "엔비디아가 영국 클라우드 기업 엔스케일(Nscale)의 대규모 데이터센터 건설을 지원하기 위해 수십억달러의 신용 보증을 제공하는 방안을 논의 중인 것으로 알려졌다. 앤트로픽이 사용할 데이터센터의 건설 자금을 확보하도록 지원하는 것으로, 엔비디아가 GPU 공급을 넘어 고객사의 인프라 투자에 따른 금융 위험까지 분담하려는 움직임이다.디 인포메이션은 29일(현지시간) 복수의 소식통을 인용, 엔비…",
      "source": "",
-     "ts": 1793375100
+     "ts": 1793443682
     },
     {
-     "id": "b70a1895439226e7",
-     "title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216831",
-     "summary": "LG CNS(대표 현신균)는 올해 3분기 매출 1조6643억원, 영업이익 1382억원을 기록했다고 30일 밝혔다.전년 동기 대비 매출은 9.3%, 영업이익은 15.0% 증가했다. AI·클라우드 사업 성장과 금융권 시스템 구축 사업 성과가 실적을 견인했다는 설명이다.AI·클라우드 분야 매출은 전년 동기 대비 9.3% 증가한 9615억원으로 데이터센터 부문은 삼송 등 데이터센터 코로케이션 매출…",
+     "id": "b242253a336e47e3",
+     "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216846",
+     "summary": "앤트로픽이 '클로드'의 최고가 요금제 이름을 변경하고 인증된 가입자를 대상으로 5시간 단위 사용량 제한을 폐지한다. 기존 요금제에 표시된 '20배'가 실제 주간 사용량에도 적용되는 것으로 일부 이용자가 오해하자, 명칭을 바꾸고 구체적인 사용 조건을 설명한 것이다. 앤트로픽은 이용자 혼선에 대해 사과했으며, 월 200달러 요금제의 인증된 가입자는 주간 사용 한도 안에서 5시간 단위 제한 없이…",
      "source": "",
-     "ts": 1793364436
+     "ts": 1793442794
     },
     {
-     "id": "e5d300f1f008489a",
-     "title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216827",
-     "summary": "한국딥러닝(대표 김지현)은 IBK기업은행 금융소비자지원부와 시각언어모델(VLM) 기반 보이스피싱 피해구제 업무 자동화를 구현했다고 30일 밝혔다.이번 과제는 올해 4월부터 8월까지 진행됐으며, ‘2026 공공기관 AI혁신 챌린지’ AI 서비스 실증(PoC) 부문 우수상에 선정됐다.양사는 금융 특화 AI 에이전트 ‘딥 에이전트 포 금융’을 적용해 서류 인식·분류부터 정보 추출, 범죄 유형 추…",
+     "id": "e073fabcef146ebe",
+     "title": "[내면 지도 그리기] 40 Inner Mapping: 나를 찾는 지도",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216839",
+     "summary": "달력의 내면 지도1월2일에는 ‘세계 내향인의 날’이 있습니다.흥미로운 건 날짜입니다. 한 해의 마지막 며칠 동안 사람들을 만나고, 송년회를 하고, 새해 인사를 나누고, 카운트다운을 한 바로 다음 날입니다. 조금 조용히 있고 싶은 사람에게는 제법 잘 고른 날짜처럼 느껴집니다.세계 내향인의 날은 독일의 심리학자이자 작가인 펠리치타스 하이네가 2011년 제안하며 시작됐습니다. 내향적인 사람을 소…",
      "source": "",
-     "ts": 1793359936
+     "ts": 1793441099
     },
     {
-     "id": "096ded9067a9a1b6",
-     "title": "허깅페이스 오픈소스팀, 비드래프트 판단 AI 체험 데모 제작 기증",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216833",
-     "summary": "비드래프트(VIDRAFT·대표 김민식)는 자사가 공개한 비전 판단 인공지능(AI) 모델 ‘Darwin-35B-ZTC-Vision’의 체험용 데모를 허깅페이스(Hugging Face) 본사 오픈소스팀이 직접 제작해 기증했다고 30일 밝혔다.허깅페이스 오픈소스팀 소속 아폴리나리오(Apolinário)는 지난 10월 27일 해당 모델의 공개 페이지에 글을 올려 공개를 축하하고 작업에 감사를 표했…",
+     "id": "5556d03fd891181b",
+     "title": "[AI카툰] Bob, Senior IT guy - 밥, AI 수용 단계",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216842",
+     "summary": "글·그림 Dr. Alf",
      "source": "",
-     "ts": 1793359858
+     "ts": 1793440800
     },
     {
-     "id": "7aed384709869190",
-     "title": "AI 신소재 나노포지에이아이, 146억 시드 투자 유치",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216829",
-     "summary": "AI 기반 신소재 개발 스타트업 나노포지에이아이(대표 김동현)가 146억원 규모의 시드 투자를 유치했다고 30일 밝혔다.이번 투자 라운드에는 기존 투자사인 퓨처플레이와 매쉬업벤처스를 비롯해 미래에셋벤처투자·DSC인베스트먼트·KDB산업은행·에코프로파트너스 등이 신규 투자자로 참여했다. 나노포지에이아이의 누적 투자 유치액은 150억원을 넘었다.2025년 설립된 나노포지에이아이는 원자 수준의 A…",
+     "id": "89d1e6204c7dc841",
+     "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216843",
+     "summary": "구글이 AI 검색을 앞세워 기존 검색 시장의 지배력을 유지했지만, 정작 AI 검색이 핵심 수익원인 광고 사업에 부담을 주기 시작했다. 챗GPT 등 AI 챗봇이 기존 검색을 대체할 것이라는 전망에 대응해 검색 서비스에 AI를 적극 도입했으나, AI 검색의 광고 수익성이 기존 검색에 미치지 못하는 문제가 드러난 것이다. 여기에 AI 인프라 투자 비용까지 급증하면서 구글 모회사 알파벳의 시가총액…",
      "source": "",
-     "ts": 1793358334
+     "ts": 1793440645
     },
     {
-     "id": "841d0224164422b7",
-     "title": "[AI리더의 서가] 아파치 아이스버그 완벽 가이드",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216586",
-     "summary": "아파치 아이스버그 완벽 가이드토메르 시란·제이슨 휴즈·알렉스 메르세드 | 제이펍2026년 10월 15일추천이유데이터 엔지니어가 데이터 레이크의 유연성과 웨어하우스의 안정성을 결합한 레이크하우스를 구축하기 위해 아이스버그의 내부 구조부터 성능 최적화, 프로덕션 운영까지 실무에 필요한 모든 지식을 습득할 수 있습니다.상세보기 \"사내 데이터로 AI 에이전트를 돌려 보자는 이야기가 나올 때마다 결…",
+     "id": "37b1b19f7b1dafc1",
+     "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216840",
+     "summary": "미국 빅테크 기업들의 AI 투자 급증에 대한 불안감이 커지면서 기술주가 급락했다. AI 수요와 클라우드 매출은 빠르게 늘고 있지만, 데이터센터와 반도체에 투입되는 막대한 자금이 실제 수익으로 이어질 수 있는지 의문이 커진 것이다. 특히 아마존과 인텔의 실적 발표가 투자자들의 불안을 자극하면서 30일(현지시간) 나스닥 지수는 2.86% 하락했다. 10월 한 달 동안 나스닥100 지수에서 약…",
      "source": "",
-     "ts": 1793350800
+     "ts": 1793439555
     },
     {
-     "id": "00ca9ffc93d670c7",
-     "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216824",
-     "summary": "앤트로픽이 '클로드'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은 최근 공식 연구 블로그를 통해 '자기…",
+     "id": "d8ad552fa30d8d15",
+     "title": "미국 메릴랜드, 태양광·ESS 보조금 입찰 시작…2년간 최대 2억달러 추진",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216801",
+     "summary": "미국 메릴랜드주가 태양광·에너지저장장치(ESS) 등 대규모 재생에너지 사업에 2년간 최대 2억달러(약 2672억원)를 지원하는 경쟁입찰 프로그램의 신청 접수를 시작했다. 사업자가 요청하는 보조금을 예상 전력 공급량으로 환산해 지원 단가가 낮은 사업을 선정하는 방식이다. 전력 수요 증가에 대응해 주내 발전설비를 확충하고 장기적으로 전기요금 부담을 줄이려는 목적이다.메릴랜드 에너지청(MEA)이…",
      "source": "",
-     "ts": 1793344919
+     "ts": 1793439000
     },
     {
-     "id": "15b9a6352d86bc57",
-     "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216823",
-     "summary": "오픈AI가 '챗GPT'의 유료 프로 및 기업용 요금제에서 AI 작업에 사용할 수 있는 기본 사용량을 최대 2배 늘렸다. 기존 월 200달러 요금제에 예고했던 사용량 축소 계획도 철회했다. 이번 조치는 오픈AI가 이달 초부터 진행한 28일 연속 서비스 개선 캠페인의 25일차 발표로, 모델 성능과 작업 속도를 높이는 데 이어 이용자가 실제로 처리할 수 있는 업무량을 늘리는 데 초점을 맞췄다.티…",
+     "id": "72764488d82990a1",
+     "title": "순천, 불법 옥외광고물 정비…50여명 합동 캠페인",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216667",
+     "summary": "AI 생성 영상순천시가 주요 도로변의 불법 옥외광고물을 정비하고 올바른 현수막 게시 방법을 알리는 민·관 합동 캠페인을 진행했다.순천은 지난 22일 전라남도 옥외광고협회 순천시지부 회원 50여명과 함께 불법 옥외광고물 추방 캠페인을 실시했다고 밝혔다.참가자들은 2개조로 나눠 의료원로터리와 순고오거리 등 주요 도로변에서 불법 광고물 정비와 시민 홍보활동을 진행했다.특히 가로수를 이용한 현수막…",
      "source": "",
-     "ts": 1793343144
+     "ts": 1793439000
     },
     {
-     "id": "a0750a8eaf65992f",
-     "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216822",
-     "summary": "앤트로픽이 미국 정부를 제치고 스페이스X의 최대 고객으로 올라섰다. 올해 3분기 스페이스X 전체 매출의 34.5%가 앤트로픽에 AI 컴퓨팅 자원을 제공한 데서 발생한 것으로 알려졌다. 블룸버그는 29일(현지시간) 사정에 정통한 관계자를 인용, 스페이스X가 최근 분기 공시에서 익명으로 처리한 최대 고객 '고객 B(Customer B)'가 앤트로픽이라고 전했다.스페이스X는 지난 22일 공개한…",
+     "id": "78c9d7bb14709516",
+     "title": "기후변화로 스웨덴 태양광 발전량 5% 증가 전망…봄철 적설 감소 영향",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216806",
+     "summary": "스웨덴에서 기후변화로 봄철 적설량이 줄어들면 태양광 발전량이 과거보다 약 5% 증가할 수 있다는 연구 결과가 나왔다. 기온 상승은 태양전지의 발전효율을 떨어뜨리지만, 눈이 패널을 덮어 발생하는 발전 손실이 줄어드는 효과가 이를 일부 상쇄하는 것으로 분석됐다. 다만 지역과 온실가스 배출 시나리오에 따라 발전량이 감소하는 곳도 있었다.스웨덴 왕립공과대학교(KTH)와 스웨덴 기상수문연구소(SMH…",
      "source": "",
-     "ts": 1793341778
+     "ts": 1793438100
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "2c60dce9bd",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793404394
+   "last_ok": 1793425975
   }
  ]
 }
