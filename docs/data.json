@@ -1,5 +1,5 @@
 {
- "generated_at": 1793450579,
+ "generated_at": 1793471834,
  "top_n": 10,
  "feeds": [
   {
@@ -8,6 +8,38 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "c95486fb321ff9eb",
+     "title": "AI 로 게임 만들고 로봇과 대화…깃허브가 넓힌 개발 생태계 - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261031030544",
+     "summary": "깃허브 유니버스 깃허브 GitHub AI 인공지능 엔비디아 피그마 디자인 코딩 코파일럿 퓨전 오픈 AI 앤트로픽 모델 ... 정부 AI 정책 영향\". 깃허브 \"올해 韓 이용자 ...",
+     "source": "",
+     "ts": 1793464584
+    },
+    {
+     "id": "f613f652144c8826",
+     "title": "한전KDN·코레일, AI ·ESG 기반 인프라 혁신 맞손...철도 안전과 에너지 효율 동시에",
+     "link": "https://www.energykorea.co.kr/news/articleView.html?idxno=66770",
+     "summary": "30일 대전 본사서 ' 정부 정책 이행' 업무협약 체결 철도 전력 설비 예지보전 강화 철도역 에너지관리시스템 실증 및 국가망보안체계 연계 AI 보안 검증.",
+     "source": "",
+     "ts": 1793458083
+    },
+    {
+     "id": "aaaf0f3d2b29c1ab",
+     "title": "철도 전기 고장 징후를 미리 읽는 설비 관리…한전KDN·한국철도공사 협력",
+     "link": "https://www.esnews.kr/news/articleView.html?idxno=7120",
+     "summary": "이번 협약은 정부 의 인공지능 ( AI ) 도입과 ESG(환경·사회·지배구조) 확산 정책 을 이행하기 위한 것이다. 양 기관은 기반 시설의 안전성을 높이고 에너지를 ...",
+     "source": "",
+     "ts": 1793452422
+    },
+    {
+     "id": "c314a10fc24c149d",
+     "title": "인텔, PC 사업 우려에 사상 최대 30% 급락...美 정부 지분가치 16조 증발 - 서울경제",
+     "link": "https://www.sedaily.com/article/20108553",
+     "summary": "인텔의 데이터센터와 인공지능 ( AI ) 사업부는 73억 달러의 매출을 기록해 전년 대비 78% 증가한 반면, PC용 칩을 생산하는 클라이언트 사업부의 매출은 5% 감소한 ...",
+     "source": "",
+     "ts": 1793444480
+    },
     {
      "id": "3b6bd847eb0c48b4",
      "title": "공항 안전부터 고독사 예방까지… AI , 공공서비스 현장으로 들어오다 - 데일리환경",
@@ -55,42 +87,10 @@
      "summary": "정부 가 2030년까지 스마트제조혁신에 5조 원 이상을 투입해 중소 제조기업 3만 곳의 디지털 전환을 지원하고, 이 가운데 6천곳에는 인공지능 ( AI )을 도입한다 ...",
      "source": "",
      "ts": 1793419263
-    },
-    {
-     "id": "4b94ea246c50642e",
-     "title": "경상북도, '피지컬 AI ' 중심 메가특구 기획 본격화… 거버넌스 출범 - 연합인포맥스",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442227",
-     "summary": "... 프로젝트 를 구체화하기로 했습니다.포항은 로봇 파운드리와 시스템 ... 정부 메가특구 정책 에 선제 대응해 기업과 전문 기관이 함께 사업을 기획 ...",
-     "source": "",
-     "ts": 1793415030
-    },
-    {
-     "id": "61b4643270c41f22",
-     "title": "우리나라 주도 '군사분야 AI ' 유엔 결의 3년 연속 채택 - 보도자료 - 대한민국 정책브리핑",
-     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787393&pWise=sub&pWiseSub=C1",
-     "summary": "제81차 유엔총회 1위원회에서 우리나라와 네덜란드가 공동으로 상정한 「군사분야 인공지능 과 국제 평화 및 안보에 대한 함의(Artificial Intelligence in ...",
-     "source": "",
-     "ts": 1793412970
-    },
-    {
-     "id": "aac9c92ca5d1ec9e",
-     "title": "기후위기&middot; AI 시대, 국민 생명지키는 「2027년 국가안전관리 집행계획」 확정",
-     "link": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156787067",
-     "summary": "행정안전부(장관 윤호중)는 기후위기 및 인공지능 ( AI ) 시대에 재난 ... 정부정책 사실은 이렇습니다. 실시간 인기뉴스 10.31. 10:12 기준. 이달 29일 ...",
-     "source": "",
-     "ts": 1793409321
-    },
-    {
-     "id": "f0015f715b766ee0",
-     "title": "AI 로 공무원을 대체할 수 있을까? 뉴질랜드와 네덜란드의 실험[딥다이브] - 동아일보",
-     "link": "https://www.donga.com/news/Economy/article/all/20261030/134937395/1",
-     "summary": "바로 공무원이죠. 뉴질랜드에 이어 네덜란드 정부 도 정부 부처 공무원 수를 대폭 감축하고 AI 를 도입하겠다는 정책 을 발표했습니다. 예산 절감을 위해 공무원 ...",
-     "source": "",
-     "ts": 1793408652
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "cf53c0f1af",
@@ -98,6 +98,46 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
    "items": [
+    {
+     "id": "1560ad30c867fbf6",
+     "title": "英 경쟁시장청, 언론사 콘텐츠 AI 활용 약관으로 메타 조사 착수 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/58100/",
+     "summary": "영국 경쟁시장청이 메타의 새 약관이 경쟁법을 위반하는지 조사에 착수했다. 새 약관은 언론사 웹사이트 콘텐츠를 AI 기능에 활용할 수 있게 한다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "ccfd88ea7e9a767a",
+     "title": "앤트로픽이 제안한 AI 학습 거부 신호, 구글·MS도 2027년 지원 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/58099/",
+     "summary": "앤트로픽이 웹사이트의 AI 학습 거부 의사를 표시하는 robots.txt 공통 신호 초안을 IETF에 제출했다. 마이크로소프트 빙은 2027년 2월 1일부터, ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "c12b9d2b3fbb5489",
+     "title": "아마존, AI 장비 구매에 쓸 최대 107조 원 대출 한도 확보 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/58101/",
+     "summary": "아마존이 AI 하드웨어 구매분을 담보로 최대 800억 달러를 빌릴 수 있는 공급업체 금융 계약을 마련했다. 2027년 초부터 2028년 3분기까지 사용할 수 있다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "c1dd110224937ff1",
+     "title": "클로드 맥스 20x, '울트라'로 변경…인증 계정은 5시간 제한 폐지 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/58111/",
+     "summary": "앤트로픽이 클로드 맥스 20x를 울트라로, 맥스 5x를 맥스로 이름을 바꿨다. 가격은 월 100달러와 200달러로 같다. 인증된 울트라 계정에는 5시간 사용 제한 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "a4bc567bef2f24d9",
+     "title": "커서 마켓에 악성 클로드 코드 확장…최대 5,000명 SSH 백도어 노출 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/58102/",
+     "summary": "커서 마켓플레이스에 클로드 코드 확장 프로그램 악성 버전 2.1.312와 2.1.313이 배포됐다. 공격자 SSH 키와 자동 실행 항목을 설치했다. 커서는 최대 5000 ...",
+     "source": "",
+     "ts": null
+    },
     {
      "id": "54e55690198d7efa",
      "title": "[AI 활용팁] Word와 PPT를 무료로 대체! 월 12500원 아껴보자 | ArtCraft (아트크래프트) 2탄",
@@ -137,50 +177,10 @@
      "summary": "미국 푸드테크 업체 원더가 11월 17일 월 10달러로 자신만의 식당 브랜드를 운영하는 원더 크리에이트를 출시한다. AI가 브랜드 이름과 로고, 가격, ...",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "b62e294088d2e867",
-     "title": "솔트웨어, 데이터브릭스 행사서 폐쇄망 AI 플랫폼 '사피-ADP' 소개 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57962/",
-     "summary": "솔트웨어가 데이터브릭스 'Data+AI Learning Festival'에 참가해 데이터 플랫폼 구축 서비스와 폐쇄망 AI 플랫폼 사피-ADP를 소개했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "822e92f38a8d1ef0",
-     "title": "광고 정보 기업 가이드라인, AI 에이전트에 美 광고 단가 추가 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57900/",
-     "summary": "광고 정보 기업 가이드라인이 미국 디지털 광고 단가 데이터를 AI 에이전트와 MCP 서버에 추가했다. 10월 30일부터 제공되며 프로그래매틱 다이렉트 보기는 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "f360d79ab370a017",
-     "title": "심보틱, 월마트 물류센터 25곳에 창고 로봇 추가 공급…약 8조 원 규모 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/58012/",
-     "summary": "창고 자동화 로봇 업체 심보틱이 월마트와 상업 계약을 확대해 미국 지역 물류센터 25곳에 자동화 설비를 추가로 공급한다. 두 회사는 초기 지출 규모를 약 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "6224d322675077c4",
-     "title": "[AI 매터스 뉴스레터 #204] 제미나이는 왜 엉망이 됐을까",
-     "link": "https://aimatters.co.kr/news-report/aimatters-newsletter/58044/",
-     "summary": "구글이 10월 9일 무료 이용자 모델을 플래시 라이트 하나로 줄이고 11월에는 젬도 종료한다. 독자 설문에서는 42%가 제미나이가 구글 어시스턴트보다 퇴보 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "f57b5a04223d80c2",
-     "title": "리비안, AI 음성 비서 기술 폭스바겐에 라이선스 제공 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/57974/",
-     "summary": "리비안이 자체 개발한 AI 음성 비서 기술 일부를 폭스바겐 그룹에 라이선스로 제공한다. 최대 58억 달러 규모 합작 법인의 범위가 확대된 것으로, ...",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "25ac01331a",
@@ -189,12 +189,28 @@
    "site": "https://www.axios.com",
    "items": [
     {
+     "id": "17e34ba041a5e485",
+     "title": "D.C., Virginia sue to block Trump's 250-foot arch",
+     "link": "https://www.axios.com/2026/10/31/trump-arch-dc-virginia",
+     "summary": "The governments of Washington D.C. and Virginia asked a federal court to block construction of President Trump's planned \" triumphal arch ,\" claiming it's unlawfully tall and would snarl traffic for years. Why it matter…",
+     "source": "",
+     "ts": 1793467951
+    },
+    {
      "id": "ef8fa8038ace4a3a",
      "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
      "link": "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
      "summary": "Iran's Supreme Leader Mojtaba Khamenei told the country's top three military commanders that a renewed attack by the U.S. and Israel ״must be met with an immediate and effective response, without geographical limitation…",
      "source": "",
-     "ts": 1793447311
+     "ts": 1793456842
+    },
+    {
+     "id": "5c6a9f87a89a90de",
+     "title": "Election cheat sheet: These early races could tell us where the midterms are headed",
+     "link": "https://www.axios.com/2026/10/31/your-election-night-cheat-sheet",
+     "summary": "You won't need to stay up all night Tuesday to spot a big Democratic wave in the 2026 midterm elections . But it could take days — or even weeks — to know whether Republicans have survived a smaller one and held on to t…",
+     "source": "",
+     "ts": 1793451081
     },
     {
      "id": "5d5ec84422a5329f",
@@ -251,26 +267,10 @@
      "summary": "A federal appeals court rejected the Justice Department's emergency bid to set aside mail ballots tied to more than 20,000 California voters the Trump administration suspects are noncitizens. Why it matters: The 2–1 rul…",
      "source": "",
      "ts": 1793394460
-    },
-    {
-     "id": "bfa8ab4991d84a0b",
-     "title": "The viral anti-MAGA guy on Fox News is from Charlotte — and he has merch now",
-     "link": "https://www.axios.com/local/charlotte/2026/10/30/jonestown-fox-news-viral-clip-madpark-designs",
-     "summary": "Have you seen the Oct. 29 clip ? The one where a guy compared a Trump rally to the 1978 Jonestown massacre while he was live on Fox News. \"Wait, the Jonestown massacre?\" Fox correspondent Lucas Tomlinson asked. \"There's…",
-     "source": "",
-     "ts": 1793391339
-    },
-    {
-     "id": "3d6f71384535ae18",
-     "title": "Pope Leo XIV becomes first pope to vote in U.S. election",
-     "link": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
-     "summary": "Pope Leo XIV voted in the 2026 Illinois midterm elections using a mail-in ballot, the Vatican confirmed Friday, becoming the first sitting pope known to vote in an American election. Why it matters: The pontiff, an Amer…",
-     "source": "",
-     "ts": 1793386637
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "4f3ec007ac6d8f5e",
-     "title": "아니, npm, “estee”는 “testem”의 오타가 아니다",
-     "link": "https://news.hada.io/topic?id=36326&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Storyteller의 긴 CLI 패키지 이름을 줄이려고 estee 를 npm에 등록하려 했지만, 기존 패키지 testem , espree 와 유사하다는 이유로 타이포스쿼팅 방지 장치에 막힘 차단 결과는 레벤슈타인 거리 2 이하 를 막는 방식으로 보...",
+     "id": "2e23e6148f877ead",
+     "title": "Prospero - 경량 설계와 원격 실행을 지원하는 새로운 코딩 하네스",
+     "link": "https://news.hada.io/topic?id=36346&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Prospero 는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함 서브에이전트와 원격 실행 을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...",
      "source": "",
-     "ts": 1793448104
+     "ts": 1793468984
     },
     {
-     "id": "c1b7ff6c70b0dd7b",
-     "title": "Infinite Mac: BeOS를 브라우저에서 실행하기",
-     "link": "https://news.hada.io/topic?id=36325&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Infinite Mac 에서 여러 버전의 BeOS를 브라우저로 실행할 수 있게 됨, 대용량 디스크를 스트리밍해 즉시 부팅하며 소프트웨어 실행과 작업 저장도 지원함 DingusPPC 의 BeOS 호환성을 개선하면서 키보드 입력, 화면 색상 깊이, 비디오 메모리, ROM 매핑의 에뮬레이션...",
+     "id": "2541bcc37cb42e68",
+     "title": "돼지, 국가, 전쟁: 붉은 돼지(Porco Rosso) (2014)",
+     "link": "https://news.hada.io/topic?id=36345&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "《붉은 돼지》를 평화학과 국제관계 이론 으로 분석하면, Porco의 변신은 전쟁의 트라우마뿐 아니라 인간의 이기주의, 국가의 민족주의/파시즘, 전쟁의 군국주의에 대한 거부로 읽을 수 있음 Porco는 무기를 사용하고 현상금을 위해 싸우지만, 상대를 죽이지 않는 불살 원칙...",
      "source": "",
-     "ts": 1793442808
+     "ts": 1793468804
     },
     {
-     "id": "b6c8ac25c99e0986",
-     "title": "Cisco, 레거시 코드 재작성을 위해 엔지니어에게 AI 토큰 무제한 제공",
-     "link": "https://news.hada.io/topic?id=36324&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Cisco 가 27세 엔지니어 Padmanabhan Krishnamurthy에게 레거시 코드 리팩터링을 맡기고 AI 토큰을 무제한 제공 함 Krishnamurthy는 2인 팀 으로 코드 재작성이 가능하다고 판단했으며, 24개월 내 레거시 코드 98% 리팩터링 을 목표...",
+     "id": "4d5365ad857870d8",
+     "title": "엘니뇨로 침수되는 캘리포니아 해안, 최고 만조는 아직 오지 않았다",
+     "link": "https://news.hada.io/topic?id=36344&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "캘리포니아 북부에서 만조에 따른 침수 가 San Pablo Bay부터 Monterey까지 이어지고 있으며, Bay Area의 만조 수위는 10월 관측 최고 기록 을 경신함 현재 침수는 달의 주기에 따라 한 달에 약 두 번 발생하는 대조(spring tide) 때 일어났으며, 연...",
      "source": "",
-     "ts": 1793435831
+     "ts": 1793468624
     },
     {
-     "id": "170df1b989666d31",
-     "title": "Tell HN: Scribd 침해 사고 발생",
-     "link": "https://news.hada.io/topic?id=36323&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "2026년 10월 26일 월요일 수신한 보안 사고 안내 에 따르면, Scribd, Slideshare, Everand, Fable의 모회사인 Scribd, Inc.의 시스템에서 비인가 제3자가 일부 사용자 데이터에 접근했을 가능성이 있음 접근 가능성이 있는 정보는 이메일 주소, 신용카드 마지막 4자리와 국가...",
+     "id": "8faac5694f73d5c5",
+     "title": "GCC가 switch를 저수준 코드로 변환하는 방법",
+     "link": "https://news.hada.io/topic?id=36343&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "GCC는 switch 를 비트셋, 점프 테이블, 비교 트리 로 변환하며, 하나의 switch 안에서도 구간별로 서로 다른 전략을 조합함 점프 테이블 이 유리한지는 단순한 case 개수가 아니라 필요한 비교 횟수 대비 테이블 크기로 판단하...",
      "source": "",
-     "ts": 1793435651
+     "ts": 1793468444
     },
     {
-     "id": "0f78a26a7ece2c16",
-     "title": "Show HN: Patrick Stewart 경을 기리며 즐기는 TNG 에피소드 맞히기 게임",
-     "link": "https://news.hada.io/topic?id=36322&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "TNG: Episodle 은 Star Trek: The Next Generation(TNG)의 에피소드 이미지를 단서로 해당 에피소드를 맞히는 게임임 한 게임에서 최대 6번 추측할 수 있으며, 가능한 적은 횟수로 정답을 맞히는 것이 목표임 에피소드를 틀려도 시즌을 정확히 선택...",
+     "id": "ab2a5ea528ab9271",
+     "title": "Grace Blackwell에는 새 스케줄러가 필요하다: 같은 랙에서 사용 가능한 GPU 27% 확대",
+     "link": "https://news.hada.io/topic?id=36342&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "NVL72 는 랙 내 72개 GPU를 NVLink로 연결하지만, 다중 노드 작업이 여러 랙에 흩어지면 여전히 InfiniBand 병목을 겪음. 하드웨어 성능을 활용하려면 랙을 고려한 작업 배치 가 필요함 학습의 텐서 병렬화와 전문가 병렬화 는 연산으로 완전히 숨기...",
      "source": "",
-     "ts": 1793431879
+     "ts": 1793464381
     },
     {
-     "id": "9381e60a883ceb66",
-     "title": "Linode 보안 사고",
-     "link": "https://news.hada.io/topic?id=36320&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Akamai가 최근 공개된 원격 코드 실행 취약점 CVE-2026-98432 를 조사하며 완화 조치와 플랫폼 모니터링을 진행 중임 알려진 공격 경로에 대한 완화 조치를 배포 중 이며, 그 밖의 잠재적 영향도 계속 분석하고 있음 최신 공지 시점에는 Akamai Compute 플랫...",
+     "id": "a90d778c8c132a0d",
+     "title": "Sanstun: Rust로 구현한 sans-IO, 병렬 처리 친화적 WireGuard",
+     "link": "https://news.hada.io/topic?id=36341&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Firezone이 sanstun 을 공개함. WireGuard 상태 머신을 Rust로 구현한 사용자 공간 라이브러리로, 입출력과 상태 로직을 분리하고 사용성, 보안, 병렬 처리 성능을 고려한 API를 제공함 sans-IO 설계는 네트워크 입출력뿐 아니라 시간과 난수도 상태 로직에서 분리함...",
      "source": "",
-     "ts": 1793424683
+     "ts": 1793461844
     },
     {
-     "id": "1b84d75cf239d0c0",
-     "title": "Show HN: 약 1GB의 Qwen 가중치 안에서 작동하는 Nintendo",
-     "link": "https://news.hada.io/topic?id=36318&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "nesformer 는 NES의 6502 CPU, 2KB RAM, 카트리지 프로그램 ROM을 표준 Qwen3.5 체크포인트 안에서 실행함. 가중치는 학습하지 않고 컴파일러로 계산했으며, 모델이 CPU 실행 기록을 토큰 단위로 생성함 Gated DeltaNet 상태를 메모리로 사용 해 CPU 레지스터와 RAM,...",
+     "id": "88207efa9072b264",
+     "title": "Signal 포크 Molly, 3개월간 업데이트되지 않아 취약한 상태",
+     "link": "https://news.hada.io/topic?id=36340&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Molly 에 공식 Signal에서는 이미 수정된 취약점이 남아 있음 게시물 시점의 최신 릴리스는 7월 31일 배포된 v8.19.2-4 로, 약 3개월간 업데이트가 없었음 미해결 사례로 10월 공개된 취약점 이 있으며, 공식 Signal은 이를 8.27 버...",
      "source": "",
-     "ts": 1793410598
+     "ts": 1793461664
     },
     {
-     "id": "6ff6d4d1335fbd2d",
-     "title": "Patrick Stewart가 Jean-Luc Picard 함장을 통해 가르쳐 준 사람의 됨됨이",
-     "link": "https://news.hada.io/topic?id=36317&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Patrick Stewart가 연기한 Jean-Luc Picard 함장 은 책을 좋아하고 상상력이 풍부하며 다소 너드 성향인 소년 세대에게 성숙하고 책임감 있는 어른의 본보기가 되었음 Stewart의 죽음 은 1990년대 Star Trek: The Next Generation을 보며 자란 일부 팬들에게 미래의 ...",
+     "id": "2bcc6c3d332cdd30",
+     "title": "디지털 미니멀리즘",
+     "link": "https://news.hada.io/topic?id=36339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "디지털 미니멀리즘 은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임 X를 탈퇴하지 않고 Firefly 로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...",
      "source": "",
-     "ts": 1793410418
+     "ts": 1793461484
     },
     {
-     "id": "e8af8f2aa83a61ff",
-     "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
-     "link": "https://news.hada.io/topic?id=36315&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Android TV와 Google TV에 Wi-Fi로 연결해 제조사 광고/텔레메트리 서비스와 불필요한 기본 앱을 비활성화 하고, 간결한 홈 화면을 설치 루팅이나 펌웨어 교체 없이 ADB로 동작 하며, 앱을 삭제하지 않고 사용 중지하는 방식. 변경 전 상태를 기록하고 복구 스크립트...",
+     "id": "cee2615cba6f07c1",
+     "title": "ChatGPT 계정을 탈취한 방법",
+     "link": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Parameter 연구팀은 공개 ChatGPT 공유 링크 를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨 격리된 HTML Preview가 보낸 메시지를 MathLive 가 발신자 검증 ...",
      "source": "",
-     "ts": 1793406602
+     "ts": 1793461304
     },
     {
-     "id": "42cb629d374637c8",
-     "title": "좋아하는 웹사이트가 있다면 백업하세요",
-     "link": "https://news.hada.io/topic?id=36313&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "웹사이트 보존을 Internet Archive 같은 대형 조직에만 맡길 필요는 없으며, 개인도 직접 아카이브를 만들어 좋아하는 사이트와 정보를 보존할 수 있음 ArchiveWeb.page 는 브라우저로 페이지를 둘러보며 저장하는 도구로, 단일 페이지부터 소셜 미디어 게시물과 프...",
+     "id": "9119a958acbd621e",
+     "title": "curl이 우연히 9개월 동안 튜링 완전했던 과정",
+     "link": "https://news.hada.io/topic?id=36337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "curl 8.12~8.16 에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음 카운터는 x 의 개수로, 명령 상태는 설정 파일로 나타내며, expand-config 로 다음 파일을 선택해...",
      "source": "",
-     "ts": 1793405216
+     "ts": 1793458886
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "f9eb976542",
@@ -540,7 +540,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,14 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "bb9b8ed19fd13af3",
+     "title": "Sponsored: One security strategy. Four different data center realities.",
+     "link": "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
+     "summary": "The strongest data center security strategies do not deploy identical controls everywhere",
+     "source": "",
+     "ts": 1793462400
+    },
     {
      "id": "bcd9f1fd42408eca",
      "title": "Europe’s AI ambitions are hitting a power bottleneck",
@@ -889,18 +897,10 @@
      "summary": "How hyperscale and AI-driven demand is reshaping contractual liabilities across the development stack",
      "source": "",
      "ts": 1793376000
-    },
-    {
-     "id": "43a638f93ab019bc",
-     "title": "T-Mobile CTO says carrier will be first to 6G in US",
-     "link": "https://www.datacenterdynamics.com/en/news/t-mobile-cto-says-carrier-will-be-first-to-6g-in-us/",
-     "summary": "The race to launch 6G is on",
-     "source": "",
-     "ts": 1793375228
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793450579
+   "last_ok": 1793471834
   }
  ]
 }
