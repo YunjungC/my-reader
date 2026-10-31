@@ -1,5 +1,5 @@
 {
- "generated_at": 1793471834,
+ "generated_at": 1793489173,
  "top_n": 10,
  "feeds": [
   {
@@ -8,6 +8,54 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "c7a2406437708fa8",
+     "title": "[전문가 3인 인터뷰] AI 가 키운 해킹 위협…\" AI 보안 대응 강화해야\" - 글로벌이코노믹",
+     "link": "https://m.g-enews.com/article/ICT/2026/10/2026103008404488433d7a510102_1",
+     "summary": "산업군을 가리지 않고 해킹 사고가 잇따르면서 인공지능 ( AI ) 확산에 따른 사이버 보안 위협이 커지고 있다. 전문가들은 정부 의 보안 정책 실효성 부족과 AI ...",
+     "source": "",
+     "ts": 1793487757
+    },
+    {
+     "id": "0823883e5d3c88e2",
+     "title": "정부 '글로벌 AI 허브' 어디로 가나…경기도, 유치전 본격화 - 쓰담미디어",
+     "link": "https://www.newsenc.com/news/articleView.html?idxno=5397",
+     "summary": "김선우 지원단 부단장과 김용호 성균관대 교수가 기조발표를 맡았으며, 전문가 7명이 참여한 정책 대담에서는 AI 인프라 경쟁력과 산업 인공지능 전환(AX) ...",
+     "source": "",
+     "ts": 1793486956
+    },
+    {
+     "id": "62ae91bd64e5555d",
+     "title": "[ 정책 교차로] AI 사는 공공기관, 주문서가 바뀐다…성능 넘어 편향·오류까지 검증 - 조달경제신문",
+     "link": "https://www.jodaleconomy.com/news/articleView.html?idxno=3490",
+     "summary": "행정안전부는 지난 29일「 인공지능 및 데이터 기반 행정 활성화에 관한 법률」의 개정 내용을 소개했다. 공공기관 간 데이터 공유를 강화하고 범 정부 AI 플랫폼 ...",
+     "source": "",
+     "ts": 1793484519
+    },
+    {
+     "id": "23637857ec8fe493",
+     "title": "경기도, '글로벌 AI 허브' 유치 총력…지페어 현장서 유치전략 포럼 개최 - 경기도뉴스포털",
+     "link": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71889",
+     "summary": "정부 는 지난 14일 입지 선정 공청회에 이어 후보지 공모와 평가, 현장실사 ... 정책 대담에서는 △ 인공지능 인프라 경쟁력과 글로벌 AI 허브 유치 여건 ...",
+     "source": "",
+     "ts": 1793483971
+    },
+    {
+     "id": "8e00d1f9d018a6ac",
+     "title": "[ AI 프리즘] 정부 AI 지원에도 힘을 못쓰는 중국 증시…소비 침체와 시진핑 4연임 앞둔 몸사리 ...",
+     "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193854",
+     "summary": "미국과 중국이 인공지능 분야에서 치열한 주도권 경쟁을 벌이는 가운데, AI 의 미래에 대한 불안감이 커지면서 최근 몇 달 동안 중국 증시에서 수조 달러가 ...",
+     "source": "",
+     "ts": 1793480515
+    },
+    {
+     "id": "80f02cb307739aae",
+     "title": "에이아이매틱스가 '월드모델'로 제조 현장 문제 푸는 법 - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261030170909",
+     "summary": "채정훈 에이아이매틱스 AI 미래기술개발그룹장은 지난 26일 지디넷코리아와 만나 “처음에는 결함 데이터를 일정 ... 정부 AI 정책 영향\". 깃허브 \"올해 韓 이용자 ...",
+     "source": "",
+     "ts": 1793479358
+    },
     {
      "id": "c95486fb321ff9eb",
      "title": "AI 로 게임 만들고 로봇과 대화…깃허브가 넓힌 개발 생태계 - 지디넷코리아",
@@ -39,58 +87,10 @@
      "summary": "인텔의 데이터센터와 인공지능 ( AI ) 사업부는 73억 달러의 매출을 기록해 전년 대비 78% 증가한 반면, PC용 칩을 생산하는 클라이언트 사업부의 매출은 5% 감소한 ...",
      "source": "",
      "ts": 1793444480
-    },
-    {
-     "id": "3b6bd847eb0c48b4",
-     "title": "공항 안전부터 고독사 예방까지… AI , 공공서비스 현장으로 들어오다 - 데일리환경",
-     "link": "https://www.dailyt.co.kr/newsView/dlt202610310002",
-     "summary": "[데일리환경=정이든 기자] 인공지능 ( AI )이 공항의 안전을 살피고 발전설비 운영을 돕는 등 공공서비스 현장으로 쓰임을 넓히고 있다. 정부 가 공공기관의 AI ...",
-     "source": "",
-     "ts": 1793428270
-    },
-    {
-     "id": "c767d09044f962cb",
-     "title": "AI 시대 교육대개혁, 아이들 생명과 행복부터 지켜야 - 오마이뉴스",
-     "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280426",
-     "summary": "첫 발제를 맡은 한만중 상임대표는 이재명 정부 의 교육 정책 이 AI 산업에 필요한 인력을 기르는 데 치우쳐 있다고 지적했다. 반면 교원과 공무원의 정치기본권 ...",
-     "source": "",
-     "ts": 1793427591
-    },
-    {
-     "id": "7d5e8088802f3916",
-     "title": "[의정 브리프] AI 데이터센터 전력망 정비·산업용 전기요금 개선 필요 - 전자신문",
-     "link": "https://www.etnews.com/20261031000029",
-     "summary": "생성형 인공지능 ( AI )의 개인정보 노출과 의약품 오남용 등 위험 사례를 제보하는 정부 플랫폼에서 사업자 회신율이 24.3%에 그친 것으로 나타났다. 한준호 ...",
-     "source": "",
-     "ts": 1793426728
-    },
-    {
-     "id": "9c192c849d3776f4",
-     "title": "정부 , 24시간 AI 건강도우미 운영 … 500만 건 빅데이터 활용 - 용인신문",
-     "link": "https://www.yonginilbo.com/news/article.html?no=111468",
-     "summary": "이럴 때 정부 가 운영하는 인공지능 ( AI ) 건강도우미에게 질문할 수 있는 길이 열렸다. ... 그동안 국가 건강조사 자료가 주로 정책 수립과 연구에 활용 ...",
-     "source": "",
-     "ts": 1793426097
-    },
-    {
-     "id": "31db5b9598006e33",
-     "title": "서울 AI 재단-한국로봇산업진흥원, AI ·로봇 융합 공동사업 발굴 협약 체결 - 뉴뉴스",
-     "link": "https://www.nnewss.com/news/articleView.html?idxno=8203",
-     "summary": "이번 협약은 인공지능 ( AI )이 로봇 등 물리적 환경과 결합하는 '피지컬 AI ... 서울 AI 재단의 도시 현장 및 AI 정책 전문성과 한국로봇산업진흥원의 로봇 ...",
-     "source": "",
-     "ts": 1793420168
-    },
-    {
-     "id": "299c9ef97791dc4f",
-     "title": "[특집] 기업부, 중소기업 3만 곳 디지털 전환· AI 도입…DX·AX·RX 연계 `3X 전략`-정필",
-     "link": "http://www.jeongpil.com/2736161",
-     "summary": "정부 가 2030년까지 스마트제조혁신에 5조 원 이상을 투입해 중소 제조기업 3만 곳의 디지털 전환을 지원하고, 이 가운데 6천곳에는 인공지능 ( AI )을 도입한다 ...",
-     "source": "",
-     "ts": 1793419263
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "cf53c0f1af",
@@ -180,7 +180,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "25ac01331a",
@@ -188,6 +188,14 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "bbc546ea5784398f",
+     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+     "link": "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch",
+     "summary": "A federal judge on Saturday threw out President Trump's lawsuit against the Wall Street Journal and Rupert Murdoch over the paper's reporting on Trump's ties to Jeffrey Epstein, Why it matters: It's the second time this…",
+     "source": "",
+     "ts": 1793478151
+    },
     {
      "id": "17e34ba041a5e485",
      "title": "D.C., Virginia sue to block Trump's 250-foot arch",
@@ -259,18 +267,10 @@
      "summary": "The Justice Department is investigating the Arizona voter registration efforts of three Democratic-aligned groups after an \"undercover\" video purported to show volunteers willing to register non-citizens. Why it matters…",
      "source": "",
      "ts": 1793407757
-    },
-    {
-     "id": "1824d7eacf999ca6",
-     "title": "Trump DOJ loses last-minute California ballot bid",
-     "link": "https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court",
-     "summary": "A federal appeals court rejected the Justice Department's emergency bid to set aside mail ballots tied to more than 20,000 California voters the Trump administration suspects are noncitizens. Why it matters: The 2–1 rul…",
-     "source": "",
-     "ts": 1793394460
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "cc992ff5f1",
@@ -279,10 +279,66 @@
    "site": "https://news.hada.io",
    "items": [
     {
+     "id": "b42ca9868e2a7436",
+     "title": "Jepsen: ParticleDB 1.1.4 - AI용 데이터베이스의 정합성 검증에서 96개 문제 발견",
+     "link": "https://news.hada.io/topic?id=36353&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Jepsen이 AI 워크로드용 ParticleDB 1.1.4부터 1.1.18.11.rc-22까지 검사해 96개 문제를 발견함. 대부분은 서버와 클라이언트가 각각 하나이고 장애가 없는 환경에서도 발생해, “Full ACID”라는 제품 설명과 어긋남 문제는 충돌과 교착 상태뿐 아니라 잘못된 SQL 결과와 데...",
+     "source": "",
+     "ts": 1793485995
+    },
+    {
+     "id": "a554a8a87158dc28",
+     "title": "TCP 해제 후 사용 취약점: CVE-2026-98432 / CVSS 9.8",
+     "link": "https://news.hada.io/topic?id=36352&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Linux 4.4 이후 커널의 IPv4 TCP 핸드셰이크 에서 인증 없이 원격으로 도달할 수 있는 해제 후 사용(use-after-free) 취약점이 발견됐으며, 커널 CNA는 CVSS 3.1 9.8, Critical로 평가함 연결 종료 시 IPv4 옵션 메모리를 즉시 해제해 다른 CPU의 읽기 작업과 충돌하...",
+     "source": "",
+     "ts": 1793482598
+    },
+    {
+     "id": "35c77ee9ad3e68e7",
+     "title": "HackerTube: HN에서 추천한 영상으로 만든 YouTube",
+     "link": "https://news.hada.io/topic?id=36351&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "HackerTube 는 Hacker News 댓글에서 추천한 YouTube 영상을 모아 YouTube 형태의 UI로 제공하는 사이트임 Opus 5.5 가 HN 댓글 전체를 내려받아 필터링하고, Sonnet을 활용한 작업 흐름으로 스팸과 저품질 콘텐츠를 제거함 추천 댓글 약 4만 개",
+     "source": "",
+     "ts": 1793482418
+    },
+    {
+     "id": "e28863be721725c5",
+     "title": "1980년대의 Casio 시계",
+     "link": "https://news.hada.io/topic?id=36350&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Casio는 1980년대에 계산기, 사전, 전화번호부, 센서 를 손목시계에 통합하며 시간을 알려주는 기기를 손목에 착용하는 정보 기기로 확장함 1983년에는 유리에 손가락으로 쓴 숫자와 수학 기호를 인식하는 AT-550 과 화면의 가상 키를 누르는 계산기 시계 TC-500을 출...",
+     "source": "",
+     "ts": 1793475474
+    },
+    {
+     "id": "2cccce852479ccf3",
+     "title": "영국 녹색당, 오랜 원자력 발전 반대 입장 철회",
+     "link": "https://news.hada.io/topic?id=36349&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "잉글랜드와 웨일스 녹색당이 전당대회 표결로 원전의 단계적 폐지 방침 을 철회하고, 원전 사업을 다른 저탄소 기술과 함께 평가하기로 함 해상풍력, 육상풍력, 옥상 태양광 우선 정책 은 유지하되, 선출직 대표가 신규 원자로를 사안별로 지지할 수 있도록 허용함...",
+     "source": "",
+     "ts": 1793475293
+    },
+    {
+     "id": "13f2d8fec4f70420",
+     "title": "쥘 베른의 잃어버린 소설",
+     "link": "https://news.hada.io/topic?id=36348&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "쥘 베른이 1863년에 쓴 『20세기 파리』 는 과학, 기계, 상업, 효율을 향한 믿음이 지배하는 1960년의 문명을 상상한 소설로, 출판사의 거절로 미출간 상태였다가 집필 131년 뒤인 1994년에 출간됨 소설 속 교통망, 계산기, 원격 문서 전송은 순수한 예언보다 당대 기술의 연...",
+     "source": "",
+     "ts": 1793471942
+    },
+    {
+     "id": "871b0a72a5473e13",
+     "title": "악성코드, LLM으로 피해자의 금전적 가치에 따라 순위를 매김",
+     "link": "https://news.hada.io/topic?id=36347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Windows 정보 탈취 악성코드 VOLTA-AUTODOXER 는 훔친 인증정보와 개인 데이터를 LLM에 보내, 피해자의 자산을 현금화 가치에 따라 평가하고 우선순위를 매김 단순한 정보 수집을 넘어 탈취한 세션 으로 Gmail 영수증, 음식 배달 주문 내역, Discord 계정 등을 조회해...",
+     "source": "",
+     "ts": 1793471762
+    },
+    {
      "id": "2e23e6148f877ead",
      "title": "Prospero - 경량 설계와 원격 실행을 지원하는 새로운 코딩 하네스",
      "link": "https://news.hada.io/topic?id=36346&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Prospero 는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함 서브에이전트와 원격 실행 을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...",
+     "summary": "C++와 Dear ImGui로 만든 네이티브 GUI 코딩 하네스 로, Windows, macOS, Linux에서 실행됨. 로컬 모델이나 외부 모델 API를 연결해 사용함 서브에이전트의 병렬 작업과 원격 실행 을 지원하며, 시각 기능이 있는 모델은 화면을 보고 클릭하거나 입력해 GUI 앱을 테스...",
      "source": "",
      "ts": 1793468984
     },
@@ -301,66 +357,10 @@
      "summary": "캘리포니아 북부에서 만조에 따른 침수 가 San Pablo Bay부터 Monterey까지 이어지고 있으며, Bay Area의 만조 수위는 10월 관측 최고 기록 을 경신함 현재 침수는 달의 주기에 따라 한 달에 약 두 번 발생하는 대조(spring tide) 때 일어났으며, 연...",
      "source": "",
      "ts": 1793468624
-    },
-    {
-     "id": "8faac5694f73d5c5",
-     "title": "GCC가 switch를 저수준 코드로 변환하는 방법",
-     "link": "https://news.hada.io/topic?id=36343&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "GCC는 switch 를 비트셋, 점프 테이블, 비교 트리 로 변환하며, 하나의 switch 안에서도 구간별로 서로 다른 전략을 조합함 점프 테이블 이 유리한지는 단순한 case 개수가 아니라 필요한 비교 횟수 대비 테이블 크기로 판단하...",
-     "source": "",
-     "ts": 1793468444
-    },
-    {
-     "id": "ab2a5ea528ab9271",
-     "title": "Grace Blackwell에는 새 스케줄러가 필요하다: 같은 랙에서 사용 가능한 GPU 27% 확대",
-     "link": "https://news.hada.io/topic?id=36342&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "NVL72 는 랙 내 72개 GPU를 NVLink로 연결하지만, 다중 노드 작업이 여러 랙에 흩어지면 여전히 InfiniBand 병목을 겪음. 하드웨어 성능을 활용하려면 랙을 고려한 작업 배치 가 필요함 학습의 텐서 병렬화와 전문가 병렬화 는 연산으로 완전히 숨기...",
-     "source": "",
-     "ts": 1793464381
-    },
-    {
-     "id": "a90d778c8c132a0d",
-     "title": "Sanstun: Rust로 구현한 sans-IO, 병렬 처리 친화적 WireGuard",
-     "link": "https://news.hada.io/topic?id=36341&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Firezone이 sanstun 을 공개함. WireGuard 상태 머신을 Rust로 구현한 사용자 공간 라이브러리로, 입출력과 상태 로직을 분리하고 사용성, 보안, 병렬 처리 성능을 고려한 API를 제공함 sans-IO 설계는 네트워크 입출력뿐 아니라 시간과 난수도 상태 로직에서 분리함...",
-     "source": "",
-     "ts": 1793461844
-    },
-    {
-     "id": "88207efa9072b264",
-     "title": "Signal 포크 Molly, 3개월간 업데이트되지 않아 취약한 상태",
-     "link": "https://news.hada.io/topic?id=36340&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Molly 에 공식 Signal에서는 이미 수정된 취약점이 남아 있음 게시물 시점의 최신 릴리스는 7월 31일 배포된 v8.19.2-4 로, 약 3개월간 업데이트가 없었음 미해결 사례로 10월 공개된 취약점 이 있으며, 공식 Signal은 이를 8.27 버...",
-     "source": "",
-     "ts": 1793461664
-    },
-    {
-     "id": "2bcc6c3d332cdd30",
-     "title": "디지털 미니멀리즘",
-     "link": "https://news.hada.io/topic?id=36339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "디지털 미니멀리즘 은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임 X를 탈퇴하지 않고 Firefly 로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...",
-     "source": "",
-     "ts": 1793461484
-    },
-    {
-     "id": "cee2615cba6f07c1",
-     "title": "ChatGPT 계정을 탈취한 방법",
-     "link": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Parameter 연구팀은 공개 ChatGPT 공유 링크 를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨 격리된 HTML Preview가 보낸 메시지를 MathLive 가 발신자 검증 ...",
-     "source": "",
-     "ts": 1793461304
-    },
-    {
-     "id": "9119a958acbd621e",
-     "title": "curl이 우연히 9개월 동안 튜링 완전했던 과정",
-     "link": "https://news.hada.io/topic?id=36337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "curl 8.12~8.16 에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음 카운터는 x 의 개수로, 명령 상태는 설정 파일로 나타내며, expand-config 로 다음 파일을 선택해...",
-     "source": "",
-     "ts": 1793458886
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "d1c587ecba",
@@ -368,6 +368,14 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "0def4a2fca6b3a20",
+     "title": "How We Took Over ChatGPT Accounts",
+     "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+     "summary": "",
+     "source": "",
+     "ts": 1793488522
+    },
     {
      "id": "1649c5dd07045357",
      "title": "dbreunig/nesformer",
@@ -439,18 +447,10 @@
      "summary": "",
      "source": "",
      "ts": 1793129658
-    },
-    {
-     "id": "51b6dc021077f16c",
-     "title": "GPT-6.1 Terra",
-     "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-     "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing…",
-     "source": "",
-     "ts": 1793058787
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "f9eb976542",
@@ -458,6 +458,14 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "77d25b95b46ffd10",
+     "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+     "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택…",
+     "source": "",
+     "ts": 1793509851
+    },
     {
      "id": "a061afc690fea6c7",
      "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
@@ -492,7 +500,7 @@
     },
     {
      "id": "ff2417b0d7a467d8",
-     "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
+     "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발 중",
      "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
      "summary": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일(현지시간) 구글 안드로이드 앱 최신 버전(v17.71.17)의 코드를 분석…",
      "source": "",
@@ -529,18 +537,10 @@
      "summary": "중국 AI 칩 제조업체 일루바타르 코어엑스(Iluvatar CoreX)가 자체 개발한 GPU ‘톈가이 300(Tiangai 300)’이 엔비디아의 ‘H200’과 대등하거나 일부 AI 작업에서 앞서는 성능을 보였다고 밝혔다.사우스차이나모닝포스트(SCMP)에 따르면, 일루바타르는 28일 중국 상하이에서 열린 '2026 미디어 오픈데이'에서 톈가이 300의 실제 작동 모습을 언론에 처음 공개했다…",
      "source": "",
      "ts": 1793466107
-    },
-    {
-     "id": "edaa9da12b480255",
-     "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216848",
-     "summary": "AI타임스와 이스트에이드의 10월 넷째 주(10월23일~29일) 이슈 분석 결과, 미국 중간선거를 앞두고 불거진 미·이란 전면전 우려를 비롯해 국내 증시 급락과 구룡마을 화재 등이 상위권에 올랐다.이번 주 검색량 1위는 '미국 이란 전면전 위험(5.43%)'이 차지했다. 미 중부사령부가 트럼프 대통령에게 이란 공격 방안을 보고하면서 공격 재개 임박 관측이 나왔으며, 미·이스라엘 두 정상이…",
-     "source": "",
-     "ts": 1793449603
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "2c60dce9bd",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793471834
+   "last_ok": 1793489173
   }
  ]
 }
