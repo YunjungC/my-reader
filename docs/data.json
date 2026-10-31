@@ -1,5 +1,5 @@
 {
- "generated_at": 1793425975,
+ "generated_at": 1793450579,
  "top_n": 10,
  "feeds": [
   {
@@ -9,12 +9,68 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "3b6bd847eb0c48b4",
+     "title": "공항 안전부터 고독사 예방까지… AI , 공공서비스 현장으로 들어오다 - 데일리환경",
+     "link": "https://www.dailyt.co.kr/newsView/dlt202610310002",
+     "summary": "[데일리환경=정이든 기자] 인공지능 ( AI )이 공항의 안전을 살피고 발전설비 운영을 돕는 등 공공서비스 현장으로 쓰임을 넓히고 있다. 정부 가 공공기관의 AI ...",
+     "source": "",
+     "ts": 1793428270
+    },
+    {
+     "id": "c767d09044f962cb",
+     "title": "AI 시대 교육대개혁, 아이들 생명과 행복부터 지켜야 - 오마이뉴스",
+     "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280426",
+     "summary": "첫 발제를 맡은 한만중 상임대표는 이재명 정부 의 교육 정책 이 AI 산업에 필요한 인력을 기르는 데 치우쳐 있다고 지적했다. 반면 교원과 공무원의 정치기본권 ...",
+     "source": "",
+     "ts": 1793427591
+    },
+    {
+     "id": "7d5e8088802f3916",
+     "title": "[의정 브리프] AI 데이터센터 전력망 정비·산업용 전기요금 개선 필요 - 전자신문",
+     "link": "https://www.etnews.com/20261031000029",
+     "summary": "생성형 인공지능 ( AI )의 개인정보 노출과 의약품 오남용 등 위험 사례를 제보하는 정부 플랫폼에서 사업자 회신율이 24.3%에 그친 것으로 나타났다. 한준호 ...",
+     "source": "",
+     "ts": 1793426728
+    },
+    {
+     "id": "9c192c849d3776f4",
+     "title": "정부 , 24시간 AI 건강도우미 운영 … 500만 건 빅데이터 활용 - 용인신문",
+     "link": "https://www.yonginilbo.com/news/article.html?no=111468",
+     "summary": "이럴 때 정부 가 운영하는 인공지능 ( AI ) 건강도우미에게 질문할 수 있는 길이 열렸다. ... 그동안 국가 건강조사 자료가 주로 정책 수립과 연구에 활용 ...",
+     "source": "",
+     "ts": 1793426097
+    },
+    {
+     "id": "31db5b9598006e33",
+     "title": "서울 AI 재단-한국로봇산업진흥원, AI ·로봇 융합 공동사업 발굴 협약 체결 - 뉴뉴스",
+     "link": "https://www.nnewss.com/news/articleView.html?idxno=8203",
+     "summary": "이번 협약은 인공지능 ( AI )이 로봇 등 물리적 환경과 결합하는 '피지컬 AI ... 서울 AI 재단의 도시 현장 및 AI 정책 전문성과 한국로봇산업진흥원의 로봇 ...",
+     "source": "",
+     "ts": 1793420168
+    },
+    {
+     "id": "299c9ef97791dc4f",
+     "title": "[특집] 기업부, 중소기업 3만 곳 디지털 전환· AI 도입…DX·AX·RX 연계 `3X 전략`-정필",
+     "link": "http://www.jeongpil.com/2736161",
+     "summary": "정부 가 2030년까지 스마트제조혁신에 5조 원 이상을 투입해 중소 제조기업 3만 곳의 디지털 전환을 지원하고, 이 가운데 6천곳에는 인공지능 ( AI )을 도입한다 ...",
+     "source": "",
+     "ts": 1793419263
+    },
+    {
      "id": "4b94ea246c50642e",
      "title": "경상북도, '피지컬 AI ' 중심 메가특구 기획 본격화… 거버넌스 출범 - 연합인포맥스",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442227",
      "summary": "... 프로젝트 를 구체화하기로 했습니다.포항은 로봇 파운드리와 시스템 ... 정부 메가특구 정책 에 선제 대응해 기업과 전문 기관이 함께 사업을 기획 ...",
      "source": "",
      "ts": 1793415030
+    },
+    {
+     "id": "61b4643270c41f22",
+     "title": "우리나라 주도 '군사분야 AI ' 유엔 결의 3년 연속 채택 - 보도자료 - 대한민국 정책브리핑",
+     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787393&pWise=sub&pWiseSub=C1",
+     "summary": "제81차 유엔총회 1위원회에서 우리나라와 네덜란드가 공동으로 상정한 「군사분야 인공지능 과 국제 평화 및 안보에 대한 함의(Artificial Intelligence in ...",
+     "source": "",
+     "ts": 1793412970
     },
     {
      "id": "aac9c92ca5d1ec9e",
@@ -31,66 +87,10 @@
      "summary": "바로 공무원이죠. 뉴질랜드에 이어 네덜란드 정부 도 정부 부처 공무원 수를 대폭 감축하고 AI 를 도입하겠다는 정책 을 발표했습니다. 예산 절감을 위해 공무원 ...",
      "source": "",
      "ts": 1793408652
-    },
-    {
-     "id": "8580c732dc188856",
-     "title": "[다음주 재정경제부 등 경제부처 일정 ] < 정책 /금융 < 기사본문 - 연합인포맥스",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442307",
-     "summary": "△15:00 부총리 국가 AI 전략위원회 제3차 전체회의(국가 AI 전략위원회). [방송 ... \"美 중간선거 후 분점 정부 유세…재정동력 추가 약화\" · 트럼프 \"이란과 ...",
-     "source": "",
-     "ts": 1793401482
-    },
-    {
-     "id": "b3812364c078e44a",
-     "title": "정부 , 2030년 자살률 18.9명 이하로…위기 발굴·대응 안전망 강화 - 한국방송뉴스",
-     "link": "https://www.ikbn.news/news/article.html?no=216781",
-     "summary": "인공지능 ( AI )과 데이터를 활용해 자살 위험을 조기에 찾아내는 체계도 구축 ... 한성숙 국무총리가 12일 서울 종로구 정부 서울청사에서 열린 자살예방 정책 위원회 ...",
-     "source": "",
-     "ts": 1793399662
-    },
-    {
-     "id": "a7cb55b30954c65e",
-     "title": "“하루 걸러 터졌다”… AI 해커에 정부 ·금융기관 뚫린 '이 나라' - 농민신문",
-     "link": "https://www.nongmin.com/article/20261030500293",
-     "summary": "일본이 인공지능 ( AI )을 앞세운 사이버 공격에 몸살을 앓고 있다. 9월 한국 은행권 정보 유출 때 거론된 것과 같은 AI 도구가 일본 공격에도 연루됐다는 주장 ...",
-     "source": "",
-     "ts": 1793394038
-    },
-    {
-     "id": "b8b45fbc6effe771",
-     "title": "[LIVE] 지방재정 확충을 위한 지방세재 개편 정책 토론회 - 경기도 소셜방송 LIVE경기",
-     "link": "https://www.gg.go.kr/live/movie/view.php?uid=33469&cate_s=&sort_s=",
-     "summary": "[LIVE] 경기도 피지컬 AI 대전환 선포식｜#제조의혁신 #돌봄의포용 #모두의 ... 정부 8.13 대책 후속. 주요 토론회·행사. 2026.09.23.",
-     "source": "",
-     "ts": 1793386786
-    },
-    {
-     "id": "16ded4a153ed1170",
-     "title": "깃허브 제품 부사장 \" AI 코딩 가성비 시대 이끌 것\" - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261031015613",
-     "summary": "[샌프란시스코(미국)=김미정 기자] \"웹사이트에서 글자 한 줄을 수정하는 데 가장 비싼 인공지능 ( AI ) 모델을 사용할 필요는 없습니다. ... 정부 AI 정책 영향\".",
-     "source": "",
-     "ts": 1793379410
-    },
-    {
-     "id": "9e283a989f6284b6",
-     "title": "코히어, 캐나다 정부 1.5조원 투자 유치…시리즈E 마감 수순 - 전자신문",
-     "link": "https://www.etnews.com/20261030000358",
-     "summary": "캐나다 인공지능 ( AI ) 기업 코히어가 자국 정부 로부터 최대 16억캐나다달러(약 1조5000억원) 투자를 유치한다. 캐나다 정부 는 세계 각국이 소버린 AI 구축을 ...",
-     "source": "",
-     "ts": 1793379366
-    },
-    {
-     "id": "ef0487f74b74694b",
-     "title": "[전라 Insight] 김동열의 성공한 정책 들-한국 전자 정부 평가 1위 비결은 |",
-     "link": "http://www.jeollailbo.com/news/articleViewAmp.html?idxno=815207",
-     "summary": "지금은 인공지능 ( AI ) 시대로의 전환(AX)이 메가 트렌드다. 미국과 중국이 핵심 서비스를 개발하며 앞서가고 있다. 전자 정부 처럼 AI 시대로의 전환에서도 앞서갈 ...",
-     "source": "",
-     "ts": 1793379341
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "cf53c0f1af",
@@ -180,7 +180,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "25ac01331a",
@@ -188,6 +188,38 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "ef8fa8038ace4a3a",
+     "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+     "link": "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
+     "summary": "Iran's Supreme Leader Mojtaba Khamenei told the country's top three military commanders that a renewed attack by the U.S. and Israel ״must be met with an immediate and effective response, without geographical limitation…",
+     "source": "",
+     "ts": 1793447311
+    },
+    {
+     "id": "5d5ec84422a5329f",
+     "title": "How North Korea perfected the crypto heist",
+     "link": "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
+     "summary": "The world's biggest crypto heist is the latest feat by North Korean hackers who have spent years perfecting an arsenal of financial theft, social engineering and sophisticated cyberattacks. Why it matters : The suspecte…",
+     "source": "",
+     "ts": 1793445307
+    },
+    {
+     "id": "47be16b6decf898b",
+     "title": "New Census data reveal a homeowner-renter divide in America's electric-car transition",
+     "link": "https://www.axios.com/2026/10/31/ev-driveway-divide-renters-homeowners",
+     "summary": "Data: U.S. Census Bureau, 2025 American Community Survey 1-year estimates; Table: Russell Contreras/Axios Homeowners were nearly twice as likely as renters to have an electric vehicle in 2025, new Census data show, reve…",
+     "source": "",
+     "ts": 1793444409
+    },
+    {
+     "id": "0268ef70d3c8231b",
+     "title": "The AI trade's trick-or-treat earnings season",
+     "link": "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat",
+     "summary": "The latest wave of hyperscaler earnings is spooking Wall Street. Bulls and bears alike have evidence to validate their wildest dreams — or their worst nightmares. Why it matters : The market's AI obsession has entered i…",
+     "source": "",
+     "ts": 1793443506
+    },
     {
      "id": "7f18e64a52e9fb8a",
      "title": "Judge blocks DOJ from threatening election workers before midterms",
@@ -235,42 +267,10 @@
      "summary": "Pope Leo XIV voted in the 2026 Illinois midterm elections using a mail-in ballot, the Vatican confirmed Friday, becoming the first sitting pope known to vote in an American election. Why it matters: The pontiff, an Amer…",
      "source": "",
      "ts": 1793386637
-    },
-    {
-     "id": "9f96bcb90801f368",
-     "title": "U.S. blockade, sanctions crippling Iran's economy, Treasury report says",
-     "link": "https://www.axios.com/2026/10/30/iran-war-bessent-treasury-report-sanctions",
-     "summary": "The U.S. naval blockade, sweeping economic sanctions and obstruction of overland export routes have crippled Iran's economy and intensified pressure on the regime, according to a new Treasury Department report obtained…",
-     "source": "",
-     "ts": 1793386297
-    },
-    {
-     "id": "e6b7370770feb984",
-     "title": "Texas grand jury indicts ICE agent accused of using SUV as weapon",
-     "link": "https://www.axios.com/2026/10/30/ice-agent-indicted-mario-morales-houston",
-     "summary": "A Texas grand jury indicted ICE officer Mario Alberto Morales with a charge of second-degree aggravated assault Friday after prosecutors said he deliberately drove his SUV into a fleeing immigrant in early October. Why…",
-     "source": "",
-     "ts": 1793385126
-    },
-    {
-     "id": "807d81990916d429",
-     "title": "Scoop: Ro Khanna endorses challengers to three fellow California House Democrats",
-     "link": "https://www.axios.com/2026/10/30/ro-khanna-endorse-vang-matsui-jones-gomez-aoc",
-     "summary": "Rep. Ro Khanna (D-Calif.) is endorsing a trio of insurgent Democratic candidates who are challenging his fellow California House Democrats, Axios has learned. Why it matters: This is an aggressive move by a potential 20…",
-     "source": "",
-     "ts": 1793384480
-    },
-    {
-     "id": "a5d40e07d20db82d",
-     "title": "Democrats see AI hate as winning issue heading into 2028",
-     "link": "https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging",
-     "summary": "Democrats weighing 2028 presidential bids are piling onto the AI hate wave in their messaging, per an analysis shared exclusively with Axios. Why it matters: Democrats are turning AI anxiety into a political rallying cr…",
-     "source": "",
-     "ts": 1793363566
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "cc992ff5f1",
@@ -278,6 +278,54 @@
    "url": "https://news.hada.io/rss/news",
    "site": "https://news.hada.io",
    "items": [
+    {
+     "id": "4f3ec007ac6d8f5e",
+     "title": "아니, npm, “estee”는 “testem”의 오타가 아니다",
+     "link": "https://news.hada.io/topic?id=36326&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Storyteller의 긴 CLI 패키지 이름을 줄이려고 estee 를 npm에 등록하려 했지만, 기존 패키지 testem , espree 와 유사하다는 이유로 타이포스쿼팅 방지 장치에 막힘 차단 결과는 레벤슈타인 거리 2 이하 를 막는 방식으로 보...",
+     "source": "",
+     "ts": 1793448104
+    },
+    {
+     "id": "c1b7ff6c70b0dd7b",
+     "title": "Infinite Mac: BeOS를 브라우저에서 실행하기",
+     "link": "https://news.hada.io/topic?id=36325&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Infinite Mac 에서 여러 버전의 BeOS를 브라우저로 실행할 수 있게 됨, 대용량 디스크를 스트리밍해 즉시 부팅하며 소프트웨어 실행과 작업 저장도 지원함 DingusPPC 의 BeOS 호환성을 개선하면서 키보드 입력, 화면 색상 깊이, 비디오 메모리, ROM 매핑의 에뮬레이션...",
+     "source": "",
+     "ts": 1793442808
+    },
+    {
+     "id": "b6c8ac25c99e0986",
+     "title": "Cisco, 레거시 코드 재작성을 위해 엔지니어에게 AI 토큰 무제한 제공",
+     "link": "https://news.hada.io/topic?id=36324&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Cisco 가 27세 엔지니어 Padmanabhan Krishnamurthy에게 레거시 코드 리팩터링을 맡기고 AI 토큰을 무제한 제공 함 Krishnamurthy는 2인 팀 으로 코드 재작성이 가능하다고 판단했으며, 24개월 내 레거시 코드 98% 리팩터링 을 목표...",
+     "source": "",
+     "ts": 1793435831
+    },
+    {
+     "id": "170df1b989666d31",
+     "title": "Tell HN: Scribd 침해 사고 발생",
+     "link": "https://news.hada.io/topic?id=36323&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "2026년 10월 26일 월요일 수신한 보안 사고 안내 에 따르면, Scribd, Slideshare, Everand, Fable의 모회사인 Scribd, Inc.의 시스템에서 비인가 제3자가 일부 사용자 데이터에 접근했을 가능성이 있음 접근 가능성이 있는 정보는 이메일 주소, 신용카드 마지막 4자리와 국가...",
+     "source": "",
+     "ts": 1793435651
+    },
+    {
+     "id": "0f78a26a7ece2c16",
+     "title": "Show HN: Patrick Stewart 경을 기리며 즐기는 TNG 에피소드 맞히기 게임",
+     "link": "https://news.hada.io/topic?id=36322&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "TNG: Episodle 은 Star Trek: The Next Generation(TNG)의 에피소드 이미지를 단서로 해당 에피소드를 맞히는 게임임 한 게임에서 최대 6번 추측할 수 있으며, 가능한 적은 횟수로 정답을 맞히는 것이 목표임 에피소드를 틀려도 시즌을 정확히 선택...",
+     "source": "",
+     "ts": 1793431879
+    },
+    {
+     "id": "9381e60a883ceb66",
+     "title": "Linode 보안 사고",
+     "link": "https://news.hada.io/topic?id=36320&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Akamai가 최근 공개된 원격 코드 실행 취약점 CVE-2026-98432 를 조사하며 완화 조치와 플랫폼 모니터링을 진행 중임 알려진 공격 경로에 대한 완화 조치를 배포 중 이며, 그 밖의 잠재적 영향도 계속 분석하고 있음 최신 공지 시점에는 Akamai Compute 플랫...",
+     "source": "",
+     "ts": 1793424683
+    },
     {
      "id": "1b84d75cf239d0c0",
      "title": "Show HN: 약 1GB의 Qwen 가중치 안에서 작동하는 Nintendo",
@@ -309,58 +357,10 @@
      "summary": "웹사이트 보존을 Internet Archive 같은 대형 조직에만 맡길 필요는 없으며, 개인도 직접 아카이브를 만들어 좋아하는 사이트와 정보를 보존할 수 있음 ArchiveWeb.page 는 브라우저로 페이지를 둘러보며 저장하는 도구로, 단일 페이지부터 소셜 미디어 게시물과 프...",
      "source": "",
      "ts": 1793405216
-    },
-    {
-     "id": "2d5bf443c6f2442c",
-     "title": "AT Protocol 사용자들은 이 데이터가 공개된다는 사실을 알고 있을까?",
-     "link": "https://news.hada.io/topic?id=36312&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AT Protocol 앱의 공개 데이터에서 개인용 RSS 피드와 채팅 메시지를 쉽게 찾을 수 있지만, 사용자들이 공개 범위와 위험을 이해하는지는 불확실함 RSS 리더 Skyreader 는 구독 피드 주소를 공개 데이터로 저장하며, 앱 리뷰에 표시된 계정 이름만으로도 해당 사용자...",
-     "source": "",
-     "ts": 1793405036
-    },
-    {
-     "id": "a7b0aee347ad4746",
-     "title": "Bunny CDN 보안 사고",
-     "link": "https://news.hada.io/topic?id=36311&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "bunny.net 인프라 공급업체 에서 서드파티 서버 관리 소프트웨어와 관련된 무단 접근 사고가 발생했으며, 해당 업체 서버에서는 아르메니아 소재 CDN 노드 하나가 운영되고 있었음 경고를 받은 뒤 20분 이내에 해당 서버로의 트래픽 라우팅을 중단 하고, 로그 보존과...",
-     "source": "",
-     "ts": 1793403103
-    },
-    {
-     "id": "bc60a5680f45a75c",
-     "title": "Florilegium: LaTeX에서 절차적으로 생성하는 꽃 장식",
-     "link": "https://news.hada.io/topic?id=36310&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Florilegium 은 이미지나 외부 자산 없이 Lua로 꽃잎, 잎, 줄기의 곡선을 계산해 LaTeX 페이지 여백에 수채화풍 꽃 장식을 그리는 패키지임 자동 성장 배치 는 줄기가 닿을 수 있는 가장 큰 빈 공간부터 가지와 꽃으로 채우며, 마지막 페이지에서 본문 아래 남은 공간...",
-     "source": "",
-     "ts": 1793400173
-    },
-    {
-     "id": "8fa58bcc54d99246",
-     "title": "블록체인 분석업체들, 약 8.5조 원 규모 Binance 해킹에 북한 연관성 지목",
-     "link": "https://news.hada.io/topic?id=36309&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "TRM Labs와 Chainalysis가 Binance 해킹의 배후로 북한 해킹 조직 TraderTraitor를 지목 함. Binance는 수사기관과 범인의 신원을 확인 중이라고 밝힘 공격자는 10개 블록체인의 Binance 지갑에서 약 63억6,000만 달러(약 8.5조 원)를 탈취 했으며, 대부분의 자금 이...",
-     "source": "",
-     "ts": 1793399992
-    },
-    {
-     "id": "4f865187e831d504",
-     "title": "내가 가장 좋아하는 PowerMac은 Nintendo Wii",
-     "link": "https://news.hada.io/topic?id=36308&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Nintendo GameCube/Wii 계열에 클래식 Mac OS를 이식하는 프로젝트 가 처음으로 데스크톱 부팅에 성공했으며, 실제 Wii 하드웨어에서는 Mac OS 7.6이 약 40초 만에 부팅됨 OpenBIOS와 런타임 패치 로 부팅 환경을 구성하고, Mac OS가 전제하는 Macintosh의 메모리 배...",
-     "source": "",
-     "ts": 1793399812
-    },
-    {
-     "id": "0e97ad7b6069ecd3",
-     "title": "Tangled - 자체 호스팅과 협업을 결합한 연합형 코드 포지",
-     "link": "https://news.hada.io/topic?id=36307&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Tangled 는 코드를 자체 서버에 호스팅하면서도 다른 사용자와 협업할 수 있는 연합형 코드 포지임. Git 호스팅이나 CI 실행기만 운영하거나 API 서버와 UI까지 모두 자체 운영할 수 있음 AT Protocol 을 기반으로 확장 기능, 사용자 정의 Git 호스팅 서버와 CI 구성...",
-     "source": "",
-     "ts": 1793395939
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "f9eb976542",
@@ -459,88 +459,88 @@
    "site": "https://www.aitimes.com",
    "items": [
     {
+     "id": "a061afc690fea6c7",
+     "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+     "summary": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 서사 등으로 혹평도 나왔다. 제작진은 AI 영화 제작에 사용한 프롬프트와 작…",
+     "source": "",
+     "ts": 1793476680
+    },
+    {
+     "id": "8ec605a0548659c3",
+     "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216850",
+     "summary": "샘 알트먼 오픈AI CEO가 AI를 활용한 수학 연구에 수억달러의 컴퓨팅 자원을 투입했다고 밝혔다. 나비에-스토크스 문제의 해법을 찾는 연구에 한때 약 1000만달러(약 134억원)가 들었지만, AI 성능과 연구 방법이 빠르게 개선되면서 비용이 크게 낮아졌다는 설명이다. 그는 아직 공개하지 않은 연구 성과도 상당수 있다고 밝혔으며, 세계적인 메모리 공급 부족과 초지능의 발전 방향에 대해서도…",
+     "source": "",
+     "ts": 1793472782
+    },
+    {
+     "id": "fc994034469780b8",
+     "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+     "summary": "국내 이용자들이 업무에서 챗GPT를 가장 많이 활용하는 분야는 여전히 문서·글 편집인 것으로 나타났다. 그러나 이미지와 디자인 등 시각 자료 제작 비중이 1년 사이 두 배 이상 늘어나며 주요 활용 분야로 떠올랐다. 정보 검색이나 문서 작성뿐 아니라 실제 업무 결과물을 만드는 데 AI를 활용하는 사례가 늘어나는 것으로 분석된다.오픈AI가 26일(현지시간) 공개한 챗GPT 이용 통계 '시그널스…",
+     "source": "",
+     "ts": 1793470607
+    },
+    {
+     "id": "074eadf2af04a49d",
+     "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+     "summary": "구글이 지구 궤도에 발사한 위성에서 데이터센터급 AI 반도체인 TPU를 가동하고, AI 모델의 추론 결과를 지상으로 전송하는 데 성공했다. 우주에서 데이터센터급 TPU로 실제 AI 작업을 수행한 첫 사례로, 지상 데이터센터의 연산 기능을 우주로 옮기려는 장기 프로젝트가 첫 기술적 성과를 거뒀다. 첫 실험에서는 AI 모델 '젬마 4(Gemma 4)'를 이용해 우주를 주제로 한 시를 생성했다.…",
+     "source": "",
+     "ts": 1793469926
+    },
+    {
+     "id": "ff2417b0d7a467d8",
+     "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+     "summary": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일(현지시간) 구글 안드로이드 앱 최신 버전(v17.71.17)의 코드를 분석…",
+     "source": "",
+     "ts": 1793469340
+    },
+    {
+     "id": "0229028e1e56b431",
+     "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216845",
+     "summary": "구글이 '제미나이'에서 구글 문서와 PDF, 스프레드시트, 프레젠테이션 등을 직접 생성하고 편집할 수 있는 기능을 추가했다. 기존에는 파일을 생성하거나 내려받는 기능을 제공했지만, 이제는 채팅을 벗어나지 않고 내용을 수정하고 AI에 추가 작업을 요청할 수 있다.구글은 29일(현지시간) 공식 블로그를 통해 제미나이 앱에서 문서와 PDF, 프레젠테이션, 스프레드시트, 코드 파일 등을 생성하고…",
+     "source": "",
+     "ts": 1793468281
+    },
+    {
+     "id": "572298685a6df69b",
+     "title": "독일 엔비전, 유기 분자로 양자 컴퓨팅 칩 개발…OLED 제조 기술 활용",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216849",
+     "summary": "독일 양자 기술 스타트업 엔비전(NVision)이 유기 분자 하나를 양자 정보의 기본 단위인 큐비트로 활용하고, 빛으로 상태를 읽어내는 기술을 개발했다. 특히 스마트폰 OLED 디스플레이 제조에 쓰이는 박막 기술을 이용해 기존 광자 반도체 칩에 큐비트를 구현할 가능성을 제시했다. 복잡한 전용 제조 공정에 대한 의존도를 낮추고 대규모 양자 컴퓨터를 개발할 수 있는 새로운 접근법으로 평가된다.…",
+     "source": "",
+     "ts": 1793467794
+    },
+    {
+     "id": "052a6fa1bca63298",
+     "title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216847",
+     "summary": "오픈AI가 청소년의 폭력 행위를 예방하기 위해 챗GPT에서 무기 관련 정보 제공을 제한한다. 폭력 의도가 드러나지 않은 질문이라도 실제 악용할 수 있는 구체적인 무기·보안 시스템 정보는 청소년에게 제공하지 않기로 했다. 폭력에 대한 집착이 감지되면 대화를 자동으로 종료하고, 반복될 경우 계정을 일시 정지하는 조치도 도입한다.오픈AI는 30일(현지시간) 커뮤니티 안전 보고서를 발표하고 이 같…",
+     "source": "",
+     "ts": 1793466545
+    },
+    {
+     "id": "ce26fa59e19c5759",
+     "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216844",
+     "summary": "중국 AI 칩 제조업체 일루바타르 코어엑스(Iluvatar CoreX)가 자체 개발한 GPU ‘톈가이 300(Tiangai 300)’이 엔비디아의 ‘H200’과 대등하거나 일부 AI 작업에서 앞서는 성능을 보였다고 밝혔다.사우스차이나모닝포스트(SCMP)에 따르면, 일루바타르는 28일 중국 상하이에서 열린 '2026 미디어 오픈데이'에서 톈가이 300의 실제 작동 모습을 언론에 처음 공개했다…",
+     "source": "",
+     "ts": 1793466107
+    },
+    {
      "id": "edaa9da12b480255",
      "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
      "link": "https://www.aitimes.com/news/articleView.html?idxno=216848",
      "summary": "AI타임스와 이스트에이드의 10월 넷째 주(10월23일~29일) 이슈 분석 결과, 미국 중간선거를 앞두고 불거진 미·이란 전면전 우려를 비롯해 국내 증시 급락과 구룡마을 화재 등이 상위권에 올랐다.이번 주 검색량 1위는 '미국 이란 전면전 위험(5.43%)'이 차지했다. 미 중부사령부가 트럼프 대통령에게 이란 공격 방안을 보고하면서 공격 재개 임박 관측이 나왔으며, 미·이스라엘 두 정상이…",
      "source": "",
      "ts": 1793449603
-    },
-    {
-     "id": "720b7c5d8ba53f3e",
-     "title": "엔비디아, 엔스케일 자금난에 지원 검토…앤트로픽 60조 데이터센터 신용 보증",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216838",
-     "summary": "엔비디아가 영국 클라우드 기업 엔스케일(Nscale)의 대규모 데이터센터 건설을 지원하기 위해 수십억달러의 신용 보증을 제공하는 방안을 논의 중인 것으로 알려졌다. 앤트로픽이 사용할 데이터센터의 건설 자금을 확보하도록 지원하는 것으로, 엔비디아가 GPU 공급을 넘어 고객사의 인프라 투자에 따른 금융 위험까지 분담하려는 움직임이다.디 인포메이션은 29일(현지시간) 복수의 소식통을 인용, 엔비…",
-     "source": "",
-     "ts": 1793443682
-    },
-    {
-     "id": "b242253a336e47e3",
-     "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216846",
-     "summary": "앤트로픽이 '클로드'의 최고가 요금제 이름을 변경하고 인증된 가입자를 대상으로 5시간 단위 사용량 제한을 폐지한다. 기존 요금제에 표시된 '20배'가 실제 주간 사용량에도 적용되는 것으로 일부 이용자가 오해하자, 명칭을 바꾸고 구체적인 사용 조건을 설명한 것이다. 앤트로픽은 이용자 혼선에 대해 사과했으며, 월 200달러 요금제의 인증된 가입자는 주간 사용 한도 안에서 5시간 단위 제한 없이…",
-     "source": "",
-     "ts": 1793442794
-    },
-    {
-     "id": "e073fabcef146ebe",
-     "title": "[내면 지도 그리기] 40 Inner Mapping: 나를 찾는 지도",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216839",
-     "summary": "달력의 내면 지도1월2일에는 ‘세계 내향인의 날’이 있습니다.흥미로운 건 날짜입니다. 한 해의 마지막 며칠 동안 사람들을 만나고, 송년회를 하고, 새해 인사를 나누고, 카운트다운을 한 바로 다음 날입니다. 조금 조용히 있고 싶은 사람에게는 제법 잘 고른 날짜처럼 느껴집니다.세계 내향인의 날은 독일의 심리학자이자 작가인 펠리치타스 하이네가 2011년 제안하며 시작됐습니다. 내향적인 사람을 소…",
-     "source": "",
-     "ts": 1793441099
-    },
-    {
-     "id": "5556d03fd891181b",
-     "title": "[AI카툰] Bob, Senior IT guy - 밥, AI 수용 단계",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216842",
-     "summary": "글·그림 Dr. Alf",
-     "source": "",
-     "ts": 1793440800
-    },
-    {
-     "id": "89d1e6204c7dc841",
-     "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216843",
-     "summary": "구글이 AI 검색을 앞세워 기존 검색 시장의 지배력을 유지했지만, 정작 AI 검색이 핵심 수익원인 광고 사업에 부담을 주기 시작했다. 챗GPT 등 AI 챗봇이 기존 검색을 대체할 것이라는 전망에 대응해 검색 서비스에 AI를 적극 도입했으나, AI 검색의 광고 수익성이 기존 검색에 미치지 못하는 문제가 드러난 것이다. 여기에 AI 인프라 투자 비용까지 급증하면서 구글 모회사 알파벳의 시가총액…",
-     "source": "",
-     "ts": 1793440645
-    },
-    {
-     "id": "37b1b19f7b1dafc1",
-     "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216840",
-     "summary": "미국 빅테크 기업들의 AI 투자 급증에 대한 불안감이 커지면서 기술주가 급락했다. AI 수요와 클라우드 매출은 빠르게 늘고 있지만, 데이터센터와 반도체에 투입되는 막대한 자금이 실제 수익으로 이어질 수 있는지 의문이 커진 것이다. 특히 아마존과 인텔의 실적 발표가 투자자들의 불안을 자극하면서 30일(현지시간) 나스닥 지수는 2.86% 하락했다. 10월 한 달 동안 나스닥100 지수에서 약…",
-     "source": "",
-     "ts": 1793439555
-    },
-    {
-     "id": "d8ad552fa30d8d15",
-     "title": "미국 메릴랜드, 태양광·ESS 보조금 입찰 시작…2년간 최대 2억달러 추진",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216801",
-     "summary": "미국 메릴랜드주가 태양광·에너지저장장치(ESS) 등 대규모 재생에너지 사업에 2년간 최대 2억달러(약 2672억원)를 지원하는 경쟁입찰 프로그램의 신청 접수를 시작했다. 사업자가 요청하는 보조금을 예상 전력 공급량으로 환산해 지원 단가가 낮은 사업을 선정하는 방식이다. 전력 수요 증가에 대응해 주내 발전설비를 확충하고 장기적으로 전기요금 부담을 줄이려는 목적이다.메릴랜드 에너지청(MEA)이…",
-     "source": "",
-     "ts": 1793439000
-    },
-    {
-     "id": "72764488d82990a1",
-     "title": "순천, 불법 옥외광고물 정비…50여명 합동 캠페인",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216667",
-     "summary": "AI 생성 영상순천시가 주요 도로변의 불법 옥외광고물을 정비하고 올바른 현수막 게시 방법을 알리는 민·관 합동 캠페인을 진행했다.순천은 지난 22일 전라남도 옥외광고협회 순천시지부 회원 50여명과 함께 불법 옥외광고물 추방 캠페인을 실시했다고 밝혔다.참가자들은 2개조로 나눠 의료원로터리와 순고오거리 등 주요 도로변에서 불법 광고물 정비와 시민 홍보활동을 진행했다.특히 가로수를 이용한 현수막…",
-     "source": "",
-     "ts": 1793439000
-    },
-    {
-     "id": "78c9d7bb14709516",
-     "title": "기후변화로 스웨덴 태양광 발전량 5% 증가 전망…봄철 적설 감소 영향",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216806",
-     "summary": "스웨덴에서 기후변화로 봄철 적설량이 줄어들면 태양광 발전량이 과거보다 약 5% 증가할 수 있다는 연구 결과가 나왔다. 기온 상승은 태양전지의 발전효율을 떨어뜨리지만, 눈이 패널을 덮어 발생하는 발전 손실이 줄어드는 효과가 이를 일부 상쇄하는 것으로 분석됐다. 다만 지역과 온실가스 배출 시나리오에 따라 발전량이 감소하는 곳도 있었다.스웨덴 왕립공과대학교(KTH)와 스웨덴 기상수문연구소(SMH…",
-     "source": "",
-     "ts": 1793438100
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,14 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "bcd9f1fd42408eca",
+     "title": "Europe’s AI ambitions are hitting a power bottleneck",
+     "link": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+     "summary": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
+     "source": "",
+     "ts": 1793444439
+    },
     {
      "id": "d461db5ac533b52e",
      "title": "Equinix posts record annualized gross bookings of $533m, up 35 percent",
@@ -889,18 +897,10 @@
      "summary": "The race to launch 6G is on",
      "source": "",
      "ts": 1793375228
-    },
-    {
-     "id": "ace3b3f18ae037b9",
-     "title": "Virgin Media O2 nears agreement to use BT's broadband network - report",
-     "link": "https://www.datacenterdynamics.com/en/news/virgin-media-o2-nears-agreement-to-use-bts-broadband-network-report/",
-     "summary": "The FT reports that Virgin Media O2 could pause its own fiber infrastructure buildout",
-     "source": "",
-     "ts": 1793374786
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793425975
+   "last_ok": 1793450579
   }
  ]
 }
