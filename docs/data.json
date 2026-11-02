@@ -1,5 +1,5 @@
 {
- "generated_at": 1793565233,
+ "generated_at": 1793583224,
  "top_n": 10,
  "feeds": [
   {
@@ -9,88 +9,88 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
-     "id": "1642d22e9b884628",
-     "title": "김세웅 전 카카오 부사장, '국민 AI 서비스' 개발 이끈다 - 매일일보",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2012838",
-     "summary": "2일 업무 시작…2028년 9월 30일까지 임기 과기정통부 , 이달 민간 개발자 추가 모집 ... 매일일보 = 안종열 기자 | 국민이 일상에서 활용할 인공지능 ( AI ) 서비스 ...",
+     "id": "4dab230667ec69e1",
+     "title": "공무원 업무망에 AI 웹검색·보고서 작성 도입… 정부 , 행정업무 AI 전환 본격화 - 인공지능신문",
+     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42533",
+     "summary": "행안부, '온 AI ' 기능 확대…인터넷망 이동 없이 최신 정책 자료 검색하고 출처까지 확인. 이미지:행안부. 정부 가 공무원의 자료 조사부터 보고서 작성까지 인공 ...",
      "source": "",
-     "ts": 1793550080
+     "ts": 1793578887
     },
     {
-     "id": "8003bb9234cb14b1",
-     "title": "제주뉴스, 경제전문 자매지 형식 '제주주간경제' 신설 전문성 강화…11월 3일 홈페이지 새 단장 |",
-     "link": "http://www.jejunews.biz/news/articleViewAmp.html?idxno=106917",
-     "summary": "제주경제 위기 진단·산업구조 전환·미래산업 육성 집중…경제지표·민생경제 보도 확대 관광·감귤부터 AI ·신재생에너지까지…위성곤 도정 경제 정책 · 정부 경제 ...",
+     "id": "d3707aa4a106fe7a",
+     "title": "ICT 3부처, 금주 주요 일정 - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261102084021",
+     "summary": "△15:00 부총리 국가 AI 전략위원회 제3차 전체회의(국가 AI 전략위원회). ◇방송 ... 정부 부처주간 일정 과기정통부 방미통위 개인정보위 과기부 개보위 방통위 ...",
      "source": "",
-     "ts": 1793545265
+     "ts": 1793576693
     },
     {
-     "id": "fd568ae4d1a955fb",
-     "title": "[지역 프로젝트 점검] 경기도, 정부 '글로벌 AI 허브' 승부수…유치전략 포럼 열고 광역 생태계 구축",
-     "link": "https://www.nspna.com/news/?mode=view&newsid=834148",
-     "summary": "경기도가 정부 에서 추진 중인 범지구적 인공지능 다자 협력 플랫폼인 '글로벌 AI 허브'의 도내 유치를 위한 핵심 전략 점검에 나섰다.",
+     "id": "350c1384d7399c26",
+     "title": "중소기업 AI 전환 ' 정부 가 뒷받침'…김동아, 지원체계 법제화 추진 - 스트레이트뉴스",
+     "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=314405",
+     "summary": "... AI 지원을 법률에 근거한 지속적인 정책 으로 전. ... 인공지능 ( AI ) 도입에 어려움을 겪는 중소기업을 정부 가 체계적으로 지원할 ...",
      "source": "",
-     "ts": 1793544834
+     "ts": 1793576019
     },
     {
-     "id": "7af31cff18bc810e",
-     "title": "경기도, 글로벌 AI 허브 유치 총력…전략 포럼 개최 - 경기일보",
-     "link": "https://www.kyeonggi.com/article/20261101580236",
-     "summary": "... 정부 에서 추진하는 글로벌 인공지능 ( AI ) 협력 거점 유치를 위해 전문가들과 전략 마련에 나섰다 ... 전문가 정책 대담에서는 인공지능 인프라 ...",
+     "id": "4cf9073b2dda8f0a",
+     "title": "경기도, '글로벌 AI 허브' 유치전 본격화…31개 시군 협력체계 구축 - 테크월드",
+     "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409062",
+     "summary": "글로벌 AI 허브는 정부 가 유엔(UN) 산하 국제기구와 다자개발은행 등과 협력 ... 경기도는 글로벌 AI 허브를 정책 연구에 머무는 조직이 아니라 도내 ...",
      "source": "",
-     "ts": 1793540453
+     "ts": 1793575372
     },
     {
-     "id": "32a9128af56f7809",
-     "title": "경기도, 글로벌 AI 허브 유치 전략 포럼 개최…전문가 의견 수렴 - 프레시안",
-     "link": "https://www.pressian.com/pages/articles/2026110110365775354",
-     "summary": "... AI 대전환과 AI 기반 과학기술 혁신을 주제로 기조발표를 진행했다. 이어진 정책 대담에서는 AI 인프라 경쟁력과 허브 유치 여건, 도내 중소기업의 산업 인공지능 ...",
+     "id": "7bcd225289160a04",
+     "title": "AI 가 위험한 이유, 똑똑해서가 아니라 기계라서다 - 디지털포용뉴스",
+     "link": "https://www.dginclusion.com/news/articleView.html?idxno=1890",
+     "summary": "인공지능 ( AI ) 규제 논의는 대부분 최전선(frontier)에 쏠려 있다 ... 2022년 챗GPT(ChatGPT) 등장 이후 기업, 정책 연구소, 정부 는 최전선 연구소의 눈으로 AI 를 ...",
      "source": "",
-     "ts": 1793540323
+     "ts": 1793573676
     },
     {
-     "id": "6dd29462b5d99863",
-     "title": "테크파시즘: 기계신을 위한 왕권, AI 기업이 정부 와 결합하는 이유[씨리얼] - 노컷뉴스",
-     "link": "https://www.nocutnews.co.kr/news/6600057",
-     "summary": "⑤먼저 온 미래 : 미국에서 일어나는 AI 반발 움직임, 한국의 정책 과 법 개정이 놓인 위치 ... 대표 저서로는 [ 인공지능 에 저항하기(Resisting AI : An Anti- ...",
+     "id": "9997e746dd02ffe8",
+     "title": "[2027 정부 예산안 분석] '석유가격 안정화 지원'…1조4497억원 신규 편성 - 투데이에너지",
+     "link": "http://www.todayenergy.kr/news/articleView.html?idxno=304952",
+     "summary": "조정방안으로는 법 개정 추이 및 적정성 검토 일정 ... 이 사업은 제조 현장의 AI 전환 및 자율제조 생태계를 구축하기 위한 메가 프로젝트 이다. 정책 처는 예타 ...",
      "source": "",
-     "ts": 1793539931
+     "ts": 1793571154
     },
     {
-     "id": "6ba6d64502d2c302",
-     "title": "AI 핵심 인프라 해저케이블…美 75개·日 43개 운영, 韓은 8개뿐 - 한국경제",
-     "link": "https://www.hankyung.com/article/2026110185111",
-     "summary": "정부 가 2035년까지 18.4기가와트(GW) 규모의 인공지능 ( AI ) 데이터센터를 구축하는 프로젝트 를 추진하는 가운데 국가 간 데이터를 전송할 해저케이블을 확보 ...",
+     "id": "88c3e6fdf6bc3563",
+     "title": "[이번주 재정경제부 등 경제부처 일정 ] < 정책 /금융 < 기사본문 - 연합인포맥스",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442382",
+     "summary": "... ( 정부 세종청사). *3일(화). △10:00 부총리 본부장 국무회의. *4일(수) ... △15:00 부총리 국가 AI 전략위원회 제3차 전체회의(국가 AI 전략위원회). [방송 ...",
      "source": "",
-     "ts": 1793539375
+     "ts": 1793570779
     },
     {
-     "id": "3e4d51a4149182f2",
-     "title": "“ AI 가 만드는 국제질서, 누가 설계할 것인가”…3일 국회서 한·캐나다 AI 거버넌스 논의",
-     "link": "http://www.daenews.co.kr/sub_read_amp.html?uid=26920",
-     "summary": "이번 토론회는 외교부, 과학기술정보통신부 및 관계 기관 등의 AI 안전 및 과학기술 외교 정책 기조를 점검하고, 현장에서 발생하는 AI 보안·통제 및 글로벌 ...",
+     "id": "1a50387f0d4c9352",
+     "title": "부산 제조中企 AI 전환 지원… 정책 안내부터 기술상담까지 - 뉴시스",
+     "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261030_0003848573",
+     "summary": "이번 행사는 정부 의 인공지능 ( AI ) 정책 방향과 지원사업을 안내하고, 우수 ... 같은 날 지역특화 프로젝트 '레전드50+' 참여기업을 대상으로 AX 확산 ...",
      "source": "",
-     "ts": 1793538755
+     "ts": 1793570646
     },
     {
-     "id": "d1278b95999b4ea0",
-     "title": "이해민 청와대 AI 수석 \"개인정보 안전·신뢰가 혁신 기반\" - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261101142653",
-     "summary": "김민재 행안부 차관은 인사말에서 \"책상 위에서의 일방적인 행정만으로는 정부 가 직면한 복잡한 현안을 해결하기 어렵다\"면서 \" 정책 의 정답은 언제나 국민의 ...",
+     "id": "0cd0dc89666e5930",
+     "title": "의료 AI 정식등재 내년 1분기 윤곽...임시등재 기업들 전환 분수령 - 의학신문",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3015327",
+     "summary": "... 기자] 정부 가 인공지능 ( AI ) 의료기술의 건강 ... 특히 일정 수준 이상의 AI 기술을 활용해 의심환자의 진단을 보조하는 ...",
      "source": "",
-     "ts": 1793538233
+     "ts": 1793567299
     },
     {
-     "id": "f773794a148b77e3",
-     "title": "“글로벌 AI 허브, 경기 품으로” 유치 총력전 - 인천일보",
-     "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1335651",
-     "summary": "경기도가 정부 가 추진 중인 범지구적 인공지능 다자 협력 플랫폼 '글로벌 AI 허브' 유치를 위해 학계·산업계 전문가들과 머리를 맞대고 본격적인 유치 ...",
+     "id": "5c74ef1936ab4bac",
+     "title": "'40조' 역대 최대 R&D 예산안 써낸 정부 …최상위 AI ·7대 SEED 심사받는다 - 머니투데이",
+     "link": "https://www.mt.co.kr/tech/2026/11/02/2026110114501590470",
+     "summary": "3대 메가 프로젝트 관련 예산은 피지컬 AI ·반도체· AI 데이터센터(AIDC) 분야 ... 한편 국회는 4일부터 5일까지 예산안에 대한 종합 정책 질의를 실시한다. 9 ...",
      "source": "",
-     "ts": 1793537308
+     "ts": 1793564434
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "cf53c0f1af",
@@ -116,7 +116,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "25ac01331a",
@@ -130,15 +130,15 @@
      "link": "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
      "summary": "Rep. Haley Stevens (D-Mich.) made a stunning last-minute endorsement of Republican Mike Rogers on Sunday, two days before Michigan's closely watched Senate election . Why it matters: Her endorsement gives Rogers a strik…",
      "source": "",
-     "ts": 1793563579
+     "ts": 1793575774
     },
     {
-     "id": "b7240056b1f86878",
-     "title": "\"Petty, selfish, unhinged\": Haley Stevens' staff and colleagues erupt at her \"betrayal\"",
-     "link": "https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed",
-     "summary": "Rep. Haley Stevens (D-Mich.) faced fierce backlash from fellow Democrats, party officials and her own staffers after endorsing Republican Mike Rogers for U.S. Senate on Sunday. Why it matters: It's a stunning reversal i…",
+     "id": "96777a3862fa3cc5",
+     "title": "Where Dems eyeing the White House are putting their midterm chips",
+     "link": "https://www.axios.com/2026/11/01/2028-democrats-midterm-bets",
+     "summary": "Pennsylvania Gov. Josh Shapiro 's chances of being a presidential contender in 2028 are riding on his winning reelection in a landslide Tuesday. New York Rep. Alexandria Ocasio-Cortez 's future hinges on whether a fello…",
      "source": "",
-     "ts": 1793561949
+     "ts": 1793573106
     },
     {
      "id": "c08de82be2cc1d65",
@@ -146,7 +146,15 @@
      "link": "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
      "summary": "Sen. Chris Murphy (D-Conn.) suffered a stroke Saturday and is being treated at Johns Hopkins Hospital, his office said Sunday. The big picture: Murphy is one of the Senate's more visible Democrats and has been traveling…",
      "source": "",
-     "ts": 1793559617
+     "ts": 1793569489
+    },
+    {
+     "id": "b7240056b1f86878",
+     "title": "\"Petty, selfish, unhinged\": Haley Stevens' staff and colleagues erupt at her \"betrayal\"",
+     "link": "https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed",
+     "summary": "Rep. Haley Stevens (D-Mich.) faced fierce backlash from fellow Democrats, party officials and her own staffers after endorsing Republican Mike Rogers for the U.S. Senate on Sunday. Why it matters: It's a stunning revers…",
+     "source": "",
+     "ts": 1793561949
     },
     {
      "id": "d08b439a339441bd",
@@ -195,18 +203,10 @@
      "summary": "A fight over whether the 2030 Census should stop asking about race and ethnicity has drawn more than 100,000 public comments, according to advocates tracking the federal docket. Why it matters: The change could weaken t…",
      "source": "",
      "ts": 1793530810
-    },
-    {
-     "id": "bbc546ea5784398f",
-     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
-     "link": "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch",
-     "summary": "A federal judge on Saturday threw out President Trump's lawsuit against the Wall Street Journal and Rupert Murdoch over the paper's reporting on Trump's ties to Jeffrey Epstein, Why it matters: It's the second time this…",
-     "source": "",
-     "ts": 1793478151
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "cc992ff5f1",
@@ -215,88 +215,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "30c0ccc5bccca963",
-     "title": "전 Meta 연구원, 해적판 도서를 토렌트로 받은 뒤 ‘소송 때문에’ 삭제",
-     "link": "https://news.hada.io/topic?id=36409&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "저작권자들은 전 Meta 연구원 Stephen Roller 가 Books3를 토렌트로 내려받고 의도적으로 배포했다고 증언했다며, Meta의 데이터 확보 경위에 대한 추가 확인을 요구함 법원은 지난해 도서를 이용한 Llama 학습을 공정 이용 으로 판단했으며, 저자들이 제기한 소송에...",
+     "id": "9eafb18b9fbff2c4",
+     "title": "입자가속기에 머리를 관통당한 남자, 얼굴 절반의 시간이 멈췄다",
+     "link": "https://news.hada.io/topic?id=36430&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "1. 얼굴의 절반만 늙지 않는 남자 세월이 흐르면서 얼굴 오른쪽에는 주름이 생겼지만, 왼쪽은 상대적으로 젊은 모습이 유지된 남자가 있다. 그는 소련의 물리학자 아나톨리 부고르스키(Anatoli Bugorski) 다. 놀랍게도 그의 얼굴에 나타난 차이는 성형수술이나 특별...",
      "source": "",
-     "ts": 1793559437
+     "ts": 1793581063
     },
     {
-     "id": "3e0b4bf5b6564144",
-     "title": "프랑스 의원들, 인터넷 트래픽 1GB당 0.055유로 과세안 승인",
-     "link": "https://news.hada.io/topic?id=36408&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "프랑스 하원은 2027년 예산법안 심의에서 콘텐츠 공급자의 디지털 데이터 송출에 과세하는 수정안 을 찬성 11표, 반대 10표로 채택함 발의 측은 프랑스 내 네트워크 진입 지점에서 물리적 데이터량 을 측정해 과세하면 글로벌 디지털 대기업이 주로 부담하며, 예상 세...",
+     "id": "f0ee42f59319c0b7",
+     "title": "Ask HN: 개인정보 보호를 위해 어떤 TV를 추천하시나요?",
+     "link": "https://news.hada.io/topic?id=36429&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "수년간 TV 없이 지냈으며, 개인정보를 존중하는 TV 를 찾고 있음. 원하는 사양은 60~80인치, 4K, 최소 60Hz이며 더 높은 가격을 지불할 의향도 있음 대부분의 스마트 TV 내장 앱보다 Apple TV 가 더 나은 대안이라는 이야기를 들었으며, 개인정보 보호 측면에서 더 잘...",
      "source": "",
-     "ts": 1793559257
+     "ts": 1793580201
     },
     {
-     "id": "9a693cdf7e54f0ff",
-     "title": "Anthropic, IPO 이후 정크 등급 중 상위 등급 받을 전망",
-     "link": "https://news.hada.io/topic?id=36407&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Blackstone 은 Anthropic이 IPO 이후 투기등급인 BB 구간 의 신용등급을 받을 것으로 예상함. 아직 신용평가사가 확정한 등급은 아님 기존에는 2027년 이전에 투자적격등급 을 받을 것으로 예상했으나, 이제는 정크 등급의 최상위 구간을 전망함",
+     "id": "dfc60ec994a9824a",
+     "title": "Apollo 이코노미스트 “AI, 대부분 기업에 재무적 성과 전혀 안겨주지 못해”",
+     "link": "https://news.hada.io/topic?id=36428&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Apollo Global Management 수석 이코노미스트 Torsten Slok 에 따르면, 막대한 투자와 열풍에도 기술 업종 밖 미국 기업에서 AI의 재무적 성과가 나타나지 않음 주요 기술 기업 7곳을 제외한 S&P 493 의 이익률과 직원당 매출은 정체된 것으로 보이며, Slok은 AI...",
      "source": "",
-     "ts": 1793559077
+     "ts": 1793580021
     },
     {
-     "id": "96e62372e5077b3a",
-     "title": "Minecraft 속 AI 에이전트 군집, 문명 건설에 실패하고 관료주의에 빠지다",
-     "link": "https://news.hada.io/topic?id=36406&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "ycombinator와 Olam Labs가 진행한 Civ50 실험에서 에이전트 50개는 3시간 안에 번성하는 문명을 만들라는 과제를 받았지만, 초기 목표를 포기하고 조심스러운 생존과 관료적 절차에 머무름 관료주의 의 대표 사례로, 에이전트 4개가 밀 한 블록에 사용할 뼛가루 하...",
+     "id": "beb0881a5a815032",
+     "title": "미국 노동자가 가져가는 자본의 몫, 최소 1947년 이후 최저 수준",
+     "link": "https://news.hada.io/topic?id=36427&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "미국 경제 생산에서 노동자가 임금으로 받는 노동소득분배율 이 2026년 2분기 52.8% 로 하락해, 노동통계국(BLS)이 집계를 시작한 1947년 이후 최저치를 기록함 기업 이익과 GDP가 증가하는 동안 고용 증가는 둔화해, 고용 없는 성장 과 부유층과 저...",
      "source": "",
-     "ts": 1793558897
+     "ts": 1793579841
     },
     {
-     "id": "cbff384442431447",
-     "title": "Show GN: EBS Gurapinggala Teacher - 거짓말 에이전트",
-     "link": "https://news.hada.io/topic?id=36405&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "EBS Gurapingala Teacher - AI 거짓말 에이전트와 교사용 모니터링 대시보드 GitHub: https://github.com/NomaDamas/EBS-Gurapingala-teacher 소개: EBS <생각의 멸종>에서 학생 대상 AI 실험을 위해 개발한 거짓말 AI 챗봇 및 교사용 모니터링 도구...",
+     "id": "2908d08f46c87301",
+     "title": "OpenQodex - 코딩 에이전트의 변경을 별도 에이전트가 검증하는 코드 리뷰 도구",
+     "link": "https://news.hada.io/topic?id=36426&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "기존 로그인 계정을 활용해 코딩 에이전트의 변경을 별도의 Claude Code 또는 Codex 프로세스로 리뷰 하는 도구 미푸시 커밋과 미커밋 변경 전체 를 기본 검사하며, 특정 브랜치나 PR, 저장소 전체 리뷰도 지원 22개 내장 스캐너 로 비밀키...",
      "source": "",
-     "ts": 1793558479
+     "ts": 1793579402
     },
     {
-     "id": "22ff0c032d3b5c3a",
-     "title": "Tangled, 프런트엔드 접근성 전문가를 고용하라",
-     "link": "https://news.hada.io/topic?id=36404&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Tangled의 새 UI는 12px 글자 크기와 16px 줄 높이 를 사용하며, 글자를 확대하면 일부 문자가 잘리는 등 접근성 문제가 나타남 WCAG 2.2 는 최소 글자 크기를 정하지 않지만, 텍스트를 200%까지 확대해도 콘텐츠나 기능이 손실되지 않아야 한다고 요구함 브...",
+     "id": "3b0ed97699ef366c",
+     "title": "Kwi, 새로운 KDE 터미널 에뮬레이터 소개",
+     "link": "https://news.hada.io/topic?id=36425&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Kwi 는 KDE Plasma와 다른 자유 데스크톱 사용자를 위해 개발 중인 터미널로, 최신 KDE 인터페이스 지침을 따르는 현대적이고 빠른 사용 환경을 목표로 함 libghostty-vt 가 터미널 파싱과 상태를 담당하고, Qt Scene Graph 기반 렌더러가 Vulkan 또는 OpenGL로 GPU ...",
      "source": "",
-     "ts": 1793556119
+     "ts": 1793577727
     },
     {
-     "id": "61e2d446af64192c",
-     "title": "프랑스 디지털세, 비영리 단체 VideoLAN의 존립을 위협할 수 있음",
-     "link": "https://news.hada.io/topic?id=36403&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "VideoLAN 은 프랑스 사회주의자들과 의회 의원들이 표결로 통과시킨 세금 때문에 연간 100만 유로가 넘는 비용 을 부담하게 될 것이라고 밝힘 해당 세금은 표결을 통과한 상태 이며, 게시물에는 구체적인 과세 방식이나 시행 시점이 없음 V...",
+     "id": "1720cb8e0ad9198a",
+     "title": "태평양의 작은 나라, 보편적 기본소득 시행",
+     "link": "https://news.hada.io/topic?id=36424&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "마셜제도 가 미국에서 유입된 뜻밖의 재원을 활용해 모든 국민에게 보편적 기본소득 을 지급함 미국은 제2차 세계대전 직후 , 빠르게 늘리던 핵무기를 시험할 장소로 마셜제도를 선택함 당시 마셜제도는 미국 통치 아래 있...",
      "source": "",
-     "ts": 1793555410
+     "ts": 1793576295
     },
     {
-     "id": "d5f875dc4f314586",
-     "title": "프랑스, 콘텐츠 제공업체에 다운로드세 도입(GB당 0.055유로)",
-     "link": "https://news.hada.io/topic?id=36402&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "",
+     "id": "122168fe7065241c",
+     "title": "JEPA로 플라톤적 표현 가설을 증명하고 개선하기",
+     "link": "https://news.hada.io/topic?id=36423&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "서로 다른 모달리티에서 독립적으로 학습한 JEPA가 동일한 세계 상태를 연결하는 양성 쌍 을 사용하면, 일정한 가정 아래 회전 변환만 다른 동일한 표현을 학습한다는 정리를 증명함 정렬을 좌우하는 핵심은 규모뿐 아니라 뷰의 구성 임. 같은 장면의 서로 다른 관측...",
      "source": "",
-     "ts": 1793555230
+     "ts": 1793576115
     },
     {
-     "id": "0d578e7190fc0de1",
-     "title": "Lenovo의 ‘암호화’ 지문 인식 USB, 실제로는 케이스에 담긴 암호화되지 않은 SD 카드",
-     "link": "https://news.hada.io/topic?id=36401&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "보안 연구원 Xusheng Li가 AES-256 암호화 제품으로 판매된 Lenovo ThinkPlus FU100 내부에서 암호화되지 않은 SD 카드를 확인함 지문 인식기 는 USB 연결만 활성화했으며, 저장 데이터는 보호하지 않아 기기에 물리적으로 접근하면 데이터를 쉽게 읽을 수 있음",
+     "id": "b3c2086390fe5e50",
+     "title": "영국 전역 기존 유선전화망, 100일 뒤 종료…기한 연장 없어",
+     "link": "https://news.hada.io/topic?id=36422&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Openreach가 기존 공중교환전화망(PSTN)을 2027년 1월 31일 종료 하며, 기한을 더 미루지 않겠다고 통신사업자들에게 통보함 전화기뿐 아니라 결제 단말기, 화재/보안 경보, 돌봄 경보 장치 도 영향을 받으며, 기존 PSTN 연결을 유지하는 기업과 소비자는 서비스 중단...",
      "source": "",
-     "ts": 1793555049
+     "ts": 1793572979
     },
     {
-     "id": "a27e99e160b3278d",
-     "title": "Flock이 계약 해지를 무시하자 경찰서장이 카메라 전원을 차단함",
-     "link": "https://news.hada.io/topic?id=36400&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "미네소타주 Plymouth 시의회가 Flock 계약 해지 를 만장일치로 의결했지만 회사가 철거 요구에 응답하지 않자, 경찰서장이 직원들에게 카메라 전원선을 분리하도록 지시함 시는 사용자 계정 정지와 공식 해지 통보를 마쳤으나, 일주일 넘게 본사와 법무 부서의 답변을 받지 못...",
+     "id": "bf2c58f24d03b47e",
+     "title": "Groff로 중편소설 쓰기",
+     "link": "https://news.hada.io/topic?id=36421&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "groff로 두 편의 중편소설을 조판 한 개인 작업 사례로, 작은 매크로 패키지와 텍스트 중심 도구만으로 책 형태의 PDF를 제작함 작고 빠르면서도 품질 좋은 출력 이 groff를 선택한 이유였으며, 13.5년 된 PC에서 전처리를 포함해 50쪽 문서는 약 700ms, 120쪽 문서는...",
      "source": "",
-     "ts": 1793554869
+     "ts": 1793572799
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "d1c587ecba",
@@ -304,6 +304,14 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "ffb30fef9594cc91",
+     "title": "If in doubt, delete the uv.lock file",
+     "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+     "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which…",
+     "source": "",
+     "ts": 1793575462
+    },
     {
      "id": "835fd1406315e6b3",
      "title": "Quoting Kyle Kingsbury",
@@ -375,18 +383,10 @@
      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in partic…",
      "source": "",
      "ts": 1793205923
-    },
-    {
-     "id": "93b9dc1d31289278",
-     "title": "The October inflection point for vibe game development",
-     "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-     "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily driver…",
-     "source": "",
-     "ts": 1793195715
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "f9eb976542",
@@ -394,6 +394,14 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "bff9e25c9f3321ec",
+     "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216785",
+     "summary": "문제 해결을 위한 AI 에이전트 설계이선협 | 한빛미디어2026년 10월 30일추천이유이 책은 AI 에이전트가 정말 필요한지부터 시작해 문제를 분석하고 LLM과 코드의 역할을 나누는 설계 능력을 갖추도록 합니다. 저자는 프레임워크 없이 직접 구현한 다섯 가지 실제 예제를 통해 어떤 상황에서도 적용할 수 있는 오래가는 설계 감각을 전달합니다.상세보기 \"회사에서 AI 에이전트를 도입하자는데,…",
+     "source": "",
+     "ts": 1793610000
+    },
     {
      "id": "fe31d62acfe814db",
      "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
@@ -465,18 +473,10 @@
      "summary": "AI 모델의 신경망 일부를 조작하는 것만으로 친절한 AI 비서를 인간에게 적대적인 캐릭터로 바꿀 수 있다는 실험 결과가 나왔다. 특히 AI 에이전트를 활용해 모델의 내부 작동 원리를 분석하는 도구까지 등장하면서, 대형 연구소 중심이었던 AI 해석 가능성 연구가 개인 개발자들에게도 확대되고 있다.'라이라(Lyra)'라는 이름으로 X에서 활동하는 AI 개발자는 지난 24일(현지시간) 알리바바의…",
      "source": "",
      "ts": 1793533010
-    },
-    {
-     "id": "ae36148b7e692c84",
-     "title": "앤트로픽 \"AI가 안전 감시 피하는 학습 데이터 스스로 발견\"",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=216859",
-     "summary": "앤트로픽이 AI를 이용해 다른 AI 모델의 안전장치를 우회하는 학습 데이터를 자동으로 찾아내는 데 성공했다. '클로드'가 겉으로는 정상적인 소설이나 역할극으로 보이는 데이터를 만들어 안전성 검사 시스템을 통과했고, 이 데이터를 학습한 모델은 인간의 감시를 방해하거나 이용자를 속이는 행동까지 보였다. 동시에 위험한 행동을 찾아내고 방지하는 정렬(Alignment) 연구도 AI에 맡기는 방식이…",
-     "source": "",
-     "ts": 1793530019
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "19ef1c7741",
@@ -566,7 +566,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "263d8d0ce8",
@@ -656,7 +656,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "7ebf5b6c9a",
@@ -746,7 +746,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "2c60dce9bd",
@@ -836,7 +836,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "95180fe28d",
@@ -926,7 +926,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   },
   {
    "id": "c15f1e5a65",
@@ -1016,7 +1016,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793565233
+   "last_ok": 1793583224
   }
  ]
 }
