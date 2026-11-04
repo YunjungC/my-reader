@@ -1,5 +1,5 @@
 {
- "generated_at": 1793815352,
+ "generated_at": 1793835879,
  "top_n": 10,
  "feeds": [
   {
@@ -9,12 +9,60 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "398f6babc8444538",
+     "title": "코히어, 소버린 고객의 안전한 엔터프라이즈급 AI 구축 촉진하기 위해 싱가포르에 국방 AI ...",
+     "link": "https://www.kipost.net/news/articleView.html?idxno=342996",
+     "summary": "공공 부문의 소버린 AI 애플리케이션을 시범 프로젝트 에서 임무 수행이 가능한 운영 단계로 전환하도록 지원 싱가포르, 2026년 11월 4일 /PRNewswire/ ...",
+     "source": "",
+     "ts": 1793827473
+    },
+    {
+     "id": "ca049d8e4d1d31c4",
+     "title": "과기정통부 , SKAI 본사 방문…피지컬 AI 핵심 '합성데이터' 기술 점검 | MTN 머니투데이방송",
+     "link": "https://news.mtn.co.kr/article/2026110417410730371",
+     "summary": "스카이월드와이드(SKAI)는 과학기술정보통신부 관계자들이 본사를 찾아 피지컬 인공지능 ( AI ) 학습데이터 기술개발 현황을 살펴보고 정책 협력 방안을 논의 ...",
+     "source": "",
+     "ts": 1793817064
+    },
+    {
+     "id": "b9441b3b5fd8f34f",
+     "title": "[2026 로보월드] \" 정부 , AI 로봇 첫 번째 구매자 된다\"...내년 3400억원 투입",
+     "link": "https://www.irobotnews.com/news/articleView.html?idxno=49382",
+     "summary": "종합 로봇 인공지능 모빌리티 기획·특집 오피니언 커뮤니티 지면보기. 2026 ... 이 실장은 정부 의 로봇산업 육성 정책 방향도 소개했다. 우선 정부 가 AI ...",
+     "source": "",
+     "ts": 1793813941
+    },
+    {
+     "id": "ef6c09c82ee46d99",
+     "title": "국민 인공지능 서비스혁신추진단, 전문임기제공무원 2차 공개 모집 - 헬로티",
+     "link": "https://www.hellot.net/news/article.html?no=116012",
+     "summary": "... 정책 . 공유하기. 국민 인공지능 서비스혁신추진단, 전문임기제공무원 2차 ... 과학기술정보통신부 가 국민 인공지능 서비스혁신추진단에서 AI 서비스 개발을 ...",
+     "source": "",
+     "ts": 1793813616
+    },
+    {
      "id": "702d2fa61c43ba28",
      "title": "김대중부터 이재명까지 국정철학 분석…'민주당의 시대' 북 콘서트 개최 - 한겨레",
      "link": "https://www.hani.co.kr/arti/politics/politics_general/1285703.html",
      "summary": "... 인공지능 전환 등 이재명 정부 가 마주한 10대 정책 환경을 분석한다. 광고 ... AI 학습 및 활용 금지.",
      "source": "",
      "ts": 1793807979
+    },
+    {
+     "id": "67a1e797c544ffd1",
+     "title": "정책 ·투자를 한자리에 「물리적 인공지능 기술 주간(피지컬 AI Tech Week)」 13일 개막",
+     "link": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156784836&pWise=main&pWiseMain=L5",
+     "summary": "- 물리적 인공지능 협력체( · AI 얼라이언스)를 중심으로 정부 ·산업계· ; - 범부처 사업설명회, 국제 기술강연, 협력체 교류( ; - 물리적 인공지능 ( · AI ) 기술전시 ...",
+     "source": "",
+     "ts": 1793807942
+    },
+    {
+     "id": "3cf72e74bd97bb2d",
+     "title": "“MICE 예산 20% 삭감” 지적에 정부 “실제론 6%”…현장과 온도 차 - 여행신문",
+     "link": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500648",
+     "summary": "산업계에서는 인력 양성과 지역 MICE 활성화에 필요한 예산 확대를 요구했고, 정부 는 내년도 예산안에 인공지능 ( AI ) 관련 신규 사업을 반영하고 지역 지원도 ...",
+     "source": "",
+     "ts": 1793805207
     },
     {
      "id": "651619adfd15da00",
@@ -25,72 +73,24 @@
      "ts": 1793804756
     },
     {
-     "id": "209d3c10da0e3586",
-     "title": "AI 에 토지 개발 인허가 물어본다...내년 5개 지자체 시범 운영 - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261104134940",
-     "summary": "... AI 민생 10대 프로젝트 ' 가운데 하나로 지난 4월 시작됐다. 비아이매트릭스가 주관하고 웨이버스와 아이씨티웨이가 참여하는 컨소시엄이 개발을 맡고 있다. 정부 ...",
+     "id": "137aeef14762e5e4",
+     "title": "윤석열 측 '항소 기각'...국민의힘 397억 운명은? [정치ON] - YTN",
+     "link": "https://www.ytn.co.kr/_ln/0103_202611041627590407",
+     "summary": "그래서 저는 그 이후에 트럼프 정부 가 어떤 정책 을 갈 것인지에 대한 것은 ... 뭐냐 하면 AI 에 기반한 피지컬 AI 로 가는 거예요. 로봇이라든가 자율 ...",
      "source": "",
-     "ts": 1793797248
+     "ts": 1793804511
     },
     {
-     "id": "127a68d92102cd5a",
-     "title": "전차·전투기 정비 판단도 AI 로 한다… 정부 , '군수 AI 에이전트' 기술개발 본격화 | 문화일보",
-     "link": "https://www.munhwa.com/article/11628680",
-     "summary": "군수 빅데이터와 인공지능 ( AI )을 활용해 탱크나 전투기 등 무기체계의 가동 상태를 최상으로 유지하면서도 관리 비용을 아끼는 기술 개발이 본격화된다.",
+     "id": "23f4204c3e3ba43e",
+     "title": "전북자치도, 새로운 성장동력 확보 위한 '전북 메가 프로젝트 '발굴 총력-전북금강일보",
+     "link": "https://www.gkg.co.kr/194880",
+     "summary": "정부 는 수도권에서 멀리 떨어진 지역일수록 더 살겠다는 `5극3특`에 방점을 찍고 피지컬 AI ... 특히 정부 정책 에 맞춰 지방 정부 의 역점사업을 연계할 수 있는 방안 ...",
      "source": "",
-     "ts": 1793797094
-    },
-    {
-     "id": "21d629f3381ef73c",
-     "title": "류제명 과기정통부 차관, AMD 찾아 \"국내 AI 반도체 기업 성장 노력\" - 디지털데일리",
-     "link": "https://www.ddaily.co.kr/page/view/2026110409442265263",
-     "summary": "[디지털데일리 김문기 기자] 과학기술정보통신부 는 어드밴스드마이크로디바이스(AMD)와 체결한 인공지능 ... 회의에는 이도규 과기정통부 정보통신 정책 실장과 키스 ...",
-     "source": "",
-     "ts": 1793796383
-    },
-    {
-     "id": "88024c3e2d13d47a",
-     "title": "AMD, 인공지능 반도체 협력 본격 가동... AMD 대표 인공지능 행사도 한국서 첫 개최 - KDI 경제교육",
-     "link": "https://eiec.kdi.re.kr/policy/materialView.do?num=289069&pg=&pp=&device=&search_txt=&topic=&type=&depth1=&depth2=",
-     "summary": "과학기술정보통신부 는 '26.11.4.(수) AMD의 대표 인공지능 ( AI ) 행사 'Advancing AI World Tour Seoul 2026' 개최를 계기로, 과기정통부 -AMD 업무협약(MoU) ...",
-     "source": "",
-     "ts": 1793793121
-    },
-    {
-     "id": "c99b485144de39b8",
-     "title": "' AI ( 인공지능 ) 기반 디지털 감사 및 적극행정, 사전컨설팅 활성화'를 위한 업무협약 체결",
-     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787876&repCode=A00001&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98&pWise=main&pWiseMain=T1_2&pWiseMinistry=ministryNews",
-     "summary": "#2027 예산안 #국민성장펀드 #3대 메가 프로젝트 ... Leave your first comment now! 뉴스레터 구독. 정책 NOW. 123대 국정과제 · 정부정책 사실은 이렇습니다 ...",
-     "source": "",
-     "ts": 1793793037
-    },
-    {
-     "id": "29687edddbbd3c53",
-     "title": "[ AI 브리프] SKAI, 과기정통부 와 피지컬 AI 협력 논의…학습데이터 기술·사업화 현황 공유",
-     "link": "https://www.itdaily.kr/news/articleView.html?idxno=242696",
-     "summary": "인공지능 ( AI ) 기술이 산업과 일상을 빠르게 바꿔 놓고 있습니다. 아이티데일리는 매일 쏟아지는 국내외 주요 AI 소식을 한데 모은 ' AI 브리프'를 선보입니다 ...",
-     "source": "",
-     "ts": 1793790676
-    },
-    {
-     "id": "9a61e73b67012683",
-     "title": "연천 산란계농장서 올겨울 첫 고병원성 AI - 농민신문",
-     "link": "https://www.nongmin.com/article/20261104500546",
-     "summary": "중수본은 박정훈 농림축산식품부 식량 정책 실장 주재로 관계기관·지방 정부 가 참여하는 회의를 열고 발생상황과 방역대책을 점검했다. 발생농장은 산란계 9만1000 ...",
-     "source": "",
-     "ts": 1793788938
-    },
-    {
-     "id": "52d3f56750171efb",
-     "title": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자",
-     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42591",
-     "summary": "정부 , 반도체·피지컬 AI · AI 데이터센터 3대 프로젝트 투자유치 본격화…제조업 AI 대전환과 지역 성장전략 연계.",
-     "source": "",
-     "ts": 1793787008
+     "ts": 1793802923
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "cf53c0f1af",
@@ -180,7 +180,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "25ac01331a",
@@ -189,12 +189,68 @@
    "site": "https://www.axios.com",
    "items": [
     {
-     "id": "77b85d9c8261e28b",
-     "title": "Women ride midterm blue wave to historic gains",
-     "link": "https://www.axios.com/2026/11/04/women-midterm-blue-wave-historic-gains",
-     "summary": "Women candidates won enough races Tuesday to set a new record for Democratic women's representation in the U.S. House — among other historic firsts in Congress and governor's races nationwide. The big picture: The spike…",
+     "id": "1c4fccfb4d838cf4",
+     "title": "Polls missed bigger on the midterms than in 2016",
+     "link": "https://www.axios.com/2026/11/04/polling-midterms-accuracy-atlasintel",
+     "summary": "Democrats' midterm tsunami obscured a major polling miss: Surveys correctly anticipated a blue wave, but failed to capture its full force. Why it matters: Pollsters appear to have underestimated Democrats by a wider mar…",
      "source": "",
-     "ts": 1793814055
+     "ts": 1793828514
+    },
+    {
+     "id": "f294cb525dcf104d",
+     "title": "LIV Golf collapse imminent",
+     "link": "https://www.axios.com/2026/11/04/liv-golf-liquidation-bankruptcy",
+     "summary": "Efforts to keep the LIV Golf league alive have collapsed. Why it matters: LIV filed for Chapter 11 bankruptcy protection in September after its Saudi investors confirmed plans to withdraw funding after the 2026 season.…",
+     "source": "",
+     "ts": 1793828128
+    },
+    {
+     "id": "1fc13100a11002f7",
+     "title": "Read: Hakeem Jeffries' letter officially launching his bid for House speaker",
+     "link": "https://www.axios.com/2026/11/04/hakeem-jeffries-speaker-house-democrats-letter",
+     "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) formally launched his bid for speaker of the House on Wednesday in a letter to colleagues obtained by Axios. Why it matters: Jeffries is widely expected to secure the speak…",
+     "source": "",
+     "ts": 1793826325
+    },
+    {
+     "id": "917d978e06994965",
+     "title": "Forget the midterm ballots. Trump is back to ballrooms.",
+     "link": "https://www.axios.com/2026/11/04/trump-ballroom-focus-2026-midterm-election",
+     "summary": "Republicans barely had time to absorb their sweeping midterm losses before President Trump returned to a familiar comfort zone: D.C. construction projects. Why it matters: Voters just delivered an overwhelming rebuke of…",
+     "source": "",
+     "ts": 1793825267
+    },
+    {
+     "id": "396a57ec2a1e3d40",
+     "title": "The fatal assumption behind Republicans' redistricting strategy",
+     "link": "https://www.axios.com/2026/11/04/republicans-redistricting-2026-midterms",
+     "summary": "Data: The Downballot , Ballotpedia , AP ; Chart: Erin Davis/Axios Republican mapmakers thought they were drawing at least a dozen comfortably red districts to protect their House majority. Why it matters: They weren't r…",
+     "source": "",
+     "ts": 1793822212
+    },
+    {
+     "id": "8076fbf2e28b7f67",
+     "title": "Oil prices plunge after Vance post on Iran war",
+     "link": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran",
+     "summary": "Data: Financial Modeling Prep ; Chart: Ben Geman/Axios Oil prices fell sharply Wednesday as traders weigh signs — including a widely circulated post by Vice President JD Vance — that the midterm election will add pressu…",
+     "source": "",
+     "ts": 1793820847
+    },
+    {
+     "id": "1aac0dedf55c9ad8",
+     "title": "Key Pentagon priorities in peril after Democratic sweep",
+     "link": "https://www.axios.com/2026/11/04/democrat-midterms-hegseth-pentagon-investigations",
+     "summary": "Tuesday's election was great for Democrats. It was bad for Defense Secretary Pete Hegseth and some of the White House's most ambitious national security projects. Why it matters: Surprise wins across the map for Democra…",
+     "source": "",
+     "ts": 1793819392
+    },
+    {
+     "id": "fde8e92013d840ff",
+     "title": "Democrats' midterm gains could sideline Electoral College by 2028",
+     "link": "https://www.axios.com/2026/11/04/democrats-electoral-college-popular-vote-2028",
+     "summary": "Democrats' sweeping statehouse gains Tuesday have opened a path to effectively replacing the Electoral College with a national popular vote in time for the 2028 presidential election — without needing to amend the Const…",
+     "source": "",
+     "ts": 1793818232
     },
     {
      "id": "95c895004be7f97b",
@@ -202,23 +258,7 @@
      "link": "https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda",
      "summary": "Democrats wasted no time gloating and warning the Trump administration about a pending flood of subpoenas and investigations once the 2026 midterm blue wave became clear. Why it matters: Democrats are eager to exercise…",
      "source": "",
-     "ts": 1793813699
-    },
-    {
-     "id": "1998bc39f261a5c7",
-     "title": "Trump can't pack the Fed board with allies now",
-     "link": "https://www.axios.com/2026/11/04/fed-trump-appointees-democrats",
-     "summary": "A recurring subplot of President Trump's term has been a desire to replace Biden appointees to the powerful Federal Reserve Board of Governors — even ahead of their terms ending — with allies. That effort now looks dead…",
-     "source": "",
-     "ts": 1793812505
-    },
-    {
-     "id": "69711951db64ebdd",
-     "title": "Global leaders weigh in on America's midterm shake-up",
-     "link": "https://www.axios.com/2026/11/04/2026-midterm-election-results-world-leaders-react",
-     "summary": "World leaders are reacting to Democrats' comprehensive midterm wins, which saw them retake the Senate and flip the House on Tuesday night. Why it matters: The results could reshape President Trump's final two years in o…",
-     "source": "",
-     "ts": 1793812287
+     "ts": 1793818201
     },
     {
      "id": "543cce26f9fdeacd",
@@ -226,51 +266,11 @@
      "link": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
      "summary": "The Iran war was the reason for the Democrats' blue tsunami that stunned Washington, Vice President Vance said in an X post Wednesday morning. Why it matters: The VP offered a surprisingly blunt assessment of why the GO…",
      "source": "",
-     "ts": 1793810294
-    },
-    {
-     "id": "f25174120b66a16e",
-     "title": "Scalise, Jordan vie to lead House Republicans reeling from midterm rebuke",
-     "link": "https://www.axios.com/2026/11/04/state-scalise-house-republicans-minority-leader-midterms",
-     "summary": "Majority Leader Steve Scalise (R-La.) will announce his bid to lead House Republicans on Wednesday, a person familiar with his plans told Axios, as his party begins to regroup from stunning midterm losses that cost them…",
-     "source": "",
-     "ts": 1793809806
-    },
-    {
-     "id": "f4afcb1df0362619",
-     "title": "Mike Johnson bows out of leadership after crushing House GOP defeat",
-     "link": "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms",
-     "summary": "Speaker Mike Johnson (R-La.) plans to step down as the House's top Republican after his party's epic midterm election losses wiped out their majority, according to a person familiar with his plans. Why it matters: Johns…",
-     "source": "",
-     "ts": 1793805251
-    },
-    {
-     "id": "74c38403bbe98195",
-     "title": "Democrats win chance to take on energy costs",
-     "link": "https://www.axios.com/2026/11/04/democrats-midterms-energy-costs",
-     "summary": "Democrats' big night gives them a chance to turn voter anger over high energy prices into legislative action and congressional oversight, but divisions within the party could complicate their plans. Why it matters: This…",
-     "source": "",
-     "ts": 1793798203
-    },
-    {
-     "id": "c5b707e5d8c60d01",
-     "title": "Democrats will face a health care stress test",
-     "link": "https://www.axios.com/2026/11/04/democrats-election-health-care-agenda-divisions",
-     "summary": "Democrats will be able to take plenty of messaging votes on health care after their blowout wins Tuesday — but they'll face too many limits and internal disagreements to force all of the big policy changes they want. Wh…",
-     "source": "",
-     "ts": 1793792833
-    },
-    {
-     "id": "3414f460c0fd1386",
-     "title": "Behind the Curtain: The Trump obliteration",
-     "link": "https://www.axios.com/2026/11/04/behind-the-curtain-the-trump-obliteration",
-     "summary": "Make no mistake: Democrats won by epic, sometimes historic margins across red and blue states, up and down ballots, obliterating almost everything President Trump, and a Republican Party remade wholly in his image, buil…",
-     "source": "",
-     "ts": 1793790137
+     "ts": 1793816567
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "2a1e50a4b130cf7a",
-     "title": "GitHub Pull Requests, Git 작업 및 Issues 장애",
-     "link": "https://news.hada.io/topic?id=36598&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "GitHub에서 오류 증가와 간헐적 실패 가 발생해 Pull Requests, Git 작업, Issues 등에서 일부 요청이 실패하거나 지연될 수 있었음 영향 범위는 API Requests와 Actions 까지 포함한 5개 서비스였으며, 성능 저하와 Pull Requests 가용성 저하가 확인됨 2026년 11월 4일 11:30 UTC 에 API Requests, Git 작업, Issues…",
+     "id": "1422b109da2b1dcd",
+     "title": "Go의 새로운 JSON API",
+     "link": "https://news.hada.io/topic?id=36615&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Go 1.27 에서 encoding/json/v2 와 encoding/json/jsontext 가 안정화되어 정식 제공됨. 기존 JSON 패키지의 동작, API, 성능 문제를 개선하면서 익숙한 사용 방식을 유지함 구문 처리와 Go 값 변환을 분리 하고, 토큰과 값을 실제 스트리밍 방식으로 처리함. 새 사용자 정의 인터페이스는 전체 JSON 값을 버퍼링하거나 반복 파싱하는 부담을 줄임 기본…",
      "source": "",
-     "ts": 1793810567
+     "ts": 1793831823
     },
     {
-     "id": "012ca8fc435eddca",
-     "title": "미국 유권자들, 주민투표에서 데이터센터에 압도적 반대",
-     "link": "https://news.hada.io/topic?id=36597&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "id": "25149efcbd535b71",
+     "title": "Tencent, 오픈소스 최상위권을 목표로 한 멀티모달 AI 모델 Hy4 공개",
+     "link": "https://news.hada.io/topic?id=36613&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Tencent가 멀티모달 AI 모델 Hy4 정식 버전 을 공개함. Tencent Cloud와 OpenRouter에서 먼저 제공하며, 모델 가중치는 추후 공개할 예정임 Hy4 계열에 처음으로 시각 인식과 컴퓨터 조작 을 도입함. 이미지와 차트를 읽고, CLI와 GUI를 오가며 Blender나 CAD 같은 전문 소프트웨어를 다룰 수 있음 게임 개발 벤치마크에서 Hy4 preview 대비 Gam…",
+     "source": "",
+     "ts": 1793828168
+    },
+    {
+     "id": "39e636aed22a89f5",
+     "title": "백악관 네트워크에서 주거용 프록시 탐지",
+     "link": "https://news.hada.io/topic?id=36612&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Layer3 Intel이 백악관 네트워크를 운영하는 대통령 행정실 등록 네트워크 AS2650 에서 공개 주거용 프록시 서비스의 출구 활동을 관측함 10월 5일부터 11월 3일까지 6개 IP 주소에서 236회 출구 활동을 기록했으며, 28개 프록시 서비스가 이 네트워크를 통해 트래픽을 내보낼 수 있었음 특정 네트워크를 겨냥하지 않고 전 세계 순환 프록시 접속 을 요청하다 우연히 발견했으며,…",
+     "source": "",
+     "ts": 1793827988
+    },
+    {
+     "id": "f83135a7129bed4c",
+     "title": "화성의 거대 협곡, 지금도 지각 변동이 이어짐",
+     "link": "https://news.hada.io/topic?id=36611&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Columbia University와 Imperial College London 연구진이 Valles Marineris 협곡 아래에서 단층 운동으로 화성 지진이 발생했다는 직접적인 지진학적 증거를 확보함 지진파 분석에서 가장 잘 들어맞는 원인은 지하 20~40km 깊이의 단층을 따라 지각이 수평으로 엇갈려 움직이는 주향이동 지진 이었음 운석 충돌과 산사태 등 대안 모형은 관측된 지진파를 재…",
+     "source": "",
+     "ts": 1793825041
+    },
+    {
+     "id": "4009961f4963b491",
+     "title": "잃어버린 malloc()",
+     "link": "https://news.hada.io/topic?id=36610&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "초기 Unix에는 선형 할당, 명시적 메모리 영역, 할당 위치 되돌리기 등 오늘날 아레나 방식과 닮은 메모리 관리 기법이 이미 존재했음 V4 커널의 malloc() 과 mfree() 는 자원 맵을 인자로 받아 주기억장치와 디스크 스왑 공간을 같은 코드로 관리했으며, 해제할 때도 크기를 전달했음 V7과 V8에는 타입 기반 할당 매크로 가 있었고, V8의 일부 매크로는 할당한 메모리를 기본적으…",
+     "source": "",
+     "ts": 1793824860
+    },
+    {
+     "id": "28d1489ec3410cf6",
+     "title": "LLM은 신경망 가중치를 읽고 쓰는 데 초인적이지 않다",
+     "link": "https://news.hada.io/topic?id=36609&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "GPT-6 Astra의 신경망 가중치 분석과 수정 은 인상적이지만, 유능한 인간 ML 연구자도 수행할 수 있는 작업임 작은 게임 신경망은 입력 채널에 격자 위치와 의미가 드러나 있어 , 첫 번째 층 가중치의 크기를 분석하면 어떤 게임을 학습했는지 알아낼 단서를 얻을 수 있음 0.8B Qwen의 수학 성능 향상 은 새로운 수학 능력을 심기보다, 32k 토큰 이후 반복에 빠지는 특정 문제를 고…",
+     "source": "",
+     "ts": 1793824680
+    },
+    {
+     "id": "10af62e3e4c5b4c3",
+     "title": "이게 jank라면 믿으시겠어요?",
+     "link": "https://news.hada.io/topic?id=36608&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
      "summary": "",
      "source": "",
-     "ts": 1793810387
+     "ts": 1793822425
     },
     {
-     "id": "a97b490bd7105fd3",
-     "title": "북한의 가짜 채용 면접이 Binance의 63억 달러 탈취로 이어짐",
-     "link": "https://news.hada.io/topic?id=36596&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "북한 공격자들이 가짜 채용 면접 으로 Binance 소프트웨어 엔지니어의 업무용 컴퓨터에 악성코드를 실행하게 했으며, 이후 내부 시스템 침해가 63억 달러 규모 암호화폐 탈취 로 이어짐 Binance의 현재 조사에 따르면 이번 사건은 단순 피싱이 아니라 공급망 공격, 사회공학, 개발 도구 변조, 내부 AI 도구 침해 와 단말 장악을 결합한 다단계 공격임 공격자는 면접 과제로 전달한 코드 저…",
+     "id": "18fda6305976a669",
+     "title": "Apple의 단어 목록을 덤프해 봤다",
+     "link": "https://news.hada.io/topic?id=36607&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "macOS 시스템 사전에서 비속어(vulgar), 모욕적 표현(offensive), 민감 표현(sensitive) 으로 추정되는 3단계 플래그와 11개 주제 플래그를 추출함 VulgarWordUsage.db 는 앱과 수신자별 비속어 사용을 학습하는 데이터베이스임. 다만 확인한 Mac에서는 비어 있었고, 폴더가 없어 데이터베이스 자체가 생성되지 않는 사례도 있음 공개 API는 없지만 비공개…",
      "source": "",
-     "ts": 1793810207
+     "ts": 1793821526
     },
     {
-     "id": "85339232d443c7ff",
-     "title": "Kimi K3.1 Pro 가중치 공개",
-     "link": "https://news.hada.io/topic?id=36595&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "지난달 API와 Kimi 웹등을 통해 공개되었던 K3.1 Pro의 가중치가 예정대로 공개되었습니다. https://news.hada.io/topic?id=35879",
+     "id": "e5aa8e2a5a954259",
+     "title": "Synaptics, 법적 위협으로 오픈소스 DisplayLink 드라이버를 차단하는 것으로 보임",
+     "link": "https://news.hada.io/topic?id=36606&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "최신 DisplayLink 하드웨어용 오픈소스 Linux 드라이버 Vino 가 Synaptics의 법적 위협 이후 공개 저장소에서 사라짐 Synaptics는 특허 침해 를 근거로 커뮤니티가 독립적으로 개발한 드라이버를 막으려 한 것으로 보이며, 개발자에게 중단 요구 통지서를 보냄 Vino는 클린룸 역공학 으로 개발한 실험적 커널 드라이버로, Rust로 작성됐으며 개발 과정 일부에 AI를 활…",
      "source": "",
-     "ts": 1793807852
+     "ts": 1793821345
     },
     {
-     "id": "b391ee1f30e35784",
-     "title": "민주당, 미국 하원 다수당 차지",
-     "link": "https://news.hada.io/topic?id=36594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "NBC News 예측 에 따르면 민주당이 하원 과반 기준인 218석을 크게 웃도는 약 255석을 확보할 전망이며, 상원도 탈환해 양원을 장악할 것으로 예상됨 민주당은 다수당 탈환에 필요한 순증 3석을 넘어 공화당 현역 의원들을 대거 꺾었으며, 승리한 지역구 상당수는 2024년 Trump가 승리했던 곳 임 이번 선거 결과는 강경한 이민 단속, 8개월째 이어진 이란 전쟁, 물가를 끌어올린 관세…",
+     "id": "19cc1982d9f83d58",
+     "title": "게릴라 자전거도로: 샌프란시스코, 불법 설치 인프라를 영구 시설로 전환(2016)",
+     "link": "https://news.hada.io/topic?id=36605&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "샌프란시스코가 활동가들이 Golden Gate Park 인근에 무단 설치한 자전거도로 분리 기둥 을 철거하는 대신 공식 시설로 전환하기로 함 익명 활동가 단체 SFMTrA 는 자전거 이용자와 보행자의 안전을 빠르게 개선하고, 위험 구간에 대한 관심과 당국의 대응을 끌어내기 위해 시설을 직접 설치함 시 교통당국은 법규 위반과 교통 흐름 간 충돌 우려로 무단 시설물을 통상 철거하지만, 이번에는…",
      "source": "",
-     "ts": 1793806479
-    },
-    {
-     "id": "fdf15694e37ce16c",
-     "title": "제프리 힌턴: AI가 없었더라면 더 나았을 수도 있다",
-     "link": "https://news.hada.io/topic?id=36593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Geoffrey Hinton은 AI가 풍요로운 미래 를 열 가능성을 인정하면서도, 위험 관리에 실패하면 빈부 격차와 대량 실업으로 사회가 무너질 수 있으며 10년 이내 에 그 향방을 알게 될 것으로 봄 2026년 말이나 2027년 에 AI를 이용한 공격으로 전력 공급이나 금융 시스템이 일시적으로 마비되는 대규모 사고가 발생할 수 있다고 경고함 주요 AI 기업이 더 강력한 모델을 출시하며 경…",
-     "source": "",
-     "ts": 1793803174
-    },
-    {
-     "id": "74bd963c47d5b063",
-     "title": "Tell HN: Gemini는 유료 구독자의 채팅 기록도 학습에 사용함(개인 계정)",
-     "link": "https://news.hada.io/topic?id=36592&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "개인용 Google AI 유료 구독 도 Gemini의 Keep Activity 설정이 켜져 있으면 저장된 채팅 기록이 생성형 AI 모델 학습 등 서비스 개선에 사용될 수 있음 일부 채팅은 사람이 검토 할 수 있으며, Google은 검토 시 계정과의 연결을 끊는다고 하지만 검토자에게 보이거나 서비스 개선에 사용되길 원치 않는 기밀 정보는 입력하지 말라고 경고함. 사람이 검토한 채팅은 활동 기…",
-     "source": "",
-     "ts": 1793802994
-    },
-    {
-     "id": "4bdf4c4764dc612d",
-     "title": "AI가 40년간 쌓인 기술 부채를 갚도록 몰아붙이고 있음",
-     "link": "https://news.hada.io/topic?id=36591&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "단순 충돌 버그로 방치됐던 PHP 오류에서 AI의 도움으로 서버 임의 코드 실행 방법이 발견됨. PHP2Shell 은 오래된 소프트웨어의 기술 부채가 보안 위협으로 드러나는 사례임 취약점은 NASA, Wikipedia, 백악관과 WordPress/Drupal 기반 사이트 등을 위험에 노출했지만, 현재까지 알려진 바로는 공격자가 악용 수단을 확보하기 전에 패치가 배포됨 AI는 메모리 위치와…",
-     "source": "",
-     "ts": 1793799597
-    },
-    {
-     "id": "798d1cc4daf3f555",
-     "title": "Show GN: 브라우저 쿠키 목록 스캐너",
-     "link": "https://news.hada.io/topic?id=36590&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "https://news.hada.io/topic?id=36571 이후 늦은감이 있지만 필요해 보여 만들었습니다. 이번 보안 이슈에서 쿠키 유출 가능성에 대응할 필요가 있다고 판단하여 이 도구를 제작하게 되었습니다. 실행하는 코드는 ps1, bat 파일에서 모두 확인가능하며, 대부분 GPT가 생성하였습니다. 쿠키가 저장된 도메인만 확인하여 직접 확인할 수 있도록 쿠키가 있는 도메인 리스트를…",
-     "source": "",
-     "ts": 1793799430
-    },
-    {
-     "id": "fa3f8e5520b0d33f",
-     "title": "Nvidia RTX Spark의 암호화된 펌웨어, Linux 추론 속도를 35% 수준으로 낮춤",
-     "link": "https://news.hada.io/topic?id=36589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "RTX Spark 노트북에 네이티브 Linux 를 설치하고 CUDA 가속을 사용할 수 있지만, 전원을 연결하면 GPU 클럭이 약 780MHz로 제한돼 추론 성능이 크게 떨어짐 CPU와 GPU의 전력 배분을 담당하는 Nvidia Platform Controllers and Framework 에 대응하는 기능이 Linux에는 없으며, 펌웨어의 암호화된 전력 설정 표도 읽지 못함 GPT-OSS-…",
-     "source": "",
-     "ts": 1793799417
+     "ts": 1793821165
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "d1c587ecba",
@@ -368,6 +368,38 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "f121b002be2ba369",
+     "title": "datasette-llm 0.1a10",
+     "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+     "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+     "source": "",
+     "ts": 1793805962
+    },
+    {
+     "id": "c3dba756698ba6ec",
+     "title": "datasette-apps 0.3a0",
+     "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+     "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent…",
+     "source": "",
+     "ts": 1793752176
+    },
+    {
+     "id": "196e073af215c4a0",
+     "title": "datasette-agent 0.5a0",
+     "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+     "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a t…",
+     "source": "",
+     "ts": 1793747625
+    },
+    {
+     "id": "07065efd722751e2",
+     "title": "llm 0.37.1",
+     "link": "https://simonwillison.net/2026/Nov/3/llm/",
+     "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+     "source": "",
+     "ts": 1793742102
+    },
     {
      "id": "6857dc224a419fe9",
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
@@ -415,42 +447,10 @@
      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which…",
      "source": "",
      "ts": 1793575462
-    },
-    {
-     "id": "835fd1406315e6b3",
-     "title": "Quoting Kyle Kingsbury",
-     "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-     "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to…",
-     "source": "",
-     "ts": 1793551744
-    },
-    {
-     "id": "0def4a2fca6b3a20",
-     "title": "How We Took Over ChatGPT Accounts",
-     "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-     "summary": "",
-     "source": "",
-     "ts": 1793488522
-    },
-    {
-     "id": "bc9463905bbd6e7a",
-     "title": "datasette-llm 0.1a9",
-     "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-     "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default…",
-     "source": "",
-     "ts": 1793484601
-    },
-    {
-     "id": "1649c5dd07045357",
-     "title": "dbreunig/nesformer",
-     "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
-     "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Ma…",
-     "source": "",
-     "ts": 1793397562
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "f9eb976542",
@@ -458,6 +458,30 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "36c353cb9f1a11bd",
+     "title": "[11월4일] \"글·코드 넘어 영상까지\"…LLM이 영상 제작 도구로 진화한다",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=216981",
+     "summary": "미공개 AI 모델 '페이블 5.5'로 일본 극장판 수준의 2D 애니메이션을 제작했다는 주장을 3일 소개해 드린 바 있습니다. 개발자는 이미지나 영상 생성 AI를 사용하지 않고 100% 코드만으로 만들었다고 주장했지만, 실제 제작 코드가 공개되지 않아 진위를 둘러싼 논란이 일었습니다.이처럼 대형언어모델(LLM)이 직접 코드를 작성해 영상을 제작하는 사례는 이미 상당수 등장했습니다. LLM이…",
+     "source": "",
+     "ts": 1793862000
+    },
+    {
+     "id": "925925dcd5f4c59f",
+     "title": "미 민주당 압승에 빅테크 주가 급등…'데이터센터 규제' 호재로 해석",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217024",
+     "summary": "미국 중간선거에서 민주당이 압승하면서 AI 데이터센터 건설에 제동이 걸릴 가능성이 커졌지만, 아마존과 마이크로소프트(MS) 등 빅테크 주가는 오히려 급등했다. 신규 데이터센터 건설이 늦어지면 막대한 AI 투자 부담이 줄고 기존 시설의 가치가 높아질 것이라는 기대가 나타난 가운데, 차입금으로 데이터센터를 확장해 온 중소형 기업들은 주가가 급락하며 희비가 엇갈렸다.로이터 등에 따르면, 4일(현…",
+     "source": "",
+     "ts": 1793858975
+    },
+    {
+     "id": "43ea18308c540336",
+     "title": "\"머스크, 중간선거 최대 패자\"…5억달러 후원 참패에 사업 차질 전망",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217023",
+     "summary": "일론 머스크 CEO가 미국 중간선거의 최대 패자 중 한 명으로 꼽혔다. 공화당 승리를 위해 약 5억달러(약 6700억원)를 투입했지만 민주당이 상·하원을 장악하고 핵심 사업 거점인 텍사스에서도 승리하면서, AI 데이터센터 건설과 우주사업 확장, 정부 계약 등에 차질이 생길 수 있다는 전망이 나오고 있다.로이터와 워싱턴포스트 등 주요 외신은 4일(현지시간) 머스크 CEO가 막대한 정치자금을…",
+     "source": "",
+     "ts": 1793857744
+    },
     {
      "id": "a8906e323d6b7e56",
      "title": "앤트로픽 \"RSI 가속에 AI 안전 대책 뒤처질 수도\"…통제 강화 검토",
@@ -513,34 +537,10 @@
      "summary": "중국 뇌-컴퓨터 인터페이스(BCI) 기업 브레인코(BrainCo)가 뇌를 자극해 식욕을 억제하는 웨어러블 기기를 개발하고 있다. 주사나 약물 없이 뇌 신호를 조절해 비만 치료제와 유사한 효과를 내겠다는 구상으로, 기존 GLP-1 계열 비만 치료제를 대체할 수 있는 새로운 방식으로 주목된다.닉스 허 브레인코 공동 창업 파트너는 3일(현지시간) 런던에서 열린 블룸버그 테크 행사에서 \"전자식 G…",
      "source": "",
      "ts": 1793813296
-    },
-    {
-     "id": "2eda7ab6313f71e9",
-     "title": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217014",
-     "summary": "유럽연합(EU) 최고법원인 유럽사법재판소(ECJ)의 법무관이 구글의 AI 챗봇 '제미나이'가 언론사 기사를 검색해 답변을 생성하는 과정에서 저작권을 침해할 수 있다는 법률 의견을 내놨다. 단순히 기사에 담긴 사실을 전달하는 것은 문제가 없지만, 원문의 표현을 재현하거나 이용자가 원문을 읽지 않아도 될 정도로 내용을 제공하면 언론사의 권리를 침해할 수 있다는 판단이다.월스트리트저널(WSJ)에…",
-     "source": "",
-     "ts": 1793813068
-    },
-    {
-     "id": "798f49265880f61e",
-     "title": "전남광주, 축사 1362농가 화재 점검…전기 요인 48.8%",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217020",
-     "summary": "AI 생성 영상전남광주통합특별시가 겨울철 축사 화재 예방을 위해 돼지·가금 사육농가 1362호를 대상으로 화재 위험요인 점검에 나선다. 최근 5년간 지역 축사 화재 211건 가운데 전기적 요인이 48.8%로 가장 많았다.전남광주는 오는 12월10일까지 돼지 사육농가 470호와 3000마리 이상 닭·오리 사육농가 892호를 대상으로 농가 자율점검과 시군·소방기관의 예방조치 이행 확인을 추진한…",
-     "source": "",
-     "ts": 1793812865
-    },
-    {
-     "id": "fe9c89b42fcb3df8",
-     "title": "“건강을 디자인하다”… 계양구보건소, 석재 아트월로 공공의료 공간에 새로운 활력",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217021",
-     "summary": "인천시 계양구보건소가 의료공간의 기능성과 심미성을 조화롭게 담아낸 실내 석재 아트월을 선보였다. 이번 프로젝트는 보건소를 방문하는 주민들에게 친근하고 편안한 환경을 제공하고, 공공의료시설의 공간적 가치를 높이는 데 초점을 맞췄다.특히 민원 접수 및 대기공간의 벽면을 활용해 의료와 건강을 상징하는 디자인을 구현한 점이 눈길을 끈다. 중앙에는 청진기를 든 의료 캐릭터를 배치하고, 양옆으로 심전…",
-     "source": "",
-     "ts": 1793812794
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "19ef1c7741",
@@ -548,6 +548,22 @@
    "url": "https://www.technologyreview.com/feed/",
    "site": "https://www.technologyreview.com",
    "items": [
+    {
+     "id": "2550523e2a0eb13f",
+     "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+     "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+     "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won t…",
+     "source": "",
+     "ts": 1793818255
+    },
+    {
+     "id": "38c257273c687579",
+     "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+     "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+     "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs an…",
+     "source": "",
+     "ts": 1793816500
+    },
     {
      "id": "943b2cb16dd853b8",
      "title": "What’s next for US energy policy after the midterm elections?",
@@ -611,26 +627,10 @@
      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens t…",
      "source": "",
      "ts": 1793625032
-    },
-    {
-     "id": "54d517bb1328ce54",
-     "title": "The Download: the agentic web arrives and the drive for safer roads",
-     "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim…",
-     "source": "",
-     "ts": 1793625000
-    },
-    {
-     "id": "e49f46b109f68045",
-     "title": "The agentic web is here",
-     "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-     "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he ca…",
-     "source": "",
-     "ts": 1793612119
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,54 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "ad2dcfa56f6df9c0",
+     "title": "VodafoneThree kicks off rollout of Ericsson's AI-ready Massive MIMO radio in London",
+     "link": "https://www.datacenterdynamics.com/en/news/vodafonethree-kicks-off-rollout-of-ericssons-ai-ready-massive-mimo-radio-in-london/",
+     "summary": "The telco kicked off the deployment last month",
+     "source": "",
+     "ts": 1793828438
+    },
+    {
+     "id": "7f83cfc55fc83ca2",
+     "title": "atNorth signs deal with Calentix for heat reuse at SWE04 data center in Sollefteå, Sweden",
+     "link": "https://www.datacenterdynamics.com/en/news/atnorth-signs-deal-with-calentix-for-heat-reuse-at-swe04-data-center-in-sollefte%C3%A5-sweden/",
+     "summary": "First delivery of heat expected in 2029",
+     "source": "",
+     "ts": 1793827835
+    },
+    {
+     "id": "35145577340f8b9c",
+     "title": "AWS set to secure £1.05bn contract renewal from UK Home Office",
+     "link": "https://www.datacenterdynamics.com/en/news/aws-set-to-secure-105bn-contract-renewal-from-uk-home-office/",
+     "summary": "BidSkim analysis finds £444.6m spent on AWS since 2020",
+     "source": "",
+     "ts": 1793826039
+    },
+    {
+     "id": "db31432f2b9780e5",
+     "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
+     "link": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
+     "summary": "Sceye deal brings HAPS from prototypes to happening",
+     "source": "",
+     "ts": 1793825706
+    },
+    {
+     "id": "5ba4c91120e6ca06",
+     "title": "Verizon AI-RAN work rides nationwide Ericsson Intelligent Controller deployment",
+     "link": "https://www.datacenterdynamics.com/en/news/verizon-ai-ran-work-rides-nationwide-ericsson-intelligent-controller-deployment/",
+     "summary": "CTO Yago Tenorio hinted at the move earlier this year",
+     "source": "",
+     "ts": 1793825347
+    },
+    {
+     "id": "74c1d522ebdfd5e1",
+     "title": "F1 regulator signs cloud agreement with AWS",
+     "link": "https://www.datacenterdynamics.com/en/news/f1-regulator-signs-cloud-agreement-with-aws/",
+     "summary": "While Alibaba Cloud teams up with International Olympic Committee on youth games in Senegal",
+     "source": "",
+     "ts": 1793824485
+    },
     {
      "id": "28dccbf575fb5d36",
      "title": "Brightspeed announces CEO transition amid reports company is close to bankruptcy",
@@ -840,7 +888,7 @@
      "link": "https://www.datacenterdynamics.com/en/news/qualcomm-signs-5g-infrastructure-agreement-with-spacex-for-starlink-mobiles-nationwide-network-in-us/",
      "summary": "The company will support SpaceX's deployment plans from early next year",
      "source": "",
-     "ts": 1793813215
+     "ts": 1793813160
     },
     {
      "id": "a0a685fc738fe218",
@@ -849,58 +897,10 @@
      "summary": "Seb Moss speaks with DCD's Gabriela Carrasco about energy constraints, geopolitical pressures, supply chain risks, and the technical specialization required to navigate complex global data center hurdles.",
      "source": "",
      "ts": 1793812020
-    },
-    {
-     "id": "63029fea9cc9def9",
-     "title": "Local data center moratoria, limits, and restrictions voted in across the US",
-     "link": "https://www.datacenterdynamics.com/en/news/local-data-center-moratoria-limits-and-restrictions-voted-in-across-the-us/",
-     "summary": "Most anti-data center measures pass, with Ohio leading the charge",
-     "source": "",
-     "ts": 1793809500
-    },
-    {
-     "id": "61599c74eba5ed2b",
-     "title": "Nvidia tells data center partners to cut China exposure, limits RTX chip sales to mainland",
-     "link": "https://www.datacenterdynamics.com/en/news/nvidia-tells-data-center-partners-to-cut-china-exposure-limits-rtx-chip-sales-to-mainland/",
-     "summary": "As both the US and China look to decouple",
-     "source": "",
-     "ts": 1793808711
-    },
-    {
-     "id": "17d5b88ac835e6a3",
-     "title": "NBC exit poll: 56% say AI data centers were a crucial or major factor in Congressional vote decision",
-     "link": "https://www.datacenterdynamics.com/en/news/nbc-exit-poll-56-say-ai-data-centers-were-a-crucial-or-major-factor-in-congressional-vote-decision/",
-     "summary": "87 percent called it a factor overall, with heavy weighting towards Democrats",
-     "source": "",
-     "ts": 1793808598
-    },
-    {
-     "id": "d908402e83557540",
-     "title": "Sponsored: Data centers don't operate in isolation",
-     "link": "https://www.datacenterdynamics.com/en/opinions/data-centers-dont-operate-in-isolation/",
-     "summary": "The next generation of data centers demands more than a well-designed building",
-     "source": "",
-     "ts": 1793808000
-    },
-    {
-     "id": "55ac0b45b52e9390",
-     "title": "Preparing the data storage layer for scalable AI outcomes",
-     "link": "https://www.datacenterdynamics.com/en/opinions/preparing-the-data-storage-layer-for-scalable-ai-outcomes/",
-     "summary": "Infrastructure challenges continue to affect AI outcomes",
-     "source": "",
-     "ts": 1793804912
-    },
-    {
-     "id": "20d6b5faa8bc22ce",
-     "title": "SambaNova partners with Supermicro for SN50 RDU deployments",
-     "link": "https://www.datacenterdynamics.com/en/news/sambanova-partners-with-supermicro-for-sn50-rdu-deployments/",
-     "summary": "Server maker will initially purchase 10,000 SN50 chips from SambaNova",
-     "source": "",
-     "ts": 1793804690
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793815352
+   "last_ok": 1793835879
   }
  ]
 }
