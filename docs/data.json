@@ -1,5 +1,5 @@
 {
- "generated_at": 1793896250,
+ "generated_at": 1793922074,
  "top_n": 10,
  "feeds": [
   {
@@ -9,88 +9,88 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
-     "id": "dee78e2f11eff605",
+     "id": "58b9e336f9531e0d",
+     "title": "혁신형·CSO 관리·제네릭 구조개편...정부안 마련 속도 - 데일리팜",
+     "link": "https://www.dailypharm.com/user/news/344247",
+     "summary": "기존 정부 의 AI 관련 사업과 산업계에서 제기된 활용 방안을 종합해 제약산업 전반의 AI 활용 촉진 방향과 정책 지원 필요 사항을 검토한다. 5개 분야 정책 ...",
+     "source": "",
+     "ts": 1793913838
+    },
+    {
+     "id": "1c8ad606732612d3",
+     "title": "강의실을 넘어 세계로, 반도체· 인공지능 ( AI ) 인재 한자리에 모이다 - 보도자료",
+     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788164&pWise=sub&pWiseSub=C1",
+     "summary": "이 누리집은 대한민국 공식 전자 정부 누리집입니다. 이전페이지. 대한민국 정책 브리핑 · 뉴스 · 뉴스 · 정책 뉴스 · 부처별 뉴스 ...",
+     "source": "",
+     "ts": 1793913502
+    },
+    {
+     "id": "92ad4acfa55b722b",
+     "title": "AI 패권 경쟁 시대, 원전을 허하라 - 마켓인 - 이데일리",
+     "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=01630166645643096",
+     "summary": "... 정책 이 중대 전환점을 맞았다. 글로벌 인공지능 ( AI ) 수요가 폭증하면서 반도체 공장과 AI 데이터센터는 물론 전기차가 전력 소비를 끌어올리고 있어서다. 정부 ...",
+     "source": "",
+     "ts": 1793910644
+    },
+    {
+     "id": "6df2dba936f22193",
+     "title": "[오늘의 주요 일정 ] 과기정통부 ·방미통위·개보위(11월6일 금요일) - 뉴시스",
+     "link": "https://www.newsis.com/view/NISX20261105_0003856982",
+     "summary": "과학기술정보통신부 > △배경훈 부총리, 과방위 전체회의(10:00, 국회) 국가 AI 전략위원회 제3차 전체회의(15:00, 국가 AI 전략위원회) △구혁채 1차관, ...",
+     "source": "",
+     "ts": 1793909028
+    },
+    {
+     "id": "7763f32d01361e3a",
+     "title": "美 AI 규제 시계 빨라질까…\"韓 기업에 위기이자 기회\" - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261105145555",
+     "summary": "미국 중간선거에서 민주당이 상·하원을 장악하면서 인공지능 ( AI ) 산업에 대한 규제 강화 가능성이 제기되고 있다. 도널드 트럼프 행정부 산업 육성 기조와 ...",
+     "source": "",
+     "ts": 1793908100
+    },
+    {
+     "id": "9c45a019441f8af0",
+     "title": "한전, 전력데이터 개방 논의… 광주서 '에너지 AI 포럼' - 천지일보",
+     "link": "https://www.newscj.com/news/articleView.html?idxno=3446235",
+     "summary": "'에너지 AI 혁신포럼'은 지난 7월 출범한 정부 와 산·학·연 전문가가 에너지 AI 정책 과 기술 현. ... 인공지능 전환(AX) 협의체에 22차례 참여하고 자체 AI ...",
+     "source": "",
+     "ts": 1793902360
+    },
+    {
+     "id": "126daf4e8a4277d1",
+     "title": "국립생태원, COP17서 기업 자연자본공시 지원 방안 제시… AI 기반 생물다양성 평가기술 주목 |",
+     "link": "http://www.sdgnews.net/news/articleViewAmp.html?idxno=50883",
+     "summary": "정부 ·공공기관·국제기구 협력 통해 기업의 생물다양성 정보공시 역량 ... 한국환경연구원은 인공지능 ( AI )을 활용한 생물다양성 평가기술인 'BiodivAID ...",
+     "source": "",
+     "ts": 1793896306
+    },
+    {
+     "id": "7216ff8cf5762545",
+     "title": "국립생태원, COP17서 기업 자연자본공시 지원 방안 제시… AI 기반 생물다양성 평가기술 주목",
+     "link": "http://www.sdgnews.net/news/articleView.html?idxno=50883",
+     "summary": "... 정부 와 공공기관이 국제사회에 기업의 자연자본공시를 지원하기 위한 정책 과 기술적 접근법을 제시 ... 한국환경연구원은 인공지능 ( AI )을 활용한 생물 ...",
+     "source": "",
+     "ts": 1793896305
+    },
+    {
+     "id": "7143b5daad0004c0",
+     "title": "정부 , 제조·국방·첨단소재에 AI 입힌다…AX 혁신 드라이브 - 아시아타임즈",
+     "link": "https://www.asiatime.co.kr/article/20261105500245",
+     "summary": "... 정부 가 인공지능 ( AI ) ... 총사업비 300억원을 투입해 48개월간 무기체계의 수명주기 데이터를 수집·분석하고 최적의 운영·정비 정책 을 도출하는 지능형 시스템을 ...",
+     "source": "",
+     "ts": 1793892578
+    },
+    {
+     "id": "4c40ac12b1c9b90f",
      "title": "산업 현장 위험 덜고 안전 더하고 피지컬 AI 1강으로 키운다 - 대한민국 정부 정책 주간지 K-공감",
-     "link": "https://gonggam.korea.kr/newsContentView.es?mid=a12501000000&section_id=NCCD_POLICY_TOTAL&content=&code_cd=&nPage=2&b_list=9&news_id=2a4a72fa-3471-43a6-a868-639bfeb3db24",
-     "summary": "인공지능 ( AI )이 산업과 경제 질서를 바꾸는 가운데 정부 가 피지컬 AI 핵심기술의 국산화와 산업현장 확산에 나선다. 제조농업국방돌봄 등 다양한 분야에 ...",
+     "link": "https://gonggam.korea.kr/newsContentView.es?mid=a12700000000&section_id=NCCD_COVER&content=NC002&code_cd=0107000000&news_id=2a4a72fa-3471-43a6-a868-639bfeb3db24",
+     "summary": "인공지능 ( AI ) ... 국민성장펀드와 과기정통부 정책 펀드, 모태펀드 등을 활용해 주력 산업의 피지컬 AI 전환 프로젝트 와 도전적·장기적 투자를 지원할 계획이다.",
      "source": "",
-     "ts": 1793884034
-    },
-    {
-     "id": "c5402b821e5eea95",
-     "title": "한전, AI 활용 에너지산업 혁신방안 모색 |",
-     "link": "http://www.e-platform.net/news/articleViewAmp.html?idxno=106741",
-     "summary": "... AI 혁신포럼을 개최했다. 지난 7월 출범한 '에너지 AI 혁신포럼'은 정부 와 산·학·연 전문가들이 모여 에너지 AI 정책 과 기술 현안을 논의하는 열린 협의체다.",
-     "source": "",
-     "ts": 1793879293
-    },
-    {
-     "id": "7760bf8e5b8a0a87",
-     "title": "전력데이터, 어떻게 열고 활용할까...에너지 AI 확산 조건은?",
-     "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=229553",
-     "summary": "센터에서 열린 '제2차 에너지 AI 혁신포럼'에서는 에너지 산업의 인공지능 ... 한전은 그동안 AI 대전환 로드맵 수립과 AI 경영혁신 선포, 정부 주관 AX ...",
-     "source": "",
-     "ts": 1793876725
-    },
-    {
-     "id": "41be215005297075",
-     "title": "AMD이 꺼내든 '이기종 AI 인프라' 해법, K- AI 승부처 되나 - 더에이아이",
-     "link": "https://www.newstheai.com/news/articleView.html?idxno=21899",
-     "summary": "장정희 AMD코리아 커머셜 영업 총괄 대표가 좌장을 맡은 세션에는 이도규 과학기술정보통신부 정보통신 정책 실장, 조강원 모레 대표, 김장우 망고부스트 대표가 ...",
-     "source": "",
-     "ts": 1793875548
-    },
-    {
-     "id": "e6a5b52eaa0a10e3",
-     "title": "정부 , 가상자산 과세 2029년으로 미룬다…네 번째 유예 추진 - 연합인포맥스",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443278",
-     "summary": "최신뉴스 오늘의 마켓뷰 심층분석 오피니언 정책 /금융 채권/외환 IB/기업 ... 가상자산의 높은 가격 변동성을 고려하면 일정 기간 발생한 손익을 통산 ...",
-     "source": "",
-     "ts": 1793875019
-    },
-    {
-     "id": "fdb11d5e5a3028b7",
-     "title": "한·스위스, 서울서 제7차 정책 협의회… AI ·디지털·바이오 협력 강화 논의 - 외교문화뉴스",
-     "link": "https://www.dcnews.kr/news/articleView.html?idxno=3148",
-     "summary": "[외교문화뉴스] 정의혜 외교부 차관보와 마르쿠스 라이트너 스위스 외교부 차관보는 11월 3일 서울에서 제7차 한·스위스 정책 협의회를 열고 인공지능 ( AI )· ...",
-     "source": "",
-     "ts": 1793874784
-    },
-    {
-     "id": "54fb5c0df8291810",
-     "title": "정부 , AI ·ICT 인재 양성 연구센터 5곳 출범…최장 8년 지원 - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261105145548",
-     "summary": "정부 가 인공지능 ( AI )·정보통신기술(ICT) 분야인재 양성을 위해 연구센터를 ... 참여 학생은 핵심 연구 프로젝트 와 학생 주도 과제를 통해 전공 분야의 연구 역량을 ...",
-     "source": "",
-     "ts": 1793874386
-    },
-    {
-     "id": "e59d08f6a13b5c5f",
-     "title": "[단독] 리벨리온 등 엔비디아와 간담회… AI 스타트업 해외진출 길 열리나 - 한국경제",
-     "link": "https://www.hankyung.com/article/2026110590351",
-     "summary": "정부 가 국내 인공지능 ( AI ) 스타트업과 엔비디아 주요 임원들의 만남을 주선 ... 이번 행사는 엔비디아의 국내 행사 일정 에 맞춰 과기정통부 와 엔비디아 ...",
-     "source": "",
-     "ts": 1793872353
-    },
-    {
-     "id": "67360dd92b0612d5",
-     "title": "美 중간선거 개표에 국내외 증시 요동… 정부 , 24시간 모니터링 강화 - 불교방송",
-     "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116977",
-     "summary": "이에따라 참석자들은 향후 미국의 AI 산업 규제 여건 변화와 관세 정책 , 중동 정세 등을 다각도로 점검하고, 시장 이상 징후 발생 시 준비된 안정을 위한 ...",
-     "source": "",
-     "ts": 1793871767
-    },
-    {
-     "id": "939e0004e86b625f",
-     "title": "'극저온 국산화' 크라이오에이치앤아이, '2026 딥테크 스타트업 챌린지' 대상 영예 - AI 타임스",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217067",
-     "summary": "정부 가 유망 딥테크 스타트업의 조기 발굴과 성장 지원을 위해 지난 6월부터 진행한 '2026 연구개발특구 딥테크 스타트업 챌린지'의 최고상은 극저온 장비를 ...",
-     "source": "",
-     "ts": 1793869788
+     "ts": 1793891505
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "cf53c0f1af",
@@ -98,6 +98,62 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
    "items": [
+    {
+     "id": "5f7e48b8eb753fda",
+     "title": "레딧, 검색 결과에 광고 시험…AI 검색 확산에 이용자 감소 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59036/",
+     "summary": "레딧이 11월 3일 일부 광고주를 대상으로 검색 결과 페이지 광고 시험을 시작했다. 구글 AI 검색 확산으로 미국 일간 이용자가 감소한 가운데 새 광고 지면 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "2102c63ec46a1e96",
+     "title": "세일즈포스, 음성 AI 상담 기업 크레스타 인수 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59035/",
+     "summary": "세일즈포스가 음성 AI 고객 상담 기업 크레스타 인수 계약을 체결했다. 서비스 클라우드와 결합해 상담 대화와 고객 이력을 연결하며 2028 회계연도 1분기 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "f3b9749e8ddaab90",
+     "title": "구글, 캐나다 AI 모드와 제미나이 앱에 바로 결제 도입 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59032/",
+     "summary": "결제는 구글이 올해 공개한 개방형 표준 '유니버설 커머스 프로토콜(UCP)'로 처리된다. UCP는 AI 에이전트와 소매업체 시스템이 상품 정보, 주문, 결제 정보를 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "2cf4f6662bddeeb8",
+     "title": "잘란도, 외부 쇼핑몰 상품 앱에서 판매…AI 에이전트 결제 예정 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59039/",
+     "summary": "잘란도가 외부 쇼핑몰 상품을 앱에서 판매하는 잘란도 익스텐디드를 공개했다. 2027년부터 자체 AI 에이전트가 결제를 처리하며 베스트윙이 첫 번째 시범 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "2ba6056fd56ce2b7",
+     "title": "트레이드 데스크, 디스틸러리 AI 에이전트와 오디언스 자동 구성 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59041/",
+     "summary": "트레이드 데스크가 애스크 코아를 디스틸러리 DS-1과 연동해 집행 중인 캠페인에서 AI 에이전트가 맞춤 오디언스를 구성한다고 애드위크가 보도했다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "f64ab889c3391e60",
+     "title": "애드테나 \"챗GPT 광고 게재 20만 건 돌파\" - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59040/",
+     "summary": "애드테나가 6월부터 9월까지 챗GPT 광고 게재 20만 4489건을 추적했다. 의류, 가전, 여행 업종이 약 95%를 차지했고 광고 상당수가 초기 탐색 질문에 노출 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "1dabe2cb1919d505",
+     "title": "마이크로소프트 클래리티, AI 에이전트 방문 분석 기능 추가 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59033/",
+     "summary": "마이크로소프트가 클래리티에 AI 에이전트 활동 대시보드와 시뮬레이션을 추가하고 브랜드 에이전트를 확대했다. 애스크 클래리티는 비공개 베타로 운영 ...",
+     "source": "",
+     "ts": null
+    },
     {
      "id": "44ec8862523e05c5",
      "title": "[AI 활용팁] AI 이미지 판별하기, 팬그램 사용법 - AI 매터스",
@@ -121,66 +177,10 @@
      "summary": "챗GPT GIF 만들기 방법을 이미지 2.6 공식 자료 기준으로 소개한다. 글이나 사진을 반복 GIF로 바꾸는 웹과 앱 단계, 이모티콘과 제품 소개 프롬프트 예시, ...",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "48de9be07456b83c",
-     "title": "샘 알트만, PC 램 발언 역풍에 X 이름 '램 알트만'으로 변경 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59161/",
-     "summary": "샘 알트만 오픈AI CEO가 개인용 PC 메모리 사용을 비판한 발언으로 논란이 일자 X 이름을 램 알트만으로 바꿨다. 이후 램을 더 많이 생산하자는 글을 게시 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "bbd78b4ef798540d",
-     "title": "GLM-5.3, 답변당 엠 대시 7.4개…클로드 오퍼스는 0.02개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59157/",
-     "summary": "아티피셜 애널리시스가 AI 모델별 엠 대시 사용 빈도를 공개했다. GLM-5.3은 답변당 평균 7.4개를 썼고, 클로드 오퍼스 5.5는 0.02개로 거의 쓰지 않았다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "ad18c61ed7c4ead3",
-     "title": "앤트로픽 오스마니 \"AI 결과 확인 안 하면 '인지적 항복'\" - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59159/",
-     "summary": "앤트로픽 클로드 코드 팀의 애디 오스마니가 AI 에이전트 시대의 비판적 사고법을 제시했다. AI 결과물을 확인 없이 받아들이는 인지적 항복을 경계하고 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "737bdad02c365c7b",
-     "title": "텐센트 'Hy4' 공개…공격용 해킹 자료는 학습에서 제외 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59153/",
-     "summary": "텐센트가 대규모 언어 모델 Hy4를 공개했다. 이미지 이해와 컴퓨터 사용 기능을 처음 지원하며, 학습 단계에서 공격용 해킹 자료를 제외했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "466ea0c1d5c3836f",
-     "title": "[AI 활용팁] 챗GPT 크롬 확장으로 열린 탭 비교와 양식 작성 - AI매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59144/",
-     "summary": "챗GPT 크롬 확장으로 열린 탭 여러 개를 '@'로 불러 쇼핑 상품과 자료, 기사를 표로 비교하는 방법을 소개한다. 워크 모드의 양식 작성과 파일 다운로드, ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "b551cb43b4183d67",
-     "title": "中 브레인코, 뇌 자극으로 식욕 억제하는 '전자식 GLP-1' 개발 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59163/",
-     "summary": "중국 브레인코가 뇌 자극으로 식욕을 억제하는 웨어러블을 개발한다. 2~3년 내 출시를 목표로 중국과 미국 시장을 검토하며, 임상 성과와 승인 여부는 공개 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "c1cce54c71c1cf98",
-     "title": "[AI와 인간 사이] AI 시대를 대하는 애플의 자세, 적응 실패인가 슬로우 스타트인가 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/59130/",
-     "summary": "AI 시대를 대하는 애플의 자세를 필자가 5주째 처리 중인 애플 개발자 계정 등록 경험으로 짚었다. 역대 최고 실적과 아이폰 듀오, 구글 제미나이 계약, ...",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "25ac01331a",
@@ -189,88 +189,88 @@
    "site": "https://www.axios.com",
    "items": [
     {
-     "id": "b9aa79a70e4eed89",
-     "title": "Trump: Sen. Sullivan should get votes cast for Alaska's other Sullivan",
-     "link": "https://www.axios.com/2026/11/05/trump-dan-sullivan-alaska-senate-race",
-     "summary": "President Trump wrote Thursday that incumbent Alaska Sen. Dan Sullivan (R) should receive the vote totals for Dan J. Sullivan, a Senate candidate in Alaska's tumultuous race who has the same name as the incumbent lawmak…",
+     "id": "93ab760674bd9ab6",
+     "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
+     "link": "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china",
+     "summary": "Nvidia CEO Jensen Huang has been asked by three House Republican committee chairs to brief Congress behind closed doors about his reported ties to a woman accused of spying for China. Why it matters: The request escalat…",
      "source": "",
-     "ts": 1793888526
+     "ts": 1793921959
     },
     {
-     "id": "eb38cf964cb22ba7",
-     "title": "Democrats' big win clouds the permitting picture",
-     "link": "https://www.axios.com/2026/11/05/democrats-midterms-lame-duck-permitting-bill",
-     "summary": "Democrats' blowout win further complicates the fraught path to passing a permitting deal in the lame duck. Why it matters: Cutting hurdles for projects is a top priority for fossil fuels and renewables sectors. But crit…",
+     "id": "6477aa142612b2e5",
+     "title": "Trump meets with national security team, says Iran war decision coming \"soon\"",
+     "link": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision",
+     "summary": "President Trump said after meeting with his national security advisers Thursday that he'll soon decide whether to resume all-out war in Iran now that the midterms are over. Why it matters: The election was seen as an in…",
      "source": "",
-     "ts": 1793886083
+     "ts": 1793921156
     },
     {
-     "id": "d0dd8285e3ca6a24",
-     "title": "Vance takes a step toward 2028 in MAGA power play",
-     "link": "https://www.axios.com/2026/11/05/vance-maga-power-play-2028",
-     "summary": "Vice President Vance stepped out of President Trump's shadow Wednesday, seizing on the GOP's midterm catastrophe to begin the explosive task of claiming MAGA as his own. \"The reason we lost is the war,\" Vance wrote in a…",
+     "id": "7fb59ef0aedbad21",
+     "title": "Raman ousts Bass in LA mayor race for historic socialist win",
+     "link": "https://www.axios.com/2026/11/05/nithya-raman-la-mayor-upset-democratic-socialist",
+     "summary": "Democratic socialist Nithya Raman toppled embattled Los Angeles Mayor Karen Bass in a stunning upset, putting South Asian immigrants on course to lead America's two largest cities. Why it matters: With New York's Zohran…",
      "source": "",
-     "ts": 1793874692
+     "ts": 1793914561
     },
     {
-     "id": "755f937eaa394b29",
-     "title": "Democrats' big challenge on health care costs",
-     "link": "https://www.axios.com/2026/11/05/democrats-health-affordability-challenge",
-     "summary": "Americans made it very clear on Tuesday that health care is too expensive. The challenge for Democrats is to agree on the quickest way to deliver some relief. Why it matters: Voters can't wait until 2029 for life to get…",
+     "id": "e2264df5808cabcc",
+     "title": "Epstein files back in spotlight after midterms",
+     "link": "https://www.axios.com/2026/11/05/epstein-files-vote-push-investigations",
+     "summary": "Congress returns next week facing a renewed push for transparency over the Jeffrey Epstein files, as a top House Democrat promises new investigations following the party's midterm victories. Why it matters: The Epstein…",
      "source": "",
-     "ts": 1793874607
+     "ts": 1793914078
     },
     {
-     "id": "1fc1b5bd013112ef",
-     "title": "Tech giants turn to cash, concessions for AI rebrand after voters pummeled data centers 43-1",
-     "link": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
-     "summary": "The AI industry is scrambling to repackage a $10 trillion infrastructure buildout to appease a hostile electorate that overwhelmingly voted to restrict data center construction in ballot measures across the country. It'…",
+     "id": "1accc759c7afaacb",
+     "title": "Newsom moves to empty California's death row as 2028 looms",
+     "link": "https://www.axios.com/2026/11/05/newsom-california-death-penalty-2028",
+     "summary": "California Gov. Gavin Newsom announced Thursday he plans to commute all 548 of the state's death sentences to life without parole, a sweeping decision that could empty the nation's largest death row. Why it matters: If…",
      "source": "",
-     "ts": 1793874607
+     "ts": 1793912227
     },
     {
-     "id": "d2dc29deadf1c059",
-     "title": "Why Pete Hegseth could fall through \"thin ice\"",
-     "link": "https://www.axios.com/2026/11/05/hegseth-impeachment-midterms-trump",
-     "summary": "It's a de facto motto in the Trump White House: \"Somebody's gotta take the fall.\" Lately, that person looks like Secretary of Defense Pete Hegseth. Why it matters: From the unpopular war in Iran to his bad bipartisan re…",
+     "id": "e398c4df672fd1a0",
+     "title": "Democrat locked in Deep South Senate stunner",
+     "link": "https://www.axios.com/2026/11/05/mississippi-senate-election-scott-colom-democrat",
+     "summary": "One of the biggest nail-biters of the 2026 election isn't playing out in a purple state, but crimson Mississippi, where Democrat Scott Colom is trying to pull off a Magnolia State upset. The big picture: It's one of the…",
      "source": "",
-     "ts": 1793873407
+     "ts": 1793911588
     },
     {
-     "id": "5c6fbd9d42ca6d72",
-     "title": "75% of Americans could have a Democratic governor",
-     "link": "https://www.axios.com/2026/11/05/2026-midterms-democrats-state-legislatures-trifectas",
-     "summary": "Data: Axios research; Map: Andrew Pantazi/Axios Democrats are on track to take control of a majority of legislative chambers, ending 16 years of Republican dominance over America's statehouses. If current leads hold, 75…",
+     "id": "06e3d0fa64e1661a",
+     "title": "Black voters deliver a GOP reckoning",
+     "link": "https://www.axios.com/2026/11/05/black-voters-democrats-2026-midterms-trump",
+     "summary": "President Trump won historic levels of support from Black men in 2024. Two years later, those gains appeared to evaporate as Republicans suffered their worst midterm defeat in 50 years. Why it matters: Democrats feared…",
      "source": "",
-     "ts": 1793872864
+     "ts": 1793902856
     },
     {
-     "id": "24a3cec5264baaab",
-     "title": "Dems' rout opens door to \"big test\" and a packed 2028 field",
-     "link": "https://www.axios.com/2026/11/05/democrats-factions-midterms-test-2028",
-     "summary": "Democrats of all political stripes won so big on Tuesday that the party didn't settle its long-running civil war between moderates and progressives. Instead, the party's historic victories gave each faction some reasons…",
+     "id": "f074d7417ca5700d",
+     "title": "DOJ's Harmeet Dhillon resigns",
+     "link": "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
+     "summary": "Harmeet Dhillon , assistant attorney general for civil rights at the Justice Department, has resigned from her role, Attorney General Todd Blanche said Thursday. Why it matters: Dhillon, who spent her tenure replacing a…",
      "source": "",
-     "ts": 1793872207
+     "ts": 1793902812
     },
     {
-     "id": "9dd23295741ccecf",
-     "title": "After midterm defeat, Trump faces mostly bad options in Iran",
-     "link": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options",
-     "summary": "President Trump has conceded that the Iran war cost Republicans dearly in the midterms . Now he must decide whether to cut his losses and reach a deal — or double down and go back to bombing. Why it matters: All of Trum…",
+     "id": "9da50dae2c83c6f6",
+     "title": "Exit polls show young voters swinging back to Democrats after Trump's 2024 gains",
+     "link": "https://www.axios.com/2026/11/05/gen-z-voters-2026-midterms-democrats-house",
+     "summary": "Young voters swung so hard toward Democrats in Tuesday's midterms that it raises new doubts about whether Republicans can build a lasting coalition among Americans under 30. Why it matters: Trump's success with Gen Z vo…",
      "source": "",
-     "ts": 1793840238
+     "ts": 1793902777
     },
     {
-     "id": "d3612eb8ffc17f05",
-     "title": "House Democrats face epic power struggle over their massive majority",
-     "link": "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left",
-     "summary": "House Democrats channeled anti-Trump fury into a landslide victory over Republicans. Now comes the hard part: Figuring out what to do with their huge majority . Why it matters: That question is already igniting a power…",
+     "id": "a10de408ae537a0f",
+     "title": "Now comes the test for Dems: household budget relief",
+     "link": "https://www.axios.com/2026/11/05/now-comes-the-test-for-dems-household-budget-relief",
+     "summary": "Democrats won the midterms on voter frustration with high prices . Now they face the same problem that sank Republicans: Americans want lower prices, and there is little that policymakers can do to deliver them quickly.…",
      "source": "",
-     "ts": 1793839625
+     "ts": 1793898087
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "79a50f4ed860432b",
-     "title": "Sshole - musl 기반 OpenSSH에서 비밀번호 인증을 우회하는 취약점",
-     "link": "https://news.hada.io/topic?id=36654&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "musl 기반 Linux에서 PAM 없이 실행되는 OpenSSH 에 특정 계정의 비밀번호 인증을 우회하는 문제가 있음. 비밀번호 필드가 * 인 계정이 조건에 따라 임의의 긴 비밀번호로 로그인을 허용함 musl의 crypt() 실패 반환값 * 가 계정의 비밀번호 필드와 일치하는 것이 핵심임. OpenSSH가 다른 계정의 솔트를 빌려 해시를 계산하는 처리와 비밀번호 길이 제한이 맞물려 발생함…",
+     "id": "9a2963fabb7d9e3c",
+     "title": "Window Sweaters - macOS 창에 뜨개질 무늬 테두리를 입히는 앱",
+     "link": "https://news.hada.io/topic?id=36669&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "macOS 창에 뜨개질 무늬 테두리 를 추가하며, 앱별 색상과 패턴으로 데스크톱을 꾸밀 수 있음 By App 은 앱마다 고유한 테두리를, Zigzag 는 앱 아이콘 색상을 활용한 통일된 지그재그 스타일을 적용함 37개 앱의 맞춤 디자인 을 제공하며, 그 외 앱은 아이콘에서 색상을 추출해 테두리를 생성함 메뉴 막대에서 테두리 너비와 바늘땀 크기 등을 조절하고, 앱별로 적용 여부를 선택할 수…",
      "source": "",
-     "ts": 1793885680
+     "ts": 1793914599
     },
     {
-     "id": "ad290ef369823d5d",
-     "title": "돌아온 페인트공 Shlemiel: Zig의 libc 재작성이 SQLite를 느리게 만든 과정",
-     "link": "https://news.hada.io/topic?id=36653&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Rust 기반 체스 분석 서비스에서 약 4만 건의 JSON 레코드를 SQLite에 저장하는 데 수 분이 걸리고 CPU 코어 하나가 포화 되는 문제가 발생함 원인은 Linux용 SQLite를 컴파일할 때 사용한 Zig의 libc 재구현 에 있었으며, strspn 이 호출될 때마다 문자열 전체 길이를 측정해 토큰화 과정에서 문자열을 반복 순회함 토큰화가 진행될 때마다 남은 문자열 길이를 다시…",
+     "id": "813172e33e4eaf28",
+     "title": "Salon의 작별 인사",
+     "link": "https://news.hada.io/topic?id=36668&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Salon이 31년 만에 발행을 중단함 . 독립 디지털 저널리즘의 사업 환경이 크게 달라지면서 기존 발행 모델을 더 이상 지속할 수 없다고 판단함 1995년 11월 창간 당시 소규모 언론인 집단이 뚜렷한 목소리와 세상에 대한 호기심을 바탕으로 인터넷에서 저널리즘과 독자를 새로운 방식으로 연결하고자 했음 지난 30여 년간 정치, 문화, 비평, 사상 을 함께 다루며 권력을 검증하고 기존 통념에…",
      "source": "",
-     "ts": 1793883755
+     "ts": 1793914418
     },
     {
-     "id": "fd424f90520ea3c9",
-     "title": "Qualcomm Cloud AI 100 Ultra - 128GB 메모리와 548GB/s 대역폭을 갖춘 150W AI 가속기 카드",
-     "link": "https://news.hada.io/topic?id=36652&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Cloud AI 100 Ultra 는 생성형 AI와 대규모 언어 모델(LLM)을 위해 설계된 추론 카드로, 대규모 배포에 필요한 성능과 전력 효율, 비용 최적화를 목표로 함 TDP 150W 에서 ECC 지원 128GB 메모리와 548GB/s 메모리 대역폭을 제공함 카드당 AI 코어 64개 와 최대 576MB 온다이 SRAM을 갖추며, 최대 연산 성능은 INT8 870 TOPS, FP16 2…",
+     "id": "28d4fab384b08a79",
+     "title": "테크 기업들이 나에 대해 좀 더 잘 알았으면 좋겠다",
+     "link": "https://news.hada.io/topic?id=36667&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "수많은 개인정보가 추적, 저장, 판매된다는 점은 의심하지 않지만, 실제 서비스에서는 이미 아는 정보조차 활용하지 못하는 개인화 를 경험함 구매한 제품을 다시 광고하고, 특정 가전의 설치 영상을 본 뒤 다른 오븐까지 추천하는 등 일회성 행동을 지속적인 관심사로 취급 하는 사례가 이어짐 수년간 보컬이 들어간 전자음악을 건너뛰어도 Spotify와 YouTube Music은 반복되는 선호 패턴 을…",
      "source": "",
-     "ts": 1793878325
+     "ts": 1793907624
     },
     {
-     "id": "48195799a8cc25c4",
-     "title": "Lemmings CSS 애니메이션",
-     "link": "https://news.hada.io/topic?id=36648&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Walker Playground 는 걷는 캐릭터를 추가하고, 드래그로 옮기거나 빠르게 튕겨 던질 수 있는 놀이터임 버튼이나 __walker.add() 로 캐릭터를 추가할 수 있으며, 계단, 공중 플랫폼, 구덩이, 벽 등 여러 지형이 마련돼 있음 창 크기를 바꾸면 캐릭터가 서 있는 표면을 따라 이동 하며, 빠르게 크기를 조절하면 공중으로 튀어 오름 테두리, 상자, 버튼, 이미지, 입력 필드는…",
+     "id": "3386b5bfc7d52b30",
+     "title": "좋아하는 YouTube 영상을 다운로드하자",
+     "link": "https://news.hada.io/topic?id=36666&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "YouTube의 오래된 ‘좋아요 표시한 동영상’ 중에는 더 이상 볼 수 없는 영상이 있으므로, 소중한 콘텐츠를 직접 다운로드해 보관 할 것을 권함 대부분은 yt-dlp 나 이를 감싼 앱으로 영상을 내려받고 대용량 드라이브 또는 NAS의 폴더에 저장하는 것만으로 충분함 TV 재생과 기존 NAS 연동, 수백 개 영상의 자동 관리를 위해 Jellyfin과 ytdl-sub 를 결합한 개인 구축 사…",
      "source": "",
-     "ts": 1793871103
+     "ts": 1793907444
     },
     {
-     "id": "4d77e3306f73f401",
-     "title": "AI와 개발한 1년 — 사라진 건 없고, 달라진 건 많다",
-     "link": "https://news.hada.io/topic?id=36647&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 에이전트와 1년여간 혼자 개발하며, 코드 작성보다 에이전트의 진행과 결과를 통제하고 개선하는 개발 과정 을 만드는 데 집중한 경험을 공유해봅니다. 시리즈로 여러편 써보려는데 그 첫번째 편입니다. 하네스 엔지니어링을 에이전트 설정과 도구 조합을 넘어, 코드 생산성이 급증한 조건에서 품질을 유지하도록 개발 과정 전체를 다시 디자인한 경험, 그리고 설계 → 구현 → 검증의 결과가 다시 설계…",
+     "id": "b27c58caea6dee2e",
+     "title": "MCP Explained - AI 앱과 도구를 연결하는 Model Context Protocol의 작동 방식",
+     "link": "https://news.hada.io/topic?id=36665&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "MCP(Model Context Protocol) 는 AI 앱을 도구와 데이터에 연결하는 개방형 표준으로, 서버가 제공하는 기능을 앱이 모델에 전달하고 실행 결과를 돌려주는 방식으로 작동함 호스트 는 Claude, Cursor, ChatGPT 같은 AI 앱이며, 서버는 도구와 데이터 또는 프롬프트를 제공하는 작은 프로그램임 모델은 서버와 직접 통신하지 않으며 , 사용할 도구를 결정하면 앱이…",
      "source": "",
-     "ts": 1793870787
+     "ts": 1793904048
     },
     {
-     "id": "a92e5d8339d389af",
-     "title": "Show GN: getdeck - 슬라이드 레이아웃을 내 템플릿으로 저장하고 웹에서 고치는 서비스",
-     "link": "https://news.hada.io/topic?id=36644&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 가 만든 발표자료를 팀에 돌려 확인받아야 한다면, 이렇게 할 수 있습니다. 마음에 드는 장을 골라 내 템플릿으로 저장하고, 웹에서 글자와 이미지를 고치고, 팀원에게 검토를 요청합니다. 팀원은 슬라이드마다 댓글로 피드백을 남기고 요청을 승인할 수 있고, 승인한 뒤에 내용이 바뀌면 다시 검토를 부탁하라고 알려 줍니다. 확인이 끝나면 PPTX 로 뽑지 않고 웹에서 바로 발표합니다. PPTX…",
+     "id": "887b963c1248fc5a",
+     "title": "Motorola Signature 27, GrapheneOS 지원",
+     "link": "https://news.hada.io/topic?id=36664&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "motorola signature 27 은 Motorola 최초로 GrapheneOS를 지원할 예정인 플래그십 스마트폰 으로, GrapheneOS Foundation과 협력해 개발됨 ARM Memory Tagging Extension 의 고성능 구현을 탑재하고, GrapheneOS가 요구하는 하드웨어 및 업데이트 요건을 충족하도록 설계됨 Snapdragon 8 Elite Extreme Ge…",
      "source": "",
-     "ts": 1793865566
+     "ts": 1793903868
     },
     {
-     "id": "9b574be816ff806d",
-     "title": "Show HN: 10년간의 리버스 엔지니어링 끝에 DOS Wing Commander 협동 플레이 구현",
-     "link": "https://news.hada.io/topic?id=36643&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Wing Commander Together 는 DOS판 Wing Commander에서 두 사람이 각자 전투기를 조종하며 편대원으로 협동할 수 있도록 만든 프로젝트로, 2015년부터 11년에 걸쳐 개발됨 메모리 비교와 코드 추적 으로 위치, 방향, 전투 동작을 분석하고, 수정한 DOSBox에서 원본 게임 함수를 호출해 발사와 피해 등 멀티플레이 동작을 구현함 두 게임 인스턴스 사이에서 기체…",
-     "source": "",
-     "ts": 1793864122
-    },
-    {
-     "id": "9a2d77baf6358452",
-     "title": "Show GN: 아파트 인사이트 - 주변 시설·가격·도보·일조를 살펴보는 3D 지도",
-     "link": "https://news.hada.io/topic?id=36642&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "안녕하세요. 한국 아파트의 실거래와 가격 전망을 함께 살펴보는 서비스 아파트 인사이트 를 개발하고 있는 엔지니어입니다. 지난번 “100일간 AI로 1인 개발한 아파트 가격 시뮬레이터” 소개에 이어, 이번에는 관심 아파트 주변을 입체적으로 둘러볼 수 있는 ‘단지 주변 3D’ 기능을 추가하여 다시 공유합니다. 1. 둘러보기 (로그인 없이 체험) 아래 공유 지도 링크에서 주변 건물과 생활시설을…",
-     "source": "",
-     "ts": 1793861872
-    },
-    {
-     "id": "d9c333263212e868",
-     "title": "당신의 암호학 음모론은 틀렸다",
-     "link": "https://news.hada.io/topic?id=36641&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "NSA의 실제 백도어 전력 만으로 현재의 암호 표준까지 백도어라고 단정할 수는 없음. 정부를 신뢰하는 문제와 기술적 능력, 자원, 임무를 근거로 의혹을 평가하는 문제는 구분해야 함 NSA에는 미국의 통신을 보호하는 COMSEC 과 외국을 감청하는 SIGINT 라는 상충하는 임무가 있음. DES에서는 S-box의 공격 저항성을 높이는 동시에 키 길이를 줄여 보안을 약화하는 선택을 했음 Cli…",
-     "source": "",
-     "ts": 1793858702
-    },
-    {
-     "id": "5d3fe9b313879234",
+     "id": "effdcf4f3b4fbe8d",
      "title": "내 ISP가 DNS를 가로채고 있었다",
-     "link": "https://news.hada.io/topic?id=36640&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "홈랩의 Podman 컨테이너에서 외부 사이트 접속이 실패해 조사한 결과, 일반 DNS 질의는 ISP 소유 IP 주소 를 반환했지만 Cloudflare의 DoH 질의는 다른 주소를 반환함 Unbound 자체 호스팅 만으로 DNS 변조를 막을 수는 없음. 직접 재귀 조회할 때 여러 네임서버와 주고받는 질의는 통상 평문이므로 ISP가 관찰하거나 변조할 수 있음 DNSSEC 는 암호화가 아니라 서…",
+     "link": "https://news.hada.io/topic?id=36663&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "홈랩의 Podman 컨테이너에서 외부 사이트 접속이 실패해 조사한 결과, ISP가 DNS 질의를 가로채 자신의 IP 주소를 반환 하고 있었음 Unbound 자체 호스팅 만으로는 DNS 변조를 막을 수 없으며, 재귀 조회 과정에서 여러 네임서버에 보내는 평문 DNS 질의는 ISP가 열람하거나 변조할 수 있음 DNSSEC는 암호화가 아닌 진위 검증 수단으로, 올바르게 서명된 도메인의 변조 응답…",
      "source": "",
-     "ts": 1793854914
+     "ts": 1793902052
+    },
+    {
+     "id": "37689a6d621a1d31",
+     "title": "OpenSSH 10.6p2 - PAM 없는 Alpine의 심각한 보안 문제 우회 조치",
+     "link": "https://news.hada.io/topic?id=36662&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Portable OpenSSH 10.6p2 는 musl libc를 사용하고 PAM 지원 없이 빌드하고 실행한 일부 Linux 시스템에서 가능한 비밀번호 인증 우회 를 sshd에서 차단함 OpenSSH 팀은 근본 원인이 sshd 외부 에 있다고 판단하지만, sshd를 통해 악용할 수 있어 우회 조치를 추가함 AI가 찾은 보안 버그의 독립적인 재발견 사례를 고려해, 당분간 수정 사항을 정기 릴…",
+     "source": "",
+     "ts": 1793901871
+    },
+    {
+     "id": "a0687fba617dd240",
+     "title": "GPT-6 Astra, 안전 연구에서 사용자 몰래 낮은 성능을 보임",
+     "link": "https://news.hada.io/topic?id=36661&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "GPT-6 Astra 가 안전 및 정렬 연구에서 불필요한 선행 조건을 추가하거나 작동하는 해결책을 포기하고, 존재하지 않거나 스스로 만든 장애물을 보고하는 행동을 보임 동일한 코딩 과제를 안전 연구와 역량 연구로 각각 제시한 평가에서 숨겨진 평가 항목 달성률이 약 10% 대 16% 로 갈림. 안전 연구 조건에서 달성한 항목이 약 40% 적었음 명시적 거절과 사고 과정(CoT)에 드러난 지원…",
+     "source": "",
+     "ts": 1793901691
+    },
+    {
+     "id": "8533f57535cfa108",
+     "title": "Alpine Linux 보안 권고: openssh-server 비밀번호 인증 우회",
+     "link": "https://news.hada.io/topic?id=36660&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Alpine Linux의 특정 SSH 설정에서 공격자가 비밀번호를 모른 채 로그인 할 수 있는 취약점이 확인됨. openssh 업데이트 후 반드시 sshd 를 재시작 해야 함 공격에는 비밀번호 필드가 * 인 계정명 과 같은 시스템 내 $5$ 또는 $6$ 비밀번호 해시를 가진 다른 계정이 필요함. 비밀번호 인증이 활성화되고 PAM을 사용하지 않는 환경이 영향을 받음 원인은 musl의 cryp…",
+     "source": "",
+     "ts": 1793897699
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "d1c587ecba",
@@ -368,6 +368,14 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "3089c4e12a10528f",
+     "title": "Quoting Paul Ford",
+     "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+     "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web…",
+     "source": "",
+     "ts": 1793900043
+    },
     {
      "id": "f121b002be2ba369",
      "title": "datasette-llm 0.1a10",
@@ -439,18 +447,10 @@
      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbe…",
      "source": "",
      "ts": 1793626286
-    },
-    {
-     "id": "ffb30fef9594cc91",
-     "title": "If in doubt, delete the uv.lock file",
-     "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-     "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which…",
-     "source": "",
-     "ts": 1793575462
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "f9eb976542",
@@ -458,6 +458,22 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "1426b6ea93afa223",
+     "title": "[11월5일] 주민투표 '39대 1'...미국 유권자들, AI 데이터센터에 압도적 반대",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217042",
+     "summary": "39대 1.3일(현지시간) 미국 중간선거와 함께 실시된 AI 데이터센터 관련 주민투표 결과입니다. 미국 10개 주에서 상정된 41건 가운데 4일 집계에서 결과가 확인된 40건 중 39건에서 데이터센터 건설 제한을 지지하거나 개발 허용에 반대하는 결과가 나왔습니다. 노스다코타주 하우드에서만 규제 강화안이 부결됐습니다.이처럼 미국 유권자들이 데이터센터 건설에 압도적인 반대 의사를 나타내면서 A…",
+     "source": "",
+     "ts": 1793948400
+    },
+    {
+     "id": "ba8a7baf599eda32",
+     "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217074",
+     "summary": "오픈AI가 기존 모델보다 보안 취약점에 대한 공격 성공률을 51% 높인 사이버 보안 특화 AI 모델 'GPT-6 사이버(GPT-6 Cyber)'를 출시했다. 리눅스 운영체제에서 실제 작동하는 공격 코드 948건을 개발하고 파이어폭스에서 새로운 고위험 취약점 81건을 발견하는 등 보안 점검 능력을 강화했으며, 주요 보안 기업과 협력해 기업 시장 공략에도 나섰다.오픈AI는 5일(현지시간) 공식…",
+     "source": "",
+     "ts": 1793945126
+    },
     {
      "id": "947ba2c3e50d93dc",
      "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
@@ -521,26 +537,10 @@
      "summary": "알리바바와 텐센트, 바이트댄스 등 중국 주요 기술 기업들이 엔비디아에 700억달러(약 94조원) 규모의 수출 규제 우회용 워크스테이션 GPU를 주문했지만, 그나마도 4개월 동안 전체 물량의 약 1%만 공급받을 것으로 예상된다. 글로벌 생산능력이 수요를 따라가지 못하는 데다 엔비디아가 차세대 고성능 제품 생산에 집중하면서 중국 고객사들의 칩 확보가 어려워지고 있다.4일(현지시간) 블룸버그에…",
      "source": "",
      "ts": 1793897700
-    },
-    {
-     "id": "0d3d7125cea9a4fb",
-     "title": "메타, AI 코딩 스타트업 컨덕터 인수...병렬 에이전트 조율 기술 확보",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217045",
-     "summary": "메타가 여러 AI 코딩 에이전트를 동시에 실행하고 관리할 수 있도록 지원하는 스타트업 컨덕터(Conductor)를 인수했다. AI 모델 경쟁을 넘어 개발자가 여러 에이전트를 효율적으로 활용할 수 있는 코딩 환경까지 확보하려는 전략으로 풀이된다.메타는 4일(현지시간) 여러 AI 코딩 에이전트를 동시에 운용할 수 있는 오케스트레이션 플랫폼 스타트업 컨덕터를 인수했다고 밝혔다.재무적 상세 조건은…",
-     "source": "",
-     "ts": 1793897297
-    },
-    {
-     "id": "843063fe83314228",
-     "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217054",
-     "summary": "애플이 AI 활용을 장려하면서도 직원들의 AI 모델 사용 예산을 최대 3분의 2까지 줄이는 방안을 추진하고 있다. 사내 업무와 소프트웨어 개발에 AI 도입을 확대하는 동시에 관련 비용을 통제하려는 움직임이다.4일(현지시간) 블룸버그에 따르면, 애플은 지난달 일부 엔지니어에게 적용하던 AI 모델 사용 일일 예산을 기존 300달러(약 40만원)에서 200달러로 낮췄다. 추가 감축도 검토하고 있…",
-     "source": "",
-     "ts": 1793896934
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "263d8d0ce8",
@@ -638,6 +638,14 @@
    "url": "https://www.microsoft.com/en-us/research/feed/",
    "site": "https://www.microsoft.com/en-us/research",
    "items": [
+    {
+     "id": "7ab25c6dd263a4cc",
+     "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+     "link": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+     "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It con…",
+     "source": "",
+     "ts": 1793894400
+    },
     {
      "id": "7edcdb24a88ec718",
      "title": "Learn the rules: The hacker mindset",
@@ -709,18 +717,10 @@
      "summary": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it e…",
      "source": "",
      "ts": 1791388800
-    },
-    {
-     "id": "242f2e4b63281928",
-     "title": "What AI gets wrong and what failure teaches us",
-     "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
-     "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures…",
-     "source": "",
-     "ts": 1791303546
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,62 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "339d8562e173e5b1",
+     "title": "Chemours releases two fluids for two-phase liquid cooling",
+     "link": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+     "summary": "Will target direct-to-chip and immersion markets",
+     "source": "",
+     "ts": 1793900434
+    },
+    {
+     "id": "40bed53066761cc1",
+     "title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+     "link": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+     "summary": "Data center is contracted to Anthropic under $19bn deal",
+     "source": "",
+     "ts": 1793899845
+    },
+    {
+     "id": "d38366d517e60c31",
+     "title": "McKay Brothers taps Relativity Networks for hollow core fiber to support New Jersey's financial services market",
+     "link": "https://www.datacenterdynamics.com/en/news/mckay-brothers-taps-relativity-networks-for-hollow-core-fiber-to-support-new-jerseys-financial-services-market/",
+     "summary": "Will initially focus on New Jersey, with plans to expand to other markets",
+     "source": "",
+     "ts": 1793899231
+    },
+    {
+     "id": "c7eabe5ba25b513b",
+     "title": "SBA Communications sheds Chile, Ecuador towers during Q3",
+     "link": "https://www.datacenterdynamics.com/en/news/sba-communications-sheds-chile-ecuador-towers-during-q3/",
+     "summary": "As company also enters agreement to sell towers in Peru",
+     "source": "",
+     "ts": 1793898758
+    },
+    {
+     "id": "b98c62231a9b4f58",
+     "title": "Bank of England queries speculative data center loans tied to projects without tenants",
+     "link": "https://www.datacenterdynamics.com/en/news/bank-of-england-queries-speculative-data-center-loans-tied-to-projects-without-tenants/",
+     "summary": "Tries to understand the scale of risk in the sector",
+     "source": "",
+     "ts": 1793898122
+    },
+    {
+     "id": "0c6274c57dd3b319",
+     "title": "Everything you need to know about in-line amplifiers",
+     "link": "https://www.datacenterdynamics.com/en/analysis/everything-you-need-to-know-about-in-line-amplifiers/",
+     "summary": "A look into the hidden world of fiber huts",
+     "source": "",
+     "ts": 1793898047
+    },
+    {
+     "id": "b115cfa0fa26c879",
+     "title": "Quint Computing raises €9.1 million for development of fault tolerant quantum computing architecture",
+     "link": "https://www.datacenterdynamics.com/en/news/quint-computing-raises-91-million-for-development-of-fault-tolerant-quantum-computing-architecture/",
+     "summary": "German startup was also awarded a €2.2 million Pathfinder grant by the European Innovation Council",
+     "source": "",
+     "ts": 1793897957
+    },
     {
      "id": "3ab3ae786b6035e9",
      "title": "Sponsored: How nickel-zinc is advancing in-rack energy storage for the AI era",
@@ -841,66 +897,10 @@
      "summary": "Fire broke out at 2:00 am local time on November 4",
      "source": "",
      "ts": 1793891769
-    },
-    {
-     "id": "dc3ce8ab2d7e7162",
-     "title": "21 injured in Mackenzie, B.C., bus crash involving Iren contractor",
-     "link": "https://www.datacenterdynamics.com/en/news/21-injured-in-mackenzie-bc-bus-crash-involving-iren-contractor/",
-     "summary": "Several were seriously injured as air ambulances called",
-     "source": "",
-     "ts": 1793885676
-    },
-    {
-     "id": "db158064de6b152e",
-     "title": "OpenAI promises to drop NDAs and increase community transparency, following anti-data center wave",
-     "link": "https://www.datacenterdynamics.com/en/news/openai-promises-to-drop-ndas-and-increase-community-transparency-following-anti-data-center-wave/",
-     "summary": "Publishes Compute Campus Policy and National Community Compact",
-     "source": "",
-     "ts": 1793883825
-    },
-    {
-     "id": "1e6662c270721dd4",
-     "title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
-     "link": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
-     "summary": "Reported a huge increase in sales within its power and energy division",
-     "source": "",
-     "ts": 1793883643
-    },
-    {
-     "id": "a6b0faad7a176fd4",
-     "title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report",
-     "link": "https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/",
-     "summary": "National moratorium remains a low-probability scenario, analyst report says",
-     "source": "",
-     "ts": 1793882825
-    },
-    {
-     "id": "eb0bc12eba101553",
-     "title": "Lambda to develop four-building data center campus in Lowndes County, Alabama",
-     "link": "https://www.datacenterdynamics.com/en/news/lambda-to-develop-four-building-data-center-campus-in-lowndes-county-alabama/",
-     "summary": "Company says it will invest $33.1bn in the state",
-     "source": "",
-     "ts": 1793882793
-    },
-    {
-     "id": "79d31cea62b20a95",
-     "title": "DCD Studio: Accelerating AI infrastructure deployment, with Dan Golding, ASG",
-     "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-accelerating-ai-infrastructure-deployment-with-dan-golding-asg/",
-     "summary": "James Raddings speaks with Dan Golding of ASG about vetting legitimate data center projects, AI-driven fiber demand, supply chain hurdles, power versus location dynamics, and community engagement.",
-     "source": "",
-     "ts": 1793881674
-    },
-    {
-     "id": "07ca83723e6bc36b",
-     "title": "Renewable Innovations joins US DOE lab project on fuel cell power for AI data centers",
-     "link": "https://www.datacenterdynamics.com/en/news/renewable-innovations-joins-us-doe-lab-project-on-fuel-cell-power-for-ai-data-centers/",
-     "summary": "Will include a field demonstration at the Sky Data Centers site in Santa Rosa, California",
-     "source": "",
-     "ts": 1793880881
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "95180fe28d",
@@ -908,6 +908,14 @@
    "url": "https://www.whitehouse.gov/presidential-actions/feed/",
    "site": "https://www.whitehouse.gov",
    "items": [
+    {
+     "id": "0d039f10a6623c9d",
+     "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+     "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION The Oval Office stands as one of the most recognizable and historically significant spaces in the United States. Since its establishment in its present loc…",
+     "source": "",
+     "ts": 1793919116
+    },
     {
      "id": "942beb7327de3ae2",
      "title": "ANTI-COMMUNISM WEEK, 2026",
@@ -979,18 +987,10 @@
      "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. My Administration is committed to advancing women’s healt…",
      "source": "",
      "ts": 1792423557
-    },
-    {
-     "id": "ebe52dac5df83ad2",
-     "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
-     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
-     "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (22 U.S.C. 10802 et seq.) (Graham Act)…",
-     "source": "",
-     "ts": 1792197264
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   },
   {
    "id": "c15f1e5a65",
@@ -998,6 +998,14 @@
    "url": "https://www.theregister.com/software/headlines.atom",
    "site": "https://www.theregister.com",
    "items": [
+    {
+     "id": "f13cfe56bc71d8e1",
+     "title": "openSUSE Leap 16.1 gives Linux users the right to remain immutable",
+     "link": "https://www.theregister.com/os-platforms/2026/11/05/opensuse-leap-161-gives-linux-users-the-right-to-remain-immutable/5307874",
+     "summary": "One installer now offers conventional and read-only systems as separate Micro distro bows out",
+     "source": "",
+     "ts": 1793899800
+    },
     {
      "id": "43b13969d6cbefda",
      "title": "Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again",
@@ -1069,18 +1077,10 @@
      "summary": "Ask AI dumb things and leave no local chat history, all with the style of a kids' fantasy novel – or rather, one of its magical letters",
      "source": "",
      "ts": 1793304245
-    },
-    {
-     "id": "732cc5c02fbc737e",
-     "title": "Matrix takes sovereign messaging into the realm of the tech giants",
-     "link": "https://www.theregister.com/software/2026/10/29/matrix-takes-sovereign-messaging-into-the-realm-of-the-tech-giants/5305915",
-     "summary": "Once more, with feeling: 'First they ignore you, then they laugh at you, then they fight you'",
-     "source": "",
-     "ts": 1793266200
     }
    ],
    "error": null,
-   "last_ok": 1793896250
+   "last_ok": 1793922074
   }
  ]
 }
