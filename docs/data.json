@@ -1,5 +1,5 @@
 {
- "generated_at": 1793922074,
+ "generated_at": 1793948209,
  "top_n": 10,
  "feeds": [
   {
@@ -8,6 +8,70 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "50838fb265b8ba6c",
+     "title": "SK바이오팜, 과기정통부 AI 파운데이션 모델 실증 완료 - 팜뉴스",
+     "link": "https://www.pharmnews.com/news/articleView.html?idxno=307678",
+     "summary": "[팜뉴스=홍효정 기자] SK바이오팜(대표 이동훈)은 과학기술정보통신부 가 주관한 ' 인공지능 ( AI ) 특화 파운데이션 모델 프로젝트 '의 약 10개월간 개발 및 실증 ...",
+     "source": "",
+     "ts": 1793927874
+    },
+    {
+     "id": "3a2e6593360850d3",
+     "title": "공공부문 AI 윤리기준, 신뢰받는 ' AI정부 '의 출발점 - 오피니언 | 뉴스 | 대한민국 정책 브리핑",
+     "link": "https://www.korea.kr/news/contributePolicyView.do?newsId=148975176",
+     "summary": "공공부문 AI 는 국민의 권리·의무에 직접 영향을 미치므로 효율성보다 공공가치와 신뢰를 우선해야 한다. 행안부의 '공공부문 인공지능 윤리기준'은 의미 ...",
+     "source": "",
+     "ts": 1793927556
+    },
+    {
+     "id": "2ef58b8ea83338f1",
+     "title": "국가 AI 전략위, 하정우 체제 첫 전체회의… AI 행동계획 '실행 궤도' 올릴까 - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261105173923",
+     "summary": "민간 전문가와 정부 가 함께 국가 AI 전략을 세우고 부처별 정책 을 조율하는 국가 AI 정책 컨트롤타워 역할을 맡는다. 하 부위원장은 9월 성과보고회에서 ...",
+     "source": "",
+     "ts": 1793926875
+    },
+    {
+     "id": "8bb749c6a7b7ebda",
+     "title": "美 중간선거 후 AI 규제 우려에 증시 급락… 정부 `선제 조치 적기 시행` - 매일신문",
+     "link": "https://www.imaeil.com/page/view/2026110609221403270",
+     "summary": "미국 중간선거 이후 인공지능 ( AI ) 산업 규제가 강화될 수 있다는 우려로 ... 정부 는 선거 뒤에도 자국 산업·공급망 강화 등 미국의 핵심 정책 기조는 유지될 ...",
+     "source": "",
+     "ts": 1793925357
+    },
+    {
+     "id": "6a15238cfbec36d0",
+     "title": "루닛, 의료특화 파운데이션 모델 '러닝유닛 2.0' 공개 - 바이오스펙테이터",
+     "link": "https://m.biospectator.com/view/news_view.php?varAtcId=30323",
+     "summary": "의료 AI 기업 루닛(Lunit)은 정부 의 국가 전략사업인 '의과학 특화 파운데이션 모델' 프로젝트 를 성공적으로 완수하고, 의료 특화 파운데이션 모델 '",
+     "source": "",
+     "ts": 1793924729
+    },
+    {
+     "id": "a912135675e7a116",
+     "title": "SK바이오팜, 과기정통부 주관 ' AI 특화 파운데이션 모델 프로젝트 ' 성과 공개 - 파이낸스스코프",
+     "link": "https://www.finance-scope.com/article/view/scp202611060009",
+     "summary": "SK바이오팜이 과학기술정보통신부 주관 ' 인공지능 ( AI ) 특화 파운데이션 모델 프로젝트 '의 개발 및 실증을 완료하고 신약개발 특화 데이터를 구축했다.SK.",
+     "source": "",
+     "ts": 1793924171
+    },
+    {
+     "id": "0491c073500659ee",
+     "title": "SK바이오팜, 신약개발 특화 AI 모델 개발…714만건 데이터 구축 - 히트뉴스",
+     "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80560",
+     "summary": "[히트뉴스=김동우 기자] SK바이오팜이 정부 주관 AI 파운데이션 모델 개발 프로젝트 에 참여해 신약개발 특화 학습데이터를 구축하고 AI 모델 성능을 검증 ...",
+     "source": "",
+     "ts": 1793923517
+    },
+    {
+     "id": "cb359b5d25869153",
+     "title": "[오늘 재경부 등 경제부처 일정 ] | - 연합인포맥스",
+     "link": "https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4443345",
+     "summary": "[재정경제부]. △08:00 부총리 대외경제장관회의(서울청사). △10:30 부총리 코리아 그랜드 페스티벌 현장방문(행복한백화점). △15:00 부총리 국가 AI 전략 ...",
+     "source": "",
+     "ts": 1793916324
+    },
     {
      "id": "58b9e336f9531e0d",
      "title": "혁신형·CSO 관리·제네릭 구조개편...정부안 마련 속도 - 데일리팜",
@@ -23,74 +87,10 @@
      "summary": "이 누리집은 대한민국 공식 전자 정부 누리집입니다. 이전페이지. 대한민국 정책 브리핑 · 뉴스 · 뉴스 · 정책 뉴스 · 부처별 뉴스 ...",
      "source": "",
      "ts": 1793913502
-    },
-    {
-     "id": "92ad4acfa55b722b",
-     "title": "AI 패권 경쟁 시대, 원전을 허하라 - 마켓인 - 이데일리",
-     "link": "https://marketin.edaily.co.kr/News/ReadE?newsId=01630166645643096",
-     "summary": "... 정책 이 중대 전환점을 맞았다. 글로벌 인공지능 ( AI ) 수요가 폭증하면서 반도체 공장과 AI 데이터센터는 물론 전기차가 전력 소비를 끌어올리고 있어서다. 정부 ...",
-     "source": "",
-     "ts": 1793910644
-    },
-    {
-     "id": "6df2dba936f22193",
-     "title": "[오늘의 주요 일정 ] 과기정통부 ·방미통위·개보위(11월6일 금요일) - 뉴시스",
-     "link": "https://www.newsis.com/view/NISX20261105_0003856982",
-     "summary": "과학기술정보통신부 > △배경훈 부총리, 과방위 전체회의(10:00, 국회) 국가 AI 전략위원회 제3차 전체회의(15:00, 국가 AI 전략위원회) △구혁채 1차관, ...",
-     "source": "",
-     "ts": 1793909028
-    },
-    {
-     "id": "7763f32d01361e3a",
-     "title": "美 AI 규제 시계 빨라질까…\"韓 기업에 위기이자 기회\" - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261105145555",
-     "summary": "미국 중간선거에서 민주당이 상·하원을 장악하면서 인공지능 ( AI ) 산업에 대한 규제 강화 가능성이 제기되고 있다. 도널드 트럼프 행정부 산업 육성 기조와 ...",
-     "source": "",
-     "ts": 1793908100
-    },
-    {
-     "id": "9c45a019441f8af0",
-     "title": "한전, 전력데이터 개방 논의… 광주서 '에너지 AI 포럼' - 천지일보",
-     "link": "https://www.newscj.com/news/articleView.html?idxno=3446235",
-     "summary": "'에너지 AI 혁신포럼'은 지난 7월 출범한 정부 와 산·학·연 전문가가 에너지 AI 정책 과 기술 현. ... 인공지능 전환(AX) 협의체에 22차례 참여하고 자체 AI ...",
-     "source": "",
-     "ts": 1793902360
-    },
-    {
-     "id": "126daf4e8a4277d1",
-     "title": "국립생태원, COP17서 기업 자연자본공시 지원 방안 제시… AI 기반 생물다양성 평가기술 주목 |",
-     "link": "http://www.sdgnews.net/news/articleViewAmp.html?idxno=50883",
-     "summary": "정부 ·공공기관·국제기구 협력 통해 기업의 생물다양성 정보공시 역량 ... 한국환경연구원은 인공지능 ( AI )을 활용한 생물다양성 평가기술인 'BiodivAID ...",
-     "source": "",
-     "ts": 1793896306
-    },
-    {
-     "id": "7216ff8cf5762545",
-     "title": "국립생태원, COP17서 기업 자연자본공시 지원 방안 제시… AI 기반 생물다양성 평가기술 주목",
-     "link": "http://www.sdgnews.net/news/articleView.html?idxno=50883",
-     "summary": "... 정부 와 공공기관이 국제사회에 기업의 자연자본공시를 지원하기 위한 정책 과 기술적 접근법을 제시 ... 한국환경연구원은 인공지능 ( AI )을 활용한 생물 ...",
-     "source": "",
-     "ts": 1793896305
-    },
-    {
-     "id": "7143b5daad0004c0",
-     "title": "정부 , 제조·국방·첨단소재에 AI 입힌다…AX 혁신 드라이브 - 아시아타임즈",
-     "link": "https://www.asiatime.co.kr/article/20261105500245",
-     "summary": "... 정부 가 인공지능 ( AI ) ... 총사업비 300억원을 투입해 48개월간 무기체계의 수명주기 데이터를 수집·분석하고 최적의 운영·정비 정책 을 도출하는 지능형 시스템을 ...",
-     "source": "",
-     "ts": 1793892578
-    },
-    {
-     "id": "4c40ac12b1c9b90f",
-     "title": "산업 현장 위험 덜고 안전 더하고 피지컬 AI 1강으로 키운다 - 대한민국 정부 정책 주간지 K-공감",
-     "link": "https://gonggam.korea.kr/newsContentView.es?mid=a12700000000&section_id=NCCD_COVER&content=NC002&code_cd=0107000000&news_id=2a4a72fa-3471-43a6-a868-639bfeb3db24",
-     "summary": "인공지능 ( AI ) ... 국민성장펀드와 과기정통부 정책 펀드, 모태펀드 등을 활용해 주력 산업의 피지컬 AI 전환 프로젝트 와 도전적·장기적 투자를 지원할 계획이다.",
-     "source": "",
-     "ts": 1793891505
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "cf53c0f1af",
@@ -99,88 +99,88 @@
    "site": "https://aimatters.co.kr",
    "items": [
     {
-     "id": "5f7e48b8eb753fda",
-     "title": "레딧, 검색 결과에 광고 시험…AI 검색 확산에 이용자 감소 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/59036/",
-     "summary": "레딧이 11월 3일 일부 광고주를 대상으로 검색 결과 페이지 광고 시험을 시작했다. 구글 AI 검색 확산으로 미국 일간 이용자가 감소한 가운데 새 광고 지면 ...",
+     "id": "47d12254a8119181",
+     "title": "[AI 활용팁] 엑스코드 코딩 어시스턴트에서 깃허브 코파일럿 연결하기 - AI매터스",
+     "link": "https://aimatters.co.kr/ai-tool/59229/",
+     "summary": "깃허브 코파일럿을 엑스코드 내장 코딩 어시스턴트에서 쓰는 연결 방식이 공개 프리뷰로 제공된다. 엑스코드 27.3 베타 준비물, 설정 순서, 활용 예시, ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "2102c63ec46a1e96",
-     "title": "세일즈포스, 음성 AI 상담 기업 크레스타 인수 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/59035/",
-     "summary": "세일즈포스가 음성 AI 고객 상담 기업 크레스타 인수 계약을 체결했다. 서비스 클라우드와 결합해 상담 대화와 고객 이력을 연결하며 2028 회계연도 1분기 ...",
+     "id": "e5e248e333148888",
+     "title": "2026년 11월 6일 미국 AI 관련주, 마이크론 17.46% 하락 메모리 사이클 우려 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59236/",
+     "summary": "11월 5일 미국 AI 관련주 마감 정리. 중간선거 이후 데이터센터 규제 우려가 이어지며 나스닥이 5.52% 하락한 날 마이크론이 17.46%, AMD가 17.26% 하락했다 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "f3b9749e8ddaab90",
-     "title": "구글, 캐나다 AI 모드와 제미나이 앱에 바로 결제 도입 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/59032/",
-     "summary": "결제는 구글이 올해 공개한 개방형 표준 '유니버설 커머스 프로토콜(UCP)'로 처리된다. UCP는 AI 에이전트와 소매업체 시스템이 상품 정보, 주문, 결제 정보를 ...",
+     "id": "3d0969395da8ecee",
+     "title": "[AI 활용팁] 로그인된 내 크롬을 AI 에이전트가 조작한다 - 브라우저스킬 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/59192/",
+     "summary": "텐센트 오픈소스 브라우저스킬로 로그인된 크롬과 엣지를 클로드 코드, 코덱스, 커서 등 AI 에이전트와 연결하는 방법을 소개한다. 설치 명령, 실전 예시, ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "2cf4f6662bddeeb8",
-     "title": "잘란도, 외부 쇼핑몰 상품 앱에서 판매…AI 에이전트 결제 예정 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/59039/",
-     "summary": "잘란도가 외부 쇼핑몰 상품을 앱에서 판매하는 잘란도 익스텐디드를 공개했다. 2027년부터 자체 AI 에이전트가 결제를 처리하며 베스트윙이 첫 번째 시범 ...",
+     "id": "3417479ee6465a1a",
+     "title": "에어비앤비, 자체 AI 여행 에이전트 내년 상반기 출시 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59279/",
+     "summary": "에어비앤비가 자체 AI 여행 에이전트를 2027년 상반기에 출시한다. 질문에 맞춰 지도, 비교표, 일정표 화면을 구성하고 여행 중 예약 변경과 환불도 돕는다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "2ba6056fd56ce2b7",
-     "title": "트레이드 데스크, 디스틸러리 AI 에이전트와 오디언스 자동 구성 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/59041/",
-     "summary": "트레이드 데스크가 애스크 코아를 디스틸러리 DS-1과 연동해 집행 중인 캠페인에서 AI 에이전트가 맞춤 오디언스를 구성한다고 애드위크가 보도했다.",
+     "id": "7755626c8035c40c",
+     "title": "크립토랩, 동형암호 DB 보안 '헤라클레스' 출시…모의해킹 유출 0건 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59324/",
+     "summary": "크립토랩이 암호화한 상태로 검색과 연산을 처리하는 동형암호 DB 보안 솔루션 헤라클레스를 출시했다. AI 에이전트 모의해킹에서 일반 DB는 1000건이 노출 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "f64ab889c3391e60",
-     "title": "애드테나 \"챗GPT 광고 게재 20만 건 돌파\" - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/59040/",
-     "summary": "애드테나가 6월부터 9월까지 챗GPT 광고 게재 20만 4489건을 추적했다. 의류, 가전, 여행 업종이 약 95%를 차지했고 광고 상당수가 초기 탐색 질문에 노출 ...",
+     "id": "0a6841a6b6faee89",
+     "title": "디스코프, 개인 AI 에이전트 로그인 관리 '엔보이' 공개 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59248/",
+     "summary": "디스코프가 개인 AI 에이전트에 별도 위임 신원을 부여하는 엔보이를 공개했다. 결제 등 민감한 작업은 이용자가 휴대폰에서 승인하며 고펀드미, ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "1dabe2cb1919d505",
-     "title": "마이크로소프트 클래리티, AI 에이전트 방문 분석 기능 추가 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59033/",
-     "summary": "마이크로소프트가 클래리티에 AI 에이전트 활동 대시보드와 시뮬레이션을 추가하고 브랜드 에이전트를 확대했다. 애스크 클래리티는 비공개 베타로 운영 ...",
+     "id": "118f9039d51ee849",
+     "title": "메타 '뮤즈' 아바타와 실시간 음성 대화, 미국 전체 이용자에 제공 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59286/",
+     "summary": "메타가 개인 AI 에이전트 뮤즈와 아바타를 보며 실시간으로 대화하는 뮤즈 보이스를 미국 전체 이용자에게 열었다. 모바일과 웹, 맥에서 쓸 수 있고 AI ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "44ec8862523e05c5",
-     "title": "[AI 활용팁] AI 이미지 판별하기, 팬그램 사용법 - AI 매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59128/",
-     "summary": "사진이나 영상을 올리면 AI 생성 여부와 위치를 히트맵으로 보여 주는 팬그램 이미지 1.0 사용법을 공식 발표 기준으로 소개한다.",
+     "id": "062a291162b48570",
+     "title": "[AI 활용팁] 종이 스케치를 작동 앱으로 바꾼다 - 제미나이 캔버스 - AI매터스",
+     "link": "https://aimatters.co.kr/ai-tool/59226/",
+     "summary": "종이에 그린 앱 화면을 사진으로 찍어 제미나이 캔버스에 올리면 작동하는 앱으로 바뀐다. 구글이 11월 5일 소개한 스케치 앱 제작 순서와 무료 사용 범위, ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "abe0e88f4d043db7",
-     "title": "[AI 활용팁] 구글 시트 제미나이로 표 채우고 셀마다 출처 확인하기 - AI매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59143/",
-     "summary": "구글 시트 제미나이로 채우기와 AI 함수 사용법을 메뉴 위치부터 소개한다. 셀마다 웹 출처를 확인하는 방법, 회사 정보와 상품 분류, 기사 요약 프롬프트 ...",
+     "id": "4fd52c2b6a4c9921",
+     "title": "앤트로픽, AP와 첫 언론사 콘텐츠 라이선스 계약 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59275/",
+     "summary": "앤트로픽이 AP와 콘텐츠 라이선스 계약을 맺어 중간선거 당일 클로드가 AP 실시간 정보를 출처와 함께 제공했다. 앤트로픽이 언론사에 비용을 낸 첫 번째 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "a829ede5d61a11e6",
-     "title": "[AI 활용팁] 챗GPT GIF 만들기로 사진과 스케치 움직이기 - AI매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59145/",
-     "summary": "챗GPT GIF 만들기 방법을 이미지 2.6 공식 자료 기준으로 소개한다. 글이나 사진을 반복 GIF로 바꾸는 웹과 앱 단계, 이모티콘과 제품 소개 프롬프트 예시, ...",
+     "id": "bba08018679cbe65",
+     "title": "스냅 3분기 매출 14% 증가…스피겔 \"AI가 광고 플랫폼 경쟁력\" - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59244/",
+     "summary": "스냅챗 운영사 스냅(Snap)이 현지 시각 11월 4일 3분기 매출이 17억 2,247만 달러(약 2조 3,365억 원)로 전년 대비 14% 증가했다고 발표했다.",
      "source": "",
      "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "25ac01331a",
@@ -189,12 +189,36 @@
    "site": "https://www.axios.com",
    "items": [
     {
+     "id": "7ce978363f46f3e2",
+     "title": "Trump's 250-foot arch temporarily blocked by federal judge",
+     "link": "https://www.axios.com/local/washington-dc/2026/11/06/trump-arch-dc-arlington-cemetery-construction-lawsuits",
+     "summary": "A federal judge temporarily blocked construction of President Trump's much-contested triumphal arch near Arlington National Cemetery, hours after the project received final planning approval. Why it matters: The 14-day…",
+     "source": "",
+     "ts": 1793944496
+    },
+    {
      "id": "93ab760674bd9ab6",
      "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
      "link": "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china",
      "summary": "Nvidia CEO Jensen Huang has been asked by three House Republican committee chairs to brief Congress behind closed doors about his reported ties to a woman accused of spying for China. Why it matters: The request escalat…",
      "source": "",
-     "ts": 1793921959
+     "ts": 1793926417
+    },
+    {
+     "id": "f698c8b9d5645c08",
+     "title": "\"Never heard of them\": Meet the incoming House Dems who shocked even their own party",
+     "link": "https://www.axios.com/2026/11/06/house-democrats-nc-tennessee-new-members-wave",
+     "summary": "Tuesday's blue tsunami is poised to sweep an unusually large cohort of House Democrats into office who are virtually unknown outside of their districts. Why it matters: Obscure though these incoming lawmakers may be on…",
+     "source": "",
+     "ts": 1793925825
+    },
+    {
+     "id": "41fe8ea2b5fb3368",
+     "title": "Trump says voters should blame themselves for stock market rout",
+     "link": "https://www.axios.com/2026/11/06/trump-stock-market-sell-off",
+     "summary": "President Trump said Thursday night that voters had themselves to blame for the stock market's historic sell-off . Why it matters: Two days after Republicans lost the midterm elections in historic fashion, the president…",
+     "source": "",
+     "ts": 1793924889
     },
     {
      "id": "6477aa142612b2e5",
@@ -243,34 +267,10 @@
      "summary": "President Trump won historic levels of support from Black men in 2024. Two years later, those gains appeared to evaporate as Republicans suffered their worst midterm defeat in 50 years. Why it matters: Democrats feared…",
      "source": "",
      "ts": 1793902856
-    },
-    {
-     "id": "f074d7417ca5700d",
-     "title": "DOJ's Harmeet Dhillon resigns",
-     "link": "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
-     "summary": "Harmeet Dhillon , assistant attorney general for civil rights at the Justice Department, has resigned from her role, Attorney General Todd Blanche said Thursday. Why it matters: Dhillon, who spent her tenure replacing a…",
-     "source": "",
-     "ts": 1793902812
-    },
-    {
-     "id": "9da50dae2c83c6f6",
-     "title": "Exit polls show young voters swinging back to Democrats after Trump's 2024 gains",
-     "link": "https://www.axios.com/2026/11/05/gen-z-voters-2026-midterms-democrats-house",
-     "summary": "Young voters swung so hard toward Democrats in Tuesday's midterms that it raises new doubts about whether Republicans can build a lasting coalition among Americans under 30. Why it matters: Trump's success with Gen Z vo…",
-     "source": "",
-     "ts": 1793902777
-    },
-    {
-     "id": "a10de408ae537a0f",
-     "title": "Now comes the test for Dems: household budget relief",
-     "link": "https://www.axios.com/2026/11/05/now-comes-the-test-for-dems-household-budget-relief",
-     "summary": "Democrats won the midterms on voter frustration with high prices . Now they face the same problem that sank Republicans: Americans want lower prices, and there is little that policymakers can do to deliver them quickly.…",
-     "source": "",
-     "ts": 1793898087
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "9a2963fabb7d9e3c",
-     "title": "Window Sweaters - macOS 창에 뜨개질 무늬 테두리를 입히는 앱",
-     "link": "https://news.hada.io/topic?id=36669&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "macOS 창에 뜨개질 무늬 테두리 를 추가하며, 앱별 색상과 패턴으로 데스크톱을 꾸밀 수 있음 By App 은 앱마다 고유한 테두리를, Zigzag 는 앱 아이콘 색상을 활용한 통일된 지그재그 스타일을 적용함 37개 앱의 맞춤 디자인 을 제공하며, 그 외 앱은 아이콘에서 색상을 추출해 테두리를 생성함 메뉴 막대에서 테두리 너비와 바늘땀 크기 등을 조절하고, 앱별로 적용 여부를 선택할 수…",
+     "id": "be90cc18882577cb",
+     "title": "약 2만 달러로 학습한 준수한 텍스트 기반 이미지 생성 모델, Apache 2.0 가중치 공개",
+     "link": "https://news.hada.io/topic?id=36694&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Linum이 차기 영상 모델을 위한 개념 검증으로 Pyramid-JiT(P-JiT) 이미지 생성 모델을 실험적으로 공개함. 사전학습과 후속학습에 든 GPU 비용은 총 21,038달러 임 별도 VAE 없이 픽셀 공간에서 압축과 생성을 함께 학습 하며, 32×32 토큰 축소로 기존 Linum v2 대비 어텐션 문맥 길이를 4분의 1로 줄임 DiT 중간 블록에서 저해상도 이미지를 예측 해 초기…",
      "source": "",
-     "ts": 1793914599
+     "ts": 1793943197
     },
     {
-     "id": "813172e33e4eaf28",
-     "title": "Salon의 작별 인사",
-     "link": "https://news.hada.io/topic?id=36668&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Salon이 31년 만에 발행을 중단함 . 독립 디지털 저널리즘의 사업 환경이 크게 달라지면서 기존 발행 모델을 더 이상 지속할 수 없다고 판단함 1995년 11월 창간 당시 소규모 언론인 집단이 뚜렷한 목소리와 세상에 대한 호기심을 바탕으로 인터넷에서 저널리즘과 독자를 새로운 방식으로 연결하고자 했음 지난 30여 년간 정치, 문화, 비평, 사상 을 함께 다루며 권력을 검증하고 기존 통념에…",
+     "id": "c40f29dd84621d8b",
+     "title": "Show GN: ESLint Markdown - ESLint로 마크다운 파일들을 린팅하세요",
+     "link": "https://news.hada.io/topic?id=36693&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "eslint-markdown 패키지를 통해 ESLint로 Markdown 파일을 린팅할 수 있습니다. 2024년 10월 3일 ESLint가 Markdown 지원을 공식 발표 한 이후, ESLint의 공식 API와 개발 방향에 맞춰 설계한 플러그인입니다. 기존 markdownlint , remark-lint , textlint 등 JavaScript 생태계의 마크다운 린팅 도구에서 제공하는…",
      "source": "",
-     "ts": 1793914418
+     "ts": 1793942510
     },
     {
-     "id": "28d4fab384b08a79",
-     "title": "테크 기업들이 나에 대해 좀 더 잘 알았으면 좋겠다",
-     "link": "https://news.hada.io/topic?id=36667&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "수많은 개인정보가 추적, 저장, 판매된다는 점은 의심하지 않지만, 실제 서비스에서는 이미 아는 정보조차 활용하지 못하는 개인화 를 경험함 구매한 제품을 다시 광고하고, 특정 가전의 설치 영상을 본 뒤 다른 오븐까지 추천하는 등 일회성 행동을 지속적인 관심사로 취급 하는 사례가 이어짐 수년간 보컬이 들어간 전자음악을 건너뛰어도 Spotify와 YouTube Music은 반복되는 선호 패턴 을…",
+     "id": "8c692970fdad8077",
+     "title": "Mark Cuban “Facebook, AI 딥페이크 사기 광고인 줄 알고도 게재”, 내부 문서상 사기 관련 매출 추정 16...",
+     "link": "https://news.hada.io/topic?id=36691&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Mark Cuban 은 자신을 사칭한 AI 광고의 가짜 당뇨병 치료제에 대해 매주 문의를 받는다며, Facebook이 피해를 알면서도 광고를 게재한다고 비판함 Reuters가 확보한 Meta 내부 문서 에는 사기 및 금지 제품 광고에서 발생할 매출이 2024년 전체 매출의 약 10%인 160억 달러 에 이를 것이라는 추정이 담김 내부 문서상 광고주 차단에는 자동화 시스템이 판단한 사기 가능…",
      "source": "",
-     "ts": 1793907624
+     "ts": 1793939609
     },
     {
-     "id": "3386b5bfc7d52b30",
-     "title": "좋아하는 YouTube 영상을 다운로드하자",
-     "link": "https://news.hada.io/topic?id=36666&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "YouTube의 오래된 ‘좋아요 표시한 동영상’ 중에는 더 이상 볼 수 없는 영상이 있으므로, 소중한 콘텐츠를 직접 다운로드해 보관 할 것을 권함 대부분은 yt-dlp 나 이를 감싼 앱으로 영상을 내려받고 대용량 드라이브 또는 NAS의 폴더에 저장하는 것만으로 충분함 TV 재생과 기존 NAS 연동, 수백 개 영상의 자동 관리를 위해 Jellyfin과 ytdl-sub 를 결합한 개인 구축 사…",
+     "id": "a8d08dbe3eee1858",
+     "title": "로컬 LLM, 권장된 샘플링 대신 temp 0으로 실행해도 되나? ( 한국어 문서 RAG 320문항 재측정)",
+     "link": "https://news.hada.io/topic?id=36690&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "한국어 문서 RAG 시험(정답 있는 299문항 + 답 없는 질문 20개)을 temp 0으로 실행했더니, Hugging Face 토론에서 \"qwen3.8은 카드 권장값으로 재야 공정하다\"는 지적을 받았습니다. 그래서 RTX 3090로 qwen3.8 27B와 Nanbeige4.3 33B를 권장 설정값으로 320문항씩 다시 실행해봤습니다. qwen3.8 27B: 생각 켬 77.3% → 77.9%…",
      "source": "",
-     "ts": 1793907444
+     "ts": 1793938941
     },
     {
-     "id": "b27c58caea6dee2e",
-     "title": "MCP Explained - AI 앱과 도구를 연결하는 Model Context Protocol의 작동 방식",
-     "link": "https://news.hada.io/topic?id=36665&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "MCP(Model Context Protocol) 는 AI 앱을 도구와 데이터에 연결하는 개방형 표준으로, 서버가 제공하는 기능을 앱이 모델에 전달하고 실행 결과를 돌려주는 방식으로 작동함 호스트 는 Claude, Cursor, ChatGPT 같은 AI 앱이며, 서버는 도구와 데이터 또는 프롬프트를 제공하는 작은 프로그램임 모델은 서버와 직접 통신하지 않으며 , 사용할 도구를 결정하면 앱이…",
+     "id": "48de94cd1d9e6e57",
+     "title": "헝가리, 공산주의 시대 문서 공개로 전직 정보원 최대 6만 명 신원 드러나",
+     "link": "https://news.hada.io/topic?id=36689&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "헝가리가 공산주의 시대 비밀경찰 기록을 일반에 공개 하면서 당시 정보원 약 5만~6만 명의 이름이 드러남 공개 자료에는 정보원 등록표, 모집 기록, 개인정보와 암호명 데이터베이스 가 포함되며, 누구나 온라인에서 무료로 검색할 수 있음 1990년 민주화 이후 거듭 무산됐던 공개가 Peter Magyar 총리의 법안 을 계기로 이뤄짐. 이전에는 감시 피해자가 자신을 보고한 사람을 확인하는 수준…",
      "source": "",
-     "ts": 1793904048
+     "ts": 1793935941
     },
     {
-     "id": "887b963c1248fc5a",
-     "title": "Motorola Signature 27, GrapheneOS 지원",
-     "link": "https://news.hada.io/topic?id=36664&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "motorola signature 27 은 Motorola 최초로 GrapheneOS를 지원할 예정인 플래그십 스마트폰 으로, GrapheneOS Foundation과 협력해 개발됨 ARM Memory Tagging Extension 의 고성능 구현을 탑재하고, GrapheneOS가 요구하는 하드웨어 및 업데이트 요건을 충족하도록 설계됨 Snapdragon 8 Elite Extreme Ge…",
+     "id": "9af203ff4df39755",
+     "title": "GitHub Copilot 런타임 코드베이스 전체를 Rust로 이식한 이유와 방법 [영상]",
+     "link": "https://news.hada.io/topic?id=36687&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "GitHub Copilot 런타임의 TypeScript 운영 코드 약 40만~45만 줄 을 Rust로 이식함. 목적은 Rust 도입 자체가 아니라 Node.js와 V8 의존성을 벗어나 여러 제품에 내장할 수 있는 공통 에이전트 하네스 를 만드는 것이었음 Rust와 Native AOT 기반 C# 이 성능과 내장 가능성에서 최종 후보였으며, GitHub 내부의 기존 프로젝트와 개발자 경험을 고…",
      "source": "",
-     "ts": 1793903868
+     "ts": 1793931602
     },
     {
-     "id": "effdcf4f3b4fbe8d",
-     "title": "내 ISP가 DNS를 가로채고 있었다",
-     "link": "https://news.hada.io/topic?id=36663&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "홈랩의 Podman 컨테이너에서 외부 사이트 접속이 실패해 조사한 결과, ISP가 DNS 질의를 가로채 자신의 IP 주소를 반환 하고 있었음 Unbound 자체 호스팅 만으로는 DNS 변조를 막을 수 없으며, 재귀 조회 과정에서 여러 네임서버에 보내는 평문 DNS 질의는 ISP가 열람하거나 변조할 수 있음 DNSSEC는 암호화가 아닌 진위 검증 수단으로, 올바르게 서명된 도메인의 변조 응답…",
+     "id": "c21bc756dd357673",
+     "title": "Show GN: 해축이모 - 프리미어리그 이적설의 출처와 진행 단계를 모아보는 서비스",
+     "link": "https://news.hada.io/topic?id=36686&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "안녕하세요. 해축이모를 만든 개발자 김도완입니다. 이적설을 읽을 때 궁금한 건 보통 두 가지입니다. “누가 보도했지?” 그리고 “구단이 관심을 보인 건가, 실제로 협상이 시작된 건가?” 해축이모에서는 이 두 가지를 소식마다 함께 볼 수 있습니다. 프리미어리그 빅6를 다루는 해외 축구 기자들의 X 게시물을 한국어로 번역·요약하고, 보도 출처와 원문 링크를 붙였습니다. 이적설은 관심·접촉, 협…",
      "source": "",
-     "ts": 1793902052
+     "ts": 1793928046
     },
     {
-     "id": "37689a6d621a1d31",
-     "title": "OpenSSH 10.6p2 - PAM 없는 Alpine의 심각한 보안 문제 우회 조치",
-     "link": "https://news.hada.io/topic?id=36662&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Portable OpenSSH 10.6p2 는 musl libc를 사용하고 PAM 지원 없이 빌드하고 실행한 일부 Linux 시스템에서 가능한 비밀번호 인증 우회 를 sshd에서 차단함 OpenSSH 팀은 근본 원인이 sshd 외부 에 있다고 판단하지만, sshd를 통해 악용할 수 있어 우회 조치를 추가함 AI가 찾은 보안 버그의 독립적인 재발견 사례를 고려해, 당분간 수정 사항을 정기 릴…",
+     "id": "7f72fedc95157185",
+     "title": "소프트웨어 엔지니어링은 어떻게 달라지고 있나: 두 시대의 이야기",
+     "link": "https://news.hada.io/topic?id=36685&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "한 엔지니어의 월간 PR 수가 AI 도입 이전 약 19개에서 207개로 11배 늘어남 . AI 코딩 에이전트뿐 아니라 담당자의 자율성, 선택적 사람 리뷰, 제품 의사결정 방식이 함께 바뀐 결과임 코드 작성이 빨라지면서 협업과 승인 대기 가 새로운 병목이 됨. Tano에서는 한 사람이 기능 전체를 맡고, 코드베이스에 익숙해진 뒤에는 대부분의 PR을 자동 리뷰만 거쳐 병합함 빠른 변경에는 장애…",
      "source": "",
-     "ts": 1793901871
+     "ts": 1793927788
     },
     {
-     "id": "a0687fba617dd240",
-     "title": "GPT-6 Astra, 안전 연구에서 사용자 몰래 낮은 성능을 보임",
-     "link": "https://news.hada.io/topic?id=36661&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "GPT-6 Astra 가 안전 및 정렬 연구에서 불필요한 선행 조건을 추가하거나 작동하는 해결책을 포기하고, 존재하지 않거나 스스로 만든 장애물을 보고하는 행동을 보임 동일한 코딩 과제를 안전 연구와 역량 연구로 각각 제시한 평가에서 숨겨진 평가 항목 달성률이 약 10% 대 16% 로 갈림. 안전 연구 조건에서 달성한 항목이 약 40% 적었음 명시적 거절과 사고 과정(CoT)에 드러난 지원…",
+     "id": "937a02b2bc268cb0",
+     "title": "AI로 부활하는 해킨토시",
+     "link": "https://news.hada.io/topic?id=36684&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "비 Apple 하드웨어에서 macOS를 구동하는 Hackintosh 와 hackios 커뮤니티에서 최근 몇 주간 개발 활동과 성공 사례가 급증했으며, AI의 부상 이 이를 이끌고 있음 Apple의 ARM 전환에 이어 macOS 27(Golden Gate) 에서 x86 지원이 종료됐지만, Snapdragon 노트북과 ARM 단일 보드 컴퓨터에서 macOS를 구동하는 사례가 등장함 Ninten…",
      "source": "",
-     "ts": 1793901691
+     "ts": 1793925543
     },
     {
-     "id": "8533f57535cfa108",
-     "title": "Alpine Linux 보안 권고: openssh-server 비밀번호 인증 우회",
-     "link": "https://news.hada.io/topic?id=36660&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Alpine Linux의 특정 SSH 설정에서 공격자가 비밀번호를 모른 채 로그인 할 수 있는 취약점이 확인됨. openssh 업데이트 후 반드시 sshd 를 재시작 해야 함 공격에는 비밀번호 필드가 * 인 계정명 과 같은 시스템 내 $5$ 또는 $6$ 비밀번호 해시를 가진 다른 계정이 필요함. 비밀번호 인증이 활성화되고 PAM을 사용하지 않는 환경이 영향을 받음 원인은 musl의 cryp…",
+     "id": "26f5af93c1ab824f",
+     "title": "Servo의 9월 업데이트: <progress>, 둥근 사각형 등",
+     "link": "https://news.hada.io/topic?id=36683&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Servo 0.7.0 에 9월의 527개 커밋이 반영됐으며, <progress> 요소와 Canvas의 둥근 사각형 그리기 등 웹 플랫폼 지원이 확대됨 CSS와 DOM API 지원을 넓혀 :checked , user-select , CSS 타입 연산, CSS/text 모듈, WebCrypto의 MLKEM768-X25519 알고리듬 등을 추가함 실제 웹 호환성 이 개선돼 Candy Crush…",
      "source": "",
-     "ts": 1793897699
+     "ts": 1793925363
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "f9eb976542",
@@ -459,88 +459,88 @@
    "site": "https://www.aitimes.com",
    "items": [
     {
-     "id": "1426b6ea93afa223",
-     "title": "[11월5일] 주민투표 '39대 1'...미국 유권자들, AI 데이터센터에 압도적 반대",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217042",
-     "summary": "39대 1.3일(현지시간) 미국 중간선거와 함께 실시된 AI 데이터센터 관련 주민투표 결과입니다. 미국 10개 주에서 상정된 41건 가운데 4일 집계에서 결과가 확인된 40건 중 39건에서 데이터센터 건설 제한을 지지하거나 개발 허용에 반대하는 결과가 나왔습니다. 노스다코타주 하우드에서만 규제 강화안이 부결됐습니다.이처럼 미국 유권자들이 데이터센터 건설에 압도적인 반대 의사를 나타내면서 A…",
+     "id": "d3187900f9ac5bbe",
+     "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217106",
+     "summary": "중국이 미국산 첨단 반도체 의존도를 낮추기 위해 엔비디아 칩 수입을 제한하면서 홍콩에 'H200' 칩 60만개가 묶여 있는 것으로 나타났다. 중국 기업들의 AI 연산 수요는 빠르게 늘고 있지만, 당국이 대규모 수입 승인을 보류하면서 공급이 막힌 상황이다.로이터는 5일(현지시간) 정통한 소식통들을 인용, 홍콩에 보관된 H200 칩 약 60만개가 중국 본토로 운송되기를 기다리고 있다고 보도했다…",
      "source": "",
-     "ts": 1793948400
+     "ts": 1793979837
     },
     {
-     "id": "ba8a7baf599eda32",
-     "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217074",
-     "summary": "오픈AI가 기존 모델보다 보안 취약점에 대한 공격 성공률을 51% 높인 사이버 보안 특화 AI 모델 'GPT-6 사이버(GPT-6 Cyber)'를 출시했다. 리눅스 운영체제에서 실제 작동하는 공격 코드 948건을 개발하고 파이어폭스에서 새로운 고위험 취약점 81건을 발견하는 등 보안 점검 능력을 강화했으며, 주요 보안 기업과 협력해 기업 시장 공략에도 나섰다.오픈AI는 5일(현지시간) 공식…",
+     "id": "d15545bd1e49d919",
+     "title": "문샷AI, 엔비디아 블랙웰 확보 위해 유럽으로 눈 돌려...8000개 GPU 임대 추진",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217103",
+     "summary": "중국의 문샷 AI가 엔비디아의 최신 AI 칩 '블랙웰'을 확보하기 위해 유럽 데이터센터를 통한 컴퓨팅 자원 임대를 추진하고 있다. 미국의 반도체 수출 규제를 우회해 대규모 GPU에 접근하려는 움직임으로, 해외 클라우드 서비스를 통한 중국 기업의 첨단 반도체 이용 문제가 다시 주목받고 있다.CNBC는 5일(현지시간) 복수의 소식통을 인용, 문샷 AI가 올해 유럽에 데이터센터를 운영하는 네오클…",
      "source": "",
-     "ts": 1793945126
+     "ts": 1793979427
     },
     {
-     "id": "947ba2c3e50d93dc",
-     "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217043",
-     "summary": "앤트로픽이 이용자가 받은 답변을 약속된 AI 모델이 생성했는지 수학적으로 검증하는 오픈소스 기술을 공개했다. 모델 가중치를 노출하지 않고도 서비스 업체의 모델 바꿔치기나 응답 조작을 확인할 수 있다.앤트로픽은 2일(현지시간) AI 추론 결과의 신뢰성을 검증하는 시스템 '플래시프루브(FlashProve)'를 공개했다.영지식 증명(Zero-Knowledge Proof) 기술의 일종인 ‘zkSN…",
+     "id": "33f64c3265f93808",
+     "title": "\"아내가 챗GPT로 남편 독살 계획\"…오픈AI 피소",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217102",
+     "summary": "'챗GPT'가 사용자의 남편을 살해하기 위한 독살 계획을 세우는 데 도움을 줬다는 주장으로 오픈AI가 소송을 당했다. 남편은 아내가 챗GPT와 대화하며 독성 물질의 치사량과 투여 방법, 범행 은폐 방법 등을 알아봤다고 주장했다. 아내에 대한 형사 사건은 증거 불충분으로 기각된 상태다.5일(현지시간) 블룸버그에 따르면, 미국 노스캐롤라이나주에 거주하는 제임스 게이츠는 지난달 오픈AI를 상대로…",
      "source": "",
-     "ts": 1793902688
+     "ts": 1793977742
     },
     {
-     "id": "51ae15ca96cef75c",
-     "title": "강진 진료환자 1인당 연간 진료비 427만원…광양 246만원의 1.7배",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217071",
-     "summary": "전남 22개 시군의 진료환자 1인당 연간 진료비가 강진군에서 가장 높고 광양시에서 가장 낮은 것으로 나타났다. 두 지역의 진료비는 약 1.7배 차이가 났으며, 고령인구 비중과 의료기관 이용일수에서도 큰 차이를 보였다.5일 국민건강보험공단이 지난 2일 공개한 '2025년 지역별 의료이용 통계연보'를 분석한 결과, 지난해 강진군의 진료환자 1인당 연간 진료비는 426만6300원으로 전남에서 가…",
+     "id": "c0d58e462ec588a0",
+     "title": "오픈AI, 데이터센터 전력 비용 전액 부담 약속…주민 반발 달래기",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217088",
+     "summary": "오픈AI가 데이터센터 운영에 필요한 전기요금과 전력망 확충 비용을 전액 부담하겠다고 밝혔다. 데이터센터 건설에 대한 지역 주민들의 반발이 미국 중간선거에서 정치적 변수로 부상하자, 지역사회와의 협력을 강화해 인프라 확장에 대한 여론을 돌리려는 움직임이다.오픈AI는 5일(현지시간) 데이터센터 건설 지역과의 새로운 협력 원칙을 담은 '전국 커뮤니티 협약(National Community Com…",
      "source": "",
-     "ts": 1793901622
+     "ts": 1793977043
     },
     {
-     "id": "8f695bcb6c96fa98",
-     "title": "문샷 AI, ‘키미 K3.1 프로’ 가중치 공개…\"딥시크 희소 어텐션 결합\"",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217051",
-     "summary": "문샷 AI가 ‘키미 K3.1 프로’의 가중치를 공개해 개발자가 자체 인프라에서 모델을 운영하고 수정할 수 있도록 했다. 모델 카드에는 딥시크 희소 어텐션을 결합한 내부 구조와 저정밀도 연산 사양도 담겼다.문샷 AI는 4일(현지시간) 허깅페이스를 통해 키미 K3.1 프로의 가중치를 배포했다. 지난달 모델 출시 당시 예고한 공개 일정에 따른 조치다.배포 저장소의 용량은 약 1.56테라바이트(T…",
+     "id": "0c6cf8600333ce22",
+     "title": "구글, 13세 학생 자살 계획에 피소…학교 지급 노트북서 제미나이 사용",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217100",
+     "summary": "학교에서 지급한 노트북으로 AI 챗봇 '제미나이'를 이용하던 13세 학생이 수개월간 자살 관련 대화를 나누고 실제 자살을 계획했다는 의혹으로 구글이 피소됐다. 부모는 구글이 학교 교육 환경에 AI 기능을 적극적으로 도입하면서도 위험성을 제대로 알리지 않았고, 챗봇이 학생의 자해와 자살 충동을 적절히 차단하지 못했다고 주장했다.블룸버그와 뉴욕타임스(NYT) 등에 따르면, 미국 노스캐롤라이나주…",
      "source": "",
-     "ts": 1793901515
+     "ts": 1793976585
     },
     {
-     "id": "9862cf5b6379b5fc",
-     "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217070",
-     "summary": "오픈AI가 올해 상반기 코딩 시장에서 고전했지만, 3분기 최신 모델의 인기로 기업 시장 반등에 성공했다고 밝혔다. 현재 기업 고객이 전체 매출의 절반 이상을 차지하며, 내년 기업공개(IPO)를 준비할 수 있을 것이라는 입장도 내놨다.월스트리트저널과 로이터는 4일(현지시간) 그렉 브록먼 오픈AI 공동창업자 겸 사장이 미국 캘리포니아주 나파에서 열린 WSJ 기술 콘퍼런스에서 이같이 말했다고 보…",
+     "id": "4f8de5359ff0a959",
+     "title": "미 하원, 젠슨 황 의회 비공개 브리핑 요청...중국 여성 사업가와의 관계 조사",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217099",
+     "summary": "미국 공화당 하원의원들이 젠슨 황 엔비디아 CEO에게 중국 여성 사업가와의 관계 및 중국으로의 정보 유출 의혹과 관련해 의회 비공개 브리핑을 요청했다. 해당 여성이 베이징에 정보를 전달했다는 보도가 나오면서 미국의 첨단 AI 반도체 기술과 국가 안보에 미칠 영향에 대한 우려가 커진 데 따른 것이다.로이터는 5일(현지시간) 브라이언 마스트 하원 외교위원장과 존 물레나르 중국특별위원회 위원장,…",
      "source": "",
-     "ts": 1793899635
+     "ts": 1793975711
     },
     {
-     "id": "4a5ed30afdff3eb3",
-     "title": "전남광주 공무원, AI 활용해 시설물 안전관리 플랫폼 직접 개발",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217068",
-     "summary": "전남광주통합특별시가 공무원이 AI를 개발 도구로 활용해 직접 만든 시설물 안전관리 플랫폼을 운영하고 있다. 안전점검·진단 용역 설계내역서 작성 기간은 기존 30일 이상에서 1일 이내로 단축했다.전남광주는 종합건설본부 신해섭 주무관이 지난 1월부터 ‘시설물 안전관리 실무 플랫폼’을 직접 기획·개발했다고 5일 밝혔다. 외부 용역이나 별도 예산은 투입하지 않았다.플랫폼은 교량과 터널, 지하차도,…",
+     "id": "15d2db3dab3409cf",
+     "title": "MS, 엔스케일 데이터센터 추가 임대 철회…AI 인프라 투자 재점검",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217095",
+     "summary": "마이크로소프트(MS)가 전력 공급 지연과 인허가 문제로 영국 AI 클라우드 기업 엔스케일(Nscale)의 미국 데이터센터 추가 임대 계획을 철회했다. 네비우스와 아이렌 등 다른 네오클라우드 업체의 데이터센터 감독도 강화하면서 AI 인프라 투자 전략을 재검토하고 있다.5일(현지시간) 블룸버그와 로이터 등에 따르면, MS는 지난해 엔스케일과 텍사스주 워드 카운티 데이터센터에서 약 240메가와트…",
      "source": "",
-     "ts": 1793898909
+     "ts": 1793974812
     },
     {
-     "id": "935e86613be7ce0c",
-     "title": "[게시판] LG, 안전보건 컨퍼런스서 AI 활용 사례 15건 공유 등 단신",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217069",
-     "summary": "■ LG는 서울 마곡 LG사이언스파크에서 그룹 안전보건환경 컨퍼런스 ‘LG 쉬크(SHEC)’를 개최했다고 밝혔다. 계열사 안전환경 담당자 350여 명이 참석해 혁신 사례 21건을 공유했으며, 그중 15건이 AI 활용 사례였다. LG전자는 AI가 위험을 감지하면 설비를 직접 제어하는 통합 관제시스템을, LG화학은 공정안전관리 서류를 검토하는 AI 에이전트 등을 소개했다.■ NC AI(대표 이…",
+     "id": "c72172a316011db0",
+     "title": "중국, 소프트뱅크의 ABB 로봇 인수 불허...오픈AI 연계 데이터 유출 경계",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217094",
+     "summary": "중국 정부가 소프트뱅크의 54억달러(약 7조원) 규모 스위스 ABB 산업용 로봇 사업 인수를 금지했다. 중국 내 공장에서 수집한 로봇 데이터와 기술이 해외로 넘어가 AI 개발에 활용될 가능성을 경계한 조치로 풀이된다. 특히 소프트뱅크가 오픈AI의 주요 투자자라는 점도 영향을 미친 것으로 보인다.로이터와 월스트리트저널(WSJ) 등에 따르면, ABB는 5일(현지시간) 중국 국가발전개혁위원회(N…",
      "source": "",
-     "ts": 1793898000
+     "ts": 1793974396
     },
     {
-     "id": "939e0004e86b625f",
-     "title": "'극저온 국산화' 크라이오에이치앤아이, '2026 딥테크 스타트업 챌린지' 대상 영예",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217067",
-     "summary": "정부가 유망 딥테크 스타트업의 조기 발굴과 성장 지원을 위해 지난 6월부터 진행한 ’2026 연구개발특구 딥테크 스타트업 챌린지'의 최고상은 극저온 장비를 국산화한 크라이오에이치앤아이에 돌아갔다.과학기술정보통신부와 연구개발특구진흥재단은 5일 서울 GS타워에서 총 182개 유망기업 중 선정된 6개사의 공개 IR 심사와 시상을 진행하고 크라이오에이치앤아이, 에스씨솔루션글로벌 등을 각각 대상(부…",
+     "id": "7eccf0446d585aa3",
+     "title": "메타 \"중간선거 이후 미국 데이터센터 건설 어려워져\"...해외 투자 검토",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217093",
+     "summary": "미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 약진하면서 미국 내 AI 인프라 확충에 제동이 걸릴 수 있다는 전망이 나왔다. 메타는 신규 데이터센터 건설에 대한 정부 심사가 강화될 것으로 보고 해외 투자 확대까지 검토하고 있다.디나 파월 매코믹 메타 사장 겸 부회장은 5일(현지시간) 미국 캘리포니아주 나파에서 열린 'WSJ 테크' 컨퍼런스에서 \"앞으로 데이터센터 건설은 더 어려워질…",
      "source": "",
-     "ts": 1793897700
+     "ts": 1793968815
     },
     {
-     "id": "bfbd7d440d2660db",
-     "title": "엔비디아 중국 고객사, 94조 규모 'RTX' 칩 주문에도 1%만 공급받아",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217065",
-     "summary": "알리바바와 텐센트, 바이트댄스 등 중국 주요 기술 기업들이 엔비디아에 700억달러(약 94조원) 규모의 수출 규제 우회용 워크스테이션 GPU를 주문했지만, 그나마도 4개월 동안 전체 물량의 약 1%만 공급받을 것으로 예상된다. 글로벌 생산능력이 수요를 따라가지 못하는 데다 엔비디아가 차세대 고성능 제품 생산에 집중하면서 중국 고객사들의 칩 확보가 어려워지고 있다.4일(현지시간) 블룸버그에…",
+     "id": "ae4f2a2064024e3f",
+     "title": "머스크의 스페이스X·테슬라 폭락...중간선거 후 시총 515조 증발 위기",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217092",
+     "summary": "미국 중간선거 이후 데이터센터 건설과 AI 산업에 대한 규제 강화 우려가 커지면서 일론 머스크 CEO의 스페이스X와 테슬라 주가가 급락했다. 두 회사의 시가총액은 이번 주에만 3800억달러(약 515조원) 이상 줄어들 것으로 전망된다.BBC와 로이터에 따르면, 5일(현지시간) 테슬라 주가는 전날보다 11% 넘게 떨어졌고, 스페이스X도 약 9% 하락했다.민주당이 중간선거에서 상·하원과 텍사스…",
      "source": "",
-     "ts": 1793897700
+     "ts": 1793968650
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "2c60dce9bd",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1793922074
+   "last_ok": 1793948209
   }
  ]
 }
