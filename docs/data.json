@@ -1,5 +1,5 @@
 {
- "generated_at": 1794088620,
+ "generated_at": 1794101324,
  "top_n": 10,
  "feeds": [
   {
@@ -9,12 +9,44 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "f79bcc7c58f54eb7",
+     "title": "미국발 AI 데이터센터 불안…국내 업계 \"사업 추진 문제없어\"",
+     "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1436265",
+     "summary": "... 박형빈 기자 = 미국 중간선거 이후 인공지능 ... 국내 업계가 주목하는 차이점은 정책 방향이다. 정부 는 지난 6월 '대한민국 대도약 3대 메가 프로젝트 ...",
+     "source": "",
+     "ts": 1794093957
+    },
+    {
+     "id": "e9362a56ece54c6c",
+     "title": "[사이버 컨트롤타워] ① AI 해킹 시대에도 보안 감독은 칸막이…재편 시험대 - 매일경제 마켓",
+     "link": "https://stock.mk.co.kr/news/view/1193153",
+     "summary": "사물인터넷(IoT)과 인공지능 ( AI ) 등 신기술을 악용한 사이버 ... ◇ 산업 경계 허무는 사이버 공격…중복 조사·대응 공백 우려 현재 범 정부 차원의 정책 ...",
+     "source": "",
+     "ts": 1794092093
+    },
+    {
+     "id": "1c39bd1d27b90c31",
+     "title": "엔비디아 핵심 인사 매디슨 황, 방한 일정 전격 철회… AI 행사 참석· 정부 면담 모두 취소",
+     "link": "https://www.jemin.com/news/articleView.html?idxno=846415",
+     "summary": "... 이었다.이어 9일부터 10일까지 서울 코엑스에서 열리는 '엔비디아 AI 데이 서울 2026'에 참석하고, 국내 정부 관계자들과 인공지능 및 첨단 산업 관련.",
+     "source": "",
+     "ts": 1794090347
+    },
+    {
      "id": "f91d4783d8247c49",
      "title": "[사이버 컨트롤타워] ① AI 해킹 시대에도 보안 감독은 칸막이…재편 시험대 | 연합뉴스",
      "link": "https://www.yna.co.kr/view/AKR20261106127300017",
      "summary": "사물인터넷(IoT)과 인공지능 ( AI ) 등 신기술을 악용한 사이버 공격이 ... 현재 범 정부 차원의 정책 조정이나 위협정보 공유를 위한 기존 체계가 전혀 ...",
      "source": "",
      "ts": 1794085915
+    },
+    {
+     "id": "114958bc2a005d3b",
+     "title": "[덴마크] AI 과제 부정행위 막는다…고교 졸업평가에 구술시험 추진 - 교육플러스",
+     "link": "https://www.edpl.co.kr/news/articleView.html?idxno=22009",
+     "summary": "[교육플러스=한은주 기자] 덴마크가 생성형 인공지능 ( AI )을 이용한 과제 부정행위를 막기 위해 고등학교 졸업 관련 평가에 구술시험을 추가하는 방안을 추진 ...",
+     "source": "",
+     "ts": 1794073990
     },
     {
      "id": "96fc04fd000e7dae",
@@ -55,42 +87,10 @@
      "summary": "특히 인공지능 ( AI )과 재생에너지, 우주산업, 청정바이오를 결합한 제주형 미래 성장전략을 제시하며 정부 ... 위 지사는 “제주가 정부 의 정책 을 선도적으로 ...",
      "source": "",
      "ts": 1794061765
-    },
-    {
-     "id": "cc156ee33927077d",
-     "title": "AI 데이터센터는 늘어나는데 전력망은 제자리…공장 세워도 전기 없으면 무용지물 - 하이뉴스",
-     "link": "https://m.hinews.co.kr/view.php?ud=202611071122494236cd8b879b3c_48",
-     "summary": "세미나에서 제시된 자료에 따르면 반도체· AI 데이터센터·피지컬 AI 등 정부 가 추진하는 3대 대형 프로젝트 에는 30GW가 넘는 전력이 필요하다. 이들 사업을 제외 ...",
-     "source": "",
-     "ts": 1794061680
-    },
-    {
-     "id": "90b1fe1a324780f0",
-     "title": "젠슨 황 딸 매디슨 황, 방한 하루 앞두고 일정 취소… 배경훈 부총리 만남도 불발 - 천지일보",
-     "link": "https://www.newscj.com/news/articleView.html?idxno=3446815",
-     "summary": "이에 따라 이번 방한에서도 엔비디아가 공을 들이고 있는 피지컬 인공지능 ( AI )과 로보틱스 분야를 중심으로 국내 기업 및 정부 와 협력 방안을 논의할 것으로 ...",
-     "source": "",
-     "ts": 1794061311
-    },
-    {
-     "id": "780d19daf4282339",
-     "title": "내년 일자리 예산 25조 1484억 원.. 청년 첫 취업지원제 신설 - 열린정책뉴스",
-     "link": "https://www.opengo.center/news/articleView.html?idxno=40840",
-     "summary": "3대 메가 프로젝트 급 국민 일자리 프로젝트 ... 인공지능 ( AI ) 등 첨단산업 분야 직업훈련도 강화한다. 정부 는 내년 K-디지털트레이닝에 6089억원을 편성하고, AI ...",
-     "source": "",
-     "ts": 1794061142
-    },
-    {
-     "id": "bea4efb136af1401",
-     "title": "한-보스니아·헤르체고비나 경제협력협정 발효 - 대한민국 정책브리핑",
-     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788206&pWise=main&pWiseMain=L2",
-     "summary": "공공저작물을 학습한 인공지능 모델의 상업적 이용은 가능하지만, 공공저작물로 제작한 인공지능 학습용 데이터의 재판매는 금지됩니다. 공공누리 AI 유형 이용 ...",
-     "source": "",
-     "ts": 1794060546
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "cf53c0f1af",
@@ -180,7 +180,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "25ac01331a",
@@ -270,7 +270,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "cc992ff5f1",
@@ -279,10 +279,66 @@
    "site": "https://news.hada.io",
    "items": [
     {
+     "id": "4f07fbca2cedaeac",
+     "title": "OpenMausBot - 봇이 사용할 가상 머신을 제공하는 오픈소스 Grok Bot 대체재",
+     "link": "https://news.hada.io/topic?id=36782&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "AI 봇에게 컴퓨터를 주고 실제 업무를 맡길 수 있음 봇이 클라우드 Linux 데스크톱이나 로컬 VM에서 브라우저와 터미널을 사용 작업 화면을 실시간으로 지켜보거나, 사용자가 직접 조작을 이어받을 수 있음 여러 봇이 각자의 역할과 모델로 병렬 작업 조사, 개발, 고객 지원 등 담당 업무를 나누고 메신저의 연락처처럼 대화함 봇마다 지침과 모델을 지정하고, 프로젝트별 채널에서 함께 작업할 수…",
+     "source": "",
+     "ts": 1794097802
+    },
+    {
+     "id": "e4422587fed498b7",
+     "title": "웹에서 AI가 일으키는 온갖 부작용에 어떻게 대처하고 계신가요?",
+     "link": "https://news.hada.io/topic?id=36781&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "검색 결과 상단을 저품질 AI 콘텐츠 가 차지하면서 웹이 망가졌다고 느낌. LLM 요약이 그나마 쓸 만한 이유도 이전 검색보다 나아서가 아니라, 검색 결과 아래에 묻힌 좋은 링크를 언급해 주기 때문임 Google과 DuckDuckGo의 요청 제한 으로 오류나 대기 안내를 자주 접하며, 새로고침하며 결과를 기다리는 데 1분 이상 허비하기도 함. 비로그인 상태의 GitHub 탐색 제한과 곳곳의…",
+     "source": "",
+     "ts": 1794096120
+    },
+    {
+     "id": "4a52cf3caab18e61",
+     "title": "MaxxBench - “DeepSWE 점수는 좋네요. 그런데 진짜인가요?”",
+     "link": "https://news.hada.io/topic?id=36780&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "MaxxBench 는 코딩 벤치마크 DeepSWE의 과제 89개를 조금씩 바꿔, 에이전트가 익숙한 정답 대신 달라진 작업에 적응하는지 평가함. 테스트 보고서 파일명을 소문자로 바꾸는 식 참조 패치는 17줄(3.5%) 늘었지만, DeepSWE 공개 점수가 둘 다 약 74%였던 Claude Opus 5.5와 Gemini 3.8 Flash 는 MaxxBench에서 각각 76.4%와 53.4% 를…",
+     "source": "",
+     "ts": 1794094484
+    },
+    {
+     "id": "bf52d9ae68bb4642",
+     "title": "Show HN: Coldframe, 슈퍼마켓 냉장 제어기로 위장하는 허니팟",
+     "link": "https://news.hada.io/topic?id=36779&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Coldframe 은 냉장 제어기를 흉내 내 접속 출처, 시도한 비밀번호, 사용한 공개 익스플로잇을 기록하며, 실제 장비나 제어 기능은 제공하지 않는 허니팟임 Danfoss AK-SM 800A 와 Copeland/Dixell XWEB EVO 두 가지 장비를 모방하며, 로그인 화면뿐 아니라 HTTP 헤더, 인증 흐름 등 실제 장비의 웹 지문을 재현함 취약한 계정이나 특정 인증 우회로 로그인하…",
+     "source": "",
+     "ts": 1794091107
+    },
+    {
+     "id": "55cfa8a205f83bfb",
+     "title": "모든 Windows 11 앱은 Electron을 버려야 한다, Discord가 그 이유를 보여줬다",
+     "link": "https://news.hada.io/topic?id=36778&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Discord가 Electron 기반 데스크톱 앱을 Rust와 GPUI로 재구축 하고 있음. 시작 속도 비교 영상에서는 새 앱을 늦게 켰는데도 친구 목록이 먼저 뜸 새 클라이언트는 계정 2개를 동시 실행하면서도 RAM 290.2MB 를 사용함. 기존 1GB보다 약 70% 적지만, 아직 동일 조건 비교 벤치마크는 없음 빠른 초기화와 새 아키텍처 덕분에 “Starting” 화면을 없애고 , 업…",
+     "source": "",
+     "ts": 1794090927
+    },
+    {
+     "id": "f92ac6e988427cd1",
+     "title": "산마리노 여행 노트",
+     "link": "https://news.hada.io/topic?id=36777&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "이탈리아에 둘러싸인 인구 약 3만 3,500명의 산마리노는 작고 위협적이지 않은 국가라는 지위와 외교 를 활용해 수백 년간 독립을 유지해 왔음 세계에서 가장 오래 지속된 공화국을 자처하지만 301년 건국설은 근거가 희박 하며, 실제 정치체제도 과두정, 파시즘, 공산당 참여 연립정부를 거쳐 변화해 왔음 이탈리아와의 관계는 생존뿐 아니라 경제도 좌우함. 전후 좌파 정부의 카지노 실험 은 이탈리…",
+     "source": "",
+     "ts": 1794088316
+    },
+    {
+     "id": "9c0809c32609d529",
+     "title": "10달러짜리 4G USB 동글로 홈 서버 돌리기",
+     "link": "https://news.hada.io/topic?id=36776&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "배송비 포함 10달러에 구매한 4G USB 동글(OpenStick) 에 Debian을 설치하고, Podman으로 DNS 차단, AI 에이전트, 모니터링, RSS 등을 운영하는 홈랩 구축 RAM 512MB, 1GHz ARM Cortex-A53 4코어 와 4GB eMMC를 갖췄으며, 설치 과정은 다소 복잡하지만 적은 전력으로 소음 없이 홈 서버를 운영할 수 있음 AdGuard Home 으로 D…",
+     "source": "",
+     "ts": 1794088135
+    },
+    {
      "id": "865f1e11d385f53b",
-     "title": "에이전트 메모리의 구성 요소",
+     "title": "에이전트 메모리 설계 - 무엇을 기억하고, 잘못된 기억은 어떻게 고칠까",
      "link": "https://news.hada.io/topic?id=36775&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "에이전트 메모리는 경험에서 얻은 지식을 세션 간에 보존하는 컨텍스트 이며, 작업 중 중요한 내용을 기록하는 과정과 나중에 기록을 검토하는 드리밍(dreaming) 을 함께 활용할 수 있음 메모리의 효과는 기록량보다 무엇을 기억할지 판단하는 능력 에 달려 있음. 평가에서 더 강력한 Claude 모델은 모든 상황을 저장하기보다 검증된 규칙, 전략, 다음 행동을 중심으로 메모리를 구성함 드리밍…",
+     "summary": "Anthropic은 AI 에이전트가 다음 세션을 위해 무엇을 기억하고, 쌓인 기억을 어떻게 정리할지 Claude로 실험함 에이전트는 검증된 해결법이나 이어서 할 일을 노트로 남겨 다음 세션에서 다시 활용 할 수 있음 드리밍(dreaming) 은 세션 사이에 메모를 원본 대화 로그와 대조해 오류를 고치고, 여러 세션에 흩어진 노트를 주제별로 연결하는 과정임. 관련 내용을 위키로 묶어 나중에…",
      "source": "",
      "ts": 1794084680
     },
@@ -301,66 +357,10 @@
      "summary": "Apple 운영체제에서 10만 개가 넘는 단어와 문구 의 예측 입력 완성을 제한하는 그레이 리스트 가 발견됨 제한된 문구는 예측 입력에 나타나지 않으며, 스와이프 입력 에서도 “United Ireland”가 “United Iceland”로 바뀌는 등 다른 표현으로 대체되는 경우가 있음 목록에는 마약과 성행위 관련 표현뿐 아니라 정치적으로 민감한 문구 , “iMessage isn’t work…",
      "source": "",
      "ts": 1794084320
-    },
-    {
-     "id": "3e51f8bcbe3badc9",
-     "title": "Microsoft Research의 AI Frontiers 그룹이 막을 내림",
-     "link": "https://news.hada.io/topic?id=36772&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI Frontiers(AIF) 가 Microsoft AI로 재편된 뒤 막을 내림. 공동 설립에 참여한 John Langford는 팀원들의 거취를 최대한 정리하고 회사를 떠남 약 50명 규모 의 AIF는 개인 연구만으로 경쟁하기 어려워진 AI 환경에 대응해 조직적인 연구를 추진했으며, 에이전트와 새로운 모델 역량을 개발함 Langford가 경험한 Microsoft AI의 규모 확장 중심 전…",
-     "source": "",
-     "ts": 1794084140
-    },
-    {
-     "id": "56b923d634e9bfa8",
-     "title": "대학 도서관에 몰려드는 AI 봇, 공공 접근권을 위협하다",
-     "link": "https://news.hada.io/topic?id=36771&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 학습용 데이터를 수집하는 스크래핑 봇 이 대학 도서관 사이트를 느려지거나 중단되게 하면서 학생, 연구자, 일반 시민의 자료 접근을 방해하고 있음 일부 봇은 robots.txt 지침을 무시하고 초당 수천 건의 문서를 요청하며, 수천 개 IP 주소를 사용해 기존 IP 차단 방식으로 대응하기 어려움 University of North Carolina at Chapel Hill에서는 하루에…",
-     "source": "",
-     "ts": 1794079994
-    },
-    {
-     "id": "01111b6e62df88a3",
-     "title": "8달러짜리 Linux 컴퓨터(2022)",
-     "link": "https://news.hada.io/topic?id=36770&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Ox64 는 서로 다른 RISC-V 코어 3개를 갖춘 8달러 컴퓨터로, MMU 없는 축소형 커널에 한정되지 않는 Linux 실행을 지원함 당시 이더넷, Wi-Fi, SD 카드가 작동하지 않았으며 , 초기 구동에도 여러 장애물이 있었음 펌웨어는 USB로 직접 기록할 수 없어 UART TX/RX 연결 이 필요했고, 실험에 사용한 CH340G 동글에서는 핸드셰이크가 계속 실패함 RP2040 기반…",
-     "source": "",
-     "ts": 1794076733
-    },
-    {
-     "id": "a2f4eddd456dee8d",
-     "title": "자유 소프트웨어로 법률사무소 운영하기",
-     "link": "https://news.hada.io/topic?id=36769&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "영국의 소규모 법률사무소 decoded.legal 은 약 5년째 클라이언트와 서버 양쪽에서 자유 소프트웨어를 사용하며, 문서 작성부터 청구, 사건 관리까지 처리함 업무용 PC는 Debian과 GNOME 을 유지하며, 다른 변호사와 교환할 문서는 LibreOffice Writer로, 일부 문서와 발표 자료는 Markdown 기반 도구로 작성함 최근 주요 변경은 Nextcloud를 Syncth…",
-     "source": "",
-     "ts": 1794076552
-    },
-    {
-     "id": "8cc5ad54f04e2a94",
-     "title": "Unitree는 왜 로봇을 손으로 조립할까? 제조 자동화 기회를 본 공장 탐방기",
-     "link": "https://news.hada.io/topic?id=36768&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "항저우 Unitree의 로봇 생산은 여전히 수작업 중심 이며, 제조원가에서 인건비 비중은 8%에 불과함. 중국에서는 저렴한 노동력이 합리적이지만, 로봇을 만드는 기계 시장은 아직 서구에도 기회가 남아 있음 휴머노이드는 아직 잦은 제품 변경과 재프로그래밍 비용 이 자동화를 어렵게 함. 특정 모델에 맞춘 조립 설비는 다음 세대에 쓰기 어려워, Unitree는 여러 모델이 공유하는 관절 모듈부터…",
-     "source": "",
-     "ts": 1794073785
-    },
-    {
-     "id": "080c4b6988bd4ee9",
-     "title": "Chomsky와 통계적 학습의 두 문화(2011)",
-     "link": "https://news.hada.io/topic?id=36767&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "통계적 언어 모델의 예측 성능과 과학적 이해 는 대립할 필요가 없음. 공학적 성공이 과학적 타당성을 입증하지는 않지만, 모델의 성공과 실패, 데이터에 따른 학습 양상은 언어를 이해하는 근거가 될 수 있음 통계적 모델, 확률 모델, 학습된 모델 은 서로 다른 개념임. 단순한 단어 Markov 모델의 한계를 모든 확률 모델의 한계로 확대하면, 구문 트리와 의미, 담화를 다루는 모델까지 잘못 배…",
-     "source": "",
-     "ts": 1794073605
-    },
-    {
-     "id": "e528413c95096967",
-     "title": "민주당, SpaceXAI와 META, Apple에 대한 의회 조사 착수",
-     "link": "https://news.hada.io/topic?id=36766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "미국 민주당 이 미국 최대 기업 일부를 대상으로 일련의 조사를 준비하고 있음 조사 범위는 지난 2년간의 기업 활동 임 조사 초점은 기업들의 민감하고 논란이 큰 행위 에 맞춰질 예정임 실리콘밸리와 월스트리트에서 Trump 행정부와 관계를 다져온 경영진 이 조사 압박에 직면하고 있음 해당 경영진은 다가올 집중 조사에 대비 하고 있음 대기업 조사 준비와 경영진의 대응 민주당 은 미국 최대 기업…",
-     "source": "",
-     "ts": 1794069476
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "d1c587ecba",
@@ -368,6 +368,14 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "3880bf849bb943e9",
+     "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+     "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+     "summary": "",
+     "source": "",
+     "ts": 1794095866
+    },
     {
      "id": "04ff5155f60621be",
      "title": "Quoting Nilay Patel",
@@ -439,18 +447,10 @@
      "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The v…",
      "source": "",
      "ts": 1793683739
-    },
-    {
-     "id": "10dab842bc689c46",
-     "title": "llm 0.37",
-     "link": "https://simonwillison.net/2026/Nov/2/llm/",
-     "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new ll…",
-     "source": "",
-     "ts": 1793663370
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "f9eb976542",
@@ -458,6 +458,70 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "0926dc2d34605b34",
+     "title": "독일 노동시장 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217143",
+     "summary": "AI로부터 안전한 직업을 찾기보다 앞으로 새롭게 생겨날 일자리를 준비해야 한다는 독일 노동시장 전문가의 주장이 나왔다. AI가 기존 업무를 대체하더라도 새로운 직무와 산업이 등장하기 때문에 청년들이 과거의 직업 구조에 맞춰 진로를 선택해서는 안 된다는 것이다.독일 연방고용청 산하 노동시장·직업연구소(IAB)의 엔초 베버 교수는 지난 3일(현지시간) 베를린에서 열린 독일 정부의 '디지털 서밋…",
+     "source": "",
+     "ts": 1794133641
+    },
+    {
+     "id": "0929f3d18781849c",
+     "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+     "summary": "오픈AI가 최신 '이미지 2.6'을 효과적으로 활용하기 위한 공식 프롬프트 가이드를 공개했다. 원하는 이미지를 정확하게 만들려면 용도와 구도, 스타일 등을 구체적으로 지정하고, 기존 이미지를 수정할 때는 바꿀 부분과 유지할 부분을 명확하게 구분해야 한다는 것이 핵심이다.오픈AI는 7일(현지시간) 개발자 문서에 '이미지 2.6 프롬프트 가이드'를 공개하고 이미지 생성·편집을 위한 작성 원칙과…",
+     "source": "",
+     "ts": 1794131489
+    },
+    {
+     "id": "1eda0b8773e3a139",
+     "title": "무안공항 운항 중단에 수익 82% 감소…위탁인력 줄어도 용역비 3억 증가",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217110",
+     "summary": "무안국제공항이 여객기 사고 이후 운항을 중단한 2025년 수익은 전년보다 82.2% 줄었지만 비용은 1.9% 감소하는 데 그쳤다. 위탁인력이 감소했는데도 용역비는 오히려 증가했으며, 연간 당기손실은 195억원에서 250억원으로 늘었다.국회예산정책처가 지난 9월 발간한 '2026 공공기관 현황과 이슈 Ⅱ'에 수록된 한국공항공사 제출자료를 분석한 결과, 무안공항의 2025년 수익은 13억원으로…",
+     "source": "",
+     "ts": 1794129600
+    },
+    {
+     "id": "036a808fda9b152a",
+     "title": "소프트뱅크·ABB, 54억달러 로봇 인수 살리려 중국 사업부 분리 검토",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217137",
+     "summary": "중국 정부의 반대로 54억달러(약 7조3600억원) 규모의 로봇 사업 인수에 제동이 걸린 소프트뱅크와 ABB가 중국 사업부를 별도로 분리하는 방안을 검토하고 있다. 중국 사업의 소유권을 분리해 기술과 데이터의 해외 이전에 대한 중국 정부의 우려를 해소하고, 나머지 사업의 인수를 추진하려는 것이다.블룸버그는 7일(현지시간) 복수의 소식통을 인용, 소프트뱅크와 스위스 ABB가 로봇 사업부의 중…",
+     "source": "",
+     "ts": 1794129271
+    },
+    {
+     "id": "b11559981071bed1",
+     "title": "말레이시아, 데이터센터용 태양광 500MW·ESS 1GWh 개발…21년 전력 공급",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217083",
+     "summary": "말레이시아 전력기업 테나가 나시오날(TNB)과 농업기업 IOI가 데이터센터에 재생전력을 공급하기 위해 태양광 500메가와트(MW)와 에너지저장장치(ESS) 1기가와트시(GWh)를 결합한 발전사업을 공동 개발한다. 싱가포르 기반 데이터센터 운영사 데이원(DayOne)의 21년 장기 전력 조달계약과 연계된 사업이다.IOI는 지난 3일(현지시간) TNB의 재생에너지 자회사, 중소기업 컨소시엄과…",
+     "source": "",
+     "ts": 1794129000
+    },
+    {
+     "id": "91a1ba5592eb0443",
+     "title": "콜롬비아 태양광 상업운전 용량 2.59GW…3분기 신규 발전용량 87% 차지",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217079",
+     "summary": "콜롬비아의 태양광 상업운전 용량이 올해 9월 말 2.59기가와트(GW)에 도달했다. 올해 3분기 새로 가동한 발전설비 용량의 87%가 태양광으로, 신규 발전용량 증가를 주도한 것으로 나타났다.콜롬비아 전력계통 운영기관 XM이 지난 10월30일(현지시간) 발표한 자료에 따르면, 9월 말 국가전력계통(SIN)의 태양광 순유효발전용량은 2590.26메가와트(MW)로 전체 발전설비 용량 2만219…",
+     "source": "",
+     "ts": 1794128700
+    },
+    {
+     "id": "1d0e220d5581215f",
+     "title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217136",
+     "summary": "세계 최대 반도체 위탁생산업체 TSMC가 엔비디아의 요청으로 차세대 메모리인 '3D D램' 개발을 검토하고 있다는 보도에 대해 기존 파운드리 사업에 집중하겠다는 입장을 밝혔다. 개발설을 직접 부인하지는 않았지만, 관련 기술이 상용화되기까지 수년이 걸려 당장의 메모리 공급 부족을 해결하기는 어렵다는 분석도 나왔다.톰스하드웨어는 7일(현지시간) TSMC가 엔비디아의 요청으로 3D D램 생산을…",
+     "source": "",
+     "ts": 1794128619
+    },
+    {
+     "id": "bab878a8f2b1720e",
+     "title": "FT \"미 정보당국, 젠슨 황 CEO와 중국 스파이 의심 인물 연인 관계로 판단\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217135",
+     "summary": "미국 정보당국이 젠슨 황 엔비디아 CEO가 중국 스파이로 의심되는 여성 기업인과 연인 관계였다고 판단한 것으로 알려졌다. 중국 정보기관이 황 CEO를 정보 수집 대상으로 삼았다는 기존 보도에 이어, 미국 정부 내부 문건에 두 사람의 사적인 관계에 관한 판단까지 담긴 사실이 새롭게 드러났다.파이낸셜타임스(FT)는 7일(현지시간) 복수의 소식통을 인용, 미국 관리들이 올해 초 작성한 정보 메모…",
+     "source": "",
+     "ts": 1794127945
+    },
     {
      "id": "39e5f43a9006929f",
      "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
@@ -473,74 +537,10 @@
      "summary": "삼성전자와 구글이 공동 개발한 첫 AI 안경이 오는 12일 예약 판매를 시작한다. 국내 젠틀몬스터와 미국 워비파커가 각각 디자인하고 구글의 '제미나이'를 탑재한 제품으로, 12월 정식 출시할 예정이다.젠틀몬스터와 워비파커는 오는 12일부터 '인텔리전트 아이웨어(Intelligent Eyewear)'의 예약 판매를 시작한다고 발표했다. 젠틀몬스터는 6일 공식 홈페이지에 예약 판매 일정을 공개…",
      "source": "",
      "ts": 1794075294
-    },
-    {
-     "id": "3946bc6e8ec70a76",
-     "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217132",
-     "summary": "오픈AI 출신 미라 무라티가 이끄는 씽킹 머신스 랩(Thinking Machines Lab)이 기존 모델보다 성능을 크게 높인 새로운 AI 모델을 공개했다. 중국 주요 오픈웨이트 모델과 경쟁할 수 있는 수준으로 평가되며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있도록 모델 가중치도 공개할 계획이다.씽킹 머신스는 5일(현지시간) 공식 블로그를 통해 2세대 모델 '잉클링 2 스몰(Inkli…",
-     "source": "",
-     "ts": 1794073542
-    },
-    {
-     "id": "d0bbbf98bb3f31ee",
-     "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217131",
-     "summary": "중국 바이두가 딥시크와 텐센트, 샤오미의 경쟁 모델을 주요 성능 평가에서 앞서는 대형언어모델(LLM)을 공개했다. 특히 사전학습만 마친 모델의 가중치를 공개해 개발자들이 독자적인 AI를 만들도록 지원한다. 그러나 한국과 유럽을 사용 허가 지역에서 제외했다.바이두는 5일 공식 블로그와 허깅페이스를 통해 '어니 5.5 플래시 베이스(ERNIE 5.5 Flash Base)'의 가중치를 공개했다.…",
-     "source": "",
-     "ts": 1794071292
-    },
-    {
-     "id": "7091b29339db0399",
-     "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217130",
-     "summary": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 빅테크 기업에 대한 대규모 조사와 AI 규제 입법을 준비하고 있다. 트럼프 행정부와 긴밀한 관계를 맺어온 기업들의 정부 거래를 조사하는 동시에 AI 모델의 안전성, 데이터센터 전력 비용, 엔비디아의 중국 AI 칩 수출까지 규제 대상으로 삼을 계획이다.워싱턴포스트(WP)와 로이터, 블룸버그는 6일(현지시간) 민주당이 내년 1월 의회 운영권을…",
-     "source": "",
-     "ts": 1794069837
-    },
-    {
-     "id": "b9f2ccf9251c11a5",
-     "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217128",
-     "summary": "메타가 AI 에이전트 '뮤즈(Muse)'와 협업할 수 있는 맞춤형 작업 공간 '스페이스(Spaces)'를 출시했다. 사용자가 자연어로 원하는 기능을 설명하면 여행 계획표나 쇼핑 관리 도구, 일정 추적기 등 목적에 맞는 앱 형태의 작업 공간을 자동으로 만들어준다. 외부 서비스와 연동해 관련 정보도 백그라운드에서 갱신할 수 있다.메타는 6일(현지시간) 뮤즈 앱에 스페이스 기능을 도입했다고 밝혔…",
-     "source": "",
-     "ts": 1794065967
-    },
-    {
-     "id": "6ec5caaa3637eaee",
-     "title": "[AI 이슈트렌드] 강호동 구속영장 1위…미 중간선거·바이낸스 해킹 뒤이어",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217129",
-     "summary": "AI타임스와 이스트에이드의 11월 첫째 주(10월30일~11월5일) 이슈 분석 결과, 농협중앙회장 구속영장 신청을 포함해 민주당이 석권한 미국 중간선거와 역대 최대 규모의 바이낸스 해킹 소식 등이 상위권을 차지했다.이번 주 검색량 1위는 '강호동 구속영장(7.74%)'이 차지했다. 서서울경찰청 반부패수사대는 강 회장이 2024년 농협중앙회장 선거를 전후해 계열사 거래처 대표로부터 1억 원이…",
-     "source": "",
-     "ts": 1794064115
-    },
-    {
-     "id": "8b96028144437f89",
-     "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217126",
-     "summary": "미국 중간선거에서 데이터센터 건설에 반대하는 후보들이 잇따라 승리한 데 이어 유럽에서도 데이터센터 반대 운동이 본격화하고 있다. 유럽 16개국의 시민단체 100여곳이 데이터센터 건설 중단을 요구하는 공동 행동에 나섰으며, 네덜란드에서는 시위대가 마이크로소프트(MS)의 AI 데이터센터 건설 현장에 진입하는 사태까지 벌어졌다.로이터와 가디언 등은 6일(현지시간) 네덜란드 암스테르담에서 시위대가…",
-     "source": "",
-     "ts": 1794049062
-    },
-    {
-     "id": "2eed6d752f6bf9a5",
-     "title": "[내면 지도 그리기] 41 Inner Mapping: 나를 찾는 지도",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217125",
-     "summary": "먼저 물어본 동네아일랜드의 노년 창작 실험으로 다시 그리는 내면과 동네의 문화 지도우리 동네의 지도를 그린다면, 무엇이 먼저 표시될까요?아마 도서관, 문화센터, 공연장, 박물관일 것입니다. 건물이 있고, 간판이 있고, 프로그램 안내문이 붙은 곳들이지요. 지도에는 대개 지금 있는 것만 표시됩니다. 헐린 담장, 문 닫은 가게, 더는 아무도 다니지 않는 골목은 지워지지요. 하지만 모든 지도는 겹…",
-     "source": "",
-     "ts": 1794048298
-    },
-    {
-     "id": "901480a2eb94a482",
-     "title": "오픈AI, 기업가치 1.25조달러에 110억달러 유치…투자 목표는 하향",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217117",
-     "summary": "오픈AI가 기업가치 1조2500억달러(약 1704조원)를 인정받으며 110억달러(약 15조원)의 신규 투자를 유치했다. 그러나 AI 투자심리 악화로 당초 300억달러 이상이었던 자금 조달 목표를 최대 200억달러로 낮췄다.블룸버그는 6일(현지시간) 복수의 소식통을 인용해 오픈AI가 110억달러의 투자금을 입금받으며 이번 투자 라운드의 첫 단계를 마무리했다고 보도했다.전체 투자 규모는 최대…",
-     "source": "",
-     "ts": 1794048261
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "2c60dce9bd",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794088620
+   "last_ok": 1794101324
   }
  ]
 }
