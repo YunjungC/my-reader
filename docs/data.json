@@ -1,5 +1,5 @@
 {
- "generated_at": 1794176019,
+ "generated_at": 1794188792,
  "top_n": 10,
  "feeds": [
   {
@@ -8,6 +8,22 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "fb7f4a2009907e6e",
+     "title": "' 인공지능 콘텐츠 페스티벌 2026', 인공지능 콘텐츠 전시·체험부터 투자·협업까지 한자리에",
+     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788357&repCode=A00009&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98&pWise=main&pWiseMain=T1_3&pWiseMinistry=ministryNews",
+     "summary": "자세한 사항은 붙임파일([1109]문체부보도자료- 인공지능 - 정책 브리핑 | 브리핑룸 | 보도 ... 정부정책 사실은 이렇습니다. 실시간 인기뉴스 11.09. 08:17 기준. \" ...",
+     "source": "",
+     "ts": 1794180259
+    },
+    {
+     "id": "334903a99039ac3a",
+     "title": "\"로봇 아닌 공장을 팔아라\"…학계, 한국 AI 전략 전환 제언 - 연합뉴스",
+     "link": "https://www.yna.co.kr/amp/view/AKR20261107027600017",
+     "summary": "9일 과학기술계에 따르면 한국 인공지능 학회는 과학기술정보통신부 정책 연구용역으로 수행한 '성장과 포용을 위한 AI 전환(AX) 대응과 국가 전략 연구' 보고서 ...",
+     "source": "",
+     "ts": 1794176874
+    },
     {
      "id": "5521fa22c607c158",
      "title": "국힘, 코스피 급락에 정부 경제 정책 정조준 - 경상매일신문",
@@ -23,6 +39,14 @@
      "summary": "한국은 2026년 2월 인공지능 행동계획 99개 실행과제 가운데 70~73번을 문화 과제로 배정했고, 2027년 과학기술정보통신부 AI 예산안은 9조4211억원(약 69억 ...",
      "source": "",
      "ts": 1794158984
+    },
+    {
+     "id": "4007487c8e57e0c9",
+     "title": "중소 제조현장을 피지컬 AI 혁신의 무대로, 「중소제조 피지컬 AI 확산 전략」 발표",
+     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787119&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&period=year",
+     "summary": "중소벤처기업부(장관 이소영, 이하 중기부)는 10월 29일(목), 충남 천안에 위치한 제약바이오 기업인 종근당에서 개최된 국무총리 주재 제16회 국가 정책 조정 ...",
+     "source": "",
+     "ts": 1794154524
     },
     {
      "id": "38adb352513ffecd",
@@ -63,43 +87,28 @@
      "summary": "정부 는 '3대 메가 프로젝트 ' 중 하나로 AI 데이터센터를 제시했고, SK·GS ... 이 정책 위원은 “한전이 막대한 전력 소비를 다 떠안고 정부 가 송전망과 ...",
      "source": "",
      "ts": 1794143198
-    },
-    {
-     "id": "238e2fdf6be01714",
-     "title": "미국발 AI 데이터센터 불안…국내 업계 \"사업 추진 문제없어\" - 매일경제 마켓",
-     "link": "https://stock.mk.co.kr/news/view/1193191",
-     "summary": "국내 업계가 주목하는 차이점은 정책 방향이다. 정부 는 지난 6월 '대한민국 대도약 3대 메가 프로젝트 '를 발표하며 AI 데이터센터를 반도체·피지컬 AI 와 함께 ...",
-     "source": "",
-     "ts": 1794139799
-    },
-    {
-     "id": "d7187dae4a0ddeab",
-     "title": "[사투리도 못 알아듣던 AI , 대구를 구할 수 있을까] 1. 첫걸음 뗀 ' AI 라운지', 시민 곁에 안착하려면",
-     "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090045",
-     "summary": "인공지능 ( AI )이 행정 ... 기술과 정책 이 지역 주민의 삶에 얼마나 닿느냐가 관건이다. 경북일보는 한국신문방송편집인협회 지원을 받아 정부 의 AI ...",
-     "source": "",
-     "ts": 1794133390
-    },
-    {
-     "id": "ebb756f1dc3f98ad",
-     "title": "[인천광역시] 한국 최초 'UTM 도시' 되다… AI 도시계획 '세계 150개 도시 협력망' 올라",
-     "link": "https://www.localnewsroom.co.kr/news/articleView.html?idxno=9199",
-     "summary": "[한국지방 정부 신문=김미숙 기자] 인천광역시(시장 박찬대)가 한국 도시 최초로 도시전환 미션(UTM)에 참여해 AI 도시계획과 시민 의견을 결합한 생활권 정책 ...",
-     "source": "",
-     "ts": 1794131731
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "cf53c0f1af",
    "name": "AI Matters (구글 알리미)",
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
-   "items": [],
+   "items": [
+    {
+     "id": "3c5d6ac723e59955",
+     "title": "젠슨 황, 中 정보원 의혹 인물과 불륜 시인…엔비디아 이사회 조사 착수 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59504/",
+     "summary": "젠슨 황 엔비디아 CEO가 중국 정보원 의혹을 받는 메가스피드 임원 앨리스 황과의 불륜을 시인했고, 이사회는 독립 조사에 착수했다.",
+     "source": "",
+     "ts": null
+    }
+   ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "25ac01331a",
@@ -107,6 +116,38 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "bbfb5a98aa5de6cc",
+     "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+     "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+     "summary": "President Trump defended Nvidia CEO Jensen Huang on Sunday night, even as the company's board launched an investigation into his affair with a suspected Chinese spy. Why it matters: The blowback to Huang's relationship…",
+     "source": "",
+     "ts": 1794182435
+    },
+    {
+     "id": "362b11a3bad3c717",
+     "title": "Scoop: Mamdani's bid for 2028 kingmaker",
+     "link": "https://www.axios.com/2026/11/08/scoop-mamdanis-bid-for-2028-kingmaker",
+     "summary": "New York City Mayor Zohran Mamdani can't be president, so he's trying to be the next best thing: a progressive kingmaker for 2028. Mamdani has been meeting privately with union leaders, urgently talking up the need for…",
+     "source": "",
+     "ts": 1794179749
+    },
+    {
+     "id": "5aae36239c4029d5",
+     "title": "Republicans eye Florida's \"Alligator People\" for 2028",
+     "link": "https://www.axios.com/2026/11/08/florida-desantis-rubio-2028",
+     "summary": "Florida Gov. Ron DeSantis is positioning himself for a presidential run. Secretary of State Marco Rubio is running away from the idea of his own campaign for the White House. Why it matters: The political posturing of t…",
+     "source": "",
+     "ts": 1794177604
+    },
+    {
+     "id": "13129d88ae3a9aab",
+     "title": "MAGA castoffs plot 2028 spoiler bid",
+     "link": "https://www.axios.com/2026/11/08/massie-president-2028-libertarian",
+     "summary": "An unusual coalition wants to recruit outgoing Rep. Thomas Massie as the Libertarian Party's 2028 presidential nominee, betting that MAGA fractures can turn a third-party candidacy into a spoiler for the Republican nomi…",
+     "source": "",
+     "ts": 1794177006
+    },
     {
      "id": "008e2f0c0e07d1aa",
      "title": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
@@ -154,42 +195,10 @@
      "summary": "House Republican leaders are bracing for enough GOP defections to impeach Defense Secretary Pete Hegseth when the measure comes to a vote this week. Why it matters : Republicans who were defeated in Tuesday's election-n…",
      "source": "",
      "ts": 1794141905
-    },
-    {
-     "id": "3db08aefcfb91859",
-     "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
-     "link": "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy",
-     "summary": "Nvidia CEO Jensen Huang is facing increasing congressional scrutiny after multiple reports Friday night suggested he had a romantic relationship with a purported Chinese spy. Why it matters: Huang is arguably the world'…",
-     "source": "",
-     "ts": 1794085598
-    },
-    {
-     "id": "452e690ba8663782",
-     "title": "Netanyahu rival Eisenkot tapped to form Israeli government",
-     "link": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
-     "summary": "Israeli President Isaac Herzog announced Saturday that he will task Gadi Eisenkot , leader of the opposition Yashar party, with forming a new government, dealing a major setback to Prime Minister Benjamin Netanyahu . Wh…",
-     "source": "",
-     "ts": 1794084512
-    },
-    {
-     "id": "65e9cbe2381821d5",
-     "title": "Trump's \"war-time consigliere\" and the Miller Doctrine",
-     "link": "https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style",
-     "summary": "Stephen Miller is no Susie Wiles: He believes in almost limitless presidential power, considers the Democratic Party an extremist organization, and dreams of ruthless crackdowns on immigration and foreign adversaries. W…",
-     "source": "",
-     "ts": 1794059024
-    },
-    {
-     "id": "563c91d0300484a8",
-     "title": "In 5 states, Republicans may lose every statewide executive race on the ballot",
-     "link": "https://www.axios.com/2026/11/07/democrats-state-office-sweeps-2026",
-     "summary": "Single-holder executive offices only; excludes courts, commissions and federal offices. Data: Associated Press; Axios analysis; Chart: Andrew Pantazi/Axios Democrats' midterm gains extended deep into the machinery of st…",
-     "source": "",
-     "ts": 1794054607
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "cc992ff5f1",
@@ -198,88 +207,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "775c52bfacc7c932",
-     "title": "LLM 시대의 확장 가능한 소프트웨어",
-     "link": "https://news.hada.io/topic?id=36837&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "LLM의 확장 코드 작성 능력 과 현대적인 샌드박스를 결합하면, 웹 앱의 안정적인 코어를 유지하면서 사용자별 요구를 확장 기능으로 채우는 새로운 기회 가 생길 수 있음 모든 기능을 제품에 넣으면 UI 복잡성 이 커지지만, 사용자가 필요한 확장을 만들고 공유하는 방식은 코어를 비대하게 만들지 않고 롱테일 수요를 수용할 수 있음 웹에서 사용자 코드를 실행하려면 저렴한 실행 비용, 빠른 콜드 스…",
+     "id": "40c173835a5481d7",
+     "title": "Windows용 Little Snitch, PacketHound",
+     "link": "https://news.hada.io/topic?id=36862&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "PacketHound 는 Windows 10/11에서 앱의 첫 인터넷 연결 시 허용 여부를 묻고, 결정을 기억하는 무료 아웃바운드 방화벽임 Windows Firewall 의 기본 아웃바운드 정책을 차단으로 바꾸고 차단 로그를 감시하며, 사용자 결정을 일반 방화벽 규칙으로 저장해 PacketHound 종료 후에도 적용함 Windows 구성 요소는 자동 허용 하지만 위치, 시스템 소유권, 유효…",
      "source": "",
-     "ts": 1794173098
+     "ts": 1794187942
     },
     {
-     "id": "154b234b1cb64e97",
-     "title": "소스는 공개하되, 외부 기여는 받지 않는다",
-     "link": "https://news.hada.io/topic?id=36836&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "LLM으로 코드를 만드는 비용은 크게 줄었지만, 검증 비용은 그대로 임. 외부 패치를 읽고 검토하는 것보다 유지관리자가 직접 수정안을 만드는 편이 저렴해질 수 있음 SQLite는 소스를 공개하면서 외부 코드는 받지 않고, 버그 신고와 테스트 사례는 받음. AI로 만든 패치와 신고가 쏟아지면 이런 운영 방식이 더 널리 퍼질 수 있음 재구현과 맞춤 수정이 저렴해지면 조직마다 필요한 기능은 내부…",
+     "id": "ac40ae29562ca038",
+     "title": "Show GN: claude-bulkhead - 내 Claude Code 기록을 돌려 보면 세션끼리 몇 번 부딪혔는지 나옵니다",
+     "link": "https://news.hada.io/topic?id=36861&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "10-13 에 0.1 을 Show GN 으로 소개했습니다(https://news.hada.io/topic?id=35290). 이번 0.2 는 지난 기록을 다시 돌려 보는 bulkhead scan 과 새 가드를 더한 판입니다 Claude Code 세션을 한 컴퓨터에서 여러 개 동시에 돌릴 때 서로의 개발 서버를 죽이거나, 포트를 뺏거나, 램을 다 쓰거나, 같은 작업 트리를 건드리는 일을 실행…",
      "source": "",
-     "ts": 1794172743
+     "ts": 1794187831
     },
     {
-     "id": "b42c8b7e898ab0b7",
-     "title": "마이크로컨트롤러를 위한 JIT 비트맵 텍스트 렌더링",
-     "link": "https://news.hada.io/topic?id=36835&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "RP2350 기반 vic-2350 은 문자열을 최적화된 렌더링 코드로 즉석 변환하는 JIT 를 사용해, 비례 간격과 커닝을 지원하는 비트맵 텍스트를 빠르게 그려냄 프레임버퍼 대신 주사선마다 영상 버퍼를 채우는 race-the-beam 방식을 사용하며, 픽셀당 약 6사이클의 처리 예산 안에서 동작하도록 설계함 생성된 코드는 압축된 글리프 비트맵에서 픽셀을 추출해 1bpp 중간 버퍼 에 합성하…",
+     "id": "63752e7eb8c78be8",
+     "title": "Show GN: 스피캣 - 말만 하면 일정·가계부·메모가 알아서 정리되는 앱",
+     "link": "https://news.hada.io/topic?id=36858&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "설거지하다가 \"내일 3시 치과\", 장 보다가 \"우유 3,200원\"… 이렇게 말만 하면 일정·가계부·할 일·메모·알람 중 맞는 곳에 알아서 들어가는 앱을 혼자 만들고 있습니다. 앱을 열고 말하면 됩니다. 어디에 넣을지 따로 고르지 않아도 돼요. \"알람 1분 뒤\", \"타이머 10초\"처럼 짧게 말해도 바로 맞춰집니다. 안드로이드에서는 카드·은행·페이 결제 알림이 오면 가계부에 자동으로 적히고,…",
      "source": "",
-     "ts": 1794170950
+     "ts": 1794185728
     },
     {
-     "id": "3bcde385ce82264c",
-     "title": "Retro Song Bird: 아무 Game Boy 카트리지나 꽂아 사운드트랙 듣기",
-     "link": "https://news.hada.io/topic?id=36834&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Retro Song Bird 는 Game Boy와 Game Boy Color 카트리지를 꽂아 게임 음악과 효과음을 듣는 기기로, 1,900개 이상 게임 을 지원함 ROM에서 필요한 부분을 읽고 Game Boy 사운드 엔진을 레지스터 수준으로 정확하게 에뮬레이션 해 음악을 재생함 세이브 파일 백업/복원 , ROM 백업, 쓰기 가능한 카트리지 기록을 지원하며 사운드트랙을 WAV로 내보낼 수 있…",
+     "id": "9eff4bc69a512cac",
+     "title": "X(Twitter)에서 제품을 출시하는 방법: 출시 당일 실행 가이드",
+     "link": "https://news.hada.io/topic?id=36857&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "X 출시의 중심은 창업자 계정의 게시물 하나 임. 첫 문장에 제품 이름과 하는 일을 쓰고, 시연 영상을 붙임 영상은 X에 직접 업로드 하고, 음소거 상태에서도 첫 3초 안에 제품이 무엇을 하는지 보여줘야 함 출시 후 첫 한 시간 은 창업자가 모든 댓글에 구체적으로 답하며 대화를 이어가는 데 집중해야 함. 자주 나올 질문에는 짧은 시연 영상이나 스크린샷을 미리 준비 재공유를 부탁할 계정은 2…",
      "source": "",
-     "ts": 1794170770
+     "ts": 1794185403
     },
     {
-     "id": "40f5865862e70964",
-     "title": "일본 농촌이 비어가면서 야생생물도 사라지고 있음",
-     "link": "https://news.hada.io/topic?id=36833&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "일본의 인구 감소가 특히 농촌에서 두드러지는 가운데, 버려진 농장에서는 야생생물의 회복 대신 야생생물 감소 가 나타나고 있음 산기슭의 소규모 농장 이 만든 논, 목초지, 숲의 모자이크 경관은 다양한 생물의 서식지였으며, 인간의 관리에 의존하던 종들이 농장 방치로 영향을 받고 있음 2025년 일본 연구 에서는 인구가 안정적으로 유지된 지역에서만 생물다양성도 안정적이었고, 인구 감소 지역에서는…",
+     "id": "e05e0743e09f9d3a",
+     "title": "AI에 회사 맥락을 제공하고 ‘회사 두뇌’를 구축하는 방법",
+     "link": "https://news.hada.io/topic?id=36856&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "AI가 회사에 맞는 답을 하려면 지표 정의, 정책, 업무 방식 처럼 추측할 수 없는 정보를 문서화하고, 실제 업무 도구와 연결해 팀 전체가 공유해야 함 회사 두뇌(company brain) 는 직원과 AI 에이전트가 함께 사용하는 지식 기록으로, 문서뿐 아니라 연결된 도구의 최신 기록과 업무 중 쌓이는 수정 사항을 반영함 1~2페이지 문서 에 신입 직원이 첫 주에 물어볼 내용부터 사내 기준…",
      "source": "",
-     "ts": 1794170590
+     "ts": 1794184802
     },
     {
-     "id": "4691e9ce3a0ef08e",
-     "title": "ChatGPT가 알림 없이 커넥터 간 데이터를 전달하고, 버그 바운티는 신분증을 요구함",
-     "link": "https://news.hada.io/topic?id=36832&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "두 커넥터가 활성화된 대화에서 ChatGPT가 후속 도구 호출을 다른 커넥터로 전환 한 사례가 보고됨. 최초 커넥터의 위젯에서 생성한 일회용 확인 코드도 함께 전달됐지만, 사용자에게 전환 사실을 알리지 않음 두 커넥터는 같은 MCP 서버 를 가리키지만 각각 별도의 OAuth 클라이언트를 사용함. 하나는 개발자 모드의 사용자 정의 커넥터이고, 다른 하나는 앱 디렉터리에 공개된 앱임 서버가 확…",
+     "id": "ccdcae3bd90f9f1e",
+     "title": "Ask HN: 무엇을 만들거나 작업하고 계신가요? (2026년 11월)",
+     "link": "https://news.hada.io/topic?id=36855&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "현재 진행 중인 작업과 최근 호기심을 느낀 주제를 공유하는 자리임",
      "source": "",
-     "ts": 1794170409
+     "ts": 1794184774
     },
     {
-     "id": "dbad959dfb6b60a9",
-     "title": "Ask HN: 가족과 친구들이 자신의 XMPP/Matrix 서버에 참여하도록 어떻게 설득하셨나요?",
-     "link": "https://news.hada.io/topic?id=36831&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "오픈소스와 개방형 프로토콜 을 선호하지만, 가족과 친구들은 주로 SMS를 사용함. 이들은 평균보다 기술에 익숙해도 개인정보 보호, 탈중앙화, 확장성보다는 사용 편의성, 안정성, 재미있는 기능 을 중시함 지난 일주일간 XMPP와 Matrix 서버 및 클라이언트를 직접 호스팅하며 시험했지만, 하루 종일 컴퓨터를 쓰는 소프트웨어 개발자에게도 대부분의 클라이언트 UX가 예상보다 더 사용하기 어려웠…",
+     "id": "afd32329abfa323a",
+     "title": "KetchUp - Rust와 WebGPU로 만든 오픈소스 SketchUp 대안",
+     "link": "https://news.hada.io/topic?id=36854&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "KetchUp 은 목공과 가구 설계를 위한 무료 오픈소스 3D 모델링 앱으로, 제작 전에 선반, 테이블, 수납장, 작업대 등을 정확한 치수로 설계할 수 있음 선과 도형으로 면을 만든 뒤 Push/Pull 로 두께를 부여하고, 이동, 크기 조절, 오프셋, 색칠 도구로 모델을 편집함 정확한 길이 입력과 스냅 , 치수 도구로 크기와 맞춤 상태를 확인하고, 그룹, 재사용 가능한 컴포넌트, 태그로…",
      "source": "",
-     "ts": 1794167984
+     "ts": 1794184594
     },
     {
-     "id": "b52451b680c40447",
-     "title": "ZapFast: Rust와 egui로 만든 빠른 네이티브 WhatsApp 클라이언트",
-     "link": "https://news.hada.io/topic?id=36830&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "ZapFast 는 브라우저 엔진 없이 동작하는 Linux, macOS, Windows용 WhatsApp 클라이언트로, 휴대전화에 동반 기기로 연결됨 프로젝트 측 Linux 테스트 에서 실행 시간이 1초 미만이고 유휴 RAM 사용량은 약 200MB로, 비교 대상인 WhatsApp Web의 1.13GB보다 적었음 서식 있는 메시지, 답장, 수정, 반응, 파일, 투표, 음성 메시지를 지원하며,…",
+     "id": "d560d46095745312",
+     "title": "Univer - 웹앱에 스프레드시트와 문서 편집기를 넣는 SDK",
+     "link": "https://news.hada.io/topic?id=36853&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "자체 서비스 안에 스프레드시트와 문서 편집 환경 을 만들 수 있음 편집 화면과 애플리케이션 코드가 같은 데이터를 다루며, 수식 결과도 자동으로 갱신 스프레드시트 편집 셀 서식, 병합, 틀 고정, 이미지와 실행 취소 수식 계산, 정렬, 필터, 데이터 검증과 조건부 서식 SUM , IF , XLOOKUP , 동적 배열 등 다양한 함수 지원 문서 편집 리치 텍스트, 문단 서식, 목록, 링크와 댓…",
      "source": "",
-     "ts": 1794167804
+     "ts": 1794184202
     },
     {
-     "id": "3d508f6a51bbd372",
-     "title": "내가 코딩에 LLM을 사용하지 않으려는 이유",
-     "link": "https://news.hada.io/topic?id=36829&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "약 10년간 실무 머신러닝을 구현해 온 Kristian Polso는 인지적 영향, 코드 품질, 유지보수, 환경과 정치적 우려 때문에 업무에서 LLM과 AI 에이전트를 사용하지 않기로 함 수 시간 LLM을 사용한 뒤 혼란과 방향 감각 상실을 느꼈으며, 동료들의 경험과 인지적 노력 감소 및 의존성 관련 연구 도 사용을 꺼리는 근거가 됨 풍부한 주석과 테스트가 코드 품질을 보장하지는 않음 . 실…",
+     "id": "692a232683ec6515",
+     "title": "Show GN: Aptly - 작업에 맞는 Claude Code·Codex 서브에이전트 모델과 effort를 추천",
+     "link": "https://news.hada.io/topic?id=36852&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Aptly는 OpenAI Decisions API를 이용해 설정된 모델 후보 목록에서 서브에이전트의 모델과 추론 프로필을 추천하는 로컬 MCP 서버입니다. 작업에 맞는 실행 프로필을 선택해 불필요한 토큰 사용과 비용을 줄이는 것이 목적입니다. 주요 기능은 다음과 같습니다. Codex와 Claude Code 지원 PreToolUse Hook을 통한 지원 대상 서브에이전트 호출의 기본 모델 자…",
      "source": "",
-     "ts": 1794167624
+     "ts": 1794183394
     },
     {
-     "id": "06080fd76870faf2",
-     "title": "Replit, microVM으로 샌드박스 엔진 재구축",
-     "link": "https://news.hada.io/topic?id=36828&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Replit은 자율 에이전트가 코드를 실행하는 환경의 격리를 강화하기 위해 샌드박스 엔진을 전면 재작성 . 수억 개 프로젝트를 데이터 손실과 서비스 중단 없이 이전함 기존에는 샌드박스들이 호스트의 Linux 커널을 공유했지만, 이제는 샌드박스마다 자체 커널을 가진 microVM 을 사용함. 게스트 커널이 뚫려도 호스트에 접근하려면 가상화 경계를 한 번 더 넘어야 함 VM 내부에서는 컨테이너…",
+     "id": "d56aae470ef4922d",
+     "title": "systemd는 Rust를 사랑한다",
+     "link": "https://news.hada.io/topic?id=36851&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "systemd가 Rust 지원을 병합 해 개별 바이너리를 C뿐 아니라 Rust로도 작성할 수 있게 됨. 핵심 공유 라이브러리는 당분간 C로 유지함 공통 C 코드를 Rust 크레이트로 감싸는 방식 으로 핵심 API를 공유하며, 구현 언어와 관계없이 옵션 처리, 도움말, 오류 메시지의 동작을 동일하게 유지함 Rust 빌드에도 기존 meson 을 사용하고 cargo와 Rust 표준 라이브러리는…",
      "source": "",
-     "ts": 1794167444
+     "ts": 1794182506
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "d1c587ecba",
@@ -287,6 +296,14 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "9572242cc9fc8ca1",
+     "title": "parse_number() as a SQLite extension: C vs Rust",
+     "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+     "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning s…",
+     "source": "",
+     "ts": 1794176760
+    },
     {
      "id": "3880bf849bb943e9",
      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -358,18 +375,10 @@
      "summary": "",
      "source": "",
      "ts": 1793683945
-    },
-    {
-     "id": "c006e897d48e9930",
-     "title": "October sponsors-only newsletter",
-     "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-     "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The v…",
-     "source": "",
-     "ts": 1793683739
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "f9eb976542",
@@ -377,6 +386,14 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "f94e18e4ea856e40",
+     "title": "[AI리더의 서가] AI 에이전트 시대의 연결 프로토콜",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217029",
+     "summary": "AI 에이전트 시대의 연결 프로토콜후루카와 히데카즈 | 인사이트2026년 8월 20일추천이유저자는 MCP와 A2A 프로토콜을 단계별로 학습하고 직접 구현해 보면서 AI를 질의응답 도구에서 벗어나 실질적인 업무 자동화를 수행하는 동료로 만드는 방법을 제시합니다.상세보기 코딩 에이전트를 어떻게 쓰느냐고 묻던 개발자들이 이제는 에이전트를 사내 도구에 어떻게 잇느냐고 묻는다. 질문의 무게가 '사용…",
+     "source": "",
+     "ts": 1794214800
+    },
     {
      "id": "227131bba61382cf",
      "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\"",
@@ -448,18 +465,10 @@
      "summary": "엔비디아가 동남아시아 지역에서 판매한 첨단 AI 칩의 위치 추적을 강화한다. 미국의 수출 규제를 피해 동남아시아를 경유해 중국으로 첨단 AI 칩이 밀수되는 사례가 잇따르자, 클라우드 사업자에 칩 추적 시스템 가입을 의무화하는 방식으로 대응에 나섰다.블룸버그는 6일(현지시간) 엔비디아가 동남아시아 지역 고객사에 공식 클라우드 파트너(NCP) 자격을 부여하는 조건으로 '플릿 인텔리전스(Flee…",
      "source": "",
      "ts": 1794134243
-    },
-    {
-     "id": "0926dc2d34605b34",
-     "title": "독일 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217143",
-     "summary": "AI로부터 안전한 직업을 찾기보다 앞으로 새롭게 생겨날 일자리를 준비해야 한다는 독일 노동시장 전문가의 주장이 나왔다. AI가 기존 업무를 대체하더라도 새로운 직무와 산업이 등장하기 때문에 청년들이 과거의 직업 구조에 맞춰 진로를 선택해서는 안 된다는 것이다.독일 연방고용청 산하 노동시장·직업연구소(IAB)의 엔초 베버 교수는 지난 3일(현지시간) 베를린에서 열린 독일 정부의 '디지털 서밋…",
-     "source": "",
-     "ts": 1794133641
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "19ef1c7741",
@@ -549,7 +558,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "263d8d0ce8",
@@ -639,7 +648,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "7ebf5b6c9a",
@@ -729,7 +738,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "2c60dce9bd",
@@ -737,6 +746,14 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "db516db4ad2a0621",
+     "title": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy, board to investigate",
+     "link": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/",
+     "summary": "Huang previously denied any relationship with Megaspeed exec",
+     "source": "",
+     "ts": 1794179543
+    },
     {
      "id": "d49bf26a11b98dcb",
      "title": "Sponsored: Why contamination control is now critical",
@@ -808,18 +825,10 @@
      "summary": "Protesting water use, AI, and ties to Israel",
      "source": "",
      "ts": 1793977980
-    },
-    {
-     "id": "c45e3cd35ae84f46",
-     "title": "Plans for Poland’s National Data Processing Center fleshed out by NASK",
-     "link": "https://www.datacenterdynamics.com/en/news/plans-for-polands-national-data-processing-center-fleshed-out-by-nask/",
-     "summary": "The research and development institute said that the facility’s first phase will now require up to 15MW of power",
-     "source": "",
-     "ts": 1793976992
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "95180fe28d",
@@ -909,7 +918,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   },
   {
    "id": "c15f1e5a65",
@@ -999,7 +1008,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794176019
+   "last_ok": 1794188792
   }
  ]
 }
