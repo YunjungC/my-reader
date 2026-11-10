@@ -1,5 +1,5 @@
 {
- "generated_at": 1794283818,
+ "generated_at": 1794314622,
  "top_n": 10,
  "feeds": [
   {
@@ -8,6 +8,14 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "edab5f76598612aa",
+     "title": "[기자의 눈] 16조원 들고 '국내 1등' 뽑는 세계 1등 프로젝트 - 에너지경제신문",
+     "link": "https://www.ekn.kr/web/view.php?key=20261110021147757",
+     "summary": "문제는 목표보다 전략에 있다. 최근 만난 AI 업계와 학계 인사들은 정부 의 정책 방향에 하나같이 “우려스럽다\"고 했다. 독자 AI 가 필요 없다는 말이 아니었다.",
+     "source": "",
+     "ts": 1794290265
+    },
     {
      "id": "40c96baf11dfd21a",
      "title": "\" 정부 AI 활용, 아직 81%가 실험 단계\"…OECD, 알고리즘 시대 정부 소통체계 전면 개혁 촉구",
@@ -79,18 +87,10 @@
      "summary": "기사 요약 AI 가 핵심만 알려드립니다! 과학기술정보통신부 가 전파방송관리과와 정보통신 정책 총괄과의 과장급 인사를 발표했습니다 ...",
      "source": "",
      "ts": 1794240829
-    },
-    {
-     "id": "5e6350861acead5e",
-     "title": "11/13ㅣ장애와 인공지능 : 체크리스트 발표 및 활용방안 국회 토론회 초청 - 빠띠",
-     "link": "https://campaigns.do/stories/1459",
-     "summary": "◇ 이번 토론회는 기업과 정부 가 개발·운영· 정책 전 단계에서 장애 인권의 관점을 점검할 수 있는 실천적 기준을 논의하는 자리로, 장애 포용적 AI 환경을 ...",
-     "source": "",
-     "ts": 1794238444
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "cf53c0f1af",
@@ -99,88 +99,88 @@
    "site": "https://aimatters.co.kr",
    "items": [
     {
-     "id": "a91e600f82e3d353",
-     "title": "구글 검색 광고, 광고 묶음 위에 AI 요약 시험 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59844/",
-     "summary": "구글이 모바일 검색의 스폰서 결과 묶음 위에 여러 광고 내용을 요약한 AI 문구를 표시하는 시험을 하고 있다. 각 광고 아래에도 AI 생성 설명이 추가됐다.",
+     "id": "d40d4487d805aaa4",
+     "title": "앤트로픽 IPO 공모가 주당 70~80달러 안내 후 철회 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59986/",
+     "summary": "앤트로픽이 클래스 A 주식 약 8억 6670만 주를 주당 70~80달러에 공모하는 조건을 은행에 보냈다가 가격 정보 오류를 이유로 철회했다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "df4331492701c7da",
-     "title": "구글 디맨드젠, 디스플레이 노출 제외를 광고그룹 단위로 변경 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59848/",
-     "summary": "구글이 12월 1일 주부터 디맨드젠 캠페인 단위 디스플레이 제외 설정을 API에서 받지 않는다. 디스플레이 노출 여부는 광고그룹 채널 제어로 정한다.",
+     "id": "a53e77365a4a7b52",
+     "title": "[AI 활용팁] 클로드로 영상, 홈페이지 섹션 제작하는 프롬프트 사이트 3곳 - AI매터스",
+     "link": "https://aimatters.co.kr/ai-tool/59984/",
+     "summary": "클로드 오퍼스 5.5에 붙여 넣어 영상과 홈페이지 섹션을 HTML 파일로 받는 프롬프트 사이트 3곳을 소개한다. 어썸 오퍼스 5.5 비디오스, 바이브프롬프트, ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "ea598a94fe3c86cb",
-     "title": "마이크로소프트 광고, 전환 API 정식 출시…화면 오류도 수정 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59850/",
-     "summary": "PPC 랜드에 따르면, 마이크로소프트는 현지 시각 11월 9일 링크드인 뉴스레터에서 “일부 고객이 빈 페이지, 리디렉션, 반복 로그인 요청에서 막힌다는 의견을 ...",
+     "id": "d24e97b983c521c8",
+     "title": "노스 리서치 '아레테-27B', 중국 정부 시각 답변 0.9%로 줄여 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60002/",
+     "summary": "노스 리서치가 알리바바 큐원 3.8-27B를 추가 학습한 '아레테-27B'를 공개했다. 중국 정부 시각을 그대로 따르는 답변 비율을 22%에서 0.9%로 낮췄고 일반 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "5cf187f2db87bb33",
-     "title": "마이크로소프트 빙 AI 모드, 답변 맨 위에 광고 노출 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59846/",
-     "summary": "파텔은 서치 엔진 워치 게시물에서 이 화면을 사이트 링크를 포함한 스폰서 광고가 답변 상단에 표시되는 사례로 소개했다. 배리 슈워츠 서치 엔진 라운드테이블 ...",
+     "id": "dacf52266361a114",
+     "title": "젠틀몬스터, 호아킨 피닉스 주연 AI 안경 캠페인 티저 공개 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/60030/",
+     "summary": "젠틀몬스터가 구글, 삼성전자와 개발한 AI 안경 캠페인 티저를 공개했다. 호아킨 피닉스 주연, 조나단 글레이저 연출이며 미국 사전 주문은 11월 12일 시작 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "a7d7117671db2626",
-     "title": "[AI 활용팁] 구글 AI 모드 광고, 제외 키워드와 브랜드 제외로 관리하기 - AI매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59891/",
-     "summary": "구글 AI 모드 후속 질문 광고는 기존 검색, 쇼핑, 실적 최대화 캠페인이 자동으로 참여해 따로 끌 수 없다. 검색어 보고서, 제외 키워드, 브랜드 제외로 ...",
+     "id": "77b00932a95455dd",
+     "title": "앤트로픽 드리밍, 에이전트 기억 다듬어 문항 충족률 13%에서 48%로 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60014/",
+     "summary": "앤트로픽이 AI 에이전트가 쉬는 시간에 기록을 돌아보며 기억을 고치는 드리밍 실험 결과를 공개했다. 사내 문서 위키 시험의 채점 기준 충족률이 13%에서 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "b7f7c1d07928594d",
-     "title": "트레이드 데스크, 3분기 매출 0.5% 감소…상장 후 처음 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59853/",
-     "summary": "트레이드 데스크의 3분기 매출이 9876억 원으로 1년 전보다 0.5% 줄었다. 2016년 상장 후 첫 전년 대비 감소이며, 4분기 매출 전망도 지난해보다 약 11% ...",
+     "id": "599541ed0cc361ce",
+     "title": "앤트로픽 '클로드 미토스 5.2' 출시…취약점 탐지, 미토스 5.1보다 14.4% 늘어 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59975/",
+     "summary": "앤트로픽이 검증 기관용 클로드 미토스 5.2를 출시했다. 내부 CVE 재발견 평가에서 미토스 5.1보다 취약점을 14.4% 더 찾았고, 데이터 무보존 환경용 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "90d7b1a4b209e0b9",
-     "title": "광고 대행사 브레인랩스 \"메타 AI 소재, 성과 원인 알기 어려워\" - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59855/",
-     "summary": "광고 대행사 브레인랩스가 메타 어드밴티지+ 소재 자동 최적화에 캠페인 전체를 맡기면 어떤 소재가 효과를 냈는지 알기 어렵다고 지적했다.",
+     "id": "360ebfc852c21c59",
+     "title": "보스턴 다이내믹스, 바퀴 장착한 아틀라스 공개…360도 회전 점프 성공 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59971/",
+     "summary": "보스턴 다이내믹스가 휴머노이드 아틀라스의 두 발을 스쿠터 바퀴로 바꾼 주행 시험을 공개했다. 시뮬레이션 강화학습만으로 주행과 360도 회전 점프를 구현 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "153098d4da6adf0f",
-     "title": "[AI 활용팁] 어텐티브 MCP, 클로드와 챗GPT로 캠페인 분석하기 - AI매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59893/",
-     "summary": "문자, 이메일 마케팅 플랫폼 어텐티브가 MCP 서버를 정식 출시했다. 클로드와 챗GPT를 연결해 캠페인 성과를 묻고 고객군과 저니 초안을 요청하는 순서와 ...",
+     "id": "e44f9efa325238af",
+     "title": "엔비디아 주주, 젠슨 황 스파이 의혹 공시 문제로 집단소송 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59987/",
+     "summary": "엔비디아 주주가 젠슨 황 CEO와 회사를 상대로 증권 집단소송을 냈다. 싱가포르 메가스피드 전 임원 앨리스 황과의 관계와 국가안보 우려를 알리지 않았다는 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "1a508f24cbd878be",
-     "title": "하드웨어 시험 AI 플랫폼 노미널, 3,220억 원 투자 유치 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59794/",
-     "summary": "하드웨어 시험 데이터 분석 플랫폼 노미널이 기업가치 30억 달러에 2억 4000만 달러 시리즈 C 투자를 유치했다. 미국 7대 방산 기업 가운데 5곳이 고객이다.",
+     "id": "e696dcdc8c394c45",
+     "title": "딥시크 하네스 하루 이용자 154만 명…공식 플러그인 마켓 추진 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60004/",
+     "summary": "딥시크의 AI 에이전트 앱 '딥시크 하네스' 하루 이용자가 154만 명을 기록했다. 외부 플러그인은 약 3만 5000개이며 개발팀은 공식 플러그인 마켓 구축 계획 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "dff7e6e2b52e8fe4",
-     "title": "도이치텔레콤, 뮌헨 AI 팩토리 20MW로 확장…엔비디아 B300 추가 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59793/",
-     "summary": "도이치텔레콤이 뮌헨 AI 팩토리에 엔비디아 B300 시스템을 추가해 전력 용량 20MW로 확장한다. 2월 가동한 1단계 설비는 7개월 만에 예약이 모두 찼다.",
+     "id": "1ba42ee9eb459ea6",
+     "title": "기술 주권 투자 판단 흔든다, 재무 리더 84%가 2027년 AI 자본 배분 변화 예상 - AI매터스",
+     "link": "https://aimatters.co.kr/news-report/59933/",
+     "summary": "기술 주권 투자 영향을 재무 리더 84%가 예상했다. 딜로이트 26개국 1434명 조사로 규제 대응 자동화 49%와 AI 투자 자금조달 방식을 짚는다.",
      "source": "",
      "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "25ac01331a",
@@ -188,6 +188,62 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "5030b51e9b3b6048",
+     "title": "Trump plans imperial final act to his presidency",
+     "link": "https://www.axios.com/2026/11/10/trump-congress-executive-power",
+     "summary": "President Trump, with the clock ticking and congressional investigators closing in, plans to govern even more imperially , hell-bent on stretching executive power, targeting those on his enemies list, pardoning allies,…",
+     "source": "",
+     "ts": 1794308479
+    },
+    {
+     "id": "1ba5e5a8783c9421",
+     "title": "How a MAHA leader turned and torched the White House",
+     "link": "https://www.axios.com/2026/11/10/calley-means-white-house-maha-fight",
+     "summary": "Calley Means quickly rose from wellness entrepreneur to senior Trump health adviser — and now he's attacking the White House and suggesting top aides undermined the president's health agenda. Why it matters: His scorche…",
+     "source": "",
+     "ts": 1794306639
+    },
+    {
+     "id": "d5f8be661e095d47",
+     "title": "The blue wave's tough-on-crime surprise",
+     "link": "https://www.axios.com/2026/11/10/democrats-crime-border-security-bail",
+     "summary": "Democrats swept into power last week as voters also embraced tougher criminal penalties and restrictions on bail. Why it matters: Six years after the George Floyd protests, Democrats won big without promising a return t…",
+     "source": "",
+     "ts": 1794306013
+    },
+    {
+     "id": "c2012605d59a4053",
+     "title": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
+     "link": "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs",
+     "summary": "State Department officials have quietly raised objections to El Salvador's gang-fighting efforts in Haiti — even as President Trump has offered his full support, according to diplomatic notes and informed sources. On Mo…",
+     "source": "",
+     "ts": 1794306013
+    },
+    {
+     "id": "3813bf9e1e9cfdc4",
+     "title": "How Nvidia crisis, politics could deliver the pause AI leaders want",
+     "link": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
+     "summary": "A political backlash against AI and data centers — now compounded by a crisis facing the technology's most influential champion — could help force a slowdown that industry leaders have struggled to achieve voluntarily.…",
+     "source": "",
+     "ts": 1794305705
+    },
+    {
+     "id": "3286f4e18a04feba",
+     "title": "The new battle for Congress: Trump's veto",
+     "link": "https://www.axios.com/2026/11/10/trump-veto-threats-blue-wave",
+     "summary": "Democrats will charge into January with a sweeping mandate — but as President Trump has repeatedly noted, his veto power can deliver a robust roadblock to his opponents' agenda. Why it matters: Democrats may be forced t…",
+     "source": "",
+     "ts": 1794305408
+    },
+    {
+     "id": "c708eb8f7d4edb70",
+     "title": "AI stocks bounce back — with one notable exception",
+     "link": "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom",
+     "summary": "Data: FactSet; Chart: Matt Phillips/Axios The AI trade has regained momentum despite — or maybe because of — Nvidia's struggles following the weekend revelations from CEO Jensen Huang. The big picture: Monday's sudden b…",
+     "source": "",
+     "ts": 1794305408
+    },
     {
      "id": "cde6145157449563",
      "title": "House Dems size up 2028 Senate map after midterm landslide",
@@ -211,66 +267,10 @@
      "summary": "Nvidia CEO Jensen Huang's affair with a woman suspected of spying for China echoes past controversies involving prominent Americans whose romantic relationships raised national security concerns. Why it matters: Foreign…",
      "source": "",
      "ts": 1794268155
-    },
-    {
-     "id": "bfe52dabb2b2a33e",
-     "title": "Pressure builds on Thune ahead of GOP leadership elections",
-     "link": "https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections",
-     "summary": "Seven Republican senators now are calling for their leadership elections to be delayed — with one even promising to walk out rather than vote Tuesday. Why it matters: Senate Majority Leader John Thune (R-S.D.) is still…",
-     "source": "",
-     "ts": 1794266783
-    },
-    {
-     "id": "eb5a7c87e81d004d",
-     "title": "Trump: New Iran attacks \"quite unlikely\"",
-     "link": "https://www.axios.com/2026/11/09/trump-iran-war-qatar-negotiations-attacks-unlikely",
-     "summary": "President Trump said Monday that a renewed military campaign against Iran is \"quite unlikely\" and \"doesn't seem to be necessary.\" Why it matters: Trump stopped short of saying the war was over, but his comments on Truth…",
-     "source": "",
-     "ts": 1794264928
-    },
-    {
-     "id": "f7b002622d2e533c",
-     "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
-     "link": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
-     "summary": "Alice Huang, a former executive of a Singapore-based AI computing company, is at the center of a suspected Chinese espionage scandal after Nvidia CEO Jensen Huang acknowledged an extramarital affair. Why it matters: The…",
-     "source": "",
-     "ts": 1794260868
-    },
-    {
-     "id": "ca29b37e3511b502",
-     "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
-     "link": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
-     "summary": "Rep. Thomas Massie (R-KY) introduced articles of impeachment against Defense Secretary Pete Hegseth on Monday over his handling of the Iran war and other alleged misconduct. Why it matters: The coming vote could mark th…",
-     "source": "",
-     "ts": 1794260377
-    },
-    {
-     "id": "3adb9b649b634600",
-     "title": "Democrats' 2028 presidential auditions begin in Denver",
-     "link": "https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028",
-     "summary": "A who's who of Democratic power players descends on Denver this week to plot the party's future, fresh off its sweeping midterm victories . Why it matters: The gathering gives Democrats' rising stars an early stage to t…",
-     "source": "",
-     "ts": 1794257921
-    },
-    {
-     "id": "c6eeece9b0c9ed5b",
-     "title": "Nvidia has no obvious successor to Jensen Huang — and that's a problem",
-     "link": "https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan",
-     "summary": "Nvidia is coming under fire for having no clear succession plan to replace Jensen Huang in the event that something unexpected happens — like an international incident with him at the center . Why it matters: The spotli…",
-     "source": "",
-     "ts": 1794257318
-    },
-    {
-     "id": "9b733aeb009811d4",
-     "title": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
-     "link": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi",
-     "summary": "The White House is \"cautiously optimistic\" as peace talks between Russia and Ukraine resume in Abu Dhabi this week, U.S. officials said on Monday. Why it matters: The talks on Tuesday and Wednesday will be the first tim…",
-     "source": "",
-     "ts": 1794256943
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "cc992ff5f1",
@@ -278,6 +278,62 @@
    "url": "https://news.hada.io/rss/news",
    "site": "https://news.hada.io",
    "items": [
+    {
+     "id": "92131568db2896f2",
+     "title": "CoreWeave 채권 수익률 16% 돌파, AI 관련 신용 불안 확대",
+     "link": "https://news.hada.io/topic?id=36940&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "CoreWeave의 2032년 만기 채권 수익률이 16%를 넘어서며 , AI 인프라 확장에 필요한 자금 조달을 둘러싼 투자자 불안이 커짐 Nvidia, Broadcom, Amazon도 채무불이행 보장 비용 이 상승했지만, 절대적인 신용 위험 수준은 CoreWeave보다 낮아 상승률만으로 같은 위험을 의미하지는 않음 민주당의 선거 승리 이후 주요 주의 데이터센터 건설 유예 가능성 이 투자 지…",
+     "source": "",
+     "ts": 1794310398
+    },
+    {
+     "id": "7b820f591bee0b66",
+     "title": "Microsoft가 여러분의 메일을 거부하고 있음",
+     "link": "https://news.hada.io/topic?id=36939&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Microsoft 운영 메일 시스템이 SPF와 DKIM이 유효해도 DMARC 레코드가 없는 메일 을 거부하는 현상이 확인됐으며, hotmail.com과 outlook.com도 영향을 받음 영향을 받은 일부 도메인에 p=none DMARC 레코드 를 추가하자 메일이 다시 수신됨 기존 DMARC 의무는 하루 5,000통 초과 발송 도메인 을 대상으로 사전 공지됐지만, 이번 변경은 사전 공지 없…",
+     "source": "",
+     "ts": 1794301641
+    },
+    {
+     "id": "a488f3ad7cb2ba54",
+     "title": "끔찍한 공개키 꼼수",
+     "link": "https://news.hada.io/topic?id=36938&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "RSA 공개키에 읽을 수 있는 문구를 심어 , 실제로 작동하고 인증기관의 신뢰도 받는 TLS 인증서를 만듦 공개 지수는 표준값으로 유지하고, 모듈러스의 상위 절반 을 조정해 인증서의 Base64 텍스트에 메시지가 드러나도록 함 수정한 모듈러스를 기존 소수로 나눈 뒤 가까운 소수를 찾아 키를 재구성하면, 메시지를 유지하면서 유효한 RSA 키 를 만들 수 있음 Base64 기준으로 RSA-20…",
+     "source": "",
+     "ts": 1794301460
+    },
+    {
+     "id": "e4d91d1987d96062",
+     "title": "정체불명의 삐 소리가 나는 위치 찾기",
+     "link": "https://news.hada.io/topic?id=36936&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "여러 기기의 마이크로 소리를 수집하고 발원지를 삼각측량하는 Beep Locator 를 Claude Code로 제작해, 상자가 가득한 방에서 간헐적으로 울리는 경고음의 위치를 찾음 기기끼리 소리를 내 위치를 추정하지만 자동 측정이 잘되지 않아, 지도에 대략적인 위치를 지정한 뒤 소리로 보정하는 Rough mode 를 추가함 경고음 감지 직후 기기 하나가 짧은 소리를 내면, 서버가 이를 기준으…",
+     "source": "",
+     "ts": 1794300053
+    },
+    {
+     "id": "b6fce3f751efd1b9",
+     "title": "Amazon, Sonnet 4.6을 Strands Decider로 대체해 수백만 달러 절감",
+     "link": "https://news.hada.io/topic?id=36935&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Amazon이 대규모 내부 티켓 분류에 쓰던 Claude Sonnet 4.6을 Strands Decider E4B 로 교체해 비용을 98% 줄였으며 , 연간 수백만 달러의 토큰 비용 절감을 예상함 의사결정 모델 은 텍스트를 생성하는 대신 주어진 선택지별 확률과 신뢰도를 반환하므로, 정해진 20개 범주에서 티켓 라벨을 고르는 작업에 적합했음 별도 티켓 평가에서 E4B가 운영 중인 Sonnet…",
+     "source": "",
+     "ts": 1794299874
+    },
+    {
+     "id": "78fc91ff2edb3e64",
+     "title": "Show GN: 귀여운 고양이가 봐주는 내 사주팔자~",
+     "link": "https://news.hada.io/topic?id=36934&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "반년전에 조금 쪼물딱거리다가 방치한 사주사이트를 주말내내 업그레이드해서 다시 배포했습니다!! 귀여운 고양이에게 생년월일시를 알려주면 사용자님의 운명을 알려주는 방식입니다~ 고양이가 사주를 다 봐준 후에는 고양이의 스승님인 만신님께서 한층 심화된 내용으로 사주를 다시 봐주게됩니다! 사주를 다 본 이후에는 ai 만신과의 대화를 통해 개인적인 궁금증도 풀어볼 수 있구요! 틈틈히 기능을 더 넣을…",
+     "source": "",
+     "ts": 1794298001
+    },
+    {
+     "id": "7cb49f5a2dc8359b",
+     "title": "유료 SDK 없이, 공개 데이터와 MapLibre로 아파트 3D 지도를 만든 11일",
+     "link": "https://news.hada.io/topic?id=36933&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "직접 개발 중인 아파트 인사이트의 주변 3D 지도를 만들면서 겪은 문제와 설계 선택을 정리했습니다. 브이월드의 건물 외곽선, 건축물대장의 높이, OpenStreetMap의 시설·도로 데이터를 결합하고 MapLibre GL JS로 그렸습니다. 유료 지도 SDK와 외부 3D 모델 파일은 사용하지 않았습니다. 글에서는 다음 내용을 다룹니다. 건물 9,481동이 포함된 지도가 도보 경로 데이터 때…",
+     "source": "",
+     "ts": 1794290009
+    },
     {
      "id": "dd7c09f575b36550",
      "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
@@ -288,9 +344,9 @@
     },
     {
      "id": "46c67ec539c86529",
-     "title": "Fable 5.2가 조카가 꿈꾸던 게임을 한 번의 요청으로 구현함",
+     "title": "Fable 5.2, 조카가 꿈꾸던 게임을 한 번의 요청으로 구현",
      "link": "https://news.hada.io/topic?id=36929&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Fable 5.2 가 조카의 그림과 기존 게임을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 벨트스크롤 액션 게임을 완성함 기존 코드 대부분을 다시 작성하고 이미지 약 175개와 오디오 클립 140개 를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함 게임을 플레이하는 봇 을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두 실행하고, 스크린샷…",
+     "summary": "Fable 5.2 가 조카의 직접 그린 캐릭터와 기존 프로토타입을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 횡스크롤 액션 게임 을 완성함 기존 코드 대부분을 다시 작성하고 이미지 약 175개와 오디오 클립 140개 를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함 게임을 플레이하는 봇 을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두…",
      "source": "",
      "ts": 1794278111
     },
@@ -301,66 +357,10 @@
      "summary": "UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다. 주요기능 안드로이드, iOS, 웹 버전 지원 FSRS 알고리즘 기반 데일리 퀴즈 Anki 덱 Import / Export Streak, Stats, Reminder(Notification) 장점 저렴한 비용(월 플랜 2,200원) 잡다하지 않은 기능, 심플한 UI 향후 추가될 기능 사용자의 단어 DB에 기반…",
      "source": "",
      "ts": 1794276900
-    },
-    {
-     "id": "4839da40287d4512",
-     "title": "Show GN: Tacie – 지난 결정, 회의 중에 바로 찾아 주는 Mac용 AI 어시스턴트",
-     "link": "https://news.hada.io/topic?id=36925&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다. 회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고, 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다. 사용 예시 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3…",
-     "source": "",
-     "ts": 1794275762
-    },
-    {
-     "id": "afe37ab96647c0ec",
-     "title": "1.58비트 터너리 양자화로 30B LLM을 맥북에서 돌리기: 0점에서 89.4%까지 복원한 기록",
-     "link": "https://news.hada.io/topic?id=36924&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 약 60GB → 약 10GB 까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개 30B 모델은 4비트로 줄여도 가중치만 16…",
-     "source": "",
-     "ts": 1794275626
-    },
-    {
-     "id": "d59e425e51fa8291",
-     "title": "ElevenLabs는 어떻게 영화 더빙에서 음성 AI 플랫폼으로 확장했나 [영상]",
-     "link": "https://news.hada.io/topic?id=36923&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "ElevenLabs는 오디오 모델을 직접 연구하고, 그 기술을 고객의 실제 업무에 적용 해 성장함. 영화 더빙에서 출발해 콘텐츠 제작과 콜센터 음성 에이전트로 확장함 출발점은 감정과 원래 목소리를 보존하는 더빙이었지만, 기술적 한계와 창작자에게 당장 필요한 작업을 확인한 뒤 고품질 음성 생성 부터 해결함 연구는 오디오에 집중하고, 제품에는 외부 LLM과 지식, 시스템 연동을 결합함. 장기적…",
-     "source": "",
-     "ts": 1794275402
-    },
-    {
-     "id": "06b0b9164b2a82f5",
-     "title": "왜 이 모든 OT 시스템이 네트워크에 연결돼 있는지 이야기해 보자",
-     "link": "https://news.hada.io/topic?id=36922&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "OT의 네트워크 연결 은 운영 효율을 높이고 원격 제어를 도입하며 유지보수 비용을 줄이는 결정이 누적된 결과로, 이제 전력과 수도, 식품 보관에 깊이 얽혀 있어 단순히 끊기 어려움 IT/OT 융합과 공급업체의 구축 방식 표준화 로 산업 시스템의 비용은 줄었지만, 공격자가 익숙한 기술과 반복 가능한 구조가 확산돼 공격의 규모 확대와 자동화도 쉬워짐 원격 지원 은 산업 운영과 공급업체 계약의…",
-     "source": "",
-     "ts": 1794272666
-    },
-    {
-     "id": "2343e6e5186ea66f",
-     "title": "DeepX, 2세대 AI 칩 DX-M2 테이프아웃 완료 - 5W 미만에서 최대 1,000억 파라미터 모델 추론 목표",
-     "link": "https://news.hada.io/topic?id=36920&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "한국 엣지 AI 반도체 스타트업 딥엑스가 2세대 가속기 DX-M2의 테이프아웃을 완료 함. 로봇과 드론처럼 전력과 발열 제약이 큰 기기에서 생성형 AI를 직접 실행하도록 설계함 5W 미만에서 전체 200억~1,000억 파라미터 규모의 모델을 초당 10~30토큰으로 실행 하는 것이 목표. 활성 파라미터는 약 30억~200억 개 이며, 메모리 대역폭은 전작의 3배인 150GB/s 로 높임 Sa…",
-     "source": "",
-     "ts": 1794271444
-    },
-    {
-     "id": "77277ba7d620607a",
-     "title": "CUI - C용 네이티브 UI 컴포넌트",
-     "link": "https://news.hada.io/topic?id=36919&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "CUI 는 하나의 C99 코드베이스로 Windows, Mac, Linux에서 사용하는 약 160개 UI 컴포넌트 를 제공하며, 스프링 모션과 전체 키보드 지원을 갖춤 즉시 모드(immediate mode) 방식으로 컴포넌트 함수가 자신을 그리고 발생한 동작을 반환함. 개발자의 변수를 상태로 사용하고 매 프레임 화면 전체를 다시 기술해 별도 상태 동기화가 필요 없음 데이터 그리드, 명령 팔레…",
-     "source": "",
-     "ts": 1794271264
-    },
-    {
-     "id": "d9a6081b7464975f",
-     "title": "Google, 8세대 TPU에 기밀 추론용 8tx와 긴 컨텍스트용 8i Max 추가",
-     "link": "https://news.hada.io/topic?id=36918&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Google이 8세대 TPU에 TPU 8tx 와 TPU 8i Max 를 추가해, 대규모 학습부터 저지연 추론, 기밀 컴퓨팅, 대규모 컨텍스트까지 담당하는 네 가지 시스템을 구성함 기존 TPU 칩을 바탕으로 패키징, 메모리, 네트워크, 보안 구성을 바꿔 용도별 시스템을 만듦. Google은 이 방식으로 특화 시스템을 수년 대신 수개월 안에 내놓을 수 있다고 봄 TPU 8tx 는 사용 중인 민…",
-     "source": "",
-     "ts": 1794271084
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "d1c587ecba",
@@ -369,10 +369,34 @@
    "site": "https://simonwillison.net",
    "items": [
     {
+     "id": "fabe838d73f55c38",
+     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+     "summary": "",
+     "source": "",
+     "ts": 1794295701
+    },
+    {
+     "id": "c8bf0b8e918f2da7",
+     "title": "Quoting Prompting Claude Fable 5.2",
+     "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+     "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someo…",
+     "source": "",
+     "ts": 1794288854
+    },
+    {
+     "id": "75546f2ae879a5a9",
+     "title": "Yonkers Rises",
+     "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+     "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation ski…",
+     "source": "",
+     "ts": 1794282784
+    },
+    {
      "id": "c93c64172e07cb1e",
      "title": "llm-anthropic 0.31",
      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-     "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm…",
+     "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so c…",
      "source": "",
      "ts": 1794268726
     },
@@ -423,34 +447,10 @@
      "summary": "My comment on Terry Pratchett's Study — Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal w…",
      "source": "",
      "ts": 1794080064
-    },
-    {
-     "id": "04ff5155f60621be",
-     "title": "Quoting Nilay Patel",
-     "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-     "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop…",
-     "source": "",
-     "ts": 1793985192
-    },
-    {
-     "id": "3089c4e12a10528f",
-     "title": "Quoting Paul Ford",
-     "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-     "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web…",
-     "source": "",
-     "ts": 1793900043
-    },
-    {
-     "id": "f121b002be2ba369",
-     "title": "datasette-llm 0.1a10",
-     "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-     "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
-     "source": "",
-     "ts": 1793805962
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "f9eb976542",
@@ -459,88 +459,88 @@
    "site": "https://www.aitimes.com",
    "items": [
     {
-     "id": "bca11ad799489785",
-     "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217210",
-     "summary": "미국 의회가 AI 데이터센터의 건설 인허가를 완화하는 동시에 사업자의 전력망 비용 부담을 강화하는 초당적 법안 심의에 착수했다. 그러나 중간선거에서 데이터센터 규제 강화를 내세운 민주당 내부에서 건설 규제 완화에 대한 반발이 나오면서 법안 통과를 둘러싼 갈등이 불거지고 있다.로이터와 AP에 따르면, 미국 상원은 9일(현지시간) '미국 부담 완화 및 일자리 법안(BAAJA)'에 대한 심의 개…",
+     "id": "f4c46e5c083c4669",
+     "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217239",
+     "summary": "구글 '제미나이'와 앤트로픽 '클로드'의 추격에도 오픈AI의 '챗GPT'가 글로벌 AI 챗봇 시장에서 압도적인 지위를 유지하고 있는 것으로 나타났다. 경쟁 서비스들이 빠르게 성장하는 가운데 챗GPT도 올해 상반기 하락했던 점유율을 최근 다시 회복하면서 주요 AI 챗봇 이용량의 81% 이상을 차지했다.시장조사 업체 그래파이트(Graphite)는 9일(현지시간) 시밀러웹 데이터를 분석한 보고서…",
      "source": "",
-     "ts": 1794312977
+     "ts": 1794334493
     },
     {
-     "id": "af6e95457d6b9009",
-     "title": "트럼프 \"FBI, 젠슨 황 사건 조사 중\"…주요 AI 행사도 잇달아 불참",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217203",
-     "summary": "도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 CEO와 관련한 의혹을 연방수사국(FBI)이 조사하고 있다고 밝혔다. 황 CEO가 중국 정보기관과 연계된 것으로 의심받는 여성과 부적절한 관계를 맺었다는 논란이 불거진 가운데, 주요 AI 업계 행사에도 잇달아 불참하기로 했다.파이낸셜타임스(FT)에 따르면, 트럼프 대통령은 9일(현지시간) 백악관에서 기자들과 만나 \"FBI가 다른 사안과 관련해…",
+     "id": "0aef3fb6ca55c8ea",
+     "title": "클로드 페이블 5.2, 전자기기 3종 설계…회로 수정 없이 시제품 제작",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217243",
+     "summary": "앤트로픽이 '클로드'로 전자기기 3종을 설계하고, 회로 수정 없이 모두 작동하는 시제품을 제작하는 데 성공했다. 오픈AI가 최근 AI를 활용한 전자기기 제작 사례를 공개한 데 이어, AI가 실제 제조 조건까지 고려해 하드웨어 개발을 수행하는 능력을 보여줬다.앤트로픽은 9일(현지시간) 공식 기술 보고서를 통해 최신 모델 '클로드 페이블 5.2'가 전자회로 설계부터 부품 배치, 펌웨어 작성,…",
      "source": "",
-     "ts": 1794310829
+     "ts": 1794333928
     },
     {
-     "id": "64c8ffd1b9b35575",
-     "title": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 관련 '허위 설명' 쟁점",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217206",
-     "summary": "엔비디아와 젠슨 황 CEO가 중국 스파이 의혹과 관련한 정보를 투자자들에게 제대로 공개하지 않았다는 이유로 주주 집단소송에 직면했다. 황 CEO와 중국 정보기관의 스파이로 의심받는 여성의 관계 자체보다 회사가 관련 의혹을 어떻게 설명했는지, 투자자들에게 오해를 불러일으키는 정보를 제공했는지가 핵심 쟁점이다.로이터 등에 따르면, 개인 투자자 마크 키스텐마허가 대표하는 주주들은 9일(현지시간)…",
+     "id": "1bc9c96b21c4d17a",
+     "title": "보스턴 다이내믹스, 바퀴 달린 '아틀라스' 공개…360도 회전 점프까지",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217222",
+     "summary": "보스턴 다이내믹스가 휴머노이드 로봇 '아틀라스(Atlas)'의 발을 바퀴로 교체해 빠르게 주행하고 360도 회전 점프까지 하는 모습을 공개했다. 강화학습(RL) 기반 제어 기술을 적용해 새로운 이동 방식을 익히도록 한 것으로, 로봇의 구동 장치와 AI 제어 모델의 성능을 검증하기 위한 연구용 실험이다.보스턴 다이내믹스는 9일(현지시간) 공식 영상을 통해 바퀴를 장착한 아틀라스가 실제 실험…",
      "source": "",
-     "ts": 1794310478
+     "ts": 1794333450
     },
     {
-     "id": "dbd241910bb39e81",
-     "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217204",
-     "summary": "AI 반도체 전문 딥엑스(대표 김녹원)가 삼성전자 2나노 공정 기반 차세대 생성 AI 반도체 ‘DX-M2’의 칩 설계를 마치고 내년 하반기 양산공급을 위한 채비에 나섰다.딥엑스는 이달 초 DX-M2 시제품 제작을 위한 마스크 테이프아웃(MTO·Mask Tape-Out)를 완료했다고 10일 밝혔다. MTO는 완성된 반도체 설계 데이터를 파운드리에 전달하는 단계로, 사실상 칩 설계가 끝났음을…",
+     "id": "a8aeb26d6d42ee26",
+     "title": "텐센트도 'AI 자기 개선' 연구 본격화…미국 이어 RSI 경쟁 가세",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217232",
+     "summary": "오픈AI와 앤트로픽 등 미국 주요 AI 기업들이 재귀적 자기 개선(RSI)을 차세대 AI 개발의 핵심 과제로 제시하는 가운데, 중국 텐센트도 AI가 자신의 작업 결과를 활용해 성능을 높이는 기술을 선보였다. 지난달 공개된 연구가 최근 개발자 커뮤니티에서 다시 주목받으면서 중국도 AI의 자기 개선 기술 경쟁에 뛰어들었다는 평가가 나온다.텐센트의 하이 프론티어(Hy Frontier) 연구팀과…",
      "source": "",
-     "ts": 1794309899
+     "ts": 1794333000
     },
     {
-     "id": "fa18cc408f0f915f",
-     "title": "어업 계절근로자 보험 의무화 첫해…정부, 고용 어가 160곳 점검",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217201",
-     "summary": "정부가 외국인 어업 계절근로자를 고용하는 전국 어가 약 160곳을 대상으로 의무보험 가입과 근로·주거환경 점검에 나섰다. 올해 2월 시행된 보험 가입 의무가 현장에서 지켜지고 있는지도 확인한다.법무부와 해양수산부는 9일부터 27일까지 3주간 어업 분야 외국인 계절근로자 고용 어가를 대상으로 하반기 인권 실태 점검을 실시한다고 밝혔다.전남은 어업 분야 외국인 계절근로자가 집중된 지역이다. 지…",
+     "id": "f736694eb0fac921",
+     "title": "스페이스X, 텍사스에 32조 AI 데이터센터·가스발전소 건설 추진",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217214",
+     "summary": "스페이스X가 미국 텍사스주 스타베이스에 240억달러(약 32조원) 규모의 AI 데이터센터와 가스발전소 건설을 추진한다. 자체 전력 공급 시설까지 확보해 AI 연산 수요에 대응하고 데이터센터 가동에 필요한 전력망 연결 대기 시간을 줄이려는 전략으로 풀이된다.9일(현지시간) 로이터에 따르면, 텍사스주 스타베이스시는 최근 공개한 공청회 공고를 통해 스페이스X가 가스발전소와 슈퍼컴퓨팅 시설 건설을…",
      "source": "",
-     "ts": 1794309713
+     "ts": 1794332899
     },
     {
-     "id": "c842213393efe263",
-     "title": "전남 직업계고 취업 증가분 88.5% 타지역에서…광주는 관내 취업 늘어",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217200",
-     "summary": "전남 직업계고의 올해 보험가입 취업자가 지난해보다 78명 늘었지만, 증가분의 88.5%는 다른 시도에 취업한 인원에서 발생한 것으로 나타났다. 광주는 같은 기간 지역 내 취업자가 늘고 타지역 취업자는 소폭 감소해 서로 다른 흐름을 보였다.교육부와 한국교육개발원이 발표한 2024~2026년 직업계고 졸업자 취업통계조사 세부 자료에 따르면, 올해 전남 소재 직업계고의 건강보험·고용보험 가입 취…",
+     "id": "ec57ad6d0c488ee5",
+     "title": "KT, 3분기 실적 주춤...B2B·AX로 반등 노려",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217246",
+     "summary": "KT가 매출 및 영업이익 동반 감소라는 3분기 성적표를 받아 들었다.KT는 올해 3분기 연결 기준 매출 6조9975억 원, 영업이익 5053억 원을 기록했다고 10일 밝혔다. 지난해 같은 기간 대비 각각 1.8%, 6.1% 줄었다.이 같은 실적 하락에 대해 전년 3분기 강북본부 부지 개발에 따른 일회성 분양이익이 반영된 기저효과 때문이라고 KT 측은 설명했다. 별도 기준 영업이익은 2993…",
      "source": "",
-     "ts": 1794309640
+     "ts": 1794332519
     },
     {
-     "id": "9b85f67e5fb6e242",
-     "title": "북미 태양광 PPA 제시가격 4.9% 상승…미국 12월 관세 선반영",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217152",
-     "summary": "북미 태양광 전력구매계약(PPA) 제시가격이 올해 3분기 전 분기보다 4.9% 상승했다. 미국이 오는 12월 시행할 태양광 소재·부품 수입 규제의 예상 비용이 실제 관세 부과에 앞서 PPA 제시가격에 반영되기 시작했다는 분석이다.재생에너지 계약 거래 플랫폼 레벨텐에너지(LevelTen Energy)가 지난 10월20일(현지시간) 발표한 3분기 가격지수에 따르면, 북미 종합지수(Contine…",
+     "id": "ff331d3b422b506b",
+     "title": "클로드, 밤새 로봇 팔로 수채화 완성…물감도 직접 섞었다",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217231",
+     "summary": "앤트로픽의 '클로드'가 로봇 팔을 이용해 밤새 수채화를 완성한 사례가 공개됐다. 특히 작업 도중 필요한 색상이 없다는 사실을 알아차리고 직접 물감을 혼합해 그림을 이어가면서, 범용 AI가 실제 도구를 활용해 물리적 작업을 수행하는 능력을 보여줬다.베를린에서 활동하는 디자인 엔지니어 닐(nil)은 지난 6일(현지시간) X에 클로드가 가을 나무를 그리는 영상을 공개했다. 잠들기 전 로봇 팔에…",
      "source": "",
-     "ts": 1794309600
+     "ts": 1794332437
     },
     {
-     "id": "74e296af5686db27",
-     "title": "정부, 보리 2만5000톤 특별매입 협의…내년엔 계약재배로 생산 조절",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217198",
-     "summary": "정부가 올해 급증한 보리 생산량에 대응해 2만5000톤의 특별매입을 협의한 데 이어 내년산은 계약재배 중심으로 생산을 조절한다. 2024~2025년 공급 부족을 겪었던 국내 보리 시장이 올해 생산 급증과 가격 하락으로 돌아서면서 수확 후 추가 매입에 이어 파종 단계의 재배 조절까지 추진되고 있다.10일 국가데이터처의 2024~2026년 보리 생산량조사와 농림축산식품부 자료에 따르면, 전국…",
+     "id": "ba433343475cf7b6",
+     "title": "바이트댄스, 100회 수정해도 이미지 유지하는 '시드림 5.5' 공개",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217225",
+     "summary": "바이트댄스가 이미지를 최대 100회 연속 수정해도 원래 모습을 유지하고, 투명 배경과 정교한 텍스트까지 구현하는 차세대 이미지 생성 모델을 선보였다. 반복 편집 과정의 안정성과 이미지 사실성을 강화해 전문 디자인과 콘텐츠 제작 현장에서 활용도를 높이는 데 초점을 맞췄다.바이트댄스는 9일 이미지 생성 모델의 편집 안정성과 사실성, 텍스트 표현력을 강화한 신형 모델 '시드림 5.5(Seedre…",
      "source": "",
-     "ts": 1794309524
+     "ts": 1794331236
     },
     {
-     "id": "382d663164051027",
-     "title": "덴컴, 서부장애인치과병원에 AI 진료기록 시스템 공급…정식 운영",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217208",
-     "summary": "치과 AI 전문 덴컴(대표 임병준)이 서울시 서부장애인치과병원에 AI 기반 진료기록 시스템을 구축하고 정식 운영에 들어갔다. 환자 문진과 진료 과정의 대화를 자동으로 기록해 의료진의 업무 부담을 줄이고 환자 진료에 집중할 수 있도록 지원하는 것이 핵심이다.덴컴은 서부장애인치과병원이 지난달 28일 AI 진료기록 시스템 시연회를 개최한 데 이어, 이달 3일부터 실제 진료 현장에서 시스템을 운영…",
+     "id": "4c506bb47e89013e",
+     "title": "BMW, '챗GPT'로 차량 추천부터 시승 예약까지…AI 쇼핑 확대",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217233",
+     "summary": "BMW가 '챗GPT'를 통해 고객이 원하는 차량을 추천받고 금융 조건 비교부터 시승 예약까지 진행할 수 있는 자동차 쇼핑 서비스를 선보였다. 기존 차량 검색과 옵션 구성 기능을 실제 판매점 예약 시스템까지 연결해 AI를 활용한 자동차 구매 과정을 확대했다.BMW 북미 법인은 9일(현지시간) 챗GPT에서 신차 검색부터 맞춤형 차량 구성, 금융 조건 확인, 시승 예약까지 한 번에 처리할 수 있…",
      "source": "",
-     "ts": 1794309223
+     "ts": 1794330790
     },
     {
-     "id": "9d3814a13f6d1df5",
-     "title": "튀르키예, 2040년 태양광·풍력 175GW 목표…현재의 4배",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217168",
-     "summary": "튀르키예가 2040년까지 태양광·풍력 발전설비를 175기가와트(GW)로 확대하겠다는 목표를 제시했다. 올해 9월 말 설치용량 43.8GW의 약 4배로, 두 발전원에 약 1000억달러(약 135조5400억원)를 투자할 계획이다.튀르키예 에너지천연자원부가 지난 5일(현지시간) 발표한 '국가 에너지 2040' 비전과 알파르슬란 바이락타르 장관의 발표에 따르면, 175GW 목표에는 태양광과 육상·…",
+     "id": "d0d20e3cecd65d99",
+     "title": "오픈AI, AI 연구용 '킬 스위치' 공개…35초 내 출력 차단",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217241",
+     "summary": "오픈AI가 연구 중인 AI 모델에서 위험한 행동이나 보안 문제가 발견되면 추가 출력을 신속하게 차단하는 중앙 통제 시스템을 공개했다. 모델이나 연구 프로그램 자체를 종료하지 않고 문제가 발생한 작업의 실행 권한만 차단해, 다른 연구에는 영향을 주지 않으면서 안전 문제에 대응할 수 있도록 설계했다.오픈AI는 9일(현지시간) 공식 블로그를 통해 AI 연구 인프라 전반에서 실행되는 작업을 추적하…",
      "source": "",
-     "ts": 1794308700
+     "ts": 1794330175
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "7ebf5b6c9a",
@@ -728,6 +728,14 @@
    "url": "https://stratechery.com/feed/",
    "site": "https://stratechery.com",
    "items": [
+    {
+     "id": "a1393a77bc91e08d",
+     "title": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
+     "link": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
+     "summary": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
+     "source": "",
+     "ts": 1794308400
+    },
     {
      "id": "25d2a875418502cd",
      "title": "Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness",
@@ -799,18 +807,10 @@
      "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
      "source": "",
      "ts": 1793354400
-    },
-    {
-     "id": "a9148380e01427aa",
-     "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
-     "link": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
-     "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
-     "source": "",
-     "ts": 1793268000
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,62 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "262a0c0c5e23373b",
+     "title": "EU AI gigafactories scheme asks applicants to resubmit funding bids for 'technical reasons'",
+     "link": "https://www.datacenterdynamics.com/en/news/eu-ai-gigfactories-scheme-asks-applicants-to-resubmit-funding-bids-for-technical-reasons/",
+     "summary": "But don't worry, some applicants get an extended deadline",
+     "source": "",
+     "ts": 1794308400
+    },
+    {
+     "id": "69ca15b3bad29a14",
+     "title": "PPL advanced stage data center pipeline hits 35GW in Pennsylvania",
+     "link": "https://www.datacenterdynamics.com/en/news/ppl-advanced-stage-data-center-pipeline-hits-35gw-in-pennsylvania/",
+     "summary": "Agrees terms for 2GW QTS project in Salem Township",
+     "source": "",
+     "ts": 1794307740
+    },
+    {
+     "id": "1b3b2df8541197a3",
+     "title": "Equinix launches SG6 data center in Singapore",
+     "link": "https://www.datacenterdynamics.com/en/news/equinix-launches-sg6-data-center-in-singapore/",
+     "summary": "Company launches new facility following relaxing of moratorium",
+     "source": "",
+     "ts": 1794307139
+    },
+    {
+     "id": "571b78cd6a3fde23",
+     "title": "Vertiv partners with Infineon to scale power semiconductors for AI data centers",
+     "link": "https://www.datacenterdynamics.com/en/news/vertiv-partners-with-infineon-to-scale-power-semiconductors-for-ai-data-centers/",
+     "summary": "Inks three-year strategic agreement",
+     "source": "",
+     "ts": 1794307013
+    },
+    {
+     "id": "180741237c52b349",
+     "title": "Emax 3 and IEC 62443: Cybersecurity for critical infrastructure",
+     "link": "https://www.datacenterdynamics.com/en/whitepapers/emax-3-and-iec-62443-cybersecurity-for-critical-infrastructure/",
+     "summary": "A guide to understanding and implementing industrial cybersecurity",
+     "source": "",
+     "ts": 1794306779
+    },
+    {
+     "id": "67afef1fa67d3d53",
+     "title": "Sponsored: Coravel makes 25 leadership hires in six months through partnership with specialist search firm Metric DCX",
+     "link": "https://www.datacenterdynamics.com/en/product-news/coravel-makes-25-leadership-hires-in-six-months-through-partnership-with-specialist-search-firm-metric-dcx/",
+     "summary": "Specialist data center search firm has built the ACS and GIP-backed company’s team from C-suite to specialist level across the US, Europe, and Australia, starting ahead of its public launch",
+     "source": "",
+     "ts": 1794297600
+    },
+    {
+     "id": "984d6cc6c7d7879a",
+     "title": "Sponsored: Too big to trip",
+     "link": "https://www.datacenterdynamics.com/en/marketwatch/too-big-to-trip/",
+     "summary": "Once viewed through the lens of individual facility protection, grid resilience now depends on data centers remaining connected and supporting system stability during power disturbances",
+     "source": "",
+     "ts": 1794297600
+    },
     {
      "id": "9d26ca1db590b64a",
      "title": "Norway halts grid connection applications for new data centers",
@@ -841,66 +897,10 @@
      "summary": "Reporting strategies for data center sustainability",
      "source": "",
      "ts": 1794243323
-    },
-    {
-     "id": "d8a7233401858651",
-     "title": "Telecom Infrastructure Partners names Lutfu Kitapci as CEO",
-     "link": "https://www.datacenterdynamics.com/en/news/telecom-infrastructure-partners-names-lutfu-kitapci-as-ceo/",
-     "summary": "Kitapci joins from UK ISP Hyperoptic",
-     "source": "",
-     "ts": 1794243285
-    },
-    {
-     "id": "940485d751d4248a",
-     "title": "Police charge two men with copper theft from cell tower in Liberty, North Carolina",
-     "link": "https://www.datacenterdynamics.com/en/news/police-charge-two-men-with-copper-theft-from-cell-tower-in-liberty-north-carolina/",
-     "summary": "The two reportedly attempted to steal 40 feet of cable",
-     "source": "",
-     "ts": 1794242362
-    },
-    {
-     "id": "de6375e0557e627d",
-     "title": "New Jersey Senate passes bill banning data center-related NDAs",
-     "link": "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
-     "summary": "Bill now goes to NJ Assembly",
-     "source": "",
-     "ts": 1794241965
-    },
-    {
-     "id": "976c7d437c52a0f2",
-     "title": "IBM deploys Quantum System Two in Chicago, Illinois",
-     "link": "https://www.datacenterdynamics.com/en/news/ibm-deploys-quantum-system-two-in-chicago-illinois/",
-     "summary": "Company has also partnered with AMD and ORNL to launch co-design platform for quantum error correction",
-     "source": "",
-     "ts": 1794241542
-    },
-    {
-     "id": "8660bf2e3156dc4d",
-     "title": "Akamai predicts revenue to exceed $7bn in 2028, driven by cloud infrastructure services growth",
-     "link": "https://www.datacenterdynamics.com/en/news/akamai-predicts-revenue-to-exceed-7bn-in-2028-driven-by-cloud-infrastructure-services-growth/",
-     "summary": "Company posted $1.122bn for Q3 2026",
-     "source": "",
-     "ts": 1794240736
-    },
-    {
-     "id": "9d4186dcfd7e7617",
-     "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
-     "link": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
-     "summary": "Also behind project to develop Kurri Kurri smelter into data center",
-     "source": "",
-     "ts": 1794240094
-    },
-    {
-     "id": "a8ea0302acc787a9",
-     "title": "AI’s next infrastructure constraint",
-     "link": "https://www.datacenterdynamics.com/en/opinions/ais-next-infrastructure-constraint/",
-     "summary": "Data center expansions have long been represented in gigawatts, but measurements of terabits-second and microseconds are now entering the constraint conversation",
-     "source": "",
-     "ts": 1794239115
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794283818
+   "last_ok": 1794314622
   }
  ]
 }
