@@ -1,5 +1,5 @@
 {
- "generated_at": 1794257344,
+ "generated_at": 1794283818,
  "top_n": 10,
  "feeds": [
   {
@@ -8,6 +8,46 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "40c96baf11dfd21a",
+     "title": "\" 정부 AI 활용, 아직 81%가 실험 단계\"…OECD, 알고리즘 시대 정부 소통체계 전면 개혁 촉구",
+     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42672",
+     "summary": "인공지능 과 디지털 플랫폼의 추천 알고리즘이 시민의 정보 소비 방식 ... OECD는 시민이 검색엔진이나 정부 홈페이지 대신 AI 챗봇에 정책 을 질문하는 ...",
+     "source": "",
+     "ts": 1794282087
+    },
+    {
+     "id": "baddbfd06da5cea4",
+     "title": "[미국] \"트럼프 교육부 해체 막겠다\"...민주당, 교육 정책 전면 조사 예고 - 교육플러스",
+     "link": "https://www.edpl.co.kr/news/articleView.html?idxno=22025",
+     "summary": "미국의 중간선거는 대통령 임기 중간에 실시되는 의회 선거다. 대통령을 새로 선출하지는 않지만 법률 제정과 정부 예산 심의, 행정부 감시 권한을 가진 의회의 ...",
+     "source": "",
+     "ts": 1794270278
+    },
+    {
+     "id": "6ef5c9cc49282ebc",
+     "title": "“ AI 인재 양성 넘어 취업까지”…김종민 의원, '한국형 FDE' 도입 촉구 - 에너지데일리",
+     "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=204907",
+     "summary": "[에너지데일리 양미애 기자] 정부 의 인공지능 전환(AX) 정책 을 청년 일자리 창출과 직접 연결하기 위해 기업 현장에 AI 전문인력을 배치하는 '한국형 ...",
+     "source": "",
+     "ts": 1794267025
+    },
+    {
+     "id": "fe11c89b3d912a50",
+     "title": "\"국산 AI 반도체, 글로벌 생태계와 연결\" - 비즈워치",
+     "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/09/0016",
+     "summary": "정부 가 엔비디아와 협력을 통해 국산 인공지능 ( AI ) 반도체의 글로벌 AI 생태계 진출을 돕는다. ... 이도규 과기정통부 정보통신 정책 실장은 \"이번 MOU는 기업 간 ...",
+     "source": "",
+     "ts": 1794254218
+    },
+    {
+     "id": "e885c0d0119ba76c",
+     "title": "'3대 메가 프로젝트 원년' 9.4조 AI 예산 이렇게 쓰인다 - 머니투데이",
+     "link": "https://www.mt.co.kr/amp/tech/2026/11/10/2026110416003354291",
+     "summary": "2027년도 예산안에 담긴 과학기술정보통신부 의 AI ( 인공지능 ) 관련 예산이 총 9조5000억원에 육박한다. 올해 대비 두 배 가까운 예산의 집중 투자로 AI ...",
+     "source": "",
+     "ts": 1794250877
+    },
     {
      "id": "47c872c630565d98",
      "title": "[리포트]이 대통령 \" 정부 가 '소방의 119'⋯재원 확보·처우 개선\" - 대전MBC",
@@ -47,50 +87,10 @@
      "summary": "◇ 이번 토론회는 기업과 정부 가 개발·운영· 정책 전 단계에서 장애 인권의 관점을 점검할 수 있는 실천적 기준을 논의하는 자리로, 장애 포용적 AI 환경을 ...",
      "source": "",
      "ts": 1794238444
-    },
-    {
-     "id": "f6d0dde7f02eec00",
-     "title": "허영, 소나무재선충 춘천, 양구까지 번져 '백두대간 비상'… 정부 , 공공일자리 투입 검토",
-     "link": "https://www.kwnews.co.kr/article/20261109501060",
-     "summary": "“춘천 3만그루 감염됐는데 담당자 2명”…재선충병 '3차 대발생' 강조 정부 “일자리 민생 프로젝트 ... 이어 정부 의 AI 프론티어 사업을 두고 “16조원 규모의 대규모 ...",
-     "source": "",
-     "ts": 1794237000
-    },
-    {
-     "id": "f7006184a58a0356",
-     "title": "젠슨 황 논란 속 열린 엔비디아 AI 데이…韓, 기술 협력·추가 투자 직진(종합) - 뉴시스",
-     "link": "https://mobile.newsis.com/view/NISX20261109_0003860793",
-     "summary": "... 정책 실장이 참석했다. 행사 준비 관계자들은 매디슨 황 수석이사의 방한 취소에 아쉬움을 나타냈다. 정부 고위급 면담을 위해 부총리의 비행 일정 까지 조정 ...",
-     "source": "",
-     "ts": 1794232600
-    },
-    {
-     "id": "085170ab42abb2e7",
-     "title": "한국 찾은 큰손 계약 불발 이유가… AI 프로젝트 초비상 - 한국경제",
-     "link": "https://www.hankyung.com/article/2026110957881",
-     "summary": "국내 각지에서 진행 중인 인공지능 ( AI ) 데이터센터 구축 프로젝트 중 상당수 ... 정부 와 지방자치단체, 대기업 등이 수백조원 규모의 AI 인프라 투자 ...",
-     "source": "",
-     "ts": 1794228878
-    },
-    {
-     "id": "2fa163b2ecfaef59",
-     "title": "증권사 신용융자 담보비율 3개월 한시 면제…반대매매 충격 완화 나선 정부",
-     "link": "https://www.thedailyeconomy.kr/news/articleView.html?idxno=6660",
-     "summary": "정부 는 최근 글로벌 증시 조정의 배경으로 인공지능 ( AI ) 산업을 둘러싼 정책 불확실성과 투자심리 위축 등을 지목했다. AI 데이터센터 규제 우려와 주요국 정책 ...",
-     "source": "",
-     "ts": 1794227555
-    },
-    {
-     "id": "5c956c41d3202708",
-     "title": "젠슨 황 장녀 불참 이유 묻자 '동문서답'…장관·기업 일정 줄줄이 취소 [MBN 뉴스7] - YouTube",
-     "link": "https://www.youtube.com/watch?v=irrov6dBTTw",
-     "summary": "... AI 스타트업 리벨리온 본사 방문 등 일정 도 줄줄이 취소됐습니다. 우리 정부 가 공을 들였던 엔비디아와 SK텔레콤, 리벨리온의 기술 협력을 위한 3자 업무 ...",
-     "source": "",
-     "ts": 1794227534
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "cf53c0f1af",
@@ -99,88 +99,88 @@
    "site": "https://aimatters.co.kr",
    "items": [
     {
-     "id": "f176d361c5f645e5",
-     "title": "[AI 활용팁] 챗GPT 아이클라우드 연결로 메일 요약과 일정 수정하기 - AI매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59708/",
-     "summary": "챗GPT에 아이클라우드 메일과 캘린더 플러그인을 연결하는 순서, 앱 전용 암호 생성과 이중 인증 조건, 메일 요약과 일정 변경 프롬프트 예시, ...",
+     "id": "a91e600f82e3d353",
+     "title": "구글 검색 광고, 광고 묶음 위에 AI 요약 시험 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59844/",
+     "summary": "구글이 모바일 검색의 스폰서 결과 묶음 위에 여러 광고 내용을 요약한 AI 문구를 표시하는 시험을 하고 있다. 각 광고 아래에도 AI 생성 설명이 추가됐다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "bb4a24a66ee320ae",
-     "title": "[AI 활용팁] 챗GPT 슬라이드로 발표 자료 만들고 팀원과 공동 편집하기 - AI 매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59709/",
-     "summary": "챗GPT 슬라이드로 대화만으로 발표 자료 초안을 받는 방법, 스페이스에서 템플릿으로 시작하기, 요소별 수정 요청과 실시간 공동 편집, 파워포인트와 PDF, ...",
+     "id": "df4331492701c7da",
+     "title": "구글 디맨드젠, 디스플레이 노출 제외를 광고그룹 단위로 변경 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59848/",
+     "summary": "구글이 12월 1일 주부터 디맨드젠 캠페인 단위 디스플레이 제외 설정을 API에서 받지 않는다. 디스플레이 노출 여부는 광고그룹 채널 제어로 정한다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "9b69642dd06674d3",
-     "title": "CFO AI 투자 성과, 가치 얻었다는 답 68%로 늘었지만 기대 넘어선 곳은 9%뿐 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59678/",
-     "summary": "CFO AI 투자 성과 체감 비율이 68%로 늘었다. 딜로이트가 아시아태평양 CFO 363명을 조사한 결과 기대 이상 성과는 9%였다. AI를 성장 동력이자 위협으로 ...",
+     "id": "ea598a94fe3c86cb",
+     "title": "마이크로소프트 광고, 전환 API 정식 출시…화면 오류도 수정 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59850/",
+     "summary": "PPC 랜드에 따르면, 마이크로소프트는 현지 시각 11월 9일 링크드인 뉴스레터에서 “일부 고객이 빈 페이지, 리디렉션, 반복 로그인 요청에서 막힌다는 의견을 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "43585bc4ac9dd90d",
-     "title": "[AI 활용팁] 클로드 인 크롬으로 웹 페이지 읽기와 폼 입력 맡기기 - AI 매터스",
-     "link": "https://aimatters.co.kr/ai-tool/59707/",
-     "summary": "클로드 인 크롬 확장의 설치 순서와 요청 권한, 사이드 패널로 웹 페이지 요약과 폼 입력을 맡기는 프롬프트 예시, 유료 요금제 조건, 예약 작업과 작업 ...",
+     "id": "5cf187f2db87bb33",
+     "title": "마이크로소프트 빙 AI 모드, 답변 맨 위에 광고 노출 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59846/",
+     "summary": "파텔은 서치 엔진 워치 게시물에서 이 화면을 사이트 링크를 포함한 스폰서 광고가 답변 상단에 표시되는 사례로 소개했다. 배리 슈워츠 서치 엔진 라운드테이블 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "044ffc085924b7e2",
-     "title": "앤트로픽, 클로드와 함께 세균 속 '볼트' 단백질 구조 규명 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59755/",
-     "summary": "앤트로픽이 클로드 사이언스로 150억 개 단백질 데이터베이스를 검색해 박테리오파지 유래 볼트 단백질 입자의 3차원 구조를 냉동전자현미경으로 규명했다.",
+     "id": "a7d7117671db2626",
+     "title": "[AI 활용팁] 구글 AI 모드 광고, 제외 키워드와 브랜드 제외로 관리하기 - AI매터스",
+     "link": "https://aimatters.co.kr/ai-tool/59891/",
+     "summary": "구글 AI 모드 후속 질문 광고는 기존 검색, 쇼핑, 실적 최대화 캠페인이 자동으로 참여해 따로 끌 수 없다. 검색어 보고서, 제외 키워드, 브랜드 제외로 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "3bcf4c4ef1b0c314",
-     "title": "AWS 키로, 여러 작업 지휘하는 AI 에이전트 '봇' 출시 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59759/",
-     "summary": "AWS가 오픈소스 다중 에이전트 개발 환경 키로 크루에 봇 기능을 정식 출시했다. 봇은 기억과 세션을 따로 관리하며 여러 작업을 동시에 실행하고, ...",
+     "id": "b7f7c1d07928594d",
+     "title": "트레이드 데스크, 3분기 매출 0.5% 감소…상장 후 처음 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59853/",
+     "summary": "트레이드 데스크의 3분기 매출이 9876억 원으로 1년 전보다 0.5% 줄었다. 2016년 상장 후 첫 전년 대비 감소이며, 4분기 매출 전망도 지난해보다 약 11% ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "765b92fd6e34376a",
-     "title": "앤트그룹, 영상까지 이해하는 AI 모델 '링 3.2 플래시' 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59762/",
-     "summary": "앤트그룹이 텍스트, 이미지, 영상을 함께 처리하는 링 3.2 플래시를 공개했다. 자체 평가에서 문서 이해와 웹 화면 생성 점수가 클로드 오퍼스 5보다 높았고 ...",
+     "id": "90d7b1a4b209e0b9",
+     "title": "광고 대행사 브레인랩스 \"메타 AI 소재, 성과 원인 알기 어려워\" - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59855/",
+     "summary": "광고 대행사 브레인랩스가 메타 어드밴티지+ 소재 자동 최적화에 캠페인 전체를 맡기면 어떤 소재가 효과를 냈는지 알기 어렵다고 지적했다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "4b29d4d906a626ee",
-     "title": "오픈AI, 앤트로픽 클로드 코드 제품 책임자 캣 우 영입 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59763/",
-     "summary": "앤트로픽에서 클로드 코드 제품 책임자를 맡았던 캣 우가 오픈AI 코어 제품의 제품 관리를 이끈다. 코어 제품 조직은 챗GPT, 코덱스, API를 담당하며 캣 ...",
+     "id": "153098d4da6adf0f",
+     "title": "[AI 활용팁] 어텐티브 MCP, 클로드와 챗GPT로 캠페인 분석하기 - AI매터스",
+     "link": "https://aimatters.co.kr/ai-tool/59893/",
+     "summary": "문자, 이메일 마케팅 플랫폼 어텐티브가 MCP 서버를 정식 출시했다. 클로드와 챗GPT를 연결해 캠페인 성과를 묻고 고객군과 저니 초안을 요청하는 순서와 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "56b1a6154d2a114e",
-     "title": "소니코리아, 1979년 워크맨 헤드폰 계승한 'MDR-3R' 출시 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/59773/",
-     "summary": "소니코리아가 1979년 첫 워크맨 헤드폰 MDR-3의 디자인을 재해석한 USB-C 유선 헤드폰 MDR-3R을 8만 9천 원에 출시했다. 23mm 드라이버와 내장 마이크, ...",
+     "id": "1a508f24cbd878be",
+     "title": "하드웨어 시험 AI 플랫폼 노미널, 3,220억 원 투자 유치 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59794/",
+     "summary": "하드웨어 시험 데이터 분석 플랫폼 노미널이 기업가치 30억 달러에 2억 4000만 달러 시리즈 C 투자를 유치했다. 미국 7대 방산 기업 가운데 5곳이 고객이다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "f4b81ef50b721946",
-     "title": "앤트로픽 \"과학자, 클로드를 데이터 분석에 가장 많이 사용\" - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/59757/",
-     "summary": "앤트로픽이 연구 관련 클로드 대화 20만 7049건과 과학자 528명 설문을 분석했다. 데이터 분석이 가장 많았고 가설 생성은 클로드 대화의 4.2%였다.",
+     "id": "dff7e6e2b52e8fe4",
+     "title": "도이치텔레콤, 뮌헨 AI 팩토리 20MW로 확장…엔비디아 B300 추가 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/59793/",
+     "summary": "도이치텔레콤이 뮌헨 AI 팩토리에 엔비디아 B300 시스템을 추가해 전력 용량 20MW로 확장한다. 2월 가동한 1단계 설비는 7개월 만에 예약이 모두 찼다.",
      "source": "",
      "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "25ac01331a",
@@ -189,12 +189,52 @@
    "site": "https://www.axios.com",
    "items": [
     {
-     "id": "9b733aeb009811d4",
-     "title": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
-     "link": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi",
-     "summary": "The White House is \"cautiously optimistic\" as peace talks between Russia and Ukraine resume in Abu Dhabi this week, U.S. officials said on Monday. Why it matters: The talks on Tuesday and Wednesday will be the first tim…",
+     "id": "cde6145157449563",
+     "title": "House Dems size up 2028 Senate map after midterm landslide",
+     "link": "https://www.axios.com/2026/11/10/democrats-2028-senate-map",
+     "summary": "Current and former House Democrats, flush with victory following their landslide midterm wins , are already looking at potential opportunities to run for Senate in 2028, Axios has learned. Why it matters: Democrats' 202…",
      "source": "",
-     "ts": 1794256943
+     "ts": 1794275020
+    },
+    {
+     "id": "aa8d4bb52e386092",
+     "title": "France says Iranian hackers sabotaged supermarket refrigerators",
+     "link": "https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks",
+     "summary": "The French government has blamed an Iranian military hacking unit for cyberattacks that disrupted refrigeration systems at roughly 700 grocery stores and other retail locations last month, causing food losses and at lea…",
+     "source": "",
+     "ts": 1794274577
+    },
+    {
+     "id": "381f30fb9f001c1d",
+     "title": "Sex, secrets and spies: The history of suspected honey traps",
+     "link": "https://www.axios.com/2026/11/09/jensen-huang-china-spy-nvidia-fbi-doj",
+     "summary": "Nvidia CEO Jensen Huang's affair with a woman suspected of spying for China echoes past controversies involving prominent Americans whose romantic relationships raised national security concerns. Why it matters: Foreign…",
+     "source": "",
+     "ts": 1794268155
+    },
+    {
+     "id": "bfe52dabb2b2a33e",
+     "title": "Pressure builds on Thune ahead of GOP leadership elections",
+     "link": "https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections",
+     "summary": "Seven Republican senators now are calling for their leadership elections to be delayed — with one even promising to walk out rather than vote Tuesday. Why it matters: Senate Majority Leader John Thune (R-S.D.) is still…",
+     "source": "",
+     "ts": 1794266783
+    },
+    {
+     "id": "eb5a7c87e81d004d",
+     "title": "Trump: New Iran attacks \"quite unlikely\"",
+     "link": "https://www.axios.com/2026/11/09/trump-iran-war-qatar-negotiations-attacks-unlikely",
+     "summary": "President Trump said Monday that a renewed military campaign against Iran is \"quite unlikely\" and \"doesn't seem to be necessary.\" Why it matters: Trump stopped short of saying the war was over, but his comments on Truth…",
+     "source": "",
+     "ts": 1794264928
+    },
+    {
+     "id": "f7b002622d2e533c",
+     "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
+     "link": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
+     "summary": "Alice Huang, a former executive of a Singapore-based AI computing company, is at the center of a suspected Chinese espionage scandal after Nvidia CEO Jensen Huang acknowledged an extramarital affair. Why it matters: The…",
+     "source": "",
+     "ts": 1794260868
     },
     {
      "id": "ca29b37e3511b502",
@@ -202,75 +242,35 @@
      "link": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
      "summary": "Rep. Thomas Massie (R-KY) introduced articles of impeachment against Defense Secretary Pete Hegseth on Monday over his handling of the Iran war and other alleged misconduct. Why it matters: The coming vote could mark th…",
      "source": "",
-     "ts": 1794254891
+     "ts": 1794260377
     },
     {
-     "id": "4596e4399b346c0a",
-     "title": "Republicans' final weeks in power may be consumed by fights they don't want",
-     "link": "https://www.axios.com/2026/11/09/congress-senioritis-lame-duck-shutdown-2026",
-     "summary": "Republicans are returning to work this week, facing the prospect of an especially lame lame-duck session after a bruising midterm election that set off a countdown clock on their control of Congress. Why it matters: Dem…",
+     "id": "3adb9b649b634600",
+     "title": "Democrats' 2028 presidential auditions begin in Denver",
+     "link": "https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028",
+     "summary": "A who's who of Democratic power players descends on Denver this week to plot the party's future, fresh off its sweeping midterm victories . Why it matters: The gathering gives Democrats' rising stars an early stage to t…",
      "source": "",
-     "ts": 1794252986
+     "ts": 1794257921
     },
     {
-     "id": "33b108e4f92f96aa",
-     "title": "Low unemployment, but job worries persist",
-     "link": "https://www.axios.com/2026/11/09/conflicting-job-expectations-unemployment",
-     "summary": "Americans have conflicting views of the job market : They are more worried about unemployment rising nationwide, even as they are more confident that they could find another job if they lost their own. Driving the news:…",
+     "id": "c6eeece9b0c9ed5b",
+     "title": "Nvidia has no obvious successor to Jensen Huang — and that's a problem",
+     "link": "https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan",
+     "summary": "Nvidia is coming under fire for having no clear succession plan to replace Jensen Huang in the event that something unexpected happens — like an international incident with him at the center . Why it matters: The spotli…",
      "source": "",
-     "ts": 1794243762
+     "ts": 1794257318
     },
     {
-     "id": "6e80e54d4de9b3a1",
-     "title": "Oil prices and bond yields no longer moving together",
-     "link": "https://www.axios.com/2026/11/09/oil-yields-inflation-growth",
-     "summary": "Data: Axios analysis of FactSet data; Note: Correlation over preceding 30 trading sessions between daily change in West Texas Intermediate crude and change in 10-year U.S. Treasury yield; Chart: Neil Irwin/Axios For muc…",
+     "id": "9b733aeb009811d4",
+     "title": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
+     "link": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi",
+     "summary": "The White House is \"cautiously optimistic\" as peace talks between Russia and Ukraine resume in Abu Dhabi this week, U.S. officials said on Monday. Why it matters: The talks on Tuesday and Wednesday will be the first tim…",
      "source": "",
-     "ts": 1794243742
-    },
-    {
-     "id": "eea513d5cdd94814",
-     "title": "Democrats face a tough sell with MAHA voters",
-     "link": "https://www.axios.com/2026/11/09/democrats-make-america-healthy-again-rfk",
-     "summary": "The potential for partnership between newly ascendant Democrats and the \"Make America Healthy Again\" movement is already threatened by their deep disagreements over Health Secretary Robert F. Kennedy Jr. Why it matters:…",
-     "source": "",
-     "ts": 1794220205
-    },
-    {
-     "id": "d165f8a14279efb7",
-     "title": "Elon Musk's empire braces for Democratic crackdown",
-     "link": "https://www.axios.com/2026/11/09/elon-musk-midterms-risks-empire",
-     "summary": "Elon Musk's sprawling empire — from rockets to robots, electric cars to AI — is facing a political onslaught with few parallels in modern corporate history. Why it matters: The world's richest man confronts a constellat…",
-     "source": "",
-     "ts": 1794219605
-    },
-    {
-     "id": "35b8d63d921e6460",
-     "title": "Planet-sized problems collide in permitting debate",
-     "link": "https://www.axios.com/2026/11/09/climate-nature-energy-permitting-debate",
-     "summary": "Efforts to fight climate change, conserve nature and build clean energy have long unfolded on competing tracks. Now, they're colliding — and exposing tough trade-offs for environmentalists. Why it matters: Congress' swe…",
-     "source": "",
-     "ts": 1794219304
-    },
-    {
-     "id": "214e0df6be73645f",
-     "title": "AI's \"too big to fail\" CEO is facing a crisis with no backup",
-     "link": "https://www.axios.com/2026/11/09/jensen-huang-nvidia-ceo-crisis",
-     "summary": "There is no Nvidia — nor an AI boom as we know it — without Jensen Huang. He has reassured jittery markets with his words, bankrolled a trillion-dollar buildout and put economies on his shoulders. Now, the world is wond…",
-     "source": "",
-     "ts": 1794219304
-    },
-    {
-     "id": "c9b118d0395a505f",
-     "title": "Jensen Huang spy scandal rocks AI race",
-     "link": "https://www.axios.com/2026/11/09/jensen-huang-spy-scandal-ai",
-     "summary": "The world's most powerful AI executive admitted Sunday to an affair with a suspected Chinese spy, sending shock waves through an industry built on his singular influence. Why it matters: Nvidia CEO Jensen Huang has fash…",
-     "source": "",
-     "ts": 1794218404
+     "ts": 1794256943
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "958c3c8570d18b36",
-     "title": "암호화된 디스크를 사용하는 시스템의 무인 재부팅",
-     "link": "https://news.hada.io/topic?id=36902&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "ZKeys 는 디스크 암호화 키를 외부에 보관하고, 클라이언트가 부팅 시 이를 가져오도록 해 수동 암호 입력 없이 암호화된 서버를 재부팅할 수 있게 하는 관리형 서비스임 클라이언트의 생존 확인 메시지 가 일정 시간 끊기면 키 접근을 자동 차단해, 도난으로 전원이 분리된 장비가 이후 키를 가져가지 못하도록 함 서버에는 암호의 절반만 저장 하고, 그마저 클라이언트가 제공하는 비밀번호로 암호화해…",
+     "id": "dd7c09f575b36550",
+     "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
+     "link": "https://news.hada.io/topic?id=36930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Claude Code·Codex·Cursor 같은 에이전트에게 셸 명령을 맡길 때 다들 어떻게 쓰시는지 궁금합니다. 공개된 사고 보고서를 모아 보면 홈 폴더나 저장소, 데이터베이스가 날아간 경우가 꽤 있습니다. 그런데 명령 자체가 위험해 보이지 않는 경우가 많았습니다. rm은 스크립트나 테스트 파일 안에 있고, 에이전트는 그 스크립트를 실행했을 뿐이었습니다. prisma migrate re…",
      "source": "",
-     "ts": 1794254562
+     "ts": 1794280529
     },
     {
-     "id": "b0d66ec2ff1bc2ba",
-     "title": "암호화폐 소송: Ethereum Foundation이 ‘자살 서약’을 요구했다는 의혹",
-     "link": "https://news.hada.io/topic?id=36901&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Ethereum Foundation에서 해고된 Kayleen Fulton 이 연방 소송을 제기함. 소장에 따르면 재단은 직원들에게 자살 서약이 담긴 운영 지침에 동의하거나 퇴사하도록 요구했으며, Fulton은 직원들의 반대를 주도한 뒤 해고됨 문제의 ‘ Source Seppuku License ’에는 소프트웨어의 자유로운 이용과 공개 접근을 유지하겠다는 약속을 어기면 목숨을 끊겠다는 문구가…",
+     "id": "46c67ec539c86529",
+     "title": "Fable 5.2가 조카가 꿈꾸던 게임을 한 번의 요청으로 구현함",
+     "link": "https://news.hada.io/topic?id=36929&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Fable 5.2 가 조카의 그림과 기존 게임을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 벨트스크롤 액션 게임을 완성함 기존 코드 대부분을 다시 작성하고 이미지 약 175개와 오디오 클립 140개 를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함 게임을 플레이하는 봇 을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두 실행하고, 스크린샷…",
      "source": "",
-     "ts": 1794254251
+     "ts": 1794278111
     },
     {
-     "id": "9db831b4d569245a",
-     "title": "언제쯤 멈출까? Raspberry Pi 5 16GB 싱글보드 컴퓨터, 이제 385달러에 판매",
-     "link": "https://news.hada.io/topic?id=36899&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Raspberry Pi가 대부분의 16GB RAM 제품 가격을 다시 인상 함. Raspberry Pi 5 16GB는 지난 4월보다 80달러 오른 385달러 에 판매됨 Compute Module 5 16GB 도 40달러 올라 무선 기능이 없는 Lite 모델이 375달러부터 시작함 기계식 키보드 PC인 Raspberry Pi 500+ 는 인상 대상에서 제외돼 시작 가격 410달러를 유지함 RA…",
+     "id": "061260869d9ca010",
+     "title": "Show GN: Daizy - 단어 암기에 특화된 예쁜 Anki/Quizlet Alternative",
+     "link": "https://news.hada.io/topic?id=36928&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다. 주요기능 안드로이드, iOS, 웹 버전 지원 FSRS 알고리즘 기반 데일리 퀴즈 Anki 덱 Import / Export Streak, Stats, Reminder(Notification) 장점 저렴한 비용(월 플랜 2,200원) 잡다하지 않은 기능, 심플한 UI 향후 추가될 기능 사용자의 단어 DB에 기반…",
      "source": "",
-     "ts": 1794254071
+     "ts": 1794276900
     },
     {
-     "id": "189cecedc6306624",
-     "title": "Hacker News에서 2년 전으로 돌아가면 더 나은 다른 세계에 들어간 듯하다",
-     "link": "https://news.hada.io/topic?id=36898&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "2024년 11월 8일 Hacker News 목록 에는 미토콘드리아, macOS 보안 취약점, 게임 그래픽, AI 미세 조정 등 다양한 주제의 게시물 30개가 실려 있음 목록 맨 위에는 미토콘드리아는 살아 있다 , macOS 샌드박스 탈출 취약점, Obra Dinn의 1비트 디더링 안정화 글이 차례로 올라 있음 개인 제작 프로젝트 로 웹에서 플레이 가능한 SF 로그라이크 Asterogue와…",
+     "id": "4839da40287d4512",
+     "title": "Show GN: Tacie – 지난 결정, 회의 중에 바로 찾아 주는 Mac용 AI 어시스턴트",
+     "link": "https://news.hada.io/topic?id=36925&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다. 회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고, 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다. 사용 예시 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3…",
      "source": "",
-     "ts": 1794253891
+     "ts": 1794275762
     },
     {
-     "id": "0321944ea34bda76",
-     "title": "캐나다 전국 건강 보고서, 너무 많은 남성이 말없이 고통받고 있음 확인",
-     "link": "https://news.hada.io/topic?id=36897&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "캐나다인 약 6,000명이 참여한 전국 의견 수렴 에서 많은 남성과 소년이 필요한 지원 없이 정신건강과 웰빙 문제를 겪는 것으로 나타남 주요 문제는 정신건강, 사회적 고립, 도움 요청의 장벽 이며, 서비스 개선과 사회적 연결 강화가 필요함 참여 단체들은 위기에 처한 뒤 도움을 제공하기보다 소년과 청년기에 조기 개입 하고, 지역사회 관계와 예방적 지원을 강화해야 한다고 촉구함 Movember…",
+     "id": "afe37ab96647c0ec",
+     "title": "1.58비트 터너리 양자화로 30B LLM을 맥북에서 돌리기: 0점에서 89.4%까지 복원한 기록",
+     "link": "https://news.hada.io/topic?id=36924&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 약 60GB → 약 10GB 까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개 30B 모델은 4비트로 줄여도 가중치만 16…",
      "source": "",
-     "ts": 1794253711
+     "ts": 1794275626
     },
     {
-     "id": "6c5e11a50137bd24",
-     "title": "Claude Fable 5.2와 Mythos 5.2 - 복잡한 코딩과 과학 연구 역량을 강화한 AI 모델",
-     "link": "https://news.hada.io/topic?id=36896&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Anthropic이 코딩, 추론, 시각 이해 능력 을 개선한 Claude Fable 5.2와 Mythos 5.2를 출시함. 사전 테스트에서 소프트웨어 전환, 전자기기 설계, 과학 문제 해결과 수학 증명 형식화에 활용함 두 제품은 동일한 기반 모델 을 사용하지만 접근 조건이 다름. Fable은 강력한 사이버보안/생물학 안전장치를 적용해 일반 제공하며, Mythos는 해당 분야의 유익한 연구를…",
+     "id": "d59e425e51fa8291",
+     "title": "ElevenLabs는 어떻게 영화 더빙에서 음성 AI 플랫폼으로 확장했나 [영상]",
+     "link": "https://news.hada.io/topic?id=36923&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "ElevenLabs는 오디오 모델을 직접 연구하고, 그 기술을 고객의 실제 업무에 적용 해 성장함. 영화 더빙에서 출발해 콘텐츠 제작과 콜센터 음성 에이전트로 확장함 출발점은 감정과 원래 목소리를 보존하는 더빙이었지만, 기술적 한계와 창작자에게 당장 필요한 작업을 확인한 뒤 고품질 음성 생성 부터 해결함 연구는 오디오에 집중하고, 제품에는 외부 LLM과 지식, 시스템 연동을 결합함. 장기적…",
      "source": "",
-     "ts": 1794253531
+     "ts": 1794275402
     },
     {
-     "id": "dc78f28108734056",
-     "title": "Show GN: FCaptcha - 실제 브라우저를 조작하는 AI 에이전트 탐지용 오픈소스 CAPTCHA",
-     "link": "https://news.hada.io/topic?id=36895&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "WebDecoy에서 FCaptcha를 만드는 팀입니다. 실제 브라우저에서 폼을 채우고 버튼을 누르는 AI 에이전트 자동화를 탐지하기 위해 만든 CAPTCHA를 소개합니다. 브라우저 신호, 입력·상호작용 패턴, 작업 증명(Proof of Work)을 함께 사용합니다. 체크박스 모드와 비표시(invisible) 모드를 제공하며, 이미지나 음성 퍼즐을 요구하지 않습니다. MIT 라이선스이며 Go…",
+     "id": "06b0b9164b2a82f5",
+     "title": "왜 이 모든 OT 시스템이 네트워크에 연결돼 있는지 이야기해 보자",
+     "link": "https://news.hada.io/topic?id=36922&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "OT의 네트워크 연결 은 운영 효율을 높이고 원격 제어를 도입하며 유지보수 비용을 줄이는 결정이 누적된 결과로, 이제 전력과 수도, 식품 보관에 깊이 얽혀 있어 단순히 끊기 어려움 IT/OT 융합과 공급업체의 구축 방식 표준화 로 산업 시스템의 비용은 줄었지만, 공격자가 익숙한 기술과 반복 가능한 구조가 확산돼 공격의 규모 확대와 자동화도 쉬워짐 원격 지원 은 산업 운영과 공급업체 계약의…",
      "source": "",
-     "ts": 1794251550
+     "ts": 1794272666
     },
     {
-     "id": "96f644ce5530ca45",
-     "title": "Show HN: Flide, Jev 계열 의사결정 모델을 최대 9.5배 빠르게 실행",
-     "link": "https://news.hada.io/topic?id=36894&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Flide 는 Jev 계열 의사결정 모델용 추론 인프라로, 정확한 상태 분기(exact state forking)를 통해 vLLM과 SGLang 대비 최대 9.5배 빠른 추론 을 내세움 하나의 상태를 여러 질문으로 분기하면서도, 각 답변은 모델에 해당 질문만 단독으로 입력했을 때의 답변 과 같도록 유지함 Jev의 /v1/systemone API 를 제공하며, 공유 상태에 대한 여러 질문과…",
+     "id": "2343e6e5186ea66f",
+     "title": "DeepX, 2세대 AI 칩 DX-M2 테이프아웃 완료 - 5W 미만에서 최대 1,000억 파라미터 모델 추론 목표",
+     "link": "https://news.hada.io/topic?id=36920&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "한국 엣지 AI 반도체 스타트업 딥엑스가 2세대 가속기 DX-M2의 테이프아웃을 완료 함. 로봇과 드론처럼 전력과 발열 제약이 큰 기기에서 생성형 AI를 직접 실행하도록 설계함 5W 미만에서 전체 200억~1,000억 파라미터 규모의 모델을 초당 10~30토큰으로 실행 하는 것이 목표. 활성 파라미터는 약 30억~200억 개 이며, 메모리 대역폭은 전작의 3배인 150GB/s 로 높임 Sa…",
      "source": "",
-     "ts": 1794249682
+     "ts": 1794271444
     },
     {
-     "id": "6024662bb85edb89",
-     "title": "같은 H100도 어디서 빌리느냐에 따라 시간당 2.69달러 또는 12.29달러",
-     "link": "https://news.hada.io/topic?id=36893&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "H100 SXM 80GB 의 온디맨드 임대료를 GPU당 시간당 가격으로 환산하면 RunPod Community는 2.69달러, Azure ND는 12.29달러로 4.57배 차이가 남 비교는 동일 모델과 메모리 용량 끼리만 수행함. H100이라는 이름으로 판매되는 SXM 80GB, PCIe 80GB, NVL 94GB를 한데 묶지 않음 가격 차이가 전부 마진은 아님. Azure ND에서 Run…",
+     "id": "77277ba7d620607a",
+     "title": "CUI - C용 네이티브 UI 컴포넌트",
+     "link": "https://news.hada.io/topic?id=36919&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "CUI 는 하나의 C99 코드베이스로 Windows, Mac, Linux에서 사용하는 약 160개 UI 컴포넌트 를 제공하며, 스프링 모션과 전체 키보드 지원을 갖춤 즉시 모드(immediate mode) 방식으로 컴포넌트 함수가 자신을 그리고 발생한 동작을 반환함. 개발자의 변수를 상태로 사용하고 매 프레임 화면 전체를 다시 기술해 별도 상태 동기화가 필요 없음 데이터 그리드, 명령 팔레…",
      "source": "",
-     "ts": 1794249502
+     "ts": 1794271264
     },
     {
-     "id": "a806338af46fecee",
-     "title": "마젠타색 태양광 패널, 영농형 태양광의 가장 영리한 해법일지도 모른다",
-     "link": "https://news.hada.io/topic?id=36892&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "반투명 태양광 패널 로 햇빛의 일부 파장은 발전에 쓰고 광합성에 중요한 파장은 작물에 전달한 실험에서, 브로콜리 수확량이 대체로 유지됨 새 패널은 붉은빛 대부분과 푸른빛 일부 를 통과시켜 아래 작물에 마젠타색 빛을 드리우고, 나머지 빛의 상당 부분을 전기로 전환함 패널 아래 브로콜리는 노지의 비차광 작물과 수확량이 비슷했지만, 성장 속도가 느려 수확까지 25일이 더 걸림 패널 아래에서는 수…",
+     "id": "d9a6081b7464975f",
+     "title": "Google, 8세대 TPU에 기밀 추론용 8tx와 긴 컨텍스트용 8i Max 추가",
+     "link": "https://news.hada.io/topic?id=36918&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Google이 8세대 TPU에 TPU 8tx 와 TPU 8i Max 를 추가해, 대규모 학습부터 저지연 추론, 기밀 컴퓨팅, 대규모 컨텍스트까지 담당하는 네 가지 시스템을 구성함 기존 TPU 칩을 바탕으로 패키징, 메모리, 네트워크, 보안 구성을 바꿔 용도별 시스템을 만듦. Google은 이 방식으로 특화 시스템을 수년 대신 수개월 안에 내놓을 수 있다고 봄 TPU 8tx 는 사용 중인 민…",
      "source": "",
-     "ts": 1794249322
+     "ts": 1794271084
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "d1c587ecba",
@@ -368,6 +368,22 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "c93c64172e07cb1e",
+     "title": "llm-anthropic 0.31",
+     "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+     "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm…",
+     "source": "",
+     "ts": 1794268726
+    },
+    {
+     "id": "d363b026f0d913e8",
+     "title": "Locating the source of a mysterious beep with Claude",
+     "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+     "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in t…",
+     "source": "",
+     "ts": 1794268641
+    },
     {
      "id": "5b851a3023343d96",
      "title": "The Web Is More Than Enough, by Paul Ford",
@@ -428,29 +444,13 @@
      "id": "f121b002be2ba369",
      "title": "datasette-llm 0.1a10",
      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-     "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+     "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
      "source": "",
      "ts": 1793805962
-    },
-    {
-     "id": "c3dba756698ba6ec",
-     "title": "datasette-apps 0.3a0",
-     "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-     "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent…",
-     "source": "",
-     "ts": 1793752176
-    },
-    {
-     "id": "196e073af215c4a0",
-     "title": "datasette-agent 0.5a0",
-     "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-     "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a t…",
-     "source": "",
-     "ts": 1793747625
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "f9eb976542",
@@ -459,88 +459,88 @@
    "site": "https://www.aitimes.com",
    "items": [
     {
-     "id": "e4200bf880469d45",
-     "title": "엔비디아 주가 장중 8.8% 급락…주요 투자자들은 젠슨 황 잔류 지지",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217194",
-     "summary": "젠슨 황 엔비디아 CEO의 불륜 인정과 중국 스파이 의혹으로 엔비디아 주가가 장중 최대 8.8% 급락했다. 그러나 주요 투자자들은 개인적인 처신에 실망하면서도 경영 지속을 공개적으로 지지하고 있다. 시장에서는 경영 불확실성을 우려해 주식을 매도하는 움직임이 나타난 가운데, 일부 주요 투자자는 CEO 교체가 오히려 기업가치에 더 큰 충격을 줄 수 있다고 판단한 것이다.악시오스는 9일(현지시간…",
+     "id": "bca11ad799489785",
+     "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217210",
+     "summary": "미국 의회가 AI 데이터센터의 건설 인허가를 완화하는 동시에 사업자의 전력망 비용 부담을 강화하는 초당적 법안 심의에 착수했다. 그러나 중간선거에서 데이터센터 규제 강화를 내세운 민주당 내부에서 건설 규제 완화에 대한 반발이 나오면서 법안 통과를 둘러싼 갈등이 불거지고 있다.로이터와 AP에 따르면, 미국 상원은 9일(현지시간) '미국 부담 완화 및 일자리 법안(BAAJA)'에 대한 심의 개…",
      "source": "",
-     "ts": 1794289126
+     "ts": 1794312977
     },
     {
-     "id": "ec70e561eeba7445",
-     "title": "\"젠슨 황 후계자 없다\"…엔비디아 자녀들 영향력 확대에 승계 논란",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217193",
-     "summary": "젠슨 황 엔비디아 CEO가 중국 스파이 의혹과 관련해 이사회 조사를 받게 되면서 후계자 부재와 가족들의 회사 내 영향력이 새롭게 주목받고 있다. 경영 권한이 창업자 한 사람에게 집중된 가운데 자녀들의 역할까지 커진 것으로 알려져, 향후 경영 승계와 이사회의 독립성에 대한 의문이 제기되고 있다.월스트리트저널(WSJ)과 뉴욕타임스(NYT) 등은 9일(현지시간) 엔비디아가 황 CEO에 대한 독립…",
+     "id": "af6e95457d6b9009",
+     "title": "트럼프 \"FBI, 젠슨 황 사건 조사 중\"…주요 AI 행사도 잇달아 불참",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217203",
+     "summary": "도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 CEO와 관련한 의혹을 연방수사국(FBI)이 조사하고 있다고 밝혔다. 황 CEO가 중국 정보기관과 연계된 것으로 의심받는 여성과 부적절한 관계를 맺었다는 논란이 불거진 가운데, 주요 AI 업계 행사에도 잇달아 불참하기로 했다.파이낸셜타임스(FT)에 따르면, 트럼프 대통령은 9일(현지시간) 백악관에서 기자들과 만나 \"FBI가 다른 사안과 관련해…",
      "source": "",
-     "ts": 1794288812
+     "ts": 1794310829
     },
     {
-     "id": "9e7f8b5382568bfc",
-     "title": "젠슨 황 논란에 엔비디아 침묵…정부 \"GPU 공급 차질 없어\"",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217190",
-     "summary": "젠슨 황 엔비디아 CEO를 둘러싼 논란 이후 처음 열린 주요 공식 행사에서 엔비디아 관계자들이 관련 질문에 답변을 피했다. 황 CEO의 딸인 매디슨 황 수석이사의 방한이 취소되고 엔비디아 주가도 급락한 가운데, 한국 정부는 이미 계약한 GPU 공급에는 차질이 없을 것으로 전망했다.9일 서울 코엑스에서 열린 '엔비디아 AI 데이 서울 2026'은 엔비디아 이사회가 황 CEO에 대한 외국 정보…",
+     "id": "64c8ffd1b9b35575",
+     "title": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 관련 '허위 설명' 쟁점",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217206",
+     "summary": "엔비디아와 젠슨 황 CEO가 중국 스파이 의혹과 관련한 정보를 투자자들에게 제대로 공개하지 않았다는 이유로 주주 집단소송에 직면했다. 황 CEO와 중국 정보기관의 스파이로 의심받는 여성의 관계 자체보다 회사가 관련 의혹을 어떻게 설명했는지, 투자자들에게 오해를 불러일으키는 정보를 제공했는지가 핵심 쟁점이다.로이터 등에 따르면, 개인 투자자 마크 키스텐마허가 대표하는 주주들은 9일(현지시간)…",
      "source": "",
-     "ts": 1794250443
+     "ts": 1794310478
     },
     {
-     "id": "8b0992c542242e2b",
-     "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217188",
-     "summary": "엔비디아가 리얼월드·업스테이지·모티프테크놀로지스 등 국내 AI 스타트업 3곳에 투자한다.엔비디아는 9일 서울 코엑스에서 국내 AI 스타트업 20여개 사가 참석한 가운데 열린 ‘AI 스타트업 파트너십 포럼'에서 이 같은 투자계획을 공개했다.리얼월드는 피지컬 AI 구현을 위한 로봇파운데이션모델(RFM)에서, 업스테이지와 모티프는 거대언어모델(LLM) 모델 분야에서 주목받고 있는 기업들이다. 앞…",
+     "id": "dbd241910bb39e81",
+     "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217204",
+     "summary": "AI 반도체 전문 딥엑스(대표 김녹원)가 삼성전자 2나노 공정 기반 차세대 생성 AI 반도체 ‘DX-M2’의 칩 설계를 마치고 내년 하반기 양산공급을 위한 채비에 나섰다.딥엑스는 이달 초 DX-M2 시제품 제작을 위한 마스크 테이프아웃(MTO·Mask Tape-Out)를 완료했다고 10일 밝혔다. MTO는 완성된 반도체 설계 데이터를 파운드리에 전달하는 단계로, 사실상 칩 설계가 끝났음을…",
      "source": "",
-     "ts": 1794250354
+     "ts": 1794309899
     },
     {
-     "id": "198b9643d6445b43",
-     "title": "카카오모빌리티-엔비디아, 레벨4 자율주행 협력…기아 PBV 우선 적용",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217187",
-     "summary": "카카오모빌리티와 엔비디아가 자율주행 기술과 컴퓨팅·센싱·안전 기술을 기아 목적기반차량(PBV)에 통합, 레벨4 자율주행 고도화에 나선다.카카오모빌리티(대표 류긍선)는 엔비디아와 레벨4 자율주행 기술 협력을 위한 업무협약(MOU)을 체결한다고 9일 밝혔다.카카오모빌리티는 강남 도심 운행으로 검증한 자체 자율주행 AI 모델의 엔드투엔드(E2E) 고도화를 위해 대규모 AI 연산을 실시간으로 처리…",
+     "id": "fa18cc408f0f915f",
+     "title": "어업 계절근로자 보험 의무화 첫해…정부, 고용 어가 160곳 점검",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217201",
+     "summary": "정부가 외국인 어업 계절근로자를 고용하는 전국 어가 약 160곳을 대상으로 의무보험 가입과 근로·주거환경 점검에 나섰다. 올해 2월 시행된 보험 가입 의무가 현장에서 지켜지고 있는지도 확인한다.법무부와 해양수산부는 9일부터 27일까지 3주간 어업 분야 외국인 계절근로자 고용 어가를 대상으로 하반기 인권 실태 점검을 실시한다고 밝혔다.전남은 어업 분야 외국인 계절근로자가 집중된 지역이다. 지…",
      "source": "",
-     "ts": 1794250328
+     "ts": 1794309713
     },
     {
-     "id": "e0524b752056f0b9",
-     "title": "PSI \"비공개 앤트로픽 AI로 18년 된 양자 난제 증명\"",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217177",
-     "summary": "비공개 앤트로픽 AI 모델을 활용해 18년간 풀리지 않았던 양자 컴퓨팅 분야의 난제 '아론슨-암바이니스(Aaronson-Ambainis) 추측'을 증명했다는 연구 결과가 나왔다. AI가 수학적 증명을 작성하고 컴퓨터를 통한 검증까지 통과한 것으로, 모델 개발사가 아닌 외부 기업이 자체 연구 시스템을 활용해 성과를 냈다는 점에서도 주목된다.피지컬 슈퍼 인텔리전스(PSI)는 6일(현지시간) 공…",
+     "id": "c842213393efe263",
+     "title": "전남 직업계고 취업 증가분 88.5% 타지역에서…광주는 관내 취업 늘어",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217200",
+     "summary": "전남 직업계고의 올해 보험가입 취업자가 지난해보다 78명 늘었지만, 증가분의 88.5%는 다른 시도에 취업한 인원에서 발생한 것으로 나타났다. 광주는 같은 기간 지역 내 취업자가 늘고 타지역 취업자는 소폭 감소해 서로 다른 흐름을 보였다.교육부와 한국교육개발원이 발표한 2024~2026년 직업계고 졸업자 취업통계조사 세부 자료에 따르면, 올해 전남 소재 직업계고의 건강보험·고용보험 가입 취…",
      "source": "",
-     "ts": 1794248771
+     "ts": 1794309640
     },
     {
-     "id": "9f708dca32810d45",
-     "title": "엔비디아, 로봇 AI 추론 5배 빠르게 하는 'V플래시' 공개",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217176",
-     "summary": "엔비디아가 로봇의 움직임을 계획하는 AI 추론 속도를 5배 높이면서 경로 예측 오류도 줄이는 기술을 공개했다. 이동 경로의 좌표를 하나씩 생성하는 대신 전체 경로를 한꺼번에 예측하는 방식으로, 로봇과 자율주행 차량의 실시간 제어 성능을 개선하는 데 활용할 수 있다는 설명이다.엔비디아는 6일(현지시간) 로봇과 자율주행 차량 등 피지컬 AI의 시각적 계획(Visual Planning)을 가속하…",
+     "id": "9b85f67e5fb6e242",
+     "title": "북미 태양광 PPA 제시가격 4.9% 상승…미국 12월 관세 선반영",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217152",
+     "summary": "북미 태양광 전력구매계약(PPA) 제시가격이 올해 3분기 전 분기보다 4.9% 상승했다. 미국이 오는 12월 시행할 태양광 소재·부품 수입 규제의 예상 비용이 실제 관세 부과에 앞서 PPA 제시가격에 반영되기 시작했다는 분석이다.재생에너지 계약 거래 플랫폼 레벨텐에너지(LevelTen Energy)가 지난 10월20일(현지시간) 발표한 3분기 가격지수에 따르면, 북미 종합지수(Contine…",
      "source": "",
-     "ts": 1794247853
+     "ts": 1794309600
     },
     {
-     "id": "a15c32c72efd7d5e",
-     "title": "구글, 코딩 전 설계 오류 잡는 '코끼리-금붕어' 플러그인 공개",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217179",
-     "summary": "구글이 AI 코딩 에이전트의 설계와 검토 과정을 개선하기 위한 '코끼리-금붕어 모델(EGM)' 플러그인을 오픈소스로 공개했다. 코드를 작성하기 전에 상세한 설계 명세서를 만들고, 대화 맥락이 없는 별도의 AI 에이전트가 이를 독립적으로 검토하도록 하는 것이 핵심이다. 설계에 참여한 AI가 자신의 잘못된 가정을 그대로 받아들이는 문제를 줄이고, 코드 구현 전에 오류를 발견하려는 목적이다.구글…",
+     "id": "74e296af5686db27",
+     "title": "정부, 보리 2만5000톤 특별매입 협의…내년엔 계약재배로 생산 조절",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217198",
+     "summary": "정부가 올해 급증한 보리 생산량에 대응해 2만5000톤의 특별매입을 협의한 데 이어 내년산은 계약재배 중심으로 생산을 조절한다. 2024~2025년 공급 부족을 겪었던 국내 보리 시장이 올해 생산 급증과 가격 하락으로 돌아서면서 수확 후 추가 매입에 이어 파종 단계의 재배 조절까지 추진되고 있다.10일 국가데이터처의 2024~2026년 보리 생산량조사와 농림축산식품부 자료에 따르면, 전국…",
      "source": "",
-     "ts": 1794247422
+     "ts": 1794309524
     },
     {
-     "id": "ae09a9178a3abfac",
-     "title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217183",
-     "summary": "AI 사전 학습 데이터의 0.1%만 오염시켜도 이를 기반으로 개발한 AI 에이전트에 원격 코드 실행(RCE) 백도어를 심을 수 있다는 연구 결과가 나왔다. 정상적인 데이터로 미세조정과 강화학습을 거쳐도 백도어가 제거되지 않았으며, 평소에는 정상적으로 작동하다가 특정 조건에서만 악성 명령을 생성해 탐지도 어려운 것으로 나타났다.앤트로픽 등이 참여한 공동 연구진은 지난달 27일 논문 사전 공개…",
+     "id": "382d663164051027",
+     "title": "덴컴, 서부장애인치과병원에 AI 진료기록 시스템 공급…정식 운영",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217208",
+     "summary": "치과 AI 전문 덴컴(대표 임병준)이 서울시 서부장애인치과병원에 AI 기반 진료기록 시스템을 구축하고 정식 운영에 들어갔다. 환자 문진과 진료 과정의 대화를 자동으로 기록해 의료진의 업무 부담을 줄이고 환자 진료에 집중할 수 있도록 지원하는 것이 핵심이다.덴컴은 서부장애인치과병원이 지난달 28일 AI 진료기록 시스템 시연회를 개최한 데 이어, 이달 3일부터 실제 진료 현장에서 시스템을 운영…",
      "source": "",
-     "ts": 1794246692
+     "ts": 1794309223
     },
     {
-     "id": "ed0b0671c03f843d",
-     "title": "모티프, 엔비디아 투자로 독파모 후속작 ‘모티프 4’ 개발한다",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217182",
-     "summary": "모티프테크놀로지스(대표 임정환)는 차세대 파운데이션 대형언어모델(LLM) ‘모티프 4’ 개발을 위한 투자 유치를 마무리하고, 본격적인 개발에 착수했다고 9일 밝혔다.이번 투자는 지난 5월 240억원 규모의 시리즈B에 이은 브릿지 라운드다. 기존 투자자와 함께 엔비디아가 참여할 예정이며, 투자 금액은 비공개다.모티프 4는 ‘모티프 3’의 후속 모델로 내년 1분기 오픈웨이트로 공개된다. 모티프…",
+     "id": "9d3814a13f6d1df5",
+     "title": "튀르키예, 2040년 태양광·풍력 175GW 목표…현재의 4배",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217168",
+     "summary": "튀르키예가 2040년까지 태양광·풍력 발전설비를 175기가와트(GW)로 확대하겠다는 목표를 제시했다. 올해 9월 말 설치용량 43.8GW의 약 4배로, 두 발전원에 약 1000억달러(약 135조5400억원)를 투자할 계획이다.튀르키예 에너지천연자원부가 지난 5일(현지시간) 발표한 '국가 에너지 2040' 비전과 알파르슬란 바이락타르 장관의 발표에 따르면, 175GW 목표에는 태양광과 육상·…",
      "source": "",
-     "ts": 1794245723
+     "ts": 1794308700
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "2c60dce9bd",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "95180fe28d",
@@ -908,6 +908,14 @@
    "url": "https://www.whitehouse.gov/presidential-actions/feed/",
    "site": "https://www.whitehouse.gov",
    "items": [
+    {
+     "id": "76e2a96ff3df3f2b",
+     "title": "Nominations and Withdrawals Sent to the Senate",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/",
+     "summary": "NOMINATIONS SENT TO THE SENATE: Philip Lawrence Aubart, of North Carolina, to be United States District Judge for the Middle District of North Carolina, vice William Lindsay Osteen, Jr., retiring. Natalie Baker, of Texa…",
+     "source": "",
+     "ts": 1794264809
+    },
     {
      "id": "0d039f10a6623c9d",
      "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
@@ -979,18 +987,10 @@
      "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of wind turbi…",
      "source": "",
      "ts": 1792697531
-    },
-    {
-     "id": "3a4c94df0d59e00e",
-     "title": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
-     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
-     "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. My Administration is committed to advancing women’s healt…",
-     "source": "",
-     "ts": 1792423557
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794257344
+   "last_ok": 1794283818
   }
  ]
 }
