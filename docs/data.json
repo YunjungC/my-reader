@@ -1,5 +1,5 @@
 {
- "generated_at": 1794362291,
+ "generated_at": 1794389495,
  "top_n": 10,
  "feeds": [
   {
@@ -9,88 +9,88 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
-     "id": "4f68e863a982e1e0",
-     "title": "정부 , AI 신약·뇌과학 등 미래 바이오 투자 확대 - 연합뉴스",
-     "link": "https://www.yna.co.kr/view/AKR20261110163500017",
-     "summary": "올해는 '소버린 바이오: K-문샷으로 여는 인공지능 ( AI )바이오 혁신의 ... 정부 정책 소개와 K-문샷 AI 신약, 뇌-컴퓨터 인터페이스(BCI) 미션별 추진 ...",
+     "id": "6ce4450ac735c689",
+     "title": "과기정통부 , '성평등 정책 담당관' 신설 추진⋯6명 증원· AI 조직도 손질 - 아이뉴스24",
+     "link": "http://www.inews24.com/view/2025076",
+     "summary": "과기정통부 와 소속기관, 산하단체의 성희롱·성폭력 예방과 피해구제 지원, 성평등 문화 확산 등도 주요 업무다. 인공지능 ( AI ) 관련 조직의 업무도 일부 조정한다 ...",
      "source": "",
-     "ts": 1794360948
+     "ts": 1794383860
     },
     {
-     "id": "3c2ee53b914f6c23",
-     "title": "세계적 인공지능 바이오 강국 도약을 위한 소버린 바이오 전략 모색 - 대한민국 정책브리핑",
-     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788703&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
-     "summary": "7대 SEED, K-문샷 등 미래 바이오 전략 논의 - - 과학기술정보통신부 , 11월 11일(수) 「2026 바이오 미래 포럼」 개최 - - 정책 브리핑 | 브리핑룸 | 보도 ...",
+     "id": "3d56037778774561",
+     "title": "정부 , AI 신약개발·BCI 전략 투자 확대…'소버린 바이오' 육성 속도 - 디지털데일리",
+     "link": "https://www.ddaily.co.kr/page/view/2026111116242414376",
+     "summary": "[디지털데일리 왕진화기자] 정부 가 인공지능 ( AI ) 신약개발과 뇌·컴퓨터 ... 남진우 AI 신약 미션 프로젝트 디렉터(PD)와 조일주 BCI 미션 PD가 각각 AI ...",
      "source": "",
-     "ts": 1794360903
+     "ts": 1794382491
     },
     {
-     "id": "f09940a3cf11910d",
-     "title": "국방 AI 힘주는 기업들…군 인재 확보 속도전 - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261110113136",
-     "summary": "인공지능 ( AI ) 기업이 국방 시장 공략을 위해 군 출신 인재 확보에 ... 네이버는 김 전 차관 영입 당시 정부 · 정책 조직 운영 경험이 공공 AI 전환 ...",
+     "id": "fef8dcfe19423a8b",
+     "title": "중기부, 2030년까지 '기업가치 1조' AI 스타트업 20개 육성 - 와우테일",
+     "link": "https://wowtale.net/2026/11/11/267884/",
+     "summary": "이번 육성 전략은 유망 인공지능 ( AI ) 스타트업을 발굴하는 데 그치지 않는다. ... 국가 AI 전략위와 공동으로 AI 유니콘 육성 컨트롤타워를 만들어 정책 을 수립 ...",
      "source": "",
-     "ts": 1794360254
+     "ts": 1794380217
     },
     {
-     "id": "fd24d139c323b5fc",
-     "title": "한국 디지털· AI 경쟁력 세계 10위… 전년比 8단계 상승",
-     "link": "https://www.newscj.com/news/articleView.html?idxno=3447714",
-     "summary": "이도규 과기정통부 정보통신 정책 실장은 “디지털· AI 경쟁력 평가결과가 전년 ... 프로젝트 , 7대 SEED 프로젝트 등 디지털· AI 관련 핵심 정책 을 차질없이 ...",
+     "id": "e120088728d8d00b",
+     "title": "유럽 슈퍼마켓 냉장 시설 해킹... 과기정통부 , 국내 콜드체인 업계 보안 점검 나서",
+     "link": "https://www.boannews.com/news/articleView.html?idxno=147186",
+     "summary": "최우혁 과기정통부 정보보호네트워크 정책 실장은 “유럽 콜드체인 해킹 사고는 ... AI 및 AI 보안 솔루션이 보안 인력의 업무에 어떤 식으로 영향을 미칠 ...",
      "source": "",
-     "ts": 1794359866
+     "ts": 1794379738
     },
     {
-     "id": "710ec11d759bac6b",
-     "title": "정부 , 내년 경제 정책 '양극화 완화·잠재성장률 제고'로 재편 - 아시아경제",
-     "link": "https://www.asiae.co.kr/article/2026111110034564595",
-     "summary": "초혁신경제 선도 프로젝트 와 관련해선 \"피지컬 AI 구현의 핵심 부품인 액추에이터, 휴머노이드용 이차전지는 국산화·표준개발 등으로 2030년까지 대규모 ...",
+     "id": "ec7830cd72cd1a27",
+     "title": "AI 스타트업 키워 2030년까지 AI 유니콘 20개·데카콘 1개 육성 - 대한민국 정책브리핑",
+     "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148975483&pWise=sub&pWiseSub=R2",
+     "summary": "정부 가 성장 잠재력이 높은 AI 스타트업을 ' AI 초기 유니콘'으로 발굴해 연구개발(RD)과 사업화, 실증·투자유치, 해외 진출까지 단계별로 장기 지원한다.",
      "source": "",
-     "ts": 1794359208
+     "ts": 1794379331
     },
     {
-     "id": "58bcbd4e17a802b4",
-     "title": "정부 , 피지컬 인공지능 핵심부품 키운다…선도과제 지정 - 연합뉴스TV",
-     "link": "https://www.yonhapnewstv.co.kr/news/AKR20261111092853XMG",
-     "summary": "초혁신경제 선도 프로젝트 는 지난해 8월 새 정부 경제성장전략에서 나온 ... 내년에는 로봇과 방산, 모빌리티 등 3대 수요 산업을 대상으로 '온-센서 AI ...",
+     "id": "eabe69e8d78e5d56",
+     "title": "될성부른 AI 스타트업 골라 유니콘까지 끌고 간다, 정부 'Beyond유니콘' 전략 - 플래텀",
+     "link": "https://platum.kr/archives/298347",
+     "summary": "중소벤처기업부는 국가 인공지능 전략위원회와 함께 마련한 ' AI 스타트업 ... 부처마다 흩어진 정책 은 국가 AI 전략위원회 산업 AX 분과와 함께 만드는 ' AI ...",
      "source": "",
-     "ts": 1794357195
+     "ts": 1794378354
     },
     {
-     "id": "3c49ec726cbc8d1f",
-     "title": "정부 , '양극화 대응 TF' 가동… “ AI 가 격차 더 키워 비상” | MTN 머니투데이방송",
-     "link": "https://news.mtn.co.kr/article/2026111107312378288",
-     "summary": "... 인공지능 전환(AX)이 격차를 키울 수 있다는 판단에 따른 것이다. 정책 의 두 ... 주거·일자리·서민금융 등 3대 민생 프로젝트 의 후속 조치도 함께 점검·관리한다.",
+     "id": "295c844d7a22d7e9",
+     "title": "'소버린 바이오' 전략 모색… 과기정통부 , 2026 바이오미래포럼 개최 - 헬로티",
+     "link": "https://www.hellot.net/news/article.html?no=116178",
+     "summary": "올해 포럼은 \"소버린 바이오: K-문샷으로 여는 AI 바이오 혁신의 미래\"를 주제로 바이오 연구의 인공지능 활용 확산이 불러올 혁신과 파급효과를 살펴보고, ...",
      "source": "",
-     "ts": 1794356890
+     "ts": 1794378271
     },
     {
-     "id": "76c2f7d403f69ab5",
-     "title": "경북도·국회의원·시군 국비확보 '원팀'…대형 SOC·피지컬 AI ·반도체 등 반영 추진 | 문화일보",
-     "link": "https://www.munhwa.com/article/11630439",
-     "summary": "또 정부 의 '대한민국 대도약 3대 메가 프로젝트 '에 맞춰 피지컬 AI ... 이 지사는 “ 정부 의 정책 기조에 부응하면서 민생안정과 진정한 지방시대를 ...",
+     "id": "0ad5619856eb65cc",
+     "title": "'기업가치 10조' AI 스타트업 키운다… 정부 , 2030년까지 유니콘 20곳 목표 - 뉴시안",
+     "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101065",
+     "summary": "［뉴시안= 이상선 기자］ 정부 가 2030년까지 기업가치 10조원 이상의 인공지능 ( AI ) ... 기업 성장 단계에 따라 차세대 유니콘 프로젝트 와 국민성장펀드 등 정책 금융 ...",
      "source": "",
-     "ts": 1794356416
+     "ts": 1794377869
     },
     {
-     "id": "ff830d96d444783a",
-     "title": "정부 , 'K자형 양극화' 막는다…경제부총리 주재 범 정부 TF 가동 - 연합인포맥스",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444092",
-     "summary": "인공지능 ( AI )이 이러한 격차를 더욱 가속할 수 있다고 우려했다. 이에 ... 정부 는 여러 정책 을 나열하는 방식에서 벗어나 '문제해결형 핵심 정책 과제 ...",
+     "id": "e1666f53ca83c63a",
+     "title": "'공공의료 AI 고속도로' 첫 개통,강원 지역 공공병원 의료 AI 로 본격 연결 - 보건복지부",
+     "link": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492511&tag=&nPage=1",
+     "summary": "... 인공지능 ( AI )·클라우드 플랫폼 기업 관계자 등이 참석하였다. <' AI 기본의료 전략'의 첫 현장 구현 >. 이번 시범 개통은 지난 8월 정부 가 발표한 ' AI 기본 ...",
      "source": "",
-     "ts": 1794355514
+     "ts": 1794376543
     },
     {
-     "id": "45fd37fed040c1a4",
-     "title": "정부 , 2030년까지 피지컬 AI 핵심부품 국산화 추진 - 조선비즈",
-     "link": "https://biz.chosun.com/policy/policy_sub/2026/11/11/56IT3YVBPBDAVOUPXQQWIM3T3A/",
-     "summary": "피지컬 AI 는 인공지능 ( AI )이 로봇이나 설비를 통해 산업 현장에서 스스로 ... 이 프로젝트 는 이재명 정부 출범 직후인 작년 8월부터 추진되고 있다.",
+     "id": "9c49204b3f033664",
+     "title": "\" AI 가 일자리 뺏을라\"…대량 실업 공포에 中 정부 비상 [차이나 워치]",
+     "link": "https://www.hankyung.com/article/202611119552i",
+     "summary": "반도체· 인공지능 ( AI )·로봇·전기차 등 첨단기술과 공급망 변화, 중국 기업의 혁신과 정부 정책 이 세계 경제 판도를 어떻게 바꾸는지 집중적으로 다룹니다.",
      "source": "",
-     "ts": 1794355429
+     "ts": 1794376270
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "cf53c0f1af",
@@ -99,88 +99,88 @@
    "site": "https://aimatters.co.kr",
    "items": [
     {
-     "id": "a4084a45ca32a038",
-     "title": "에퀴닉스, 싱가포르에 AI용 데이터센터 'SG6' 개소…최대 20MW - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60066/",
-     "summary": "에퀴닉스가 싱가포르 6번째 데이터센터 SG6를 열었다. 초기 투자 약 2억 9000만 달러, 최대 IT 용량 20MW이며 액체 냉각으로 고밀도 AI 장비를 지원한다.",
+     "id": "0da801089be0be83",
+     "title": "듀크 로보틱스, 애자 청소 드론으로 그리스 진출…3년 독점 협력 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60243/",
+     "summary": "드론 기업 듀크 로보틱스가 그리스 보안 업체 크로노스와 송전 설비 애자 청소 드론 'IC 드론'의 그리스 사업을 3년간 독점 협력하는 계약을 체결했다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "d33748670154dfba",
-     "title": "챗GPT 광고, 이미지 생성 대기 화면에 노출 시작 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60113/",
-     "summary": "오픈AI가 챗GPT에서 이미지를 생성하는 동안 광고를 보여 주는 시각 광고 형식을 실제 이용자 화면에 노출하기 시작했다. 광고는 이미지가 완성되면 ...",
+     "id": "43228d03e5493426",
+     "title": "오픈AI, GPT로 소비쿠폰 효과 예측하는 정책 연구 소개 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60228/",
+     "summary": "오픈AI가 서울에서 미디어 세션을 열고 권혁구 난양공대 석좌교수팀의 GPT 기반 정책 시뮬레이션 연구를 소개했다. 2025년 민생회복 소비쿠폰에 대한 가계 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "266d88cabd719a5f",
-     "title": "구글 딥마인드 '알파프루프 코드', 시그널 암호 코드 4주 만에 검증 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60043/",
-     "summary": "구글 딥마인드가 현지 시각 11월 10일 여러 AI 모델이 함께 소프트웨어의 정확성을 수학적으로 증명하는 '알파프루프 코드(AlphaProof Code)'를 공개했다.",
+     "id": "5c443b358a6be4b8",
+     "title": "인텔과 알테라, 로봇과 의료기기용 센서 연결 기술 공동 개발 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60242/",
+     "summary": "인텔과 FPGA 기업 알테라가 로봇, 의료기기, 항공우주, 방산 장비에 탑재되는 센서를 쉽게 연결하는 실시간 센서 브리지 레퍼런스 솔루션을 공동 개발한다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "317056d06ae9cef9",
-     "title": "앤트로픽 페이블 5.2, 실제 프리랜서 의뢰 41.3% 완수 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60042/",
-     "summary": "앤트로픽 페이블 5.2가 실제 프리랜서 의뢰 240건으로 구성한 원격 노동 지수(RLI)에서 41.3%를 기록해 1위에 올랐다. 2위 오퍼스 5.5는 21.25%다.",
+     "id": "337fc0e488a6e521",
+     "title": "AI 용접 로봇 패스 로보틱스, 4,006억 원 투자 유치 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60240/",
+     "summary": "AI 용접 로봇 기업 패스 로보틱스가 조지안이 주도한 시리즈 E에서 3억 달러(약 4006억 원)를 유치했다. 기업가치는 24억 5000만 달러로 평가됐다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "430cdfbd4f55e681",
-     "title": "앤트로픽, '클로드 시트' 베타 공개…회의 기록 '클로드 미팅'도 출시 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60038/",
-     "summary": "앤트로픽이 스프레드시트 도구 클로드 시트와 회의 기록 에이전트 클로드 미팅, 협업 보드 클로드 화이트보드를 공개했다. 클로드 시트는 유료 구독자에게 ...",
+     "id": "9e73d641c79767a4",
+     "title": "[AI 활용팁] 시드림 5.5, 100번 고쳐도 얼굴 그대로 유지하는 법 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/60235/",
+     "summary": "바이트댄스가 공개한 이미지 생성 모델 시드림 5.5로 투명 배경 PNG를 생성하는 공식 프롬프트와 한 이미지를 100번 이어 고치는 방법, 자체 평가 결과, ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "2e16e98a45cdb84c",
-     "title": "오픈AI, 챗GPT에 기업 공식 프로필과 '비즈니스 에이전트' 도입 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60040/",
-     "summary": "오픈AI가 현지 시각 11월 10일 챗GPT에서 기업이 공식 프로필을 운영하는 기능 '챗GPT 속 비즈니스(Businesses in ChatGPT)'를 베타로 출시했다고 IT 매체 ...",
+     "id": "a53f5565b330c1a8",
+     "title": "AMD, AI 에이전트용 6세대 에픽 서버 CPU 출시 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60223/",
+     "summary": "AMD가 젠 6 기반 6세대 에픽 SP7 서버 프로세서를 출시했다. AI 에이전트 실행과 GPU 호스트, 일반 서비스로 역할을 나눈 제품군과 헬리온 랙 3종을 공개 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "ad68414d2d965398",
-     "title": "에이서, AI 업스케일링 지원 '프레데터 아틀라스 8' 국내 출시 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60094/",
-     "summary": "에이서가 인텔 Arc G3 익스트림 프로세서와 XeSS 3 AI 업스케일링을 지원하는 8인치 휴대용 게이밍 PC 프레데터 아틀라스 8을 국내 출시했다.",
+     "id": "f8dc299324ea6042",
+     "title": "[AI 활용팁] 클로드 스킬로 인스타 프로필 100점 채점하고 고치기 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/60216/",
+     "summary": "깃허브에 무료로 공개된 인스타그램 에이전트 스킬의 /ig-profile로 프로필을 12개 항목 100점 만점으로 채점하는 방법과 항목별 배점, 고치는 순서, ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "0906d1e9033b4913",
-     "title": "유아이패스, AI 에이전트가 앱 탐색하는 '테스트 클라우드' 기능 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60070/",
-     "summary": "유아이패스가 테스트 클라우드에 AI 에이전트 자율 탐색, 수동 테스트 자율 실행, AI 앱 테스트, 플레이라이트 통합, 컴퓨터 사용 에이전트 딜리게이트 기능 ...",
+     "id": "b250e1b32993b587",
+     "title": "야후 스카우트 정식 출시…검색 결과와 AI 답변 오가는 화면 도입 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60126/",
+     "summary": "야후가 AI 답변 서비스 '야후 스카우트'의 베타를 끝내고 검색 결과와 AI 답변을 오가는 '피벗 서치'를 도입했다. 스카우트는 출시 이후 30억 건이 넘는 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "5eb65e9a6c616152",
-     "title": "호프만에이전시코리아, AI 12종 분석 GEO 솔루션 'GEDI' 출시 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60068/",
-     "summary": "호프만에이전시코리아가 챗GPT, 제미나이, 클로드 등 생성형 AI 12종의 답변 속 브랜드 노출과 인용 출처를 분석하는 GEO 솔루션 GEDI를 국내에 출시했다.",
+     "id": "3617e0b4a0244fc2",
+     "title": "[AI 활용팁] 챗GPT 컴퓨터 사용으로 메시지 속 예약까지 처리하기 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/60151/",
+     "summary": "챗GPT 컴퓨터 사용으로 아이메시지와 슬랙 대화 속 예약, 양식 작성 같은 할 일을 처리하는 법과 설정 순서, 예약 확정 전 멈추게 하는 프롬프트, ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "639dea2209a9ac45",
-     "title": "앤트로픽, IPO 로드쇼 시작…공모가 주당 70~78달러 제시 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60046/",
-     "summary": "앤트로픽이 IPO 로드쇼를 시작했다. A형 보통주 8억 2500만 주를 주당 70~78달러에 공모하며, 나스닥에 종목 코드 ANT로 상장을 신청했다.",
+     "id": "0d66b646ec50b381",
+     "title": "다게노, AI 답변 속 브랜드 추천 확인하는 GEO 도구 공개 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60132/",
+     "summary": "다게노가 챗GPT, 제미나이, 퍼플렉시티 등 10개 AI 모델의 브랜드 추천 여부와 인용 출처를 보여 주는 GEO 도구 'AI 2.0'을 공개했다.",
      "source": "",
      "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "25ac01331a",
@@ -188,6 +188,14 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "015f73afc1ca63ef",
+     "title": "The Democratic leadership revolt has a glaring problem",
+     "link": "https://www.axios.com/2026/11/11/democratic-leadership-congress-jeffries-schumer",
+     "summary": "The Republican leadership fights are over. For Democrats, the pain has only just begun. Why it matters: All the talk about changing party leadership is empty if no one steps up to run. Senate Republicans demanded more t…",
+     "source": "",
+     "ts": 1794365118
+    },
     {
      "id": "761b62b86126fad7",
      "title": "\"Rome is burning\": Incoming House Democrats prove unusually willing to defy leaders",
@@ -259,18 +267,10 @@
      "summary": "Vice President JD Vance on Tuesday said that the vote to impeach Defense Secretary Pete Hegseth \"isn't about Iran,\" but rather his willingness to take on challenges at the Pentagon. Why it matters: It's the latest insta…",
      "source": "",
      "ts": 1794332043
-    },
-    {
-     "id": "c4a16b66dda59344",
-     "title": "Harsh new inflation reality",
-     "link": "https://www.axios.com/2026/11/10/inflation-cpi-interest-rates",
-     "summary": "America's inflation problem is stubborn, broadening out and showing no sign of letting up. Why it matters: October marked the third straight month of hotter-than-expected inflation , defying repeated predictions over th…",
-     "source": "",
-     "ts": 1794331800
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "cc992ff5f1",
@@ -278,6 +278,70 @@
    "url": "https://news.hada.io/rss/news",
    "site": "https://news.hada.io",
    "items": [
+    {
+     "id": "ef375c81776147c7",
+     "title": "Apple, 여러 Mac을 묶어 로컬 AI 모델을 실행하는 ‘Harbor’ 준비 중",
+     "link": "https://news.hada.io/topic?id=36982&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Apple은 Mac 한 대 또는 여러 대를 로컬 AI 추론 서버로 쓰는 앱 ‘Harbor’ 를 개발 중임 Apple silicon 에서 오픈 웨이트 모델을 실행해 Mac을 개인용 AI 추론 서버로 만들며, 앱 소개에 따르면 데이터가 하드웨어 밖이나 클라우드로 전송되지 않음 Thunderbolt 5 로 여러 Mac을 연결하고 통합 메모리를 합쳐, 단일 Mac의 용량을 넘는 모델을 실행하거나…",
+     "source": "",
+     "ts": 1794385962
+    },
+    {
+     "id": "ecb81466edec1273",
+     "title": "투박한 차단 망치로 단순한 봇을 가차 없이 막기",
+     "link": "https://news.hada.io/topic?id=36981&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "B6 는 robots.txt 에서 접근을 금지한 숨은 허니팟에 방문하면 해당 IP를 .htaccess 에 등록해 사이트 전체 접근을 차단하는 도구임 OpenBenches.org 적용 사례 에서 봇 트래픽이 80% 넘게 줄었으며, 하루 데이터 전송량은 최고 216GB에서 약 25GB로 감소함 모든 페이지에 숨겨진 링크 를 넣어 크롤러를 유도하며, 캐시를 많이 사용하는 사이트에서도 작동하도록…",
+     "source": "",
+     "ts": 1794384140
+    },
+    {
+     "id": "7364344d92c7e9f0",
+     "title": "Microsoft, macOS용 Process Explorer 공개",
+     "link": "https://news.hada.io/topic?id=36980&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Sysinternals Process Explorer for Mac 은 Microsoft의 프로세스 검사 도구를 macOS용으로 구현한 네이티브 앱임 실시간 트리 에서 어떤 프로세스가 무엇을 실행했는지 볼 수 있고, 각 프로세스가 열어 둔 파일, 불러온 라이브러리, 실행 중인 스레드를 확인할 수 있음 Swift, SwiftUI, AppKit 으로 구현했으며, libproc , sysctl…",
+     "source": "",
+     "ts": 1794382383
+    },
+    {
+     "id": "6274ca522e90fbbb",
+     "title": "Show GN: NOX - LLM 채팅으로 영상을 찾고 제어하는 NVR/VMS 플랫폼",
+     "link": "https://news.hada.io/topic?id=36979&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "NOX 소개 NOX는 제가 2024년 8월부터 혼자 만들고 있는 NVR(네트워크 비디오 레코더)/VMS(영상관리시스템) 플랫폼입니다. 카메라 연동(ONVIF/RTSP), 녹화·재생·검색, 실시간 AI 분석(객체 검출, 번호판 인식, 영상 비식별), 권한 관리와 감사 로그, 국가정보원(NIS) 보안요구사항 인증 대응을 갖췄고, 라이선스 서버와 Paddle 기반 구독 결제도 연동했습니다. 특히…",
+     "source": "",
+     "ts": 1794381040
+    },
+    {
+     "id": "cda3ca56b8c78d3d",
+     "title": "Terence Tao의 Six Math Essentials - 수학의 여섯 가지 핵심 개념",
+     "link": "https://news.hada.io/topic?id=36978&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "필즈상 수상자 Terence Tao 가 고대부터 오늘날의 연구 최전선까지 수학을 이끌어 온 여섯 개념으로 복잡한 세계를 이해하는 길을 소개함 수 는 정량적 사고의 출발점이며, 대수학 은 추상화의 출발점임 기하학 은 눈에 보이는 범위를 넘어 계산하는 방법임 확률 은 엄밀한 사고로 불확실성을 헤쳐 나가는 도구임 해석학 은 매우 크거나 작은 것을 다루는 수단이며, 동역학 은 변화의 수학임 책이…",
+     "source": "",
+     "ts": 1794371474
+    },
+    {
+     "id": "4c7c9fb54ac0f76c",
+     "title": "Show GN: Officeflare - Cloudflare 인프라 위에 올라가는 오피스 스위트",
+     "link": "https://news.hada.io/topic?id=36977&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Cloudflare 인프라 위에서 동작하는 오피스 스위트를 만들어 사용하고 있습니다. 클라우드플레어에 이메일 라우팅, 이메일 발송 같은 기능들이 도입되며, 오래 전부터 생각만 해오던 제품을 만들 수 있게 되었네요. 현재 시점에서 제공하는 기능은 총 3가지입니다. 1. 메일 클플의 Email routing을 사용해 메일을 수신하고, Email sending을 사용해 메일을 발신합니다. 메일…",
+     "source": "",
+     "ts": 1794371014
+    },
+    {
+     "id": "df3082c360120ccf",
+     "title": "Gleam을 써보자",
+     "link": "https://news.hada.io/topic?id=36975&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Gleam 은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상호운용성을 갖춤 파이프 연산자 |> , 콜백 중첩을 줄이는 use , 꼬리 호출 최적화를 중심으로 불변 데이터와 함수 조합을 다루며, Rust의 함수형 코드에 익숙하다면 친숙하게 접근할 수 있음 대수적 데이터 타입 으로 원치 않는…",
+     "source": "",
+     "ts": 1794369774
+    },
+    {
+     "id": "4c9a865833ff32cf",
+     "title": "Show GN: TimeCarver - 집중한 시간만큼 돌을 깎는 타이머 앱",
+     "link": "https://news.hada.io/topic?id=36973&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "집중해야 하는데 자꾸 딴짓을 하게 되는 저 같은 분들을 위해 만든, iOS·Android 포커스 타이머 앱 TimeCarver입니다. 집중하는 동안 원석이 조금씩 깎여 나가고, 딴짓을 하면 균열이 생깁니다. 시간이 다 되면 직접 깎은 조각상 한 점이 남습니다. 가입이나 로그인은 없고, 무료로 주요 기능들을 이용하실 수 있습니다. 주요 기능 원석과 시간(1분~3시간)을 고르고 시작하면, 시간…",
+     "source": "",
+     "ts": 1794366457
+    },
     {
      "id": "5eef491606fe0c66",
      "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
@@ -293,74 +357,10 @@
      "summary": "VulnCheck가 추적한 Anthropic에 귀속되는 CVE는 442건 으로, 올해 전체의 약 0.5%임. Glasswing이 출범 당시 내세운 대규모 고위험 취약점 발견과 공개된 성과 사이에 간극이 있음 Anthropic의 발견 37,966건 중 공개된 것은 7,349건 , 수정 완료로 표시된 것은 217건임. 9월 이후 발견은 약 12,000건 늘었지만 수정 완료는 15건 증가하는 데…",
      "source": "",
      "ts": 1794361038
-    },
-    {
-     "id": "becdef896b216850",
-     "title": "기업용 AI 제품은 어떻게 가격을 매기는가",
-     "link": "https://news.hada.io/topic?id=36970&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 제품은 사용량에 따라 제공 비용이 달라지고, 도입 효과도 계약 전에 숫자로 잡기 어려움. 성공적인 기업용 가격 모델은 고정 요금, 사용량 요금, 구축·인력 비용 중 둘 이상 을 조합하는 경우가 많음 고정+변동 혼합형 은 고객의 예산 예측 가능성과 공급사의 사용량 증가에 따른 수익을 함께 확보하며, 제품이 성숙하고 사용 데이터가 쌓일수록 고정 요금 비중을 높이는 흐름이 있음 기업 구매자…",
-     "source": "",
-     "ts": 1794358202
-    },
-    {
-     "id": "dbcf27acf549dbcb",
-     "title": "책이 제 역할을 하지 못하는 이유 (2019)",
-     "link": "https://news.hada.io/topic?id=36969&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "읽을 땐 이해한 것 같은데, 막상 누가 “그게 왜 그래?”라고 물으면 설명이 막힐 때가 있음. 저자는 이 경험에서 출발해 복잡한 지식을 가르치는 데 책이라는 형식이 얼마나 잘 맞는지 살펴봄 책이나 강의는 설명을 차례로 따라가게 해줌. 하지만 설명에 고개를 끄덕이는 것과 그 내용을 자기 말로 설명할 수 있는 것은 다름 . 내용을 떠올려 보거나, 이미 아는 것과 연결하거나, 새 문제에 써 봐야…",
-     "source": "",
-     "ts": 1794357602
-    },
-    {
-     "id": "2bec0c5dc6b5608a",
-     "title": "Show HN: 스페인 발렌시아를 SimCity풍 아이소메트릭 뷰로 보기",
-     "link": "https://news.hada.io/topic?id=36968&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Tiny València 는 발렌시아의 실제 건물을 같은 각도에서 내려다보는 형태로 그린 아이소메트릭 픽셀 아트 지도임 실제 3D 도시 데이터 를 고정된 카메라로 렌더링한 뒤, 선별한 픽셀 아트 스타일로 학습한 이미지 모델이 타일별로 다시 그림 각 타일이 이미 그려진 이웃 타일과 이어지도록 처리해 끊김 없는 도시 지도 를 구성함 발렌시아 행정구역 전체 를 그렸지만, 참고할 3D 영상이 없는…",
-     "source": "",
-     "ts": 1794357082
-    },
-    {
-     "id": "9fd5fa4a87134615",
-     "title": "Vercel agent-desktop - AI 에이전트가 데스크톱 앱을 조작하는 CLI",
-     "link": "https://news.hada.io/topic?id=36967&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 에이전트가 맥/윈도우/리눅스에서 앱을 열고, 메뉴를 누르고, 입력란을 채울 수 있음 . 창 이동과 크기 조절, 클립보드 읽기와 쓰기도 지원 운영체제의 접근성 API로 버튼, 메뉴, 입력란을 JSON으로 가져와 , 화면 좌표 대신 각 요소의 ID로 클릭하거나 텍스트를 입력할 수 있음 요소 ID로 조작할 때는 기본적으로 마우스 포인터를 움직이거나 앱 포커스를 가져오지 않음 . 필요하면 스…",
-     "source": "",
-     "ts": 1794357002
-    },
-    {
-     "id": "74bf473302da7406",
-     "title": "Toyota 브랜드 Scion이 돌아온다, 미국에서 경트럭 판매 예정",
-     "link": "https://news.hada.io/topic?id=36966&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Toyota가 Scion by Toyota 로 브랜드를 부활시키며, 저렴하고 개성 있는 자동차 대신 디자인과 차량 콘셉트로 기존 이동 방식에 도전하는 실험 공간을 지향함 첫 양산 모델 KEI-01 은 Toyota Pixis의 배지를 바꾼 초소형 경트럭으로, 미국 판매를 위해 Indiana의 기존 생산 인프라를 활용할 예정임 미국 저속차량 안전 기준 에 맞춰 최고속도가 시속 25마일 미만으로…",
-     "source": "",
-     "ts": 1794353545
-    },
-    {
-     "id": "e142e7ed0036f0b2",
-     "title": "끊임없는 감시가 아이와 부모에게 미치는 영향",
-     "link": "https://news.hada.io/topic?id=36965&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "영아 모니터부터 위치 추적 앱까지 이어지는 상시 감시 는 아이가 독립성을 기르는 과정뿐 아니라, 부모가 자녀에 대한 지식과 통제를 내려놓는 과정에도 영향을 줄 수 있음 위치 추적 은 픽업과 일정 조율에 유용하지만, 위치를 안다고 동행인이나 실제 위험까지 알 수 있는 것은 아님 앱을 반복해서 확인하는 안심 추구 행동 은 잠시 불안을 덜어도 다시 확인하게 만드는 함정이 될 수 있으며, 위치 오…",
-     "source": "",
-     "ts": 1794350502
-    },
-    {
-     "id": "52728126bb1f36c6",
-     "title": "Show HN: 코딩 에이전트를 2019년 무렵의 JavaScript에서 최신 웹 기본 기능으로 이끌기",
-     "link": "https://news.hada.io/topic?id=36964&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Modern Web Guidance 는 웹 플랫폼 전문 지식, 모범 사례, 브라우저 호환성 데이터를 코딩 에이전트에 제공하는 스킬 모음으로, 레거시 패턴 대신 최신 웹 기본 기능을 활용하도록 유도함 LLM 학습 데이터에 많은 오래된 코드와 부족한 최신 구현 사례를 보완하기 위해, 전문가가 선별한 가이드 를 작업에 맞춰 에이전트의 컨텍스트에 직접 전달함 로컬 의미 검색과 BM25 로 관련 가…",
-     "source": "",
-     "ts": 1794350322
-    },
-    {
-     "id": "d99929cbbf7d0dd9",
-     "title": "Starlink Mini 2 - 교체형 배터리를 탑재한 휴대용 위성 인터넷 단말기",
-     "link": "https://news.hada.io/topic?id=36963&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "교체형 배터리로 최대 4.5시간 작동하며, 별도 판매하는 예비 배터리로 교체할 수 있음 1세대는 DC 전원 케이블을 사용했고, Mini 2는 배터리 또는 60W USB-C 전원 으로 작동함. 충전 중에도 인터넷 연결을 유지할 수 있음 Wi-Fi 6 를 내장하며, 공식 사양상 최대 167㎡를 커버함. 본체는 IP67 방진·방수 등급 일부 미국 고객을 대상으로 초대제 사전 주문 을 시작했으며,…",
-     "source": "",
-     "ts": 1794346984
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "f9eb976542",
@@ -459,88 +459,88 @@
    "site": "https://www.aitimes.com",
    "items": [
     {
-     "id": "d96019c94255b1a0",
-     "title": "[AI리더의 서가] 파이토치로 배우는 현대 인공지능",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217031",
-     "summary": "파이토치로 배우는 현대 인공지능김태훈 | 한빛아카데미2026년 7월 3일추천이유독자는 신경망 기초부터 트랜스포머, LLM까지 현대 딥러닝의 핵심 이론을 학습하고 파이토치로 직접 구현하며, 개인화 음성 어시스턴트 프로젝트를 통해 실무 기반의 AI 엔지니어로 성장할 수 있습니다.상세보기 \"LLM API로 서비스는 몇 개 만들어 봤어요. 그런데 내부가 어떻게 돌아가는지는 모르겠습니다. 원리부터…",
+     "id": "618e37b936fce5d1",
+     "title": "'제미나이'가 기억하는 내 정보 한눈에 보여준다…수정·삭제도 가능",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217297",
+     "summary": "구글이 '제미나이'가 이용자에 대해 기억하는 정보를 한눈에 보여주는 '메모리 요약(Memory summary)' 기능을 도입했다. 이용자는 AI가 파악한 자신의 직업과 관심사, 생활 습관 등을 직접 확인하고 잘못된 내용을 수정하거나 삭제할 수 있다. '챗GPT'와 '클로드'에 이어 구글도 개인화 AI의 기억을 이용자가 직접 관리하도록 하는 기능을 강화한 것이다.나인투파이브구글은 9일(현지시…",
      "source": "",
-     "ts": 1794387600
+     "ts": 1794421380
     },
     {
-     "id": "4c0739fa86fc34e0",
-     "title": "구글, '제미나이 4 카본' 정식 출시…'페이블 5.2'의 4분의 1 가격",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217249",
-     "summary": "구글이 최상위 AI 모델 '제미나이 4 카본(Gemini 4 Carbon)'을 정식 출시했다. 최근 앤트로픽의 신형 모델에 AI 성능 평가 1위 자리를 내줬지만, 4분의 1 수준의 API 가격을 내세워 개발자와 기업 시장 공략에 나섰다.구글은 10일(현지시간) 공식 블로그를 통해 제미나이 4 카본을 일반 개발자와 기업, 유료 구독자에게 제공하기 시작했다고 발표했다. 지난달 28일 모델을 처…",
+     "id": "b62af37166f744df",
+     "title": "'페이블 5.2' 프롬프트 가이드 공개…\"코드 맡기면 정리 5배 증가\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217271",
+     "summary": "앤트로픽이 최신 모델 '클로드 페이블 5.2'의 프롬프트 작성법을 공개하며 기존 모델에 사용하던 지침을 재검토하라고 권고했다. 특히 코드의 소유권을 어떻게 표현하느냐에 따라 AI의 작업 방식이 크게 달라지는 것으로 나타났다.앤트로픽은 10일(현지시간) 공식 개발자 문서를 통해 페이블 5.2의 성능과 비용을 최적화하기 위한 프롬프트 가이드를 공개했다. 장시간 작업의 조기 중단, 불필요한 승인…",
      "source": "",
-     "ts": 1794384733
+     "ts": 1794420345
     },
     {
-     "id": "658c2a96433a3b8f",
-     "title": "한국 디지털·AI 경쟁력, 세계 10위 도약...전년 대비 8단계 상승",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217238",
-     "summary": "우리나라의 디지털·AI 경쟁력이 전세계 10위 수준인 것으로 나타났다. 특히 AI 관련 지표가 다수 반영되는 '기술인프라'와 '효율성' 분야는 각각 3위에 오르며 글로벌 경쟁력을 확인했다.과학기술정보통신부는 스위스 국제경영개발원(IMD)의 ‘2026년 세계 디지털·AI 경쟁력(WDAIR) 평가'에서 한국이 70개국 중 10위를 기록하며 전년 대비 8단계 올랐다고 11일 밝혔다.특히 ‘AI…",
+     "id": "c599c18b0a4b6068",
+     "title": "구글, '제미나이 로보틱스 2.5' 공개…공장 작업 성공률 96%",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217274",
+     "summary": "구글이 실제 자동차 공장에서 휴머노이드 로봇의 작업 성공률을 96%까지 높인 새로운 물리적 AI 모델을 공개했다. 기존 모델보다 정교한 손동작과 작업 속도를 개선하고, 최신 AI 모델을 로봇 훈련에도 활용해 산업 현장 적용 가능성을 높였다.구글 딥마인드는 10일(현지시간) 공식 블로그를 통해 최신 비전-언어-행동(VLA) 모델 '제미나이 로보틱스 2.5(Gemini Robotics 2.5)…",
      "source": "",
-     "ts": 1794384300
+     "ts": 1794419488
     },
     {
-     "id": "e89e1ac88a299717",
-     "title": "[11월10일] 젠슨 황 불륜 스캔들 뒤에 가려진 'AI 스파이 전쟁'",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217207",
-     "summary": "젠슨 황 엔비디아 CEO의 불륜 스캔들이 연일 화제입니다. 그러나 이번 사건에서 주목해야 할 것은 사생활보다 세계 최대 AI 반도체 기업의 CEO가 중국 정보기관의 표적이 됐을 가능성입니다. 미국 정보당국은 관련 의혹을 트럼프 대통령에게까지 보고한 것으로 알려졌습니다.이번 사건은 AI 기업의 기술과 사업 정보, 경영진까지 국가 간 첩보전의 주요 관심 대상이 됐다는 사실을 보여줍니다. AI…",
+     "id": "ccc9fdec6e4c1064",
+     "title": "메타, AI 에이전트 '뮤즈' 애플워치·웨어OS로 확대",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217278",
+     "summary": "메타가 소비자용 AI 에이전트 '뮤즈(Muse)'를 애플워치와 구글의 웨어OS(Wear OS) 스마트워치로 확대했다. 지난 9월 출시 이후 스마트폰과 태블릿에 이어 웨어러블 기기까지 지원하면서, 이용자가 일상에서 AI 에이전트를 쉽게 사용할 수 있도록 서비스 접점을 늘리고 있다.메타는 9일(현지시간) X를 통해 스마트워치용 뮤즈 서비스를 발표했다. 사용자는 스마트워치에서 음성이나 문자로 A…",
      "source": "",
-     "ts": 1794380400
+     "ts": 1794418879
     },
     {
-     "id": "330b67d3c50650d8",
-     "title": "앤트로픽, 기업가치 1.4조달러로 IPO 추진…644억달러 조달",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217248",
-     "summary": "앤트로픽이 최대 1조4000억달러(약 1882조원)의 기업가치를 목표로 기업공개(IPO)에 나선다. 당초 시장에서 거론됐던 2조달러보다 낮은 수준으로, 최근 기술주 하락과 AI 투자 수익성에 대한 의문이 커진 가운데 월가의 AI 투자 열기를 가늠하는 시험대가 될 전망이다.로이터는 10일(현지시간) 앤트로픽이 주당 70~78달러의 희망 공모가를 제시하고 투자자 모집에 착수했다고 보도했다. 이…",
+     "id": "a25ba57a21ec2720",
+     "title": "문샷, 중국서 엔비디아 최신 AI 칩 임대 정황…금융 문서 확인",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217294",
+     "summary": "중국 문샷AI가 미국의 중국 수출 규제 대상인 엔비디아의 최신 AI 칩 'B300'을 중국 내에서 임대하려 했다는 금융 계약 문서가 발견됐다. 문샷은 관련 거래를 부인했으며, 블룸버그의 취재 이후 공개 문서에서 문샷의 이름이 사라져 실제 거래 여부와 장비 반입 경로에 관심이 모이고 있다.블룸버그는 10일(현지시간) 중국 금융기관에 제출된 계약 문서를 확인한 결과, 문샷에 엔비디아 B300…",
      "source": "",
-     "ts": 1794380361
+     "ts": 1794418409
     },
     {
-     "id": "f4c46e5c083c4669",
-     "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217239",
-     "summary": "구글 '제미나이'와 앤트로픽 '클로드'의 추격에도 오픈AI의 '챗GPT'가 글로벌 AI 챗봇 시장에서 압도적인 지위를 유지하고 있는 것으로 나타났다. 경쟁 서비스들이 빠르게 성장하는 가운데 챗GPT도 올해 상반기 하락했던 점유율을 최근 다시 회복하면서 주요 AI 챗봇 이용량의 81% 이상을 차지했다.시장조사 업체 그래파이트(Graphite)는 9일(현지시간) 시밀러웹 데이터를 분석한 보고서…",
+     "id": "74b218639e52e608",
+     "title": "TSMC, 자체 칩 개발 나선 오픈AI·앤트로픽에 최대 1.3조원 투자",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217289",
+     "summary": "세계 최대 파운드리 업체 TSMC가 자체 AI 반도체 개발에 나선 오픈AI와 앤트로픽에 최대 10억달러(약 1조3400억원)를 투자하기로 했다. 두 AI 기업이 엔비디아 등 외부 반도체 업체에 대한 의존도를 낮추기 위해 자체 칩 개발을 추진하면서, TSMC도 반도체 공급을 넘어 이들 기업의 지분을 확보하며 관계를 강화하려는 움직임으로 해석된다.TSMC 이사회는 10일 앤트로픽 주식 매입에…",
      "source": "",
-     "ts": 1794334493
+     "ts": 1794416718
     },
     {
-     "id": "0aef3fb6ca55c8ea",
-     "title": "클로드 페이블 5.2, 전자기기 3종 설계…회로 수정 없이 시제품 제작",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217243",
-     "summary": "앤트로픽이 '클로드'로 전자기기 3종을 설계하고, 회로 수정 없이 모두 작동하는 시제품을 제작하는 데 성공했다. 오픈AI가 최근 AI를 활용한 전자기기 제작 사례를 공개한 데 이어, AI가 실제 제조 조건까지 고려해 하드웨어 개발을 수행하는 능력을 보여줬다.앤트로픽은 9일(현지시간) 공식 기술 보고서를 통해 최신 모델 '클로드 페이블 5.2'가 전자회로 설계부터 부품 배치, 펌웨어 작성,…",
+     "id": "80f7bc257c4810b8",
+     "title": "[게시판] 패스트캠퍼스·엔비디아 해커톤서 신약개발 AI 에이전트 우승 등 단신",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217295",
+     "summary": "■ 데이원컴퍼니(대표 신해동·김동혁)의 실무 교육 브랜드 패스트캠퍼스는 엔비디아와 공동 개최한 ‘에이전틱 AI 해커톤’ 결선을 ‘엔비디아 AI 데이 서울 2026’에서 진행했다고 밝혔다. 최종 우승은 신약개발·의료 AI 연구자와 현직 약사로 구성된 ‘플라이게이트’ 팀이 차지했다. 엔비디아 ‘바이오니모 NIM’과 ‘네모트론’을 활용해 신약개발부터 시판 후 안전성 검토까지 서로 다른 업무를 하…",
      "source": "",
-     "ts": 1794333928
+     "ts": 1794416400
     },
     {
-     "id": "1bc9c96b21c4d17a",
-     "title": "보스턴 다이내믹스, 바퀴 달린 '아틀라스' 공개…360도 회전 점프까지",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217222",
-     "summary": "보스턴 다이내믹스가 휴머노이드 로봇 '아틀라스(Atlas)'의 발을 바퀴로 교체해 빠르게 주행하고 360도 회전 점프까지 하는 모습을 공개했다. 강화학습(RL) 기반 제어 기술을 적용해 새로운 이동 방식을 익히도록 한 것으로, 로봇의 구동 장치와 AI 제어 모델의 성능을 검증하기 위한 연구용 실험이다.보스턴 다이내믹스는 9일(현지시간) 공식 영상을 통해 바퀴를 장착한 아틀라스가 실제 실험…",
+     "id": "bdda66260acd6b0d",
+     "title": "소프트뱅크, AI 발전 설비 선주문에 5조 손실…분기 적자 9조",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217292",
+     "summary": "소프트뱅크가 미국 AI 데이터센터에 필요한 발전 설비를 대규모로 미리 주문했다가 약 5조원의 손실을 입었다. 전력 설비가 부족해질 것에 대비해 거액의 선급금을 지급했지만, 사업 계획이 바뀌면서 일부 계약을 취소하거나 변경해야 했기 때문이다. 여기에 투자 자산의 가치 하락과 금융 비용 증가까지 겹쳐 2년 만에 분기 적자를 기록했다.소프트뱅크는 10일 2026 회계연도 2분기(7~9월)에 70…",
      "source": "",
-     "ts": 1794333450
+     "ts": 1794416178
     },
     {
-     "id": "a8aeb26d6d42ee26",
-     "title": "텐센트도 'AI 자기 개선' 연구 본격화…미국 이어 RSI 경쟁 가세",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217232",
-     "summary": "오픈AI와 앤트로픽 등 미국 주요 AI 기업들이 재귀적 자기 개선(RSI)을 차세대 AI 개발의 핵심 과제로 제시하는 가운데, 중국 텐센트도 AI가 자신의 작업 결과를 활용해 성능을 높이는 기술을 선보였다. 지난달 공개된 연구가 최근 개발자 커뮤니티에서 다시 주목받으면서 중국도 AI의 자기 개선 기술 경쟁에 뛰어들었다는 평가가 나온다.텐센트의 하이 프론티어(Hy Frontier) 연구팀과…",
+     "id": "5e12ec12996a566a",
+     "title": "구글, AI로 암호 약점 발견 이어 시그널 보안 검증…650만줄 증명",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217275",
+     "summary": "구글이 AI를 활용해 RSA 암호의 약점을 찾아낸 데 이어, 이번에는 메신저 시그널(Signal)의 실제 암호화 코드가 핵심 보안 조건을 충족한다는 사실을 수학적으로 입증했다. 오픈AI와 앤트로픽이 AI의 암호학·수학 연구 성과를 잇달아 공개하는 가운데, 구글도 암호 분석에서 실제 소프트웨어의 보안 검증까지 AI 활용 범위를 넓히고 있다.구글 딥마인드는 10일(현지시간) 공식 블로그를 통해…",
      "source": "",
-     "ts": 1794333000
+     "ts": 1794415779
     },
     {
-     "id": "f736694eb0fac921",
-     "title": "스페이스X, 텍사스에 32조 AI 데이터센터·가스발전소 건설 추진",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217214",
-     "summary": "스페이스X가 미국 텍사스주 스타베이스에 240억달러(약 32조원) 규모의 AI 데이터센터와 가스발전소 건설을 추진한다. 자체 전력 공급 시설까지 확보해 AI 연산 수요에 대응하고 데이터센터 가동에 필요한 전력망 연결 대기 시간을 줄이려는 전략으로 풀이된다.9일(현지시간) 로이터에 따르면, 텍사스주 스타베이스시는 최근 공개한 공청회 공고를 통해 스페이스X가 가스발전소와 슈퍼컴퓨팅 시설 건설을…",
+     "id": "a1f7b39f4e36f144",
+     "title": "오픈AI, 오데시아 인수하며 여행 AI 서비스 개발 본격화",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217282",
+     "summary": "오픈AI가 여행 전문 AI 에이전트 스타트업 오데시아(Odessia)를 인수했다. 에어비앤비와 유사한 숙박 스타트업 손더(Sonder)를 창업한 프랜시스 데이비드슨도 영입해 여행 분야 AI 서비스 개발에 나설 전망이다.데이비드슨 창립자는 10일(현지시간) X를 통해 오픈AI에 합류해 \"여행의 미래를 만드는 일을 돕게 됐다\"고 밝혔다.구체적인 인수 조건은 공개되지 않았지만, 창업자와 핵심 인…",
      "source": "",
-     "ts": 1794332899
+     "ts": 1794414551
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,14 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "6759b9fc8e6dc827",
+     "title": "Sponsored: How Kazakhstan’s Akashi Data Center is building trust",
+     "link": "https://www.datacenterdynamics.com/en/product-news/how-kazakhstans-akashi-data-center-is-building-trust/",
+     "summary": "The company is relying on Uptime Institute Tier IV certification, backing from a development bank, and the protections of English common law",
+     "source": "",
+     "ts": 1794387600
+    },
     {
      "id": "bfd21899f6bd6a72",
      "title": "Applied Digital is building in the only US town to say yes to data centers",
@@ -889,18 +897,10 @@
      "summary": "Set for land on Progress Park",
      "source": "",
      "ts": 1794323463
-    },
-    {
-     "id": "9585db6f4d6b6207",
-     "title": "Colt breaks ground on data center in Berlin, Germany",
-     "link": "https://www.datacenterdynamics.com/en/news/colt-breaks-ground-on-data-center-in-berlin-germany/",
-     "summary": "Berlin 1 due live in 2028",
-     "source": "",
-     "ts": 1794323387
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794362291
+   "last_ok": 1794389495
   }
  ]
 }
