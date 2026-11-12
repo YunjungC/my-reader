@@ -1,5 +1,5 @@
 {
- "generated_at": 1794477289,
+ "generated_at": 1794507778,
  "top_n": 10,
  "feeds": [
   {
@@ -9,88 +9,88 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
-     "id": "5caefb5c466f7d4d",
-     "title": "한국 '디지털· AI 경쟁력' 세계 10위…전년 대비 8단계 ↑",
-     "link": "https://www.ikbn.news/news/article.html?no=217291",
-     "summary": "... 정부 의 의지가 종합적으로 반영된 결과\"라고 설명했다. 이어 \"앞으로도 3대 메가 프로젝트 , 7대 SEED 프로젝트 등 디지털· 인공지능 관련 핵심 정책 을 차질 ...",
+     "id": "e2f659dc13c4cdee",
+     "title": "과기부·중기부 \"국내 개방형 AI 생태계 구축에 인텔과 협력\" - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261112173756",
+     "summary": "이도규 과학기술정보통신부 정보통신 정책 실장은 12일 서울 삼성동 코엑스에서 진행된 '인텔 AI 서밋 서울 2026' 영상 축사에서 \"세계적 수준의 메모리 반도체와 ...",
      "source": "",
-     "ts": 1794469381
+     "ts": 1794499745
     },
     {
-     "id": "4810d1cd08daaba0",
-     "title": "자율주행차·로봇 등 탑재 AI 칩 10종, 2030년까지 개발 - 대한민국 정책브리핑",
-     "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148975587&pWise=main&pWiseMain=R5",
-     "summary": "정부 가 자율주행차·스마트가전·로봇 등에 탑재할 국산 온디바이스 AI 반도체 10종을 2030년까지 개발·검증한다. 가전용 AI 칩 1종은 제조 시점을 기존 계획 ...",
+     "id": "3e417e678b655a36",
+     "title": "정부 , 국산 AI 반도체 개발 속도…삼성 2나노 공정 지원 - 아이뉴스24",
+     "link": "http://www.inews24.com/view/2025296",
+     "summary": "... 정부 가 2030년까지 8002억원을 투입해 국산 온디바이스 인공지능 ( AI ) 반도체 개발에 속도를 낸다 ... AI 반도체 기술개발 프로젝트 ' 로드맵을 ...",
      "source": "",
-     "ts": 1794468523
+     "ts": 1794497546
     },
     {
-     "id": "7d1d7850c23ab193",
-     "title": "경험이라도 쌓자…경쟁률 10대 1 청년들 우르르 몰린 곳 - 한국경제",
-     "link": "https://www.hankyung.com/article/2026111109941",
-     "summary": "청년은 스펙을 쌓기 위한 정부 인턴 사업에서도 경쟁에 내몰리고 있다. ... 인공지능 ( AI ) 확산과 기업의 경력직·수시 채용 선호가 맞물려 청년들은 노동 ...",
+     "id": "b95a61ad9e3b7f8f",
+     "title": "정부 , 8002억 투입해 국산 AI 반도체 10종 개발…2030년까지 검증 - 파이낸셜뉴스",
+     "link": "https://www.fnnews.com/news/202611121345227008",
+     "summary": "[파이낸셜뉴스] 정부 가 2030년까지 자율주행차와 가전, 로봇, 방산 등에 활용할 국산 인공지능 ( AI ) 반도체 10종을 개발한다. ... AI 반도체 기술개발 프로젝트 ' ...",
      "source": "",
-     "ts": 1794468023
+     "ts": 1794496913
     },
     {
-     "id": "4c280d002666553b",
-     "title": "[현장] 저작권 등록 때 AI 활용 밝히도록… 정부 , 제도 개선 추진 - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261112160345",
-     "summary": "정부 가 콘텐츠의 저작권 등록 과정에서 생성형 인공지능 ( AI ) 사용 여부와 ... 이날 첫 번째 세션에서 박현성 문체부 저작권 정책 과장은 생성형 AI 확산에 대응한 ...",
+     "id": "28cba4694a40b01c",
+     "title": "KISTEP \"한국 휴머노이드 경쟁력, 하드웨어 넘어 AI ·데이터 생태계로 확장해야\" - 로봇신문",
+     "link": "https://www.irobotnews.com/news/articleView.html?idxno=49560",
+     "summary": "한국이 글로벌 휴머노이드 로봇 시장에서 경쟁력 을 확보하기 위해서는 기존의 하드웨어 중심 연구개발(R&D) 전략에서 벗어나 인공지능 ( AI ), 데이터, ...",
      "source": "",
-     "ts": 1794467654
+     "ts": 1794496604
     },
     {
-     "id": "4bce557cd89b6232",
-     "title": "이재용 \"온양공장, AI 반도체 핵심으로 변모\"… 정부 메가 프로젝트 첫발 - 뉴스톱",
-     "link": "https://www.newstopkorea.com/news/articleView.html?idxno=48983",
-     "summary": "기존 범용 반도체 후공정 중심의 생산기지를 인공지능 ( AI ) 반도체 핵심 생산기지로 고도화해 급증하는 HBM 수요에 대응한다는 구상이다. 이재용 삼성전자 ...",
+     "id": "374b316abe70d2c0",
+     "title": "이 대통령, 충청권 392조원 메가 프로젝트 본격화… AI ·반도체 투자에 중소기업 참여 확대",
+     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42714",
+     "summary": "정부 가 392조원 규모의 충청권 메가 프로젝트 를 본격 추진하면서 반도체와 인공지능 ( AI ) 등 첨단산업 투자 확대에 속도를 낸다. 삼성그룹의 첨단 투자사업 3 ...",
      "source": "",
-     "ts": 1794466861
+     "ts": 1794494667
     },
     {
-     "id": "c990beddb92ea128",
-     "title": "李 “메가 프로젝트 속도전 넘어 전격전”…지역 성장 확산 주문 - 매일일보",
-     "link": "https://www.m-i.kr/news/articleView.html?idxno=2017855",
-     "summary": "매일일보 = 최영훈 기자 | 이재명 대통령은 12일 충청권 메가 프로젝트 착공식에 참석해 반도체· 인공지능 ( AI )·피지컬 AI 등 3대 메가 프로젝트 의 신속한 추진 ...",
+     "id": "a95819824f2af976",
+     "title": "\"하나, 둘, 셋!\" 충청서 메가 프로젝트 '첫 삽' 떴다 - MBC 뉴스",
+     "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865238_37004.html",
+     "summary": "오늘 충청도에서 이재명 정부 가 추진하는 3대 메가 프로젝트 의 첫 번째 ... 급증하는 AI 반도체 수요에 대비해, 가동 시점도 계획보다 1년 앞당긴 2028 ...",
      "source": "",
-     "ts": 1794466132
+     "ts": 1794494397
     },
     {
-     "id": "9f2704044228cf6d",
-     "title": "유민상 에이투지 CSO “ 정부 주도의 자율주행 도입, 이후 민간 상용화” - 더에이아이",
-     "link": "https://www.newstheai.com/news/articleView.html?idxno=21938",
-     "summary": "이는 국내 자율주행 산업을 대규모 데이터 확보와 AI 학습, 실제 도로 검증으로 연결하려는 정책 구상이다. 해외 진출 사례로는 싱가포르 시장 진입 과정이 ...",
+     "id": "ee88a50bf6d0dc2d",
+     "title": "메가 프로젝트 첫 삽…이 대통령 “충청 도약, 호남·영남도 속도” - 경향신문 AMP",
+     "link": "https://www.khan.co.kr/article/202611122114005/amp",
+     "summary": "... 정책 역량을 집중 ... 앞서 정부 는 지난 6월 말 대규모 반도체· 인공지능 ( AI ) 데이터·피지컬 AI 투자 전략을 담은 3대 메가 프로젝트 를 발표했다.",
      "source": "",
-     "ts": 1794464710
+     "ts": 1794486400
     },
     {
-     "id": "b847838ab1d07783",
-     "title": "우상호 지사, 정부 에 강원도 핵심 사업 예산 반영 요청 - YouTube",
-     "link": "https://www.youtube.com/watch?v=osu_yR5xijU",
-     "summary": "우 지사는 포천~철원 고속도로 예비타당성조사가 통과되면 필요한 예산 지원을 비롯해 인공지능 전환(AX) 대전환 프로젝트 와 통합 교통 시스템, 청정에너지 ...",
+     "id": "e3be0154ea0b3fd9",
+     "title": "정부 , 2030년까지 AI 데카콘 1개·유니콘 20개 육성…글로벌 AI 강국 도약 추진 - 데일리연합",
+     "link": "https://dailyan.com/news/article.html?no=784094",
+     "summary": "데일리연합 (SNSJTV) 박해리 기자 | 중소벤처기업부는 국가 인공지능 전략위원회와 공동으로 마련한 ' AI 스타트업 Beyond유니콘 육성 전략' 을 11일 서울 ...",
      "source": "",
-     "ts": 1794464707
+     "ts": 1794484485
     },
     {
-     "id": "4d3684e653a84855",
-     "title": "'메가 프로젝트 ' 첫 착공‥\"대한민국 미래 견인\" - MBC 뉴스",
-     "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6865125_36967.html",
-     "summary": "정부 가 추진하는 '3대 메가 프로젝트 '의 첫 번째 착공, 삼성전자의 충남 온양 ... 이재용 삼성전자 회장은 온양사업장에 중장기적으로 46조 원을 투자해 AI 반도체 ...",
+     "id": "221800b097500e97",
+     "title": "미 정부 '경제 투톱' 젠슨 황 스캔들 충돌…“ AI 칩 수출제재 왜 안 했냐” - 한겨레",
+     "link": "https://www.hani.co.kr/arti/international/america/1286977.html",
+     "summary": "메가스피드는 중국 정보기관과 연계된 것으로 의심받는 앨리스 황이 임원으로 일했던 기업으로, 엔비디아의 첨단 인공지능 ( AI ) 반도체를 중국에 불법 반출했다는 ...",
      "source": "",
-     "ts": 1794464290
+     "ts": 1794484311
     },
     {
-     "id": "ee7b975ec2e58327",
-     "title": "“해킹당해도 국가 기능은 지속”... 국가 사이버복원력 범 정부 TF 출범 - 보안뉴스",
-     "link": "https://www.boannews.com/news/articleView.html?idxno=147225",
-     "summary": "△국가 인공지능 전략 ... 정책 방향과 우선과제를 도출할 계획이다. 특히 중소기업과 지역 생활 ...",
+     "id": "e5dce1b32e7c8c73",
+     "title": "“전자 정부 환상 버려야… AI 국민서비스, '대신 처리·보살피는 정부 '로 진화” < SW < AI /ICT ...",
+     "link": "https://www.itdaily.kr/news/articleView.html?idxno=242877",
+     "summary": "[아이티데일리] “과거 '전자 정부 세계 1위'라는 영광과 환상에서 벗어나야 한다. 국민은 이미 클릭과 검색 없이 인공지능 ( AI )을 일상에서 활용하고 있는데, ...",
      "source": "",
-     "ts": 1794463869
+     "ts": 1794483551
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "cf53c0f1af",
@@ -99,88 +99,88 @@
    "site": "https://aimatters.co.kr",
    "items": [
     {
-     "id": "eea58a86ee1b1583",
-     "title": "배달 로봇 기업 서브 로보틱스, 로봇 2,000대 호출 API 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60474/",
-     "summary": "미국 배달 로봇 기업 서브 로보틱스가 외부 앱과 AI 비서가 보도 배달 로봇을 호출할 수 있는 개발자 포털을 공개했다. 공개 API와 가상 로봇 시험 환경을 ...",
+     "id": "8bb80ebc7ca0cf12",
+     "title": "젠슨 황, 엔비디아 CEO 전격 사임…콜렛 크레스 CFO가 임시 CEO - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60541/",
+     "summary": "젠슨 황이 현지 시각 11월 12일 엔비디아 CEO와 이사직에서 즉시 사임했다. 콜렛 크레스 CFO가 임시 CEO로, 하비 존스 이사가 첫 이사회 의장으로 선임됐다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "438f73a6765ed8b6",
-     "title": "리치텍 로보틱스, CCTV와 청소 로봇 연동 시스템 내주 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60476/",
-     "summary": "미국 서비스 로봇 기업 리치텍 로보틱스가 기존 CCTV 영상으로 청소가 필요한 구역을 찾아 청소 로봇에 작업을 지시하는 지능형 청소 시스템을 11월 17일 ...",
+     "id": "b25c141f2fe2a429",
+     "title": "가전·IT기기 AI 추천, 사용자 맥락에 따라 달라질까 - AI 매터스",
+     "link": "https://aimatters.co.kr/geo_marketing/60108/",
+     "summary": "Profound가 합성 사용자 프로필과 AI 답변 2240개를 분석했다. 사용자 맥락에 따른 추천 목록과 검색 질의의 차이, 가전·IT기기 기업의 제품 정보 점검 과제 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "2650e7fab4637e9a",
-     "title": "NTT, 짐 무너짐 미리 예측하는 로봇 AI 개발…적재 성공률 92% - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60479/",
-     "summary": "NTT가 로봇이 움직이기 전에 짐 붕괴와 물체 낙하를 예측하는 물리 기반 월드 모델 기술을 개발했다. 선반 적재 시뮬레이션 성공률은 73.1%에서 92.3%로 ...",
+     "id": "f9aae09310b8bb17",
+     "title": "메타 AI 에이전트 '뮤즈', 애플워치와 웨어 OS로 확대 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60527/",
+     "summary": "메타가 AI 에이전트 '뮤즈'를 애플워치와 웨어 OS 스마트워치로 확대했다. 이용자는 시계에서 음성 통화, 문자, 받아쓰기로 뮤즈와 대화할 수 있다.",
      "source": "",
      "ts": null
     },
     {
-     "id": "82726d18ec61c478",
-     "title": "데이터브릭스, 여러 단계 업무 혼자 끝내는 AI 에이전트 '지니' 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60427/",
-     "summary": "데이터브릭스가 여러 단계의 업무를 감독 없이 끝내는 AI 에이전트 지니의 새 버전을 공개했다. 알리 고드시 CEO는 직원 만족도 분석과 영업 제안 복기에 ...",
+     "id": "f9bf2769bfa827ba",
+     "title": "구글, 판단 전용 모델 '제미나이 디시전 1' 출시 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60511/",
+     "summary": "구글이 선택지를 채점해 답을 고르는 판단 전용 모델 '제미나이 디시전 1'과 디시전 API를 출시했다. 질문 1000개를 한 번에 처리하며 입력 100만 토큰당 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "119d60bbc5f537ea",
-     "title": "METR, 앤트로픽 개발 속도 2배로 빨라졌다…미공개 모델 3종 포함 - AI매터스",
-     "link": "https://aimatters.co.kr/news-report/60488/",
-     "summary": "AI 안전 평가기관 METR이 앤트로픽 내부 자료로 AI 연구개발 가속을 평가했다. 2025년 10월 이후 모델 개선 속도가 1.9배 빨라졌고 가속의 약 80%를 AI 활용 ...",
+     "id": "14052e8c22a41b0c",
+     "title": "유나이티드항공, 승인 없는 AI 에이전트의 항공권 예약 차단 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60515/",
+     "summary": "유나이티드항공이 승인받지 않은 외부 AI 에이전트의 항공권 예약, 계정 관리, 탑승 수속을 제한한다. 11월 11일 이전 예약은 취소되지 않으며 여행사의 AI ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "f372209c23b0d0f8",
-     "title": "中 매트릭스 로보틱스, 휴머노이드 '매트릭스-3' 수입박람회 안내원 투입 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60482/",
-     "summary": "중국 매트릭스 로보틱스가 3세대 휴머노이드 '매트릭스-3'를 제9회 중국국제수입박람회에서 안내원으로 투입했다. 정해진 대본 없이 관람객을 인식하고 회사 ...",
+     "id": "1e0d28b8a789cb5f",
+     "title": "오픈AI, 언론인 대상 'AI 저널리즘 해커톤' 개최…20개 팀 모집 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60525/",
+     "summary": "오픈AI가 한국언론진흥재단 등과 12월 12일 언론인 대상 AI 저널리즘 해커톤을 개최한다. 3인 1팀 20개 팀을 11월 20일까지 모집하며 참가자 전원에게 챗GPT ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "fb78ce7c11b75884",
-     "title": "美 광고 측정 인증 기관 MRC, AI 측정 표준 초안 내년 1분기 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60392/",
-     "summary": "미국 광고 측정 인증 기관 MRC가 광고 측정에 AI를 쓰는 방식에 관한 첫 표준 초안을 2027년 1분기 공개하고 의견을 받는다. 2단계는 2027년 중반까지 진행 ...",
+     "id": "7a1318f5dc2f5fb8",
+     "title": "PTC 코리아, 피지컬 AI 로드맵 공유…협업 도구 '제트스트림' 소개",
+     "link": "https://aimatters.co.kr/news-report/60522/",
+     "summary": "산업용 소프트웨어 기업 PTC의 한국법인 PTC 코리아가 12일 서울 그랜드 인터컨티넨탈 서울 파르나스에서 'PTC 이노베이션 익스체인지 코리아 2026(PTC ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "7aaeedf21bc43330",
-     "title": "인보카 조사, 美 마케터 74% \"AI 에이전트 리드 추적 못 해\" - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60390/",
-     "summary": "인보카 조사에서 AI 에이전트를 운영하는 미국 소비자 브랜드 마케터의 74%가 에이전트가 응대한 리드를 첫 클릭부터 전환까지 온전히 추적하지 못한다고 ...",
+     "id": "fc7c85c8d4fe16c8",
+     "title": "알리바바, '큐원4 맥스' 프리뷰 공개…2주간 구독자만 이용 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60513/",
+     "summary": "알리바바가 큐원4 제품군의 첫 모델 '큐원4 맥스 프리뷰'를 토큰 플랜 구독자에게 11월 25일까지 제공한다. 100만 토큰 입력을 지원하며 벤치마크와 가중치 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "5fd51127b90051ad",
-     "title": "베이징시, 휴머노이드 연 20만 대 생산 목표…2028년 행동 방안 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60480/",
-     "summary": "중국 베이징시 경제정보화국이 11월 11일 '베이징시 구현지능 로봇 산업 고품질 발전 행동 방안(2026~2028년)'을 발표했다. 구현지능(임바디드 AI)은 몸체를 ...",
+     "id": "58887e87a12ac25d",
+     "title": "[AI 활용팁] 피그마 에이전트로 디자인 피드백과 시안 작업 맡기기 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/60379/",
+     "summary": "피그마 에이전트로 회의록 주석 달기, 댓글 요약, 커스텀 셰이더, 여러 시안 생성, 코드 레이어 인터랙션, 모션 비교를 맡기는 6가지 방법과 이용 요금제를 ...",
      "source": "",
      "ts": null
     },
     {
-     "id": "b0bc85c665a99f29",
-     "title": "日 솜포 홀딩스와 NTT, 요양 현장 피지컬 AI 도입 협약 체결 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60475/",
-     "summary": "일본 보험 그룹 솜포 홀딩스와 NTT가 요양 현장에 피지컬 AI를 도입하는 협약을 맺었다. 청소, 세탁, 식사 준비, 물품 운반 같은 간접 업무부터 적용 대상을 ...",
+     "id": "e4fe669ebffb95db",
+     "title": "플래티어, 롯데이커머스 자사몰 플랫폼 'New LECS' 기술 맡아 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60341/",
+     "summary": "플래티어가 롯데이커머스와 브랜드 전용 자사몰 플랫폼 New LECS 협약을 맺었다. X2BEE가 핵심 기술을 맡고 반복 업무에 AI 에이전트를 적용한다.",
      "source": "",
      "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "25ac01331a",
@@ -189,88 +189,88 @@
    "site": "https://www.axios.com",
    "items": [
     {
-     "id": "60b2d1a8bfd36fca",
-     "title": "Outgoing Trump foe Massie forces new Epstein files showdown",
-     "link": "https://www.axios.com/2026/11/11/massie-epstein-files-second-vote",
-     "summary": "Outgoing Rep. Thomas Massie (R-Ky.) secured the 218 signatures needed to force another House showdown over the Jeffrey Epstein files Wednesday, just one day after fellow Republicans blocked his attempt to impeach Defens…",
+     "id": "266e9a0c5a630e97",
+     "title": "Zelensky says Musk-owned satellite system throttled again, Space X denies it",
+     "link": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky",
+     "summary": "The Ukrainian government has asked the Pentagon and SpaceX to explain new restrictions it says are disrupting the satellite system its military uses to intercept Russian drones. Why it matters: This is the second time i…",
      "source": "",
-     "ts": 1794447700
+     "ts": 1794502939
     },
     {
-     "id": "c7b7da7d21f0244e",
-     "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
-     "link": "https://www.axios.com/2026/11/11/nvidia-jensen-huang-affair-shares",
-     "summary": "Shares in Nvidia sank Wednesday night after the New York Times reported CEO Jensen Huang had a second affair with a senior executive who reports to him. Why it matters: The report adds to mounting scrutiny of Huang, alr…",
+     "id": "7c0e45bd90c588d8",
+     "title": "1 killed, 4 injured in Logan Circle shooting; suspect dead",
+     "link": "https://www.axios.com/local/washington-dc/2026/11/12/logan-circle-shooting-dc-barricade",
+     "summary": "One person was killed and four were injured in a shooting in Logan Circle Thursday morning, police say, prompting a massive police response and shelter-in-place warnings in one of D.C.'s busiest neighborhoods. The lates…",
      "source": "",
-     "ts": 1794441190
+     "ts": 1794502693
     },
     {
-     "id": "37e339ac5774008a",
-     "title": "Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip",
-     "link": "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
-     "summary": "Democrat Scott Colom defeated Republican Sen. Cindy Hyde-Smith in a stunning Mississippi upset , becoming the first Democrat elected to the state's Senate delegation since 1982, AP projects. Why it matters: Colom's vict…",
+     "id": "b6f66424a8c447d0",
+     "title": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
+     "link": "https://www.axios.com/2026/11/12/inflation-rates-fed-iran-tariffs",
+     "summary": "Data: FactSet; Chart: Courtenay Brown/Axios Inflation is no longer confined to a handful of trouble spots. Now, Federal Reserve officials are starting to question whether raising interest rates gradually will be enough…",
      "source": "",
-     "ts": 1794440791
+     "ts": 1794502507
     },
     {
-     "id": "e5b4239cdfca1062",
-     "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
-     "link": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
-     "summary": "President Trump on Thursday authorized a crack down on companies suspected of diverting Nvidia's advanced AI chips to China for the third time this year — even consulting Elon Musk before giving the go-ahead. One admini…",
+     "id": "402e12256ec26483",
+     "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO",
+     "link": "https://www.axios.com/2026/11/12/trump-jensen-huang-resign-tim-cook-apple",
+     "summary": "President Trump is backing Apple executive chairman Tim Cook to replace tech giant Jensen Huang after Huang resigned as Nvidia CEO, though it's unclear whether he meant it as a joke. The big picture: Trump didn't weigh…",
      "source": "",
-     "ts": 1794430742
+     "ts": 1794499818
     },
     {
-     "id": "cdf10059d309039d",
-     "title": "Scoop: U.S. asks Russia to propose new security agreement with Europe",
-     "link": "https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement",
-     "summary": "The U.S. has asked Russia to submit a new proposal for a future security agreement with Europe that includes Russian steps to ease tension with the continent, two sources with knowledge of the matter said. Why it matter…",
+     "id": "8e758e03e330f32b",
+     "title": "Trump sticks by Commerce Secretary Lutnick despite Nvidia inaction",
+     "link": "https://www.axios.com/2026/11/12/trump-lutnick-nvidia",
+     "summary": "The White House is standing by Commerce Secretary Howard Lutnick despite a view within the administration that Lutnick delayed action to address concerns over chip smuggling to China. Why it matters: Congress smells blo…",
      "source": "",
-     "ts": 1794427414
+     "ts": 1794499434
     },
     {
-     "id": "aa7a6317df2b31f9",
-     "title": "Scoop: Inside Bessent's Situation Room confrontation with Lutnick over China chip security",
-     "link": "https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips",
-     "summary": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick over a failure to place Nvidia customer Megaspeed on a list of companies that pose national security concerns, sources familiar told Axios. W…",
+     "id": "71378d0ad1b2d2b2",
+     "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
+     "link": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
+     "summary": "Jensen Huang resigned as CEO of Nvidia after he reportedly had two affairs, including one with a purported Chinese spy. Why it matters: It's impossible to overstate how critical Huang is to Nvidia, to the AI buildout, t…",
      "source": "",
-     "ts": 1794420214
+     "ts": 1794497855
     },
     {
-     "id": "8ac11d2c173c24f9",
-     "title": "Don Leonard isn't a House member yet. He's already rocking Capitol Hill.",
-     "link": "https://www.axios.com/2026/11/11/don-leonard-ohio-democrat-house-jeffries",
-     "summary": "Rep.-elect Don Leonard (D-Ohio) hasn't been sworn in yet, but he's making a name for himself on Capitol Hill as one of the most outspoken anti-establishment progressives in the incoming freshman class. Why it matters: T…",
+     "id": "9e07f0745d862417",
+     "title": "Jensen Huang's ouster triggers an AI earthquake",
+     "link": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
+     "summary": "Jensen Huang's potential ouster from Nvidia has plunged the AI industry into uncharted territory — a corporate earthquake that dwarfs even the chaos unleashed by Sam Altman's temporary firing from OpenAI in 2023. Why it…",
      "source": "",
-     "ts": 1794394806
+     "ts": 1794492625
     },
     {
-     "id": "cdeb2d3422930b7a",
-     "title": "Dems put Noem on notice",
-     "link": "https://www.axios.com/2026/11/11/kristi-noem-homeland-security-congress-subpoena",
-     "summary": "President Trump fired Homeland Security Secretary Kristi Noem in March, but Democrats aren't finished with her. Why it matters: Armed with commanding House and Senate majorities, they're preparing to haul the architects…",
+     "id": "a4a1fa09b4d70839",
+     "title": "Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran",
+     "link": "https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran",
+     "summary": "President Trump directed Vice President JD Vance on Thursday to turn his \"complete and total attention\" toward alleged corruption in Democrat-run cities and states, contending that \"[w]e don't need a deal with Iran.\" Th…",
      "source": "",
-     "ts": 1794392406
+     "ts": 1794491699
     },
     {
-     "id": "94eb70410daa97b6",
-     "title": "The AI industry's week from hell",
-     "link": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
-     "summary": "A week of political upheaval , financial turmoil and salacious scandal delivered one final indignity to the AI industry Tuesday, as Anthropic's staggering IPO target fell short of expectations. Why it matters: The bubbl…",
+     "id": "5d11cbb5a4203627",
+     "title": "Bracing for Nvidia's impact",
+     "link": "https://www.axios.com/2026/11/12/bracing-for-nvidias-impact",
+     "summary": "Data: FactSet; Chart: Matt Phillips/Axios Nvidia CEO Jensen Huang's apparent from grace is a shock to a company at the core of the U.S. markets and the AI ecosystem that he did much to create. Why it matters: CEO scanda…",
      "source": "",
-     "ts": 1794392406
+     "ts": 1794486012
     },
     {
-     "id": "9874d6fb6c80b52b",
-     "title": "House GOP bets on MAGA \"fighter\" Jim Jordan",
-     "link": "https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans",
-     "summary": "House Republicans are turning to one of their fiercest fighters to lead their diminished conference after one of their biggest drubbings in decades. Why it matters : Jim Jordan , 62, a founding member of the hardline Ho…",
+     "id": "de1edcc66cc7502e",
+     "title": "From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid",
+     "link": "https://www.axios.com/2026/11/12/scott-colom-mississippi-delta-civil-rights-till",
+     "summary": "Scott Colom 's path to a historic U.S. Senate upset ran through the Mississippi Delta — where Emmett Till was abducted, Fannie Lou Hamer fought for the ballot and the blues became an American art form. Why it matters: N…",
      "source": "",
-     "ts": 1794391806
+     "ts": 1794480053
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "efbaaa613bed024e",
-     "title": "Apache HTTP Server의 치명적인 원격 코드 실행 취약점",
-     "link": "https://news.hada.io/topic?id=37046&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Apache HTTP Server의 HTTP/2 모듈에서 CVE-2026-119618 취약점이 발견됨. 인증되지 않은 원격 공격자가 악용에 성공하면 힙 메모리를 손상시켜 웹 서버 프로세스 권한으로 임의 코드를 실행할 수 있음 원인은 assign_headers() 함수의 경쟁 상태 로, 공유 자원을 사용하는 스레드의 동시 실행 과정에서 동기화가 제대로 이뤄지지 않음 영향 대상은 HTTP/2를…",
+     "id": "416409130ab01fa0",
+     "title": "Apple 지원 커뮤니티, 2026년 11월 20일 영구 폐쇄 예정",
+     "link": "https://news.hada.io/topic?id=37063&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Apple 고객이 서로 제품 사용을 돕던 Apple Support Community 가 2026년 11월 20일 운영을 영구 종료함 공지 당일부터 새 게시물 접수를 중단 하며, 사이트는 읽기 전용 상태로 전환됨 읽기 전용 상태 에서는 기존 내용을 열람할 수 있음 제품 관련 안내와 지원은 공식 Apple Support 사이트 에서 계속 이용할 수 있음 Apple은 다른 고객을 돕기 위해 시간…",
      "source": "",
-     "ts": 1794476226
+     "ts": 1794501575
     },
     {
-     "id": "77eba1a0a669a334",
-     "title": "Humble Bundle이 바이브 코딩으로 보안 대부분을 무너뜨림",
-     "link": "https://news.hada.io/topic?id=37045&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "",
+     "id": "01055104b0106ed8",
+     "title": "Nvidia CEO Jensen Huang, 두 번째 불륜 보도로 스캔들이 커진 뒤 사임",
+     "link": "https://news.hada.io/topic?id=37062&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Jensen Huang 이 Nvidia의 CEO, 사장, 이사직에서 물러났으며, 이사회는 CFO Colette Kress 를 임시 CEO로 선임함 Huang이 불륜을 인정한 뒤 직속 임원과의 두 번째 불륜 의혹 이 보도됐으며, 이사회는 독립 조사를 진행 중임 Nvidia 주가 는 미국 증시 개장 직후 13% 넘게 하락해 시가총액 5,000억 달러 이상이 사라졌으나, 오전 장중 낙폭을 약 6…",
      "source": "",
-     "ts": 1794476046
+     "ts": 1794501395
     },
     {
-     "id": "397b9b444f060fc8",
-     "title": "Show GN: Line - 기분선과 암호화 일기",
-     "link": "https://news.hada.io/topic?id=37040&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "하루의 사건과 기분을 선으로 돌아보는 한국어 일기 베타 Line을 만들었습니다. 가입 없이 공개 연혁 예시를 먼저 볼 수 있고, 개인 일기는 기기 내 암호화 저장과 수동 백업·복원으로 관리합니다. 개인 일기에서는 ‘암호화 저장’을 눌러 수정 내용을 보관해야 합니다. 비밀번호 분실 복구와 자동 동기화는 없습니다. 백업을 따로 보관해 주세요. 공개 파일로 내보내면 본문은 빠져도 제목·날짜·기분…",
+     "id": "128ba271a5a6901b",
+     "title": "Jensen Huang, Nvidia CEO직 즉시 사임",
+     "link": "https://news.hada.io/topic?id=37061&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Jensen Huang 이 Nvidia CEO와 이사회에서 물러나고, CFO Colette Kress 가 정식 후임자를 찾는 동안 임시 CEO를 맡음 사임에 앞서 두 건의 혼외관계 의혹 이 불거졌으며, 상대 중 한 명은 미국 당국이 중국 정보기관과의 연계를 의심하는 인물임 Nvidia 주가는 장전 거래에서 10% 넘게 하락 하며 전체 시장에도 부담을 줌 경영 공백의 핵심 위험은 실행력과 생…",
      "source": "",
-     "ts": 1794465010
+     "ts": 1794497645
     },
     {
-     "id": "140366cef6eba05e",
-     "title": "마법의 시대에 Emacs는 어디로 가는가",
-     "link": "https://news.hada.io/topic?id=37038&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI에 원하는 작업을 말하는 방식이 자리 잡으면서, Emacs 사용자가 내세우던 편집 속도, 맞춤화, LISP의 표현력 이 예전 같은 경쟁 우위를 갖기 어려워짐 excali-mode.el 은 Emacs의 새 캔버스 기능을 활용하려고 Excalidraw의 애플리케이션 스택을 재구현한 사례로, 과거라면 엄두 내기 어려웠을 작업을 토큰 비용으로 시도함 cooked.el 은 일반 텍스트 버퍼처럼…",
+     "id": "c07111018f5eca7f",
+     "title": "올바른 소프트웨어를 작성하기 어려운 이유",
+     "link": "https://news.hada.io/topic?id=37060&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "소프트웨어의 정확성 확보 비용 은 도구의 부족만이 아니라 계산 자체의 본질적 한계에서 비롯됨. 더 나은 언어와 검증 도구가 도움을 줄 수는 있지만, 모든 프로그램을 쉽게 검증하게 만들 수는 없음 정지 문제와 계산 복잡도 는 서로 다른 장벽임. 어떤 속성은 일반적으로 판정할 수 없고, 판정 가능한 프로그램에서도 검증에 필요한 시간이나 증명 크기가 현실적인 한계를 넘을 수 있음 종료를 보장하는…",
      "source": "",
-     "ts": 1794461658
+     "ts": 1794494532
     },
     {
-     "id": "6b441ad11463d5d8",
-     "title": "GitHub Actions를 잠금 파일로 고정하기",
-     "link": "https://news.hada.io/topic?id=37037&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "GitHub Actions가 워크플로 잠금 파일 을 지원하면서, 워크플로에는 버전 태그를 쓰고 별도 파일에 커밋 정보를 고정할 수 있게 됨 Git에서 가져오는 액션의 태그는 변경 가능 하므로, 공격자가 안전했던 태그를 악성 코드로 돌리는 공급망 공격을 막기 위해 기존에는 전체 SHA 고정이 권장됐음 gh actions-lock 을 실행하면 워크플로를 버전 태그 형식으로 바꾸고 .github…",
+     "id": "0c49a45dd125cafa",
+     "title": "NVIDIA, CEO 교체 발표",
+     "link": "https://news.hada.io/topic?id=37059&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Jensen Huang 이 NVIDIA 사장, CEO, 이사회 이사직에서 즉시 사임함 현 수석부사장 겸 CFO인 Colette Kress 가 임시 CEO를 맡으며, 정식 후임자가 선임될 때까지 기존 직책을 겸임함 이사회는 정식 CEO 후임자 물색 에 착수하며, 내부와 외부 후보를 모두 검토할 예정임 Harvey C. Jones 가 NVIDIA 최초의 이사회 의장으로 임명됨 이사회는 사업 운…",
      "source": "",
-     "ts": 1794457922
+     "ts": 1794494352
     },
     {
-     "id": "e132f977168a44f0",
-     "title": "AI 시대, git push 앞뒤에서 바뀌는 것들",
-     "link": "https://news.hada.io/article/git-push-in-the-agent-era?utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "2026년 10월, Anthropic은 사내 모노레포에서 Git을 자체 버전 관리 시스템인 Scion으로 교체했다 고 밝혔습니다. 11월에는 OpenAI도 병렬 에이전트 개발을 위해 Pando라는 새 Git 백엔드를 만들었다 고 공개했습니다. 두 회사 모두 여러 에이전트가 동시에 작업하면서 저장소에 걸리는 부하가 커졌지만, 바꾼 범위는 달랐습니다. Anthropic은 버전 관리 시스템 자체…",
+     "id": "2d52dc7df7db534b",
+     "title": "Palantir, 새 의회의 조사 앞두고 민주당 출신 전직 상원의원 영입",
+     "link": "https://news.hada.io/topic?id=37057&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "민주당이 1월 상하원 다수당이 되면서 기술업계와 Trump 행정부의 관계를 조사할 것으로 예상되는 가운데, Palantir가 Jon Tester 전 민주당 상원의원을 영입 함 Tester는 계약이 로비가 아닌 자문 이며, 농민과 재향군인을 위한 정부 서비스 효율화에 집중할 예정이라고 밝힘 민주당의 Ron Wyden 상원의원은 Palantir의 정부 데이터 활용에 대한 질의를 이어갈 계획이며…",
      "source": "",
-     "ts": 1794457164
+     "ts": 1794491161
     },
     {
-     "id": "80bd2f07c1179d41",
-     "title": "Show GN: 딸깍 - 국어사전 명사 2만 7천 개로 컴퓨터와 하는 끝말잇기, 성냥개비 문제 정답 찾기",
-     "link": "https://news.hada.io/topic?id=37033&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "8월에 매일 자정 10문제가 열리는 퍼즐 사이트로 한 번 소개드렸던 딸깍입니다. 석 달 동안 \"매일 문제\" 말고 직접 갖고 놀 수 있는 것을 몇 개 붙여서 다시 올립니다. 끝말잇기 (/kkeut) 국립국어원 한국어기초사전의 두 글자 이상 명사 27,831개만 받습니다. 두음법칙은 인정합니다. 컴퓨터는 새싹부터 고수까지 5단계인데, 고수는 \"다음 사람이 이을 말이 없는 끝 글자\"로 끝나는 말…",
+     "id": "42884420ae4627c6",
+     "title": "Show GN: RefDaily - 매일 아침 새 논문을 찾아 오고, 읽고 쓰는 일까지 옆에서 챙겨 주는 AI 연구 매니저",
+     "link": "https://news.hada.io/topic?id=37056&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "박사과정을 하면서 제일 힘들었던 건 할 일이 너무 많아서 논문을 읽고 내 연구로 쌓아 갈 시간이 없다는 거였습니다. 도구는 많고 다들 좋다고 하는데, GPT로 논문을 찾아도 한계가 있었고 찾은 논문이 머릿속에 남지 않았습니다. 그래서 논문을 찾는 일부터 내 연구로 쌓는 일까지 한곳에서 맡아 주는 AI 연구 매니저를 만들었습니다. 전반적으로 구조는 '키워드 기반 자동 수집/요약 ➡️ (깊게…",
      "source": "",
-     "ts": 1794457103
+     "ts": 1794491127
     },
     {
-     "id": "6fc4e5182b257732",
-     "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
-     "link": "https://news.hada.io/topic?id=37031&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 최대 내적 검색(MIPS) 의 추론 속도와 정확도를 높이는 방법을 개발함 기존 중심점 기반 검색은 클러스터 내부의 최적 키를 놓칠 수 있음. SupportNet 은 클러스터별 최상의 일치 점수를 예측해 질의를 더 적합한 클러스터로 보냄 KeyNet 은 질의를 최적 키에 가까운 벡터로 변환해…",
+     "id": "29e5b9fa89be67d3",
+     "title": "추론은 어떤 목적함수를 풀고 있는가?",
+     "link": "https://news.hada.io/topic?id=37055&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "추론을 토큰 공간의 경로 탐색 으로 보면, 강화학습은 정답에 도달하는 경로를 생성할 확률을 높이지만 개별 사고 과정이 정답으로 수렴하도록 보장하지는 않음 더 긴 사고 과정 이 본질적으로 더 좋은 것은 아님. 성공한 긴 경로를 학습할 수는 있지만, 학습된 모델의 사고를 강제로 늘리면 정확도 향상이 멈추거나 오히려 낮아질 수 있음 정확한 검증기가 있다는 가정에서 best-of-k 샘플링 은 성…",
      "source": "",
-     "ts": 1794454388
+     "ts": 1794490981
     },
     {
-     "id": "0f84b6e3c7cb37d4",
-     "title": "AI와 일할 때 가장 자주 던지는 질문: 지금 관성에 끌려가고 있는가?",
-     "link": "https://news.hada.io/topic?id=37030&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 에이전트와 1년 넘게 개발하며, 할루시네이션보다 자주 마주한 문제는 각 단계가 합리적으로 보이는데도 처음의 전제를 의심하지 않은 채 계속 나아가는 것이었습니다. 저는 이것을 관성이라고 부릅니다. 글에서는 세 가지 경험을 다뤘습니다. 5개월 동안 알아채지 못한 설계: 스킬을 정의하는 기준이 문제를 만들었는데, 기준을 다시 보기보다 그 빈자리를 메울 새 시스템을 설계했습니다. 하루 만에…",
+     "id": "c78f4babcb033ad7",
+     "title": "Anthropic 기업공개(IPO)",
+     "link": "https://news.hada.io/topic?id=37054&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Anthropic은 Class A 보통주 를 공모하며, Nasdaq에서 ANT 라는 종목코드로 거래할 예정임 미국 동부시간 기준 11월 10일 로드쇼를 시작하고, 규제 승인 등을 전제로 11월 18일 공모가 확정과 11월 19일 거래 개시를 예상함 2026년 3분기 매출 170억 달러 로 전년 동기의 12배를 넘었으며, 최근 12개월 매출 기여액이 10만 달러 이상인 고객은 11,900곳을…",
      "source": "",
-     "ts": 1794452746
+     "ts": 1794490800
     },
     {
-     "id": "fc263471e5aa44ca",
-     "title": "페인트 얼룩의 93%는 유효한 Perl 프로그램이다 (2019)",
-     "link": "https://news.hada.io/topic?id=37029&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "페인트 얼룩을 OCR로 인식한 결과 93%가 유효한 Perl 프로그램으로 파싱 됐으며, 유효한 Perl 코드를 만들지 않고 벽에 페인트를 묻히는 것도 가능했음 연구의 주요 데이터셋은 페인트 얼룩 이미지 100개 이며, 유효한 Perl 프로그램이 아닌 사례 7개도 확인함 공개 갤러리에서 얼룩 이미지와 대응하는 Perl 코드 를 함께 볼 수 있으며, 파싱되지 않은 이미지는 빨간색으로 구분함 O…",
+     "id": "99a39de4090dce92",
+     "title": "Utah Teapot - 컴퓨터 그래픽스의 상징이 된 주전자 모델",
+     "link": "https://news.hada.io/topic?id=37052&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Utah Teapot 은 초기 Bézier 패치 기반 모델 중 하나이자 컴퓨터 그래픽스 알고리듬 평가에 쓰이는 표준 모델로, 공식 페이지에서 역사적 버전을 시각화하고 내려받거나 형태를 조정할 수 있음 1975년 Martin Newell의 원형에서 출발해 비율 조정, 바닥 추가, 내부 표면 설계 를 거쳤으며, 버전마다 형상과 패치 구성이 다름 2026년 버전 은 곡률 연속성을 확보하고 손잡이…",
      "source": "",
-     "ts": 1794450712
+     "ts": 1794486829
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "f9eb976542",
@@ -540,7 +540,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "19ef1c7741",
@@ -548,6 +548,14 @@
    "url": "https://www.technologyreview.com/feed/",
    "site": "https://www.technologyreview.com",
    "items": [
+    {
+     "id": "56aae23ea0ecf27d",
+     "title": "The Download: COP31’s climate challenge and the quest for immortality",
+     "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists…",
+     "source": "",
+     "ts": 1794489000
+    },
     {
      "id": "198edc5850c5aa3e",
      "title": "What to know about this year’s UN climate talks",
@@ -619,18 +627,10 @@
      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to…",
      "source": "",
      "ts": 1794218400
-    },
-    {
-     "id": "69dd96b9d4af8ef1",
-     "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-     "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future…",
-     "source": "",
-     "ts": 1793970600
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "7ebf5b6c9a",
@@ -728,6 +728,14 @@
    "url": "https://stratechery.com/feed/",
    "site": "https://stratechery.com",
    "items": [
+    {
+     "id": "6385324d791c2a17",
+     "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
+     "link": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
+     "summary": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
+     "source": "",
+     "ts": 1794481200
+    },
     {
      "id": "ccb5a1ec7db5a1f1",
      "title": "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
@@ -799,18 +807,10 @@
      "summary": "Google's earnings miss looks a lot like Facebook's, and that's a credit to Google. The company is being more aggressive than they get credit for.",
      "source": "",
      "ts": 1793617200
-    },
-    {
-     "id": "b0b354969dc04d5b",
-     "title": "2026.44: At Long Last…",
-     "link": "https://stratechery.com/2026/at-long-last/",
-     "summary": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
-     "source": "",
-     "ts": 1793379600
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "2c60dce9bd",
@@ -819,88 +819,88 @@
    "site": "https://www.datacenterdynamics.com",
    "items": [
     {
-     "id": "d0397f6d119d49ba",
-     "title": "Sponsored: Restructuring data center financing to deliver the future",
-     "link": "https://www.datacenterdynamics.com/en/marketwatch/restructuring-data-center-financing-to-deliver-the-future/",
-     "summary": "Speed to power is becoming more critical in the industry. AVK says alternative paths to finance could hold the answer",
+     "id": "f3618c1657f6d073",
+     "title": "Sabey signs 43.5MW PPA in Texas",
+     "link": "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
+     "summary": "Company to offtake from CIP’s Greasewood solar farm",
      "source": "",
-     "ts": 1794474000
+     "ts": 1794504039
     },
     {
-     "id": "eddd53d37299f5dc",
-     "title": "CoreWeave CEO addresses \"volatility in the capital markets\" as company posts $3.66bn in revenue",
-     "link": "https://www.datacenterdynamics.com/en/news/coreweave-ceo-addresses-volatility-in-the-capital-markets-as-company-posts-366bn-in-revenue/",
-     "summary": "Spending continues to rise, but company assuages some concerns",
+     "id": "f6bfce6f2d594e81",
+     "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
+     "link": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
+     "summary": "Challenges Milwaukee's data center moratorium",
      "source": "",
-     "ts": 1794471398
+     "ts": 1794503430
     },
     {
-     "id": "8d3140d718d854fa",
-     "title": "Rackspace signs capacity agreements with Together AI and Blacksmith",
-     "link": "https://www.datacenterdynamics.com/en/news/rackspace-signs-capacity-agreements-with-together-ai-and-blacksmith/",
-     "summary": "Deployment planned for 2027",
+     "id": "ca1d92c58d29bef8",
+     "title": "CDC files to develop 1.4GW data center campus in Kemps Creek, Australia",
+     "link": "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/",
+     "summary": "Company refiles plans at latest Sydney development",
      "source": "",
-     "ts": 1794470675
+     "ts": 1794502533
     },
     {
-     "id": "a083a1bc54001192",
-     "title": "Energy storage firm Torus launches prefabricated modular data center product, raises $500m",
-     "link": "https://www.datacenterdynamics.com/en/news/energy-storage-firm-torus-launches-prefabricated-modular-data-center-product-raises-500m/",
-     "summary": "Funding to support scaling of Torus Foundry product",
+     "id": "ba065bd4cc1448c9",
+     "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex",
+     "link": "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/",
+     "summary": "Company also notes delays to Microsoft data center project",
      "source": "",
-     "ts": 1794470097
+     "ts": 1794501954
     },
     {
-     "id": "39fccb91e5d68aeb",
-     "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
-     "link": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
-     "summary": "The central figure of the AI boom could be set to lose his job",
+     "id": "f80bd3be70ce23cf",
+     "title": "Advancing thermal management for the AI era",
+     "link": "https://www.datacenterdynamics.com/en/magazines/advancing-thermal-management-for-the-ai-era/",
+     "summary": "Taking a direct approach to liquid cooling in high-density data centers",
      "source": "",
-     "ts": 1794439620
+     "ts": 1794500714
     },
     {
-     "id": "68dff8c02f532a38",
-     "title": "Nvidia appoints law firm to investigate CEO's affair with suspected Chinese spy",
-     "link": "https://www.datacenterdynamics.com/en/news/nvidia-appoints-law-firm-to-investigate-ceos-affair-with-suspected-chinese-spy/",
-     "summary": "Jensen Huang's dalliances come under investigation",
+     "id": "5b80ea82bd8d5768",
+     "title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
+     "link": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
+     "summary": "Research firms says while underlying configuration will remain the same, AI company is switching up the PCB",
      "source": "",
-     "ts": 1794417320
+     "ts": 1794500652
     },
     {
-     "id": "f6d98e8d20dbbd53",
-     "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
-     "link": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
-     "summary": "US cloud computing firm Crusoe has indicated interest as a potential off-taker for the project’s data center capacity",
+     "id": "1970be88cccd80c4",
+     "title": "Telefónica Germany expands fiber net through network-sharing agreement with Deutsche Glasfaser",
+     "link": "https://www.datacenterdynamics.com/en/news/telef%C3%B3nica-germany-expands-fiber-net-through-network-sharing-agreement-with-deutsche-glasfaser/",
+     "summary": "Will enable Telefónica to market its fiber to three million more locations",
      "source": "",
-     "ts": 1794417208
+     "ts": 1794500488
     },
     {
-     "id": "fdc249d648ecac0e",
-     "title": "Ohio State University to migrate infrastructure to Microsoft Azure",
-     "link": "https://www.datacenterdynamics.com/en/news/ohio-state-university-to-migrate-infrastructure-to-microsoft-azure/",
-     "summary": "Two sign a five-year partnership",
+     "id": "11d3a8955aa08d84",
+     "title": "One-year moratorium could be implemented in Indiantown, Florida",
+     "link": "https://www.datacenterdynamics.com/en/news/one-year-moratorium-could-be-implemented-in-indiantown-florida/",
+     "summary": "Existing projects will not be effected",
      "source": "",
-     "ts": 1794417083
+     "ts": 1794500249
     },
     {
-     "id": "607c13e78d0a1822",
-     "title": "Working hard Evri day",
-     "link": "https://www.datacenterdynamics.com/en/analysis/evri-cto-marcus-hunter-aws/",
-     "summary": "The digital backbone behind one of the UK’s largest courier services, and the backstory of its CTO",
+     "id": "11873c3e2419a096",
+     "title": "Developers propose “inference point facility” in Swansea, Massachusetts",
+     "link": "https://www.datacenterdynamics.com/en/news/developers-propose-inference-point-facility-in-swansea-massachusetts/",
+     "summary": "A rebranding of Edge for the AI era",
      "source": "",
-     "ts": 1794416444
+     "ts": 1794500040
     },
     {
-     "id": "bbc28b95d336db8f",
-     "title": "LCL partners with Wellen Real Estate on rooftop solar project in Antwerp, Belgium",
-     "link": "https://www.datacenterdynamics.com/en/news/lcl-partners-with-wellen-real-estate-on-rooftop-solar-project-in-antwerp-belgium/",
-     "summary": "Expected to generate between 4 and 4.5GWh of electricity",
+     "id": "21836f981e311df5",
+     "title": "Japan's NTT Docomo apologizes after second 5G SA network outage in five days",
+     "link": "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-apologizes-after-second-5g-sa-network-outage-in-five-days/",
+     "summary": "A nine-hour outage yesterday followed a 14-hour one last Friday",
      "source": "",
-     "ts": 1794414516
+     "ts": 1794500028
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   },
   {
    "id": "c15f1e5a65",
@@ -998,6 +998,22 @@
    "url": "https://www.theregister.com/software/headlines.atom",
    "site": "https://www.theregister.com",
    "items": [
+    {
+     "id": "b0ab29dcda10dff5",
+     "title": "Software Samaritan revamps borked Indian certs to block smart TV ads",
+     "link": "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467",
+     "summary": "A little tinkering can black hole obnoxious Samsung TV ads and some tracking, until a firmware fix ruins the fun",
+     "source": "",
+     "ts": 1794506575
+    },
+    {
+     "id": "e07c73c527424010",
+     "title": "Rockstar workers vote on union recognition as GTA VI launch looms",
+     "link": "https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319",
+     "summary": "UK staff get their say while a separate union-busting dispute heads towards its conclusion",
+     "source": "",
+     "ts": 1794481260
+    },
     {
      "id": "4a057042ea274c04",
      "title": "Anthropic tiptoes into MS Office territory",
@@ -1061,26 +1077,10 @@
      "summary": "New commitment to Apache Iceberg and expanded Databricks partnership point to battle ahead over context layer",
      "source": "",
      "ts": 1793873700
-    },
-    {
-     "id": "bb70770b45bca3c1",
-     "title": "Microsoft admits certifications can be a drag, launches creds that recognize skills",
-     "link": "https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725",
-     "summary": "‘Pro Badges’ don’t require a test, Microsoft awards them by watching you use GitHub",
-     "source": "",
-     "ts": 1793850236
-    },
-    {
-     "id": "9c0c3c49d76f98e8",
-     "title": "Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing",
-     "link": "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382",
-     "summary": "We've got a hunch the memory crunch is taking a bite out of Windows revenue",
-     "source": "",
-     "ts": 1793741909
     }
    ],
    "error": null,
-   "last_ok": 1794477289
+   "last_ok": 1794507778
   }
  ]
 }
