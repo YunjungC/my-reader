@@ -1,5 +1,5 @@
 {
- "generated_at": 1794592159,
+ "generated_at": 1794613128,
  "top_n": 10,
  "feeds": [
   {
@@ -9,12 +9,36 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "f6c237109a0a4cf8",
+     "title": "세종시, ' AI 정부 ' 미래 비전 제시",
+     "link": "https://www.sejongyeonhap.co.kr/news/articleView.html?idxno=58996",
+     "summary": "... 인공지능 디지털담당관은 '세종 AX, AI 정부 의 미래를 연다'를 발표했다. 김산옥 담당관은 정부 의 인공지능 정책 이 현장에서 성과로 이어지기 위해선 지방 정부 ...",
+     "source": "",
+     "ts": 1794605935
+    },
+    {
+     "id": "3305f87f2828073d",
+     "title": "메가 프로젝트 중소기업 소외 없다…아산서 중소기업협의회 구성 논의 - TJB",
+     "link": "https://www.tjb.co.kr/news05/category/view/id/106055",
+     "summary": "반도체와 AI 데이터센터 메가 프로젝트 로 열릴 대규모 시장이 대기업만의 몫이 되지 않도록 정부 가 중소기업의 공급망 진입 문을 넓힙니다. ◇ 삼성전자 아산 ...",
+     "source": "",
+     "ts": 1794599265
+    },
+    {
      "id": "d48450a4a85c948e",
      "title": "메가 프로젝트 성과 중소기업으로 확산…상생 재원 2조 원 조성 - 대한민국 정책브리핑",
      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148975667",
      "summary": "정부 가 반도체· 인공지능 ( AI ) 데이터센터 등 대규모 메가 프로젝트 에 중소기업의 참여를 확대하기 위해 2030년까지 2조 원 규모의 상생 재원을 조성한다.",
      "source": "",
      "ts": 1794587758
+    },
+    {
+     "id": "f81ac71b9fb360bb",
+     "title": "AI 안전 국민 모니터링단 ' AI 안전 지킴이' 출범 - 환경일보",
+     "link": "https://www.hkbs.co.kr/news/articleView.html?idxno=838452",
+     "summary": "또한 과기정통부 와 안전연구소는 관련 기업에 사례를 공유하는 등 AI 기업과 지속적으로 소통해 나갈 계획이다. 엄열 과기정통부 인공지능정책 실장은 “ AI 가 ...",
+     "source": "",
+     "ts": 1794587026
     },
     {
      "id": "4c846d05913984a5",
@@ -63,34 +87,10 @@
      "summary": "말레이시아 정부 가 젠슨 황 전 엔비디아 최고경영자의 연인으로 알려진 앨리스 황이 과거 임원으로 재직한 싱가포르 기업의 자회사를 통해 첨단 인공지능 ...",
      "source": "",
      "ts": 1794578068
-    },
-    {
-     "id": "745622d75c148576",
-     "title": "세종시, 공공 인공지능 전환(AX) 추진 현황과 향후 전략 발표",
-     "link": "http://www.sejongin.co.kr/news/articleView.html?idxno=16522",
-     "summary": "... AI 정부 의 미래를 연다'를 발표했다. 김산옥 인공지능 디지털담당관은 정부 의 인공지능 정책 ... 프로젝트 '를 내년부터 추진하겠다고 덧붙였다. 배일권 ...",
-     "source": "",
-     "ts": 1794576892
-    },
-    {
-     "id": "1b717182ee4530d4",
-     "title": "“엔비디아, 韓에 GPU 26만장 공급 약속대로”… 정부 , 기존 협력 재확인 - 매일경제",
-     "link": "https://www.mk.co.kr/news/society/12208271",
-     "summary": "... 인공지능 ( AI ) 인프라 협력 사업에 미칠 영향과 관련한 우려가 높아진 데 따른 것이다. 배 부총리는 정부 가 추진 중인 GPU 5만장 확보 계획도 예정대로 진행 ...",
-     "source": "",
-     "ts": 1794576232
-    },
-    {
-     "id": "5e3db46892f43e80",
-     "title": "엘리스그룹, 대한민국 인터넷대상 대통령상수상… AI 데이터센터 구축 공로",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217386",
-     "summary": "정책 . 엘리스그룹, 대한민국 인터넷대상 대통령상수상… AI 데이터센터 구축 ... # AI # 인공지능 # 과학기술정보통신부 #엘리스그룹 #KT #메가존클라우드 ...",
-     "source": "",
-     "ts": 1794574782
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "cf53c0f1af",
@@ -98,6 +98,38 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
    "items": [
+    {
+     "id": "3c5169c45222c8c5",
+     "title": "오픈AI, '챗GPT 월렛' 출시…AI 에이전트가 대신 결제 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60873/",
+     "summary": "오픈AI가 AI 에이전트 닷이 상품 선택부터 결제까지 대신하는 챗GPT 월렛을 미국 프로 구독자 일부에게 출시했다. 구매 건마다 페이스 ID나 지문으로 승인 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "7c957c3547a32042",
+     "title": "[요금제 비교] 제미나이 요금제 총정리…무료부터 울트라 30만 원까지 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/60544/",
+     "summary": "제미나이 요금제는 11월 12일 기준 무료, AI 플러스 월 7500원, AI 프로 월 2만 9000원, AI 울트라 월 11만 9000원, 30만 원이다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "d38400b882d9be35",
+     "title": "[AI 행사 캘린더] 11월 15일~12월 국내외 AI 행사 14선 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/60545/",
+     "summary": "국내에서는 건설과 데이터센터, 소프트웨어 분야 전시회와 지역 AI 컨퍼런스, 언론인 대상 해커톤이 예정돼 있고, 해외에서는 AWS 리인벤트와 마이크로소프트 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "a1558b9bde5f7f1b",
+     "title": "맥킨지 AI 가치 곡선, CEO는 시간당 20달러 아끼고 웨이터는 손해 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60727/",
+     "summary": "맥킨지 AI 가치 곡선은 업무 1시간을 AI에 맡길 때 남는 돈을 계산했다. CEO는 시간당 약 20달러, 웨이터는 마이너스였다. AI 비용이 30% 오르면 연 2.52조 ...",
+     "source": "",
+     "ts": null
+    },
     {
      "id": "b8ea34b51e21a987",
      "title": "[AI 활용팁] 폰 하네스 MCP로 클로드에서 클라우드 스마트폰 조작하기 - AI 매터스",
@@ -145,42 +177,10 @@
      "summary": "중국 AI 기업들이 미국의 원격 이용 규제 강화를 우려해 해외 데이터센터의 엔비디아 칩 연산 자원 확보를 서두르고 있다. 미 하원은 1월 원격 접근 보안법 ...",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "d92fb6a1a06c8592",
-     "title": "바이트댄스, 메타 '뮤즈'형 AI 비서 수주 내 출시 준비 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60830/",
-     "summary": "바이트댄스가 메타 뮤즈와 비슷한 음성 AI 비서를 수주 안에 출시할 계획이다. 장이밍 공동 창업자는 미국 선두 연구소와 경쟁하려면 빨라야 2029~2030년이 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "1b2ce5845d578724",
-     "title": "메타 FAIR, k-평균보다 최대 45배 빠른 'e-민즈' 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60834/",
-     "summary": "메타 FAIR 연구진이 k-평균 군집화를 대체하는 'e-민즈'를 공개했다. 로이드 알고리즘 25에포크 수준 오차에 1.2~3에포크 만에 도달하고, GPU 실행 시간은 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "531de6ccdecdffb5",
-     "title": "알파벳, 홍콩과 싱가포르서 첫 채권 발행…5조 원 조달 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60827/",
-     "summary": "알파벳이 첫 홍콩달러, 싱가포르달러 채권으로 약 38억 달러를 조달한다. 주문 70억 달러 이상이 몰려 목표 30억 달러보다 발행 규모를 확대했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "d95053345829c18f",
-     "title": "獨 헬싱, 군 정보 분석 AI 플랫폼 '클래리티' 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60819/",
-     "summary": "독일 군사 AI 기업 헬싱이 AI 에이전트 수백 개로 위성, 드론, 보고서 정보를 연결해 분석하는 정보 플랫폼 '클래리티'를 공개했다.",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "25ac01331a",
@@ -188,6 +188,54 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "5f4639ad9c8ec029",
+     "title": "Mississippi River cruise crash has no fatalities, critical injuries",
+     "link": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike",
+     "summary": "Thirty-two people are in local hospitals and all passengers and crew are accounted for after an Atlantic Asphalt tanker collided with a Mississippi River cruise ship near the Port of New Orleans , officials said Friday.…",
+     "source": "",
+     "ts": 1794611039
+    },
+    {
+     "id": "26fb447e524f9a80",
+     "title": "Trump administration delays Medicaid work requirements by six months",
+     "link": "https://www.axios.com/2026/11/13/medicaid-work-requirements-six-month-delay",
+     "summary": "The Trump administration announced a six-month delay Friday in enforcing the Medicaid work requirements that were scheduled to take effect in January. Why it matters: The announcement pauses a set of rules that state of…",
+     "source": "",
+     "ts": 1794610007
+    },
+    {
+     "id": "9321f6ec53e0ba4a",
+     "title": "The senators who could join Van Hollen's insurgency against Schumer",
+     "link": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader",
+     "summary": "Sen. Chris Van Hollen is picking up endorsements in his challenge to Chuck Schumer for Senate Democratic leader. Why it matters: The leadership fight exposes divisions within the Democratic Party days after its sweeping…",
+     "source": "",
+     "ts": 1794600649
+    },
+    {
+     "id": "60c9f17eae11bd2c",
+     "title": "Senate Dems break 32-year drought on leadership challenges",
+     "link": "https://www.axios.com/2026/11/13/senate-democrats-van-hollen-schumer-election",
+     "summary": "As House Democrats barrel toward a speakership coronation , Senate Dems are getting their first contested race for leader in over 30 years. Why it matters: Democrats have spent years tearing themselves apart over the pa…",
+     "source": "",
+     "ts": 1794600401
+    },
+    {
+     "id": "3f2f79064cdd8c37",
+     "title": "How the Microsoft outage impacted courts and governments",
+     "link": "https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress",
+     "summary": "Courts and governments worldwide felt the impact of this week's Microsoft outage, which sidelined work and stymied communication. Why it matters: When Microsoft's popular workplace software went offline Thursday, it mea…",
+     "source": "",
+     "ts": 1794599995
+    },
+    {
+     "id": "866319e998c2cd4d",
+     "title": "Nobody wants to run against Hakeem Jeffries for speaker",
+     "link": "https://www.axios.com/2026/11/13/jeffries-speaker-house-democrats-pressley-raskin",
+     "summary": "The movement to prevent House Democratic Leader Hakeem Jeffries (D-N.Y.) from becoming speaker is struggling to get off the ground due to a fatal flaw: Nobody else wants the job. Why it matters: Despite the phone calls…",
+     "source": "",
+     "ts": 1794593717
+    },
     {
      "id": "5c55308a1c024c9d",
      "title": "The global economy's Achilles' heels",
@@ -219,58 +267,10 @@
      "summary": "Treasury Secretary Scott Bessent said in a Friday interview that while his department and others agreed on placing Megaspeed on a special list of companies that pose national security concerns, the Commerce Department \"…",
      "source": "",
      "ts": 1794579525
-    },
-    {
-     "id": "423b01f0850daed3",
-     "title": "Oil supplies bounce back, but prices are still high",
-     "link": "https://www.axios.com/2026/11/13/oil-markets-iran-prices-trump-deal",
-     "summary": "Oil markets are heading into an unusual period as the Iran conflict remains in dangerous limbo: The supply crunch is easing, but prices could stay stubbornly high. Why it matters: While gasoline prices have dropped late…",
-     "source": "",
-     "ts": 1794576645
-    },
-    {
-     "id": "4ec49f82bf192236",
-     "title": "Doctors want liability shield from AI mistakes",
-     "link": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
-     "summary": "The rapid deployment of artificial intelligence in hospitals and clinics is leading the nation's biggest physicians group to lobby for new legal protections if AI harms patients. Why it matters: The use of increasingly…",
-     "source": "",
-     "ts": 1794565807
-    },
-    {
-     "id": "88d6ec4aa5983961",
-     "title": "Democrats in power confront the social media trap",
-     "link": "https://www.axios.com/2026/11/13/democrats-schumer-jeffries-progressives-social-media",
-     "summary": "Chuck Schumer and Hakeem Jeffries are both cautious, calm, compromise-minded leaders fantasizing about a serious, sensible Democratic-run Congress. But social media is a temptress no party leader has tamed. The seductio…",
-     "source": "",
-     "ts": 1794565544
-    },
-    {
-     "id": "9a73df5bc71e8464",
-     "title": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
-     "link": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia",
-     "summary": "The AI boom without Jensen Huang will test a hard truth: Even if the tech world has grown somewhat less reliant on Nvidia's chips, it remains highly dependent on its checkbook. Why it matters : With rival chips maturing…",
-     "source": "",
-     "ts": 1794563106
-    },
-    {
-     "id": "d5ff0d0bfca71974",
-     "title": "Chris Van Hollen to challenge Schumer for Senate majority leader",
-     "link": "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader",
-     "summary": "Sen. Chris Van Hollen announced Thursday that he'll challenge Chuck Schumer for majority leader. Why it matters: Van Hollen's bid gives grassroots activists nearly three weeks to pressure Senate Democrats before they ca…",
-     "source": "",
-     "ts": 1794538975
-    },
-    {
-     "id": "e0e13ddf37c6c66c",
-     "title": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
-     "link": "https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries",
-     "summary": "A week that was supposed to see House Democrats transition seamlessly from a landslide midterm victory to a leadership coronation has instead been pocked by surprise Republican victories on the House floor. Why it matte…",
-     "source": "",
-     "ts": 1794530088
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "e059ae8d0e3780db",
-     "title": "클라우드 의존을 없애기 위해 Coway 공기청정기를 역공학하기",
-     "link": "https://news.hada.io/topic?id=37119&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Coway Airmega IconS 의 통신과 Bluetooth 초기 설정 절차를 역공학해, Coway 클라우드 없이 Home Assistant에서 로컬로 제어하는 통합을 구현함 기존 통합은 클라우드 API 에 의존해 앱 개편, HTML 변경, 서버 장애와 계정 차단 때마다 원격 제어가 중단되는 문제가 있었음 기기가 루트 CA 인증서를 평문 HTTP로 다운로드 하는 동작을 이용해 HTTPS…",
+     "id": "a0727a5610269ded",
+     "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
+     "link": "https://news.hada.io/topic?id=37130&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "LeWM 의 Push-T 실험에서는 예측 모델 개선보다 계획 방식 변경 이 더 큰 효과를 냄. 학습 데이터와 유사한 경로에서 적절한 하위 목표를 제공하면, 학습된 예측기로도 시뮬레이터의 정확한 물리와 비슷한 성공률을 얻음 장기 과제를 25스텝 단위 하위 목표 로 나누고, 시연을 연결한 메모리 그래프 에서 경로를 찾는 방식으로 재학습 없이 성공률을 22%에서 85%로 높임 표준 Push-T…",
      "source": "",
-     "ts": 1794587643
+     "ts": 1794609476
     },
     {
-     "id": "d63b0ca2e6cef2b1",
-     "title": "싱가포르, 스파이 의혹 인물의 회사 수사에 미국이 도움이 되지 않았다고 밝혀",
-     "link": "https://news.hada.io/topic?id=37118&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "싱가포르 정부는 Alice Huang과 Megaspeed 수사 에서 미국으로부터 받은 정보와 지원이 제한적이었다고 밝힘 당국은 허위 신고 가능성 을 조사하며 Alice Huang의 여권을 2025년 6월부터 2026년 2월까지 보관했으나, 증거 부족으로 엄중 경고 후 석방하고 재입국을 금지함 싱가포르는 Supermicro의 제한적 협조 문제를 미국 법무부와 FBI에 알리고 거듭 지원을 요청…",
+     "id": "57f406bda7db9992",
+     "title": "1,140만 달러 규모 NVIDIA 하드웨어, 캘리포니아에서 텍사스로 운송 중 사라져",
+     "link": "https://news.hada.io/topic?id=37129&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "캘리포니아 오클랜드에서 텍사스 포트워스로 운송하던 NVIDIA 컴퓨터 하드웨어 6팔레트 가 사라짐. 보도된 화물 가치는 1,140만 달러 이나 경찰은 금액과 구체적인 품목을 확인하지 않음 화물을 인수한 트럭은 남쪽으로 이동하며 여러 차례 장시간 정차했고, 수사관들은 남부 캘리포니아 샌버너디노 카운티 에서 차량의 행적을 놓친 것으로 알려짐 오클랜드 경찰 은 2026년 9월 13일 접수된 신고…",
      "source": "",
-     "ts": 1794585051
+     "ts": 1794609296
     },
     {
-     "id": "2ae5679dd1668df2",
-     "title": "AI가 Apple 앱 심사를 신시사이저 개발자들의 악몽으로 바꾸고 있음",
-     "link": "https://news.hada.io/topic?id=37117&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI로 만든 iOS 앱의 급증 속에서 음악 앱 개발자들이 수주 단위 심사 지연과 반복적인 거절을 겪으며 출시 일정에 차질을 빚고 있음 Apple은 제출물의 90%를 48시간 이내에 심사한다고 안내하지만, AudioThing, Igor Vasiliev, Sugar Bytes 등은 새 앱이 별다른 진행 안내 없이 몇 주씩 심사에 묶여 있다고 전함 Unfiltered Audio 는 존재하지 않는…",
+     "id": "4cd0753e8ea6ef9c",
+     "title": "No AI Slop 선언문",
+     "link": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문 2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언문을 만들었듯이, AI 시대의 과제인 슬롭(slop)에 대응하는 가치와 원칙을 정리함 AI 사용 자체를 반대하지 않음. 슬롭을 받아본 적도, 보내본 적도 있는 사람들이 AI를 더 잘 쓰기 위해 사람이 맡아야 할 역할을 정리한 것임…",
      "source": "",
-     "ts": 1794584871
+     "ts": 1794607782
     },
     {
-     "id": "38bf751d268e6c39",
-     "title": "Brave Search API, x402 프로토콜을 통한 에이전트 결제 지원",
-     "link": "https://news.hada.io/topic?id=37116&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Brave Search API 가 개방형 x402 결제 프로토콜을 도입해, 개발자와 자율 AI 에이전트가 계정 생성이나 API 키 관리 없이 검색 요청마다 실시간으로 결제할 수 있음 Brave가 자체 결제 중개 서비스를 운영하며, 현재 Base 블록체인의 USDC 를 받고 다른 네트워크와 스테이블코인도 곧 지원할 예정임 결제 없는 요청에는 HTTP 402 Payment Required 로…",
-     "source": "",
-     "ts": 1794584691
-    },
-    {
-     "id": "c771ce7255c6c816",
-     "title": "Eli Lilly CEO, Dario Amodei의 의료 관련 주장에 반박",
-     "link": "https://news.hada.io/topic?id=37115&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Anthropic CEO Dario Amodei 가 암, 알츠하이머병, 심장병, 정신질환이 10년 안에 과거의 유물이 될 것이라고 예측하자 의료계 인사들이 실현 가능성에 반박함 Eli Lilly 회장 겸 CEO Dave Ricks 는 생물학의 미지 영역과 인체시험에 걸리는 시간을 고려하면 AI의 기여는 꾸준하고 점진적 일 가능성이 높다고 봄 반론의 핵심은 생물학 데이터 부족 과 임상시험 기…",
-     "source": "",
-     "ts": 1794584511
-    },
-    {
-     "id": "7169e0dba5ada755",
-     "title": "최후의 날: 서기 2026년 11월 13일 금요일 (1960)",
-     "link": "https://news.hada.io/topic?id=37114&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "id": "0a71d47182510716",
+     "title": "FAA, 전국 항공기 이륙 중지 조치 발령",
+     "link": "https://news.hada.io/topic?id=37127&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
      "summary": "",
      "source": "",
-     "ts": 1794580328
+     "ts": 1794606171
     },
     {
-     "id": "0a0f2347a91a95e3",
-     "title": "Microsoft 전 세계 서비스 장애",
-     "link": "https://news.hada.io/topic?id=37113&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Outlook, Exchange Online을 중심으로 발생한 Microsoft 장애 가 이틀째 이어지며 전 세계 수백만 명의 업무에 영향을 줌 Microsoft는 메일함 접근과 지연 이메일 처리에서 복구 진전 을 확인했지만, 일부 사용자는 여전히 간헐적 문제를 겪고 있음 Teams의 일정 연동과 Copilot 도 영향을 받았지만, Teams의 단순 통화 참여와 메시지 교환, Word/Ex…",
-     "source": "",
-     "ts": 1794576866
-    },
-    {
-     "id": "fd976143a7adef5c",
-     "title": "claude.ai, Claude Code, platform.claude.com에서 오류 증가",
-     "link": "https://news.hada.io/topic?id=37111&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "id": "a70f60d020928556",
+     "title": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
+     "link": "https://news.hada.io/topic?id=37126&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
      "summary": "",
      "source": "",
-     "ts": 1794573080
+     "ts": 1794605991
     },
     {
-     "id": "61e3b90ff77ad01d",
-     "title": "IceWM - 속도와 단순함을 지향하는 X Window System 창 관리자",
-     "link": "https://news.hada.io/topic?id=37110&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "IceWM 은 빠르고 단순하며 사용자 작업을 방해하지 않는 것을 목표로 하는 X Window System용 창 관리자임 키보드만으로도 사용 가능 하며, 전역/창별 단축키, Alt+Tab 전환, 창 목록으로 애플리케이션 창을 관리함 다중 작업 공간 과 RandR/Xinerama 기반 다중 모니터를 지원하고, GNOME 및 KDE 환경에서도 사용할 수 있음 테마와 설정 으로 외형과 동작을 바꿀…",
+     "id": "24985f5d879931dd",
+     "title": "Relax: Rust 빌드 시간을 줄이기 위한 JIT 컴파일러",
+     "link": "https://news.hada.io/topic?id=37125&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Relax 는 Cargo 패키지를 소스에서 바로 실행하는 Rust 기반 라이브 컴파일러이자 JIT 런타임으로, 함수를 처음 호출할 때 컴파일하고 자주 실행되는 함수는 백그라운드에서 최적화함 함수 단위 핫 패치 로 실행 상태를 유지하면서 코드 변경을 반영하고, 저장 시 변경된 함수를 실행했던 테스트만 다시 수행함 프로젝트 측정에서 대형 3D 게임의 첫 프레임까지 M4 MacBook 기준 초기…",
      "source": "",
-     "ts": 1794569552
+     "ts": 1794605811
     },
     {
-     "id": "8eddfc3ee9573d3d",
-     "title": "Show GN: 여기서맛나 - 함께 만날 장소를 쉽게 정할 수 있게 도와주는 투표 툴",
-     "link": "https://news.hada.io/topic?id=37109&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "약속을 잡을 때 여러 장소들 중 어디서 만나는게 좋을지 정하는 과정이 불편하지는 않으셨나요? 카톡이랑 네이버/다음 지도를 왔다 갔다 하며 여러 음식점들을 확인하는게 귀찮지는 않으셨나요? 이 과정을 더 편하게 만들고자 '여기서맛나'라는 웹앱을 만들었습니다. 이용 순서는 다음과 같습니다. 모임을 만듭니다. 음식점이나 카페의 링크들을 추가 합니다. 네이버지도, 다음지도, 캐치테이블, 구글맵을 지…",
+     "id": "5d6108540a2235e0",
+     "title": "AI로 해독한 Gödel의 노트, 증명된 정리 수백 개 담겼다는 연구 결과",
+     "link": "https://news.hada.io/topic?id=37124&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Helsinki University의 Jan von Plato가 Claude 로 Kurt Gödel의 미공개 수학/논리학 노트 1,009쪽을 분석해, 기존에 알려지지 않았던 정리 수백 개를 찾아냈다고 밝힘 연구팀이 옮겨 적은 노트와 관련 문헌을 입력하자 Claude는 며칠 만에 650쪽 해설 을 생성함. 주당 약 한 쪽에 머물던 분석을 크게 앞당겼지만, 결과는 페이지별 검토가 필요했음 증명…",
      "source": "",
-     "ts": 1794568476
+     "ts": 1794601940
+    },
+    {
+     "id": "c9d3e1902eafe93f",
+     "title": "시스템 프로그래밍에서 C보다 Zig를 선택하는 이유",
+     "link": "https://news.hada.io/topic?id=37123&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Zig 는 C처럼 가비지 컬렉터 없이 하드웨어에 가까운 코드를 작성하면서도, 자원 정리와 오류 처리 등 C에서 시간이 드는 작업을 언어 기능으로 지원함 errdefer 는 할당 바로 아래에 오류 발생 시 정리 코드를 두고 역순으로 실행하며, 테스트용 할당기로 각 할당 실패 경로의 메모리 누수도 확인할 수 있음 길이를 포함하는 슬라이스 와 정수 오버플로 검사는 debug 와 safe 모드에서…",
+     "source": "",
+     "ts": 1794598402
+    },
+    {
+     "id": "1dd890f473da5547",
+     "title": "Claude 서비스 장애 발생",
+     "link": "https://news.hada.io/topic?id=37122&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "claude.ai, Claude API, Claude Code 등에서 오류 증가가 발생했으며, 제공된 장애 이력상 2026년 11월 13일의 두 장애는 모두 해결됨 Microsoft 365 커넥터 와 Claude for Outlook은 회복 조짐을 보이지만, 일부 SharePoint 검색 요청은 여전히 오류를 반환함 Microsoft 측 장애가 종료되지 않아 오류가 재발할 가능성 이 있으며…",
+     "source": "",
+     "ts": 1794594987
+    },
+    {
+     "id": "1d2ebc2f6eb6cbc1",
+     "title": "“LibreOffice는 1년 365일 작동합니다. 그냥 그렇다고요.”",
+     "link": "https://news.hada.io/topic?id=37121&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "LibreOffice 는 1년 내내 작동함 작동 기간을 “ 365일 ”로 명시함 “ 실제로(actually) ”라는 말로 작동 여부를 한 번 더 강조하는 문장임 “ 그냥 그렇다고요(Just saying) ”라는 짧은 말로 마무리함 구체적인 기능이나 기술적 설명 은 덧붙이지 않음 LibreOffice의 짧은 메시지 “LibreOffice는 실제로 1년 365일 작동합니다 . 그냥 그렇다고요.…",
+     "source": "",
+     "ts": 1794594807
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "f9eb976542",
@@ -458,6 +458,14 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "d122cac7783f7560",
+     "title": "[11월13일] 'AI의 은행' 이끌던 젠슨 황 퇴임…AI 산업 판도 바뀌나",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217364",
+     "summary": "젠슨 황의 퇴임이 엔비디아를 넘어 AI 산업 전체에 충격을 주고 있습니다. 세계 AI 반도체 시장을 지배하는 기업의 창업자가 물러났다는 사실보다, 지난 수년간 막대한 자금과 영향력을 동원해 AI 산업의 성장을 이끌어 온 핵심 인물이 사라졌다는 점이 주목됩니다.가장 큰 관심은 엔비디아의 공격적인 투자 전략이 유지될지입니다. 이 회사는 최근 'AI의 은행'으로 불릴 만큼 반도체 공급을 넘어 A…",
+     "source": "",
+     "ts": 1794639600
+    },
     {
      "id": "51be7ca531d78940",
      "title": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향",
@@ -529,18 +537,10 @@
      "summary": "AMD가 양자컴퓨팅 기업 사이퀀텀(PsiQuantum)에 지분 투자를 추진하고, 양자컴퓨터의 오류를 실시간으로 탐지·수정하는 데 자사 CPU·GPU와 소프트웨어를 활용하기로 했다. 지난해부터 양자컴퓨팅 인프라 사업을 강화해 온 엔비디아와 관련 기술을 둘러싼 경쟁도 본격화할 전망이다.AMD와 사이퀀텀은 12일(현지시간) 공동 발표를 통해 지분 투자 계획과 기술 협력 확대를 공개했다. 구체적인…",
      "source": "",
      "ts": 1794587663
-    },
-    {
-     "id": "f86c90a1747bbbc2",
-     "title": "엘리스그룹, 'B300' 기반 AI 데이터센터 베타 서비스 개시",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217366",
-     "summary": "엘리스그룹(대표 김재원)이 자체 모듈형 AI 데이터센터(AI PMDC)에 엔비디아 B300 GPU 인프라를 구축, 지난달 30일부터 베타 서비스를 개시했다고 13일 밝혔다.이번 사업은 과학기술정보통신부 '첨단 GPU 확보·구축·운용 지원 사업'의 일환으로 진행된다.엘리스그룹은 지난 6월 사업자로 선정된 이후 자체 개발한 모듈형 AI 데이터센터 'AI PMDC'를 활용해 B300 GPU 운영…",
-     "source": "",
-     "ts": 1794586715
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "7ebf5b6c9a",
@@ -728,6 +728,14 @@
    "url": "https://stratechery.com/feed/",
    "site": "https://stratechery.com",
    "items": [
+    {
+     "id": "4cc2364ba0ddf469",
+     "title": "2026.46: The End of Jensen",
+     "link": "https://stratechery.com/2026/the-end-of-jensen/",
+     "summary": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
+     "source": "",
+     "ts": 1794592800
+    },
     {
      "id": "0541c22cacf27977",
      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
@@ -799,18 +807,10 @@
      "summary": "Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?",
      "source": "",
      "ts": 1793790000
-    },
-    {
-     "id": "9d0fb62e230627a4",
-     "title": "Apple Earnings, Memory Problems, The Hardware Company Regression",
-     "link": "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/",
-     "summary": "Apple's earnings suggest that the company's hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or hurt?",
-     "source": "",
-     "ts": 1793703600
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,22 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "b34f612c0a2ee33b",
+     "title": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
+     "link": "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/",
+     "summary": "Midterm election results hang heavy, but speed to power still the focus",
+     "source": "",
+     "ts": 1794593072
+    },
+    {
+     "id": "6be684b3f39a1ad2",
+     "title": "Charlotte Hornets taps Boldyn Networks for cellular 5G",
+     "link": "https://www.datacenterdynamics.com/en/news/charlotte-hornets-taps-boldyn-networks-for-cellular-5g/",
+     "summary": "Will support 5G corridor connectivity to the Hornets nearby training facility",
+     "source": "",
+     "ts": 1794592949
+    },
     {
      "id": "691b7282c8ac6b68",
      "title": "Integrated data center infrastructure",
@@ -881,26 +897,10 @@
      "summary": "Facility to support high-density GPU workloads",
      "source": "",
      "ts": 1794581221
-    },
-    {
-     "id": "96648969b6887fc6",
-     "title": "Cerebras secures Microsoft as a customer",
-     "link": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
-     "summary": "Wafer-scale chip and AI cloud company now has three hyperscalers in its books",
-     "source": "",
-     "ts": 1794573429
-    },
-    {
-     "id": "89d9b1ccd9189c3c",
-     "title": "VodafoneThree considers feasibility of UK-Norway subsea cable route",
-     "link": "https://www.datacenterdynamics.com/en/news/vodafonethree-considers-feasibility-of-uk-norway-subsea-cable-route/",
-     "summary": "A study is expected to take place next year",
-     "source": "",
-     "ts": 1794573075
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794592159
+   "last_ok": 1794613128
   }
  ]
 }
