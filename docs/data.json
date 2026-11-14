@@ -1,5 +1,5 @@
 {
- "generated_at": 1794613128,
+ "generated_at": 1794638171,
  "top_n": 10,
  "feeds": [
   {
@@ -9,6 +9,70 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "9d01d188bfb5ed8d",
+     "title": "정부 “엔비디아 GPU 26만장 공급 차질 없어”…젠슨 황 사임에도 협력 계속 - 한겨레",
+     "link": "https://www.hani.co.kr/arti/economy/it/1287276.html",
+     "summary": "이어 배 부총리는 “(엔비디아의) 엔브이링크를 활용한 국산 인공지능 ( AI ) 반도체와 엔비디아 플랫폼 간 연계, 인공지능 ... 정책 · 이메일주소 무단수집거부.",
+     "source": "",
+     "ts": 1794629986
+    },
+    {
+     "id": "79ba8cedcfd57d01",
+     "title": "中 엔비디아 AI 칩 의존 프로젝트 4조6천억원…수출 규제에도 기술 수요 지속 - 전남일보",
+     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000082605",
+     "summary": "미국의 대중국 반도체 수출 통제가 이어지는 가운데 중국에서 엔비디아 인공지능 ( AI ) 반도체를 사용하는 데이터센터 등 관련 프로젝트 규모가 4조6000억원을 ...",
+     "source": "",
+     "ts": 1794624215
+    },
+    {
+     "id": "4af4ce3cabe06628",
+     "title": "로이터 \"'엔비디아칩 의존' 中 AI프로젝트 규모 4조6천억 이상\" | 연합뉴스",
+     "link": "https://www.yna.co.kr/amp/view/AKR20261114026400089",
+     "summary": "로이터는 엔비디아가 그동안 미국 정부 의 수출 통제로 사실상 중국 AI 데이터센터 시장 판매가 막힌 상태라고 밝혀왔지만, 이번 조사는 중국의 AI 확장과 ...",
+     "source": "",
+     "ts": 1794621396
+    },
+    {
+     "id": "a804a419c7fcb1dd",
+     "title": "로이터 \"'엔비디아칩 의존' 中 AI프로젝트 규모 4조6천억 이상\"",
+     "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1439352",
+     "summary": "... 쏠리는 가운데 미국의 수출 통제를 받는 엔비디아 칩에 의존하는 중국 내 인공지능 ( AI ) 프로젝트 규모가 230억 위안(약 4조6천억원) 이상이라는 외신 집.",
+     "source": "",
+     "ts": 1794621190
+    },
+    {
+     "id": "750e41b69a72eb0e",
+     "title": "내년 만 19세~34세 주목! 2027년 청년 지원 총정리 - 머니스토리",
+     "link": "https://story.pay.naver.com/content/3957_24_C2",
+     "summary": "2027년 정부 예산안에는 출생부터 혼인까지 생애주기별 7단계 지원 정책 이 담겼어요. 지방 국립대 등록금 전액과 저소득 취업준비청년에게 최대 390만 원 등 ...",
+     "source": "",
+     "ts": 1794620260
+    },
+    {
+     "id": "be108808d51b09fe",
+     "title": "[논평] COP31 '안탈리아 AI 서약'…한국, AI 강국에 기후리더십을 더할 기회",
+     "link": "https://www.efn.co.kr/news/articleView.html?idxno=3253",
+     "summary": "정부 가 AI 전력의 방향까지 밝힌다면, 한국의 전기화·재생에너지 전략은 ... 기후와 에너지 정책 을 함께 맡은 기후에너지환경부에 이번 서약은 AI 와 ...",
+     "source": "",
+     "ts": 1794613873
+    },
+    {
+     "id": "f6e305a3939ea201",
+     "title": "배경훈 부총리 \"젠슨 황 사임에도 GPU 26만 장 예정대로 공급\" - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261113172804",
+     "summary": "젠슨 황 사임에도 한국과 엔비디아 인공지능 ( AI ) 협력은 이어진다. 배경훈 부총리 겸 과학기술정보통신부 장관은 13일 소셜미디어에서 엔비디아가 한국에 ...",
+     "source": "",
+     "ts": 1794607342
+    },
+    {
+     "id": "270dad8c6898473e",
+     "title": "데이터센터, 지역 분산과 재생에너지 의무화를 - 단비뉴스",
+     "link": "https://www.danbinews.com/news/articleView.html?idxno=34134",
+     "summary": "정부 가 '3대 메가 프로젝트 '의 하나로 인공지능 ( AI ) 데이터센터 증설을 대대적으로 추진하고 있는 가운데, 시민들은 기후 대응 목표와 주거 환경을 훼손하지 ...",
+     "source": "",
+     "ts": 1794606835
+    },
+    {
      "id": "f6c237109a0a4cf8",
      "title": "세종시, ' AI 정부 ' 미래 비전 제시",
      "link": "https://www.sejongyeonhap.co.kr/news/articleView.html?idxno=58996",
@@ -17,80 +81,16 @@
      "ts": 1794605935
     },
     {
-     "id": "3305f87f2828073d",
-     "title": "메가 프로젝트 중소기업 소외 없다…아산서 중소기업협의회 구성 논의 - TJB",
-     "link": "https://www.tjb.co.kr/news05/category/view/id/106055",
-     "summary": "반도체와 AI 데이터센터 메가 프로젝트 로 열릴 대규모 시장이 대기업만의 몫이 되지 않도록 정부 가 중소기업의 공급망 진입 문을 넓힙니다. ◇ 삼성전자 아산 ...",
+     "id": "0ea90226840d66c3",
+     "title": "세종시, 인공지능 행정 성과 공유…' AI 정부 미래 전략' 제시 - 뉴스홈(newshome)",
+     "link": "https://www.news-home.co.kr/news/articleView.html?idxno=79444",
+     "summary": "이번 학술대회에는 학계와 중앙부처, 지방 정부 관계자 등 100여 명이 참석해 인공지능 정부 가 나아갈 방향과 실질적인 정책 해법을 논의했다. ' 인공지능 정부 : ...",
      "source": "",
-     "ts": 1794599265
-    },
-    {
-     "id": "d48450a4a85c948e",
-     "title": "메가 프로젝트 성과 중소기업으로 확산…상생 재원 2조 원 조성 - 대한민국 정책브리핑",
-     "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148975667",
-     "summary": "정부 가 반도체· 인공지능 ( AI ) 데이터센터 등 대규모 메가 프로젝트 에 중소기업의 참여를 확대하기 위해 2030년까지 2조 원 규모의 상생 재원을 조성한다.",
-     "source": "",
-     "ts": 1794587758
-    },
-    {
-     "id": "f81ac71b9fb360bb",
-     "title": "AI 안전 국민 모니터링단 ' AI 안전 지킴이' 출범 - 환경일보",
-     "link": "https://www.hkbs.co.kr/news/articleView.html?idxno=838452",
-     "summary": "또한 과기정통부 와 안전연구소는 관련 기업에 사례를 공유하는 등 AI 기업과 지속적으로 소통해 나갈 계획이다. 엄열 과기정통부 인공지능정책 실장은 “ AI 가 ...",
-     "source": "",
-     "ts": 1794587026
-    },
-    {
-     "id": "4c846d05913984a5",
-     "title": "국가 AI 전략위, '젠슨 황 사퇴' 긴급회의…GPU 공급 점검 - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261113152653",
-     "summary": "정부 가 엔비디아 경영진 교체에 따른 국내 인공지능 ( AI ) 인프라와 공급망 불확실성 점검에 나섰다. 기존 협력을 안정적으로 이어가면서 특정 기업 경영 변화 ...",
-     "source": "",
-     "ts": 1794583661
-    },
-    {
-     "id": "05ebb8b52ff3343a",
-     "title": "세종시, 공무원 손으로 여는 '공공 AI 전환(AX)' 시대 - 충청뉴스",
-     "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417771",
-     "summary": "... 최형순 기자] 지방 정부 의 행정 현장이 거대한 인공지능 ( AI ) 실험실로 탈바꿈하고 있다. 중앙 정부 의 거시적인 AI 정책 ... 프로젝트 '를 본격적으로 추진할 계획이다 ...",
-     "source": "",
-     "ts": 1794583570
-    },
-    {
-     "id": "ca1a924e6caa5afd",
-     "title": "'젠슨 황 없는 엔비디아' 긴급 대응… 정부 \"엔비디아, GPU 26만 장 공급 재확인\" - KBC광주방송",
-     "link": "https://www.ikbc.co.kr/article/view/kbc202611130102",
-     "summary": "젠슨 황 엔비디아 최고경영자(CEO)의 갑작스러운 사임에 정부 가 긴급 점검에 나서며 국내 그래픽처리장치(GPU) 공급과 인공지능 ( AI ) 산업 협력에 미칠 영.",
-     "source": "",
-     "ts": 1794580067
-    },
-    {
-     "id": "fbfe2e37d30f7ed1",
-     "title": "'빨간 넥타이' 매고 등장한 李대통령…“산이 높으면 골이 깊더라” [영상] - 경기일보",
-     "link": "https://www.kyeonggi.com/article/20261113580161",
-     "summary": "ai 뉴스 타이틀 ... 그는 “자본시장 개혁에 대한 정부 의 의지와 정책 이 다시 한번 시험대에 올랐다고 생각한다”며 “자본시장 정상화는 정부 의 확도한 정책 방향이고 ...",
-     "source": "",
-     "ts": 1794579703
-    },
-    {
-     "id": "51a1f8554919661a",
-     "title": "젠슨 황 사임에 정부 긴급회의… AI 협력 영향 점검 - 아시아투데이",
-     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261113010005302",
-     "summary": "정부 가 젠슨 황 엔비디아 최고경영자(CEO)의 사임에 따른 여파를 점검하기 위해 긴급회의를 열고 국내 인공지능 ( AI ) 정책 에 미칠 영향을 논의했다.",
-     "source": "",
-     "ts": 1794579051
-    },
-    {
-     "id": "fd105ab0b3e4c7ab",
-     "title": "“ AI 반도체 유출했나”···말레이 정부 , '앨리스 황 임원' 메가스피드 자회사 조사 착수 - 경향신문",
-     "link": "https://www.khan.co.kr/article/202611131545001",
-     "summary": "말레이시아 정부 가 젠슨 황 전 엔비디아 최고경영자의 연인으로 알려진 앨리스 황이 과거 임원으로 재직한 싱가포르 기업의 자회사를 통해 첨단 인공지능 ...",
-     "source": "",
-     "ts": 1794578068
+     "ts": 1794600151
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "cf53c0f1af",
@@ -98,6 +98,62 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
    "items": [
+    {
+     "id": "a13e486c6c50897d",
+     "title": "AMD, 칩 뒷면 물리 공격 막는 '버설 변조 방지' 반도체 공개 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60763/",
+     "summary": "AMD가 반도체 후면 물리 공격을 막는 보호 다이를 내장한 버설 변조 방지 디바이스를 발표했다. 양자내성암호 가속과 글리치 감지 기능을 갖췄으며 2027년 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "c0f34acf2b3476c5",
+     "title": "챗GPT 광고, 자동 입찰 이름 바꾸고 국가 안 지역 타깃팅 추가 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60644/",
+     "summary": "오픈AI가 챗GPT 광고의 자동 입찰 이름을 인텔리전트 비딩으로 바꾸고, 상품 피드 캠페인에 국가 안 특정 지역 타깃팅과 같은 상품 항목 여러 조건 결합 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "64dc37538bfdfae4",
+     "title": "스퀘어, 판매자용 AI 에이전트 '스퀘어메이츠' 정식 출시 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60649/",
+     "summary": "스퀘어가 소상공인용 AI 에이전트 '스퀘어메이츠'를 미국 판매자에게 정식 출시했다. 이탈 고객을 찾아 할인 문안을 쓰고, MCP 서버와 CLI로 외부 AI 도구와 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "8de9ed3b9e470122",
+     "title": "[AI 매터스 뉴스레터 #206] 불륜 인정 나흘 만에 사임, 젠슨 황을 둘러싼 사실들",
+     "link": "https://aimatters.co.kr/news-report/aimatters-newsletter/60730/",
+     "summary": "젠슨 황 엔비디아 CEO가 11월 8일 불륜을 인정한 뒤 나흘 만에 사임했다. 메가스피드 수출 통제 조사와 미국 정보 당국의 판단까지 공개된 사실을 정리했다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "aa0edd72916014fd",
+     "title": "어도비 출신 창업 포타 랩스, 일상 사진 다시 찍어 주는 AI 앱 출시 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60623/",
+     "summary": "어도비 출신 세실리아 장과 잭 샤가 창업한 포타 랩스가 일상 사진의 구도와 촬영 각도를 바꿔 전문 사진처럼 바꾸는 아이폰 앱을 출시했다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "d0a2762e0b47cb65",
+     "title": "메타, 파트너십 광고 연매출 150억 달러…'메타 페스티벌' 개최 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60591/",
+     "summary": "메타코리아가 메타 페스티벌 2026에서 크리에이터 마케팅 전략을 공유했다. 3분기 파트너십 광고 연간 환산 매출은 150억 달러를 넘었고, 크리에이터 마케팅 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "604c5a37a7663adb",
+     "title": "애자일 로봇, 소프트뱅크 주도 6,662억 원 유치…기업가치 11조 원대 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/60778/",
+     "summary": "독일 피지컬 AI 기업 애자일 로봇이 소프트뱅크 그룹 주도로 시리즈 F 투자 6662억 원을 유치했다. 기업가치는 11조 3253억 원이며, 엔비디아와 히타치 그룹 ...",
+     "source": "",
+     "ts": null
+    },
     {
      "id": "3c5169c45222c8c5",
      "title": "오픈AI, '챗GPT 월렛' 출시…AI 에이전트가 대신 결제 - AI 매터스",
@@ -121,66 +177,10 @@
      "summary": "국내에서는 건설과 데이터센터, 소프트웨어 분야 전시회와 지역 AI 컨퍼런스, 언론인 대상 해커톤이 예정돼 있고, 해외에서는 AWS 리인벤트와 마이크로소프트 ...",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "a1558b9bde5f7f1b",
-     "title": "맥킨지 AI 가치 곡선, CEO는 시간당 20달러 아끼고 웨이터는 손해 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60727/",
-     "summary": "맥킨지 AI 가치 곡선은 업무 1시간을 AI에 맡길 때 남는 돈을 계산했다. CEO는 시간당 약 20달러, 웨이터는 마이너스였다. AI 비용이 30% 오르면 연 2.52조 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "b8ea34b51e21a987",
-     "title": "[AI 활용팁] 폰 하네스 MCP로 클로드에서 클라우드 스마트폰 조작하기 - AI 매터스",
-     "link": "https://aimatters.co.kr/ai-tool/60852/",
-     "summary": "폰 하네스 MCP를 클로드, 클로드 코드, 코덱스, 챗GPT에 연결해 클라우드 안드로이드와 아이폰을 조작하는 방법을 요금, 제공 도구 15가지, ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "9798c24ad25f7d44",
-     "title": "알리바바, AI 칩 자회사 'T-헤드' 홍콩 분할 상장 추진 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60825/",
-     "summary": "알리바바가 반도체 설계 자회사 T-헤드를 분할해 홍콩 증시에 상장한다. 홍콩거래소 승인을 받았으며, IFR은 조달 규모를 20억~30억 달러로 보도했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "580ee6d5a35fdc52",
-     "title": "日 티어포, 도쿠야마항 덤프트럭 자율주행 추진…2028년 무인 운행 목표 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60782/",
-     "summary": "일본 자율주행 기업 티어포가 슈난 벌크 터미널과 도쿠야마쿠다마쓰항 덤프트럭 운송 자동화에 협력한다. 두 회사는 2028년 말까지 항만 안 무인 운행을 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "419a711c332dcb7e",
-     "title": "징둥 광군제서 AI 제품 5,000만 개 팔려…토큰 판매 10배 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60832/",
-     "summary": "징둥닷컴이 광군제 기간 AI 제품 5000만 개 이상을 판매했다. AI 토큰 상품 판매량은 10배 넘게 증가했고, AI 쇼핑 상담 이용자는 8000만 명에 가까웠다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "de88f6070c73c718",
-     "title": "우크라이나 드론 기업 우포스, 9,327억 원 유치…기업가치 약 8조 원 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60780/",
-     "summary": "우크라이나에서 창업한 국방 기술 기업 우포스가 시리즈 A 투자 9327억 원을 유치했다. 기업가치는 7조 9943억 원이며, 밸러 에쿼티 파트너스와 영국 국부 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "b30c13eda90cb61c",
-     "title": "中 AI 기업들, 해외 엔비디아 칩 임대 확보 서둘러 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/60821/",
-     "summary": "중국 AI 기업들이 미국의 원격 이용 규제 강화를 우려해 해외 데이터센터의 엔비디아 칩 연산 자원 확보를 서두르고 있다. 미 하원은 1월 원격 접근 보안법 ...",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "25ac01331a",
@@ -189,12 +189,20 @@
    "site": "https://www.axios.com",
    "items": [
     {
+     "id": "729635c933e3da18",
+     "title": "FAA ends hours-long nationwide ground stop",
+     "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+     "summary": "The FAA lifted its nationwide ground stop Friday night after hours of chaos and thousands of delays and cancellations. Why it matters: The effects of the rare and extreme move will likely ripple through the weekend, wit…",
+     "source": "",
+     "ts": 1794622210
+    },
+    {
      "id": "5f4639ad9c8ec029",
      "title": "Mississippi River cruise crash has no fatalities, critical injuries",
      "link": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike",
-     "summary": "Thirty-two people are in local hospitals and all passengers and crew are accounted for after an Atlantic Asphalt tanker collided with a Mississippi River cruise ship near the Port of New Orleans , officials said Friday.…",
+     "summary": "Thirty-two people are in local hospitals and all passengers and crew are accounted for after a tanker collided with a Mississippi River cruise ship near the Port of New Orleans , officials said Friday. The big picture:…",
      "source": "",
-     "ts": 1794611039
+     "ts": 1794619079
     },
     {
      "id": "26fb447e524f9a80",
@@ -259,18 +267,10 @@
      "summary": "The director of the Israeli spy agency Mossad is in Washington Friday for talks with senior Trump administration officials about the war in Iran , according to three sources with knowledge of the matter. Why it matters…",
      "source": "",
      "ts": 1794580962
-    },
-    {
-     "id": "e883101ad14e4a47",
-     "title": "Bessent puts Megaspeed heat on Lutnick: \"Commerce has the pen\"",
-     "link": "https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia",
-     "summary": "Treasury Secretary Scott Bessent said in a Friday interview that while his department and others agreed on placing Megaspeed on a special list of companies that pose national security concerns, the Commerce Department \"…",
-     "source": "",
-     "ts": 1794579525
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "a0727a5610269ded",
-     "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
-     "link": "https://news.hada.io/topic?id=37130&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "LeWM 의 Push-T 실험에서는 예측 모델 개선보다 계획 방식 변경 이 더 큰 효과를 냄. 학습 데이터와 유사한 경로에서 적절한 하위 목표를 제공하면, 학습된 예측기로도 시뮬레이터의 정확한 물리와 비슷한 성공률을 얻음 장기 과제를 25스텝 단위 하위 목표 로 나누고, 시연을 연결한 메모리 그래프 에서 경로를 찾는 방식으로 재학습 없이 성공률을 22%에서 85%로 높임 표준 Push-T…",
+     "id": "1e24fc09b529cd72",
+     "title": "미국 모든 공항에 현재 지상 대기 조치 발령",
+     "link": "https://news.hada.io/topic?id=37148&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "FAA 가 게시물 작성 직전 미국 모든 공항을 대상으로 지상 대기 조치를 발령함 지상 대기 조치 는 게시물 작성 시점에 시행 중임 미국 공항으로 향하는 항공편 은 출발할 수 없음 이미 비행 중인 항공편 은 착륙이 허용됨 이번 조치는 FAA 장비 장애 와 관련이 있음 조치 범위와 운항 제한 FAA가 막 발령한 지상 대기 조치 가 게시물 작성 시점에 미국 모든 공항에 적용되고 있으며, FAA…",
      "source": "",
-     "ts": 1794609476
+     "ts": 1794634259
     },
     {
-     "id": "57f406bda7db9992",
-     "title": "1,140만 달러 규모 NVIDIA 하드웨어, 캘리포니아에서 텍사스로 운송 중 사라져",
-     "link": "https://news.hada.io/topic?id=37129&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "캘리포니아 오클랜드에서 텍사스 포트워스로 운송하던 NVIDIA 컴퓨터 하드웨어 6팔레트 가 사라짐. 보도된 화물 가치는 1,140만 달러 이나 경찰은 금액과 구체적인 품목을 확인하지 않음 화물을 인수한 트럭은 남쪽으로 이동하며 여러 차례 장시간 정차했고, 수사관들은 남부 캘리포니아 샌버너디노 카운티 에서 차량의 행적을 놓친 것으로 알려짐 오클랜드 경찰 은 2026년 9월 13일 접수된 신고…",
+     "id": "1acdadc959d3cb18",
+     "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
+     "link": "https://news.hada.io/topic?id=37145&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "FAA 지휘센터 가 전국 항공기 이륙 중지 조치를 해제함 공지에 기재된 목적지 공항과 포함 시설은 모두 전체(ALL) 임 해제 공지의 서명 시각은 2026년 11월 14일 01:19Z 임 공지의 효력 시간 은 14일 01:19~02:00임 사유 항목은 비어 있으며 , 이륙 중지나 해제 이유는 제공되지 않음 전국 이륙 중지 해제 공지 ATCSCC 공지 005 는 FAA 지휘센터의 전국 이륙…",
      "source": "",
-     "ts": 1794609296
+     "ts": 1794627426
     },
     {
-     "id": "4cd0753e8ea6ef9c",
-     "title": "No AI Slop 선언문",
-     "link": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문 2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언문을 만들었듯이, AI 시대의 과제인 슬롭(slop)에 대응하는 가치와 원칙을 정리함 AI 사용 자체를 반대하지 않음. 슬롭을 받아본 적도, 보내본 적도 있는 사람들이 AI를 더 잘 쓰기 위해 사람이 맡아야 할 역할을 정리한 것임…",
+     "id": "4fba49b862a5397d",
+     "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
+     "link": "https://news.hada.io/topic?id=37144&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "방산업체 Fire Point 에 따르면 우크라이나 드론이 13일 동안 러시아 주요 정유소 최소 9곳을 공격했으며, 피격 시설은 러시아 전체 정유 능력의 36% 를 차지함 피격 정유소의 연간 원유 처리 능력 합계는 1억 2,000만 톤 이상 임 젤렌스키 대통령 은 러시아의 우크라이나 전력망 공격에 대한 직접적인 보복으로 러시아 정유 기반 시설 공격을 계속하겠다고 밝힘 공격 대상에는 러시아에서…",
      "source": "",
-     "ts": 1794607782
+     "ts": 1794627246
     },
     {
-     "id": "0a71d47182510716",
-     "title": "FAA, 전국 항공기 이륙 중지 조치 발령",
-     "link": "https://news.hada.io/topic?id=37127&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "",
+     "id": "0309c27c83b282c1",
+     "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
+     "link": "https://news.hada.io/topic?id=37143&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "안녕하세요, LLM 에 대해 공부하면서 로컬 인퍼런스를 위해 장비를 구매하고자 했는데, \"어느 스펙까지 맞춰야 DeepSeek 를 원활하게 돌릴지\" 같은 질문에 매번 손으로 계산하는 것이 귀찮더라고요. 그래서 Claude와 함께 장비의 스펙과 모델을 입력하면 prefill/decode TPS를 예측할 수 있는 시뮬레이션 웹앱을 개발했습니다. 초기 모델링은 간단하게 디코드는 memory ba…",
      "source": "",
-     "ts": 1794606171
+     "ts": 1794626127
     },
     {
-     "id": "a70f60d020928556",
-     "title": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
-     "link": "https://news.hada.io/topic?id=37126&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "",
+     "id": "86199f95937372b2",
+     "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
+     "link": "https://news.hada.io/topic?id=37140&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "‘모두의 창업’ 2차 사업의 AI 솔루션 공급기업인 아미쿠스렉스(로폼) 의 자체 시스템이 해킹돼 이용자 20,028명의 개인정보 가 유출됐으며, 이 가운데 사업 참가자 818명 이 포함됨 중소벤처기업부가 확인한 유출 항목은 이름, 전화번호, 이메일 주소 임 아미쿠스렉스는 11월 11일 오전 8시 30분 공격 정황을 발견해 해외 IP 접속 차단 등 보안 조치를 했으며, 13일 오후 3시 유출…",
      "source": "",
-     "ts": 1794605991
+     "ts": 1794622081
     },
     {
-     "id": "24985f5d879931dd",
-     "title": "Relax: Rust 빌드 시간을 줄이기 위한 JIT 컴파일러",
-     "link": "https://news.hada.io/topic?id=37125&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Relax 는 Cargo 패키지를 소스에서 바로 실행하는 Rust 기반 라이브 컴파일러이자 JIT 런타임으로, 함수를 처음 호출할 때 컴파일하고 자주 실행되는 함수는 백그라운드에서 최적화함 함수 단위 핫 패치 로 실행 상태를 유지하면서 코드 변경을 반영하고, 저장 시 변경된 함수를 실행했던 테스트만 다시 수행함 프로젝트 측정에서 대형 3D 게임의 첫 프레임까지 M4 MacBook 기준 초기…",
+     "id": "746ba7305f1d443b",
+     "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
+     "link": "https://news.hada.io/topic?id=37139&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Orcas Airband 는 San Juan Islands 지역의 항공 무선을 실시간으로 들을 수 있는 서비스임 제공된 페이지 스냅샷에서는 서비스 상태가 오프라인 으로 표시됨 청취하려면 재생 버튼 을 눌러야 하며, 그전에는 소리가 나오지 않음 Traffic board 는 무선 교신을 바탕으로 자동 생성되며, 부정확하거나 불완전할 수 있어 항법용으로 사용할 수 없음 채널 화면에는 ATIS /…",
      "source": "",
-     "ts": 1794605811
+     "ts": 1794619902
     },
     {
-     "id": "5d6108540a2235e0",
-     "title": "AI로 해독한 Gödel의 노트, 증명된 정리 수백 개 담겼다는 연구 결과",
-     "link": "https://news.hada.io/topic?id=37124&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Helsinki University의 Jan von Plato가 Claude 로 Kurt Gödel의 미공개 수학/논리학 노트 1,009쪽을 분석해, 기존에 알려지지 않았던 정리 수백 개를 찾아냈다고 밝힘 연구팀이 옮겨 적은 노트와 관련 문헌을 입력하자 Claude는 며칠 만에 650쪽 해설 을 생성함. 주당 약 한 쪽에 머물던 분석을 크게 앞당겼지만, 결과는 페이지별 검토가 필요했음 증명…",
+     "id": "df5ca072b6327ef1",
+     "title": "FM-1 Workbench - FM1 펌웨어용 앱과 SDK의 라이선스 및 재배포 조건",
+     "link": "https://news.hada.io/topic?id=37138&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "FM1의 공개 APP 소스는 GPLv3 전용 라이선스 를 따르며, 별도 조건의 바이너리 SDK와 결합해 배포할 수 있도록 링크 예외를 둠 독점 엔진 SDK는 FM1 기기용으로만 개발, 실행, 바이너리 재배포를 허용하며, 상업적 이용도 가능하지만 독점 소스는 제공하지 않음 부팅/업데이트 리소스와 V15 복구 펌웨어는 Apache-2.0 으로 배포되며, APP과 독점 엔진의 라이선스는 각각 유…",
      "source": "",
-     "ts": 1794601940
+     "ts": 1794616723
     },
     {
-     "id": "c9d3e1902eafe93f",
-     "title": "시스템 프로그래밍에서 C보다 Zig를 선택하는 이유",
-     "link": "https://news.hada.io/topic?id=37123&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Zig 는 C처럼 가비지 컬렉터 없이 하드웨어에 가까운 코드를 작성하면서도, 자원 정리와 오류 처리 등 C에서 시간이 드는 작업을 언어 기능으로 지원함 errdefer 는 할당 바로 아래에 오류 발생 시 정리 코드를 두고 역순으로 실행하며, 테스트용 할당기로 각 할당 실패 경로의 메모리 누수도 확인할 수 있음 길이를 포함하는 슬라이스 와 정수 오버플로 검사는 debug 와 safe 모드에서…",
+     "id": "07934bccb09805f3",
+     "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
+     "link": "https://news.hada.io/topic?id=37137&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "채널에서 팀원과 구현 방향을 논의한 뒤 @ace 를 부르면 에이전트가 앞선 대화를 읽고 작업을 시작 에이전트가 작업 중 질문을 올리면 답을 아는 팀원이 바로 답해 작업을 이어갈 수 있음 같은 Tailscale 네트워크 에서 팀원의 채널에 들어가 대화와 진행 상황을 실시간으로 보고, 채널 주인이 허용하면 그 팀원의 Mac에서 실행되는 에이전트에 직접 작업을 맡김 에이전트는 Mac에 설치된 X…",
      "source": "",
-     "ts": 1794598402
+     "ts": 1794616202
     },
     {
-     "id": "1dd890f473da5547",
-     "title": "Claude 서비스 장애 발생",
-     "link": "https://news.hada.io/topic?id=37122&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "claude.ai, Claude API, Claude Code 등에서 오류 증가가 발생했으며, 제공된 장애 이력상 2026년 11월 13일의 두 장애는 모두 해결됨 Microsoft 365 커넥터 와 Claude for Outlook은 회복 조짐을 보이지만, 일부 SharePoint 검색 요청은 여전히 오류를 반환함 Microsoft 측 장애가 종료되지 않아 오류가 재발할 가능성 이 있으며…",
+     "id": "f157a632df90df87",
+     "title": "최소한 제3의 선택지가 필요한 이유",
+     "link": "https://news.hada.io/topic?id=37136&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Android와 iOS를 벗어나는 실용적인 대안 이 필요함. Google 의존성을 제거한 ROM과 대체 앱 스토어만으로 충분하다는 기대와 달리, 사용자와 개발자가 기기와 앱을 통제할 여지가 줄고 있음 iOS는 원래 폐쇄적이었고, 개방형 대안이었던 Android도 통제를 강화 하고 있음. 개발자 검증과 복잡한 앱 설치 절차뿐 아니라 대체 ROM을 차단하는 앱도 문제임 일상생활이 모바일 앱에…",
      "source": "",
-     "ts": 1794594987
+     "ts": 1794615521
     },
     {
-     "id": "1d2ebc2f6eb6cbc1",
-     "title": "“LibreOffice는 1년 365일 작동합니다. 그냥 그렇다고요.”",
-     "link": "https://news.hada.io/topic?id=37121&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "LibreOffice 는 1년 내내 작동함 작동 기간을 “ 365일 ”로 명시함 “ 실제로(actually) ”라는 말로 작동 여부를 한 번 더 강조하는 문장임 “ 그냥 그렇다고요(Just saying) ”라는 짧은 말로 마무리함 구체적인 기능이나 기술적 설명 은 덧붙이지 않음 LibreOffice의 짧은 메시지 “LibreOffice는 실제로 1년 365일 작동합니다 . 그냥 그렇다고요.…",
+     "id": "385e862f601d4680",
+     "title": "셀을 차지하지 않는 터미널 테두리",
+     "link": "https://news.hada.io/topic?id=37135&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "문자 대신 셀 가장자리의 선 으로 테두리를 그리는 터미널 프로토콜을 개발해 Ghostty 패치와 Ratatui 데모로 구현함 행과 열을 추가로 소비하지 않아 패널 경계에 탭을 배치하고, 한 줄 높이의 둥근 버튼이나 텍스트 바로 아래의 입력란 밑줄을 그릴 수 있음 테두리를 셀 속성 으로 저장해 텍스트와 함께 스크롤, 삭제, 삽입, 재배치되며, 선마다 색상과 너비 등을 지정할 수 있음 기능 지…",
      "source": "",
-     "ts": 1794594807
+     "ts": 1794615341
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "d1c587ecba",
@@ -368,6 +368,22 @@
    "url": "https://simonwillison.net/atom/everything/",
    "site": "https://simonwillison.net",
    "items": [
+    {
+     "id": "a41cf41c3f013527",
+     "title": "datasette-cluster-map 0.19",
+     "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+     "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requ…",
+     "source": "",
+     "ts": 1794610965
+    },
+    {
+     "id": "2ff8c47f48f01f5c",
+     "title": "datasette-leaflet 0.3",
+     "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+     "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, c…",
+     "source": "",
+     "ts": 1794609054
+    },
     {
      "id": "8d30336b14bfe5e0",
      "title": "llm-gemini 0.37",
@@ -431,26 +447,10 @@
      "summary": "",
      "source": "",
      "ts": 1794295701
-    },
-    {
-     "id": "c8bf0b8e918f2da7",
-     "title": "Quoting Prompting Claude Fable 5.2",
-     "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-     "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or pre…",
-     "source": "",
-     "ts": 1794288854
-    },
-    {
-     "id": "75546f2ae879a5a9",
-     "title": "Yonkers Rises",
-     "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-     "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation ski…",
-     "source": "",
-     "ts": 1794282784
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "f9eb976542",
@@ -459,88 +459,88 @@
    "site": "https://www.aitimes.com",
    "items": [
     {
-     "id": "d122cac7783f7560",
-     "title": "[11월13일] 'AI의 은행' 이끌던 젠슨 황 퇴임…AI 산업 판도 바뀌나",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217364",
-     "summary": "젠슨 황의 퇴임이 엔비디아를 넘어 AI 산업 전체에 충격을 주고 있습니다. 세계 AI 반도체 시장을 지배하는 기업의 창업자가 물러났다는 사실보다, 지난 수년간 막대한 자금과 영향력을 동원해 AI 산업의 성장을 이끌어 온 핵심 인물이 사라졌다는 점이 주목됩니다.가장 큰 관심은 엔비디아의 공격적인 투자 전략이 유지될지입니다. 이 회사는 최근 'AI의 은행'으로 불릴 만큼 반도체 공급을 넘어 A…",
+     "id": "663d44b4ce19b55f",
+     "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217397",
+     "summary": "딥시크와 문샷 AI 등 중국 주요 AI 기업들이 미국의 수출 통제를 받는 엔비디아 최신 '블랙웰' GPU를 AI 모델 개발에 사용한 정황이 발견됐다. 공개된 모델 가중치에서 블랙웰 특유의 숫자 배열을 찾아낸 것으로, 중국 기업들의 첨단 GPU 사용 의혹을 뒷받침하는 구체적인 기술적 증거가 제시됐다.비영리 연구단체 언엠플로이먼트 랩스(Unemployment Labs)의 윌 드퓌 연구원은 12…",
      "source": "",
-     "ts": 1794639600
+     "ts": 1794655111
     },
     {
-     "id": "51be7ca531d78940",
-     "title": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217394",
-     "summary": "마이크로소프트(MS)의 기업용 서비스에서 대규모 장애가 발생해 전 세계 정부 기관과 기업들이 업무에 차질을 빚었다. 이메일과 협업 도구뿐 아니라 '챗GPT'와 '클로드'의 업무 연동 기능까지 영향받았으며, MS가 복구 작업을 진행하고 있지만 일부 서비스의 장애는 하루 가까이 이어지고 있다.로이터와 AP 등에 따르면 12일(현지시간) MS의 이메일 서비스 아웃룩과 협업 도구 팀즈, AI 비서…",
+     "id": "4ec8118ab75ff6ff",
+     "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217402",
+     "summary": "앤트로픽의 기업공개(IPO)에서 중국 본토와 홍콩 기관투자자들이 공모주를 배정받기 어려운 것으로 알려졌다. 미국의 방산 기술 수출 통제 규정이 제한 근거로 거론되면서, 미국과 중국의 AI 기술 경쟁이 첨단 AI 기업의 투자 시장에도 영향을 미치고 있다.블룸버그는 13일(현지시간) 소식통들을 인용해 일부 투자은행이 앤트로픽 IPO에 참여하려는 중국과 홍콩 기관투자자의 주문을 거절하거나 실제…",
      "source": "",
-     "ts": 1794595466
+     "ts": 1794653621
     },
     {
-     "id": "24e738054164dc06",
-     "title": "구글 \"검색 역대 최대 AI 모델 업그레이드\"…최신 '하이드로젠' 적용",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217360",
-     "summary": "구글이 전 세계 검색 서비스에 최신 모델 '제미나이 4 하이드로젠(Gemini 4 Hydrogen)'을 적용하고, 여러 조건이 섞인 복잡한 질문에도 정확하게 답하도록 기능을 강화했다. 이번 업데이트를 \"검색에 적용한 역대 최대 규모의 모델 업그레이드\"라고 강조하며, 이용자의 검색 의도를 파악하고 관련 웹사이트와 이미지, 비교표 등을 제공하는 능력이 크게 향상됐다고 밝혔다.구글은 12일(현지…",
+     "id": "9cd97d2824cc4ed1",
+     "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+     "summary": "오픈AI가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 출시했다. 실제 카드번호를 AI에 노출하지 않고 사용자의 생체인증을 거쳐 결제하는 방식으로, 기존 쇼핑몰의 결제 시스템을 그대로 활용해 AI 에이전트 기반 상거래 시장을 공략한다.오픈AI는 13일(현지시간) 공식 블로그를 통해 아메리칸 익스프레스, 마스터카드,…",
      "source": "",
-     "ts": 1794593862
+     "ts": 1794652910
     },
     {
-     "id": "9bda7f26f9bef108",
-     "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217361",
-     "summary": "앤트로픽이 견적 산출과 품질 검사, 설비 고장 분석 등을 지원하는 제조업용 '클로드'를 출시했다. 의료와 금융, 법률에 이어 제조업까지 산업별 AI 제품을 확대하는 것으로, 오픈AI와의 경쟁도 고성능 파운데이션 모델 개발을 넘어 기업의 실제 업무에 AI를 적용하고 매출을 늘리는 분야로 확대되고 있다.앤트로픽은 12일(현지시간) 제조업 전용 플러그인 '클로드 포 매뉴팩처링(Claude for…",
+     "id": "534c1f0cb8e1623f",
+     "title": "[AI 이슈트렌드] 젠슨 황 퇴진 쇼크 속 트럼프 행보·앤트로픽 개인정보 유출 등 화제",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217404",
+     "summary": "AI타임스와 이스트에이드의 11월 둘째 주(11월6~12일) 이슈 분석 결과, 젠슨 황 엔비디아 CEO의 퇴진과 잇따른 강력 사건을 비롯해 트럼프 대통령의 중간선거 이후 행보 등이 상위권을 차지했다.이번 주 검색량 1위는 '젠슨황 불륜 조사(4.81%)'가 차지했다. 젠슨 황 엔비디아 CEO가 불륜 논란과 중국 스파이 관련 의혹 등이 불거진 끝에 사임했다. 엔비디아는 콜레트 크레스 최고재무…",
      "source": "",
-     "ts": 1794593024
+     "ts": 1794652062
     },
     {
-     "id": "ab109eb6eac3e4c0",
-     "title": "스페이스X·테슬라 합병 협상 진전...이르면 12월 발표",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217367",
-     "summary": "일론 머스크 CEO가 이끄는 스페이스X와 테슬라의 합병 논의가 진전을 보이며 이르면 12월 거래가 발표될 가능성이 제기됐다. 전기차와 로봇, AI, 우주항공 사업을 하나의 기업으로 통합하는 역대 최대 규모의 합병이 현실화할지 주목된다.블룸버그는 12일(현지시간) 정통한 소식통들을 인용해 양사의 이사회와 자문단이 합병 조건과 통합 기업의 지배구조 등을 구체적으로 협의하고 있다고 보도했다. 테…",
+     "id": "17ce147570b62fbf",
+     "title": "스페이스X, 영상 생성 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217399",
+     "summary": "스페이스X가 이미지·영상 생성 AI '그록 이매진(Grok Imagine)' 개발팀 대부분을 해고했다. 오픈AI가 영상 생성 서비스 '소라'를 종료한 데 이어 머스크의 AI 사업도 코딩과 에이전트에 자원을 집중하면서, 미국 주요 AI 기업들의 사업 우선순위가 바뀌고 있다.디 인포메이션은 13일(현지시간) 소식통들을 인용해 스페이스X가 지난주 그록 이매진 개발 인력 약 60명을 해고했다고 보…",
      "source": "",
-     "ts": 1794591454
+     "ts": 1794651328
     },
     {
-     "id": "ec410c47c850d4b9",
-     "title": "‘고독한 미식가’가 찾은 남도 음식…12월 일본 방송으로 만난다",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217380",
-     "summary": "일본 드라마 ‘고독한 미식가’ 주연 배우 마츠시게 유타카가 나주 곰탕과 무안 짚불구이 등 남도 음식을 소개하는 특집 다큐멘터리를 촬영한다.전남광주통합특별시는 일본인 관광객 유치를 위해 마츠시게 유타카와 남도 음식·지역 식문화를 소개하는 특집 다큐멘터리를 제작한다고 13일 밝혔다.촬영은 오는 16일까지 일주일간 나주·담양·강진·해남·영암·무안 등 6개 시군의 전통시장과 노포, 음식 명인 공간…",
+     "id": "676a81c4ae633cbf",
+     "title": "[AI카툰] Bob, Senior IT guy - 밥, 뮤지엄에 가다",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217396",
+     "summary": "글·그림 Dr. Alf",
      "source": "",
-     "ts": 1794589200
+     "ts": 1794650400
     },
     {
-     "id": "bab6a73aba2177cb",
-     "title": "오픈AI, 아스트라 '노-CoT' 능력 향상 확인…AI 추론 감시 한계 드러나",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217369",
-     "summary": "오픈AI가 AI 모델이 추론 과정을 외부에 드러내지 않고도 문제를 해결하는 '노-CoT(No-CoT)' 능력이 학습 과정에서 향상된다는 연구 결과를 공개했다. 특히 'GPT-6 아스트라'에서 두드러진 추론 감시 성능 저하와 관련해 모델 구조와 학습 방식이 추론 감시 관련 능력에 미치는 영향을 분석하고, 기존 안전 감시 기술의 한계를 경고했다.오픈AI는 10일(현지시간) 정렬 연구 블로그를…",
+     "id": "83e329b9b3e11b23",
+     "title": "[내면 지도 그리기] 42 Inner Mapping: 나를 찾는 지도",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217393",
+     "summary": "간판 없는 날들의 달력지도를 열면 먼저 보이는 것들이 있습니다. 큰 가게, 불 켜진 간판, 별점과 리뷰, 사람들이 많이 찾는 길. 지도는 많은 사람이 중요하다고 표시한 것부터 보여줍니다.내 삶의 연혁을 한 장의 지도로 펼쳐봐도 비슷합니다. 입학과 졸업, 첫 직장, 승진, 결혼. 이력서에 쓰는 날, 사진첩에 남는 날, 축하 인사를 받는 날이 굵은 글씨로 적혀 있습니다. 사회가 함께 불을 밝혀…",
      "source": "",
-     "ts": 1794589200
+     "ts": 1794650400
     },
     {
-     "id": "f4498b694460578c",
-     "title": "AI 모델 바꾼 기업 70% \"몇 주 이상 걸려\"…앱 수정·검증이 걸림돌",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217379",
-     "summary": "기업들이 더 성능이 좋거나 저렴한 AI 모델로 교체하는 데 예상보다 많은 시간과 비용을 들이는 것으로 나타났다. 모델 연결 설정만 바꾸면 교체할 수 있도록 시스템을 구축해도, 실제 서비스에서는 기존 모델에 맞춰 만든 프롬프트와 도구, 평가 체계를 다시 조정해야 하기 때문에 교체 경험이 있는 기업 담당자 10명 중 7명이 몇 주 이상의 작업이 필요했다고 답했다.벤처비트는 12일(현지시간) 자…",
+     "id": "9e967c3501f41cdc",
+     "title": "젠슨 황, 사임 직전 \"나는 쓰레기\"…두 번째 불륜 보도가 결정타",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217403",
+     "summary": "젠슨 황 전 엔비디아 CEO가 사임 직전 자신을 심하게 비난하며 사실상 경영권을 포기한 것으로 알려졌다. 마지막까지 CEO직을 지키려 했지만, 추가적인 사내 관계가 보도되면서 긴급 소집된 이사회에서 결국 물러났으며 평소의 적극적인 경영 방식과는 전혀 다른 무기력한 모습을 보였다는 증언이 나왔다.블룸버그와 디 인포메이션은 12일(현지시간) 엔비디아 내부 관계자들과 황 전 CEO의 주변 인물들…",
      "source": "",
-     "ts": 1794588713
+     "ts": 1794649857
     },
     {
-     "id": "d0ab47429e3978a6",
-     "title": "노타, 3분기 역대 최대 매출 달성…플랫폼·솔루션 동반 도약",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217391",
-     "summary": "노타(대표 채명수)는 3분기 연결 기준 매출이 전년 동기 대비 51% 늘어 올해 최대 분기 매출을 기록했다고 13일 밝혔다. 영업손실은 전분기 대비 약 42% 줄었고 영업손실률은 161.9%에서 78.8%로 개선됐다.3분기 누적 매출은 약 120억원으로 이 중 신규 고객 비중이 52.3%에 달한다. 누적 수주액은 약 263억원이며, 9월 말 기준 수주잔고는 154억원으로 누적 매출을 웃돈다…",
+     "id": "a5417780a5fc6887",
+     "title": "아모데이 \"컴퓨팅 수요 예측이 최대 경영 난제…과잉도 부족도 위험\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217401",
+     "summary": "다리오 아모데이 앤트로픽 CEO가 AI 컴퓨팅 투자 규모를 결정하는 것이 회사의 가장 어려운 경영 과제라며, 과잉 투자와 투자 부족에 따른 위험을 설명했다. 기업공개(IPO)를 추진하는 주요 이유도 막대한 컴퓨팅 투자에 필요한 자금을 확보하고 재무적 위험에 대비하기 위해서라고 밝혔다.블룸버그와 파이낸셜타임스(FT) 등에 따르면 아모데이 CEO는 13일(현지시간) 뉴욕 JP모건체이스 본사에서…",
      "source": "",
-     "ts": 1794588000
+     "ts": 1794648793
     },
     {
-     "id": "fa24f9f2565ea0ff",
-     "title": "AMD, 양자컴퓨터 오류 수정에 GPU·SW 투입…엔비디아와 경쟁",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217381",
-     "summary": "AMD가 양자컴퓨팅 기업 사이퀀텀(PsiQuantum)에 지분 투자를 추진하고, 양자컴퓨터의 오류를 실시간으로 탐지·수정하는 데 자사 CPU·GPU와 소프트웨어를 활용하기로 했다. 지난해부터 양자컴퓨팅 인프라 사업을 강화해 온 엔비디아와 관련 기술을 둘러싼 경쟁도 본격화할 전망이다.AMD와 사이퀀텀은 12일(현지시간) 공동 발표를 통해 지분 투자 계획과 기술 협력 확대를 공개했다. 구체적인…",
+     "id": "b9f2cee8fb260b54",
+     "title": "광양 65세 이상 대상포진 예방접종, 누가 무료로 맞나…접종비 최대 31만원",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217387",
+     "summary": "광양시가 65세 이상 시민에게 대상포진 예방접종 비용을 지원하고 있다. 백신 종류와 지원 대상에 따라 본인부담금은 무료에서 최대 31만원까지 차이가 난다. 기초생활수급자 등 취약계층도 사백신을 선택하면 접종비 일부를 내야 한다.광양시는 12일 보도자료를 통해 이 같은 내용의 대상포진 예방접종 지원사업을 안내했다. 지원 대상은 광양시에 1년 이상 주민등록을 두고 거주하는 65세 이상 시민으로…",
      "source": "",
-     "ts": 1794587663
+     "ts": 1794648000
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "2c60dce9bd",
@@ -818,6 +818,14 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "0e89ea75cac82b36",
+     "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+     "link": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+     "summary": "Part of Tokyo city initiative to find uses for data center heat",
+     "source": "",
+     "ts": 1794632442
+    },
     {
      "id": "b34f612c0a2ee33b",
      "title": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
@@ -889,18 +897,10 @@
      "summary": "First 300MW due live in 2027, ready for others to build on",
      "source": "",
      "ts": 1794582117
-    },
-    {
-     "id": "4da11baec087261d",
-     "title": "Syntys breaks ground on 20MW data center in Qatar",
-     "link": "https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/",
-     "summary": "Facility to support high-density GPU workloads",
-     "source": "",
-     "ts": 1794581221
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794613128
+   "last_ok": 1794638171
   }
  ]
 }
