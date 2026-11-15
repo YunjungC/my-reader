@@ -1,5 +1,5 @@
 {
- "generated_at": 1794762876,
+ "generated_at": 1794783297,
  "top_n": 10,
  "feeds": [
   {
@@ -9,12 +9,60 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "f283fa38674aea88",
+     "title": "깐부회동 1년만에 젠슨 황 퇴장…GPU 26만장 약속은 어떻게 됐을까 - 인베스트조선",
+     "link": "https://www.investchosun.com/site/data/html_dir/2026/11/15/2026111580032.html",
+     "summary": "美 AI 정책 불확실성에 韓 인프라 구축도 지연 우려. (그래픽=윤수민 ... 지난 7월 정부 가 메가 프로젝트 를 출범하며 속도전을 강조했지만 유관부처 ...",
+     "source": "",
+     "ts": 1794780407
+    },
+    {
+     "id": "d3a64215c134e870",
+     "title": "대학 AI 교육 격차, 전국 단위 공유·협력으로 풀어야①[본지-대교협 공동기획]",
+     "link": "https://news.unn.net/news/articleView.html?idxno=600128",
+     "summary": "인공지능 ( AI ) 확산과 대학생의 마음건강 위기, 누적되는 재정난 등 고등 ... AI 교육 관련 정부 지원도 늘고 있다. 교육부와 대교협이 올해 신설한 ...",
+     "source": "",
+     "ts": 1794776559
+    },
+    {
+     "id": "d9c97c5dfc90297f",
+     "title": "정신병원 병상 9천여개 줄어든 사이, 정부 정신건강 정책 은 상담 인원 늘리기로 갔다 - 서울일보",
+     "link": "https://www.seoulilbo.co.kr/news/articleView.html?idxno=22423",
+     "summary": "정신질환자 입원·입소가 줄어든 건 지역사회가 좋아져서가 아니라 병상이 사라졌기 때문이라는 현장 의사의 지적이 나왔다. 정신건강복지법 시행 뒤 입원· ...",
+     "source": "",
+     "ts": 1794767447
+    },
+    {
+     "id": "c3efff7b09816aae",
+     "title": "中, 지방 정부 보여주기식 사업 금지… 정책 실패는 평생 책임",
+     "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1439710",
+     "summary": "지방 정부 숨겨진 부채 확대·전임자 정책 외면도 금지. 중국 베이징 ... 인공지능 ( AI ) 반도체 기술을 공급할 수 있는 동남아 AI ... 2026-11-16 · 2. '빅 ...",
+     "source": "",
+     "ts": 1794766829
+    },
+    {
+     "id": "2009118c4ae62f89",
+     "title": "AI 부정행위 뿌리 뽑는다… 정부 , 국가자격시험 전면 조사 착수 - 전기신문",
+     "link": "https://www.electimes.com/news/articleView.html?idxno=374777",
+     "summary": "정부 가 제63회 세무사 자격시험에서 발생한 인공지능 ( AI ) 활용 부정 ... 정책 실장 주재로 열린 ' AI 활용 부정시험.",
+     "source": "",
+     "ts": 1794762355
+    },
+    {
      "id": "806063d8dd685fb5",
      "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사 - 지디넷코리아",
      "link": "https://zdnet.co.kr/view/?no=20261115205153",
      "summary": "세무사시험 수석합격자가 인공지능 ( AI )을 활용한 부정행위를 시인하면서 정부 가 국가자격시험 전반에 대한 전수조사에 나선다. ... 하 정책 실장은 \"과거 ...",
      "source": "",
      "ts": 1794759904
+    },
+    {
+     "id": "2bead0b8fadeb93c",
+     "title": "[사설] '모두의 창업' 또 유출, 이런 정부 가 AI 혼란 대응할 수 있나 - 조선일보",
+     "link": "https://www.chosun.com/opinion/editorial/2026/11/16/NXK6BMI2BRGRTLT4HBDNUXCBHI/",
+     "summary": "중소벤처기업부의 모두의 창업 프로젝트 에서 참가자 개인정보가 유출됨. 1차 사고 이후 5개월 만에 재발한 사건으로, 정부 의 미흡한 대응과 공공기관 전반의 ...",
+     "source": "",
+     "ts": 1794756437
     },
     {
      "id": "f404355e2cf12d43",
@@ -25,72 +73,24 @@
      "ts": 1794755746
     },
     {
-     "id": "180db7f2339bd5e4",
-     "title": "정부 , 모든 국가자격시험 부정행위 제보받는다…\"끝까지 추적\" - 안전저널(The Safety Journal)",
-     "link": "https://www.anjunj.com/news/articleView.html?idxno=50965",
-     "summary": "제63회 세무사 시험 수석 합격자가 인공지능 ( AI )을 이용한 부정행위를 인정한 가운데, 정부 가 모든 국가자격시험 부정행위에 대한 제보를 활성화하는 등 ...",
+     "id": "1c44ecb7f5167518",
+     "title": "[심층진단] 2027년 중소기업 생존전략, AI 전환·온라인 유통· 정부 조달시장에 달렸다 - 뉴스밸류",
+     "link": "https://www.newsvalue.kr/news/articleView.html?idxno=25075",
+     "summary": "인공지능 ( AI )을 활용한 생산성 혁신, 온라인 플랫폼을 통한 판로 확대, 구독 ... 중소기업 정책 도 단순한 장비·솔루션 보급에서 벗어나 업종별 데이터 ...",
      "source": "",
-     "ts": 1794752875
+     "ts": 1794754885
     },
     {
-     "id": "5484c5f535238469",
-     "title": "세무사 수석 ' AI 부정행위'...靑 “엄중 사안, 정책 실장이 대책회의” - 조선일보",
-     "link": "https://www.chosun.com/politics/politics_general/2026/11/15/AMJALAPYENEXLI5JL7CCBBRVKU/",
-     "summary": "... 정부 , 국민안전 플러스 프로젝트 ' 관련 브리핑을 하고 있다./뉴시스. 2026년 세무사 자격시험 수석 합격자가 AI ( 인공지능 )를 이용해 부정행위를 했다고 자백 ...",
+     "id": "d4f28668db4ce981",
+     "title": "[COP31] 정부 , 해양 기후대응·부산 UNOC4 협력 확대 - 넷제로뉴스",
+     "link": "https://www.netzeronews.kr/news/articleView.html?idxno=6695",
+     "summary": "▷ 갯벌·해조류 탄소흡수 연구성과 공유… 국제 산정 방법론 반영 대비. ◇일러: 넷제로뉴스 AI . [ ...",
      "source": "",
-     "ts": 1794752634
-    },
-    {
-     "id": "d7102a8234a8b8fe",
-     "title": "靑, ' AI 부정시험' 국가자격시험 전수조사…수능 감독도 대폭 강화 | - 스트레이트뉴스",
-     "link": "https://www.straightnews.co.kr/news/articleViewAmp.html?idxno=315396",
-     "summary": "... 정책 실장이 15일 청와대에서 범죄 대책회의를 주재하고 있다. [사진=청와대. 뉴스1]. 세무사시험 수석 합격자의 인공지능 ( AI ) 활용 부정행위 파문이 확산하자 ...",
-     "source": "",
-     "ts": 1794751474
-    },
-    {
-     "id": "cf3c436cc581795d",
-     "title": "세무사 수석 '부정행위'에 감독관 4명 속수무책…수능 앞둔 정부 '비상' - 머니투데이",
-     "link": "https://www.mt.co.kr/economy/2026/11/15/2026111516105517621",
-     "summary": "세무사 시험 수석 합격자가 초소형 카메라와 생성형 AI ( 인공지능 )를 이용한 부정행위를 자백하면서 국가자격시험 관리체계의 허점이 드러났다.",
-     "source": "",
-     "ts": 1794750464
-    },
-    {
-     "id": "df124ecad8405bea",
-     "title": "수능 D-3 ' AI 커닝' 초비상…세무사 수석, 부정행위 자수… 정부 , 국가자격시험 전수조사 지시",
-     "link": "https://www.khan.co.kr/article/202611152136035",
-     "summary": "... 세무사 시험 수석 합격자가 15일 인공지능 ( AI )을 이용해 부정 ... 청와대도 하준경 정책 실장 주재로 ' AI 활용 부정시험 확산 방지 긴급 ...",
-     "source": "",
-     "ts": 1794746352
-    },
-    {
-     "id": "0ccd3c43b9ad56dc",
-     "title": "11/15(일) 청와대, AI 활용 부정시험 긴급대책회의 개최 | 알립니다 | 뉴스룸 | 대한민국 청와대",
-     "link": "https://www.president.go.kr/actually/1MCrf4zQ",
-     "summary": "청와대는 15일(일), 하준경 정책 실장 주재로 ' AI 활용 부정시험 확산 방지 긴급대책회의를 개최했다. 이번 회의는 최근 제기된 세무사시험 수석합격자의 AI ...",
-     "source": "",
-     "ts": 1794744740
-    },
-    {
-     "id": "6f79c9cbf3945541",
-     "title": "SKT, 'A.X K3'에 국방 데이터 학습…군 절차 따르는 AI 개발 - Naver Blog",
-     "link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224478207499&redirect=Dlog",
-     "summary": "이날 기조강연을 맡은 심승배 국가 인공지능 전략위원회 국방·안보분과 위원장은 정부 의 독자 AI 파운데이션 모델 프로젝트 성과를 군에서 활용하는 방안을 제시 ...",
-     "source": "",
-     "ts": 1794744084
-    },
-    {
-     "id": "d88d98efc6c40c78",
-     "title": "정부 , ' AI 부정행위' 세무사 수석 합격 효력 정지 검토 - 아시아경제",
-     "link": "https://view.asiae.co.kr/article/2026111511572667979",
-     "summary": "정부 가 생성형 인공지능 ( AI )과 전자기기를 동원해 부정행위를 저지른 올해 ... 정책 . 정부 , ' AI 부정행위' 세무사 수석 합격 효력 정지 검토. 박호수 ...",
-     "source": "",
-     "ts": 1794743891
+     "ts": 1794754876
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "cf53c0f1af",
@@ -180,7 +180,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "25ac01331a",
@@ -188,6 +188,38 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "7c79dfd79f82295f",
+     "title": "Dems' Denver victory party previews 2028 battles",
+     "link": "https://www.axios.com/2026/11/15/democrats-denver-celebration-divide",
+     "summary": "DENVER — Thousands of Democrats gathered here this weekend for a giddy postelection summit, reveling in their party's historic midterm victories and touting the center-left strategy they say powered them. But some progr…",
+     "source": "",
+     "ts": 1794783005
+    },
+    {
+     "id": "e48ff2730b99d927",
+     "title": "Some Dems' 2028 strategy: Make America Nice Again",
+     "link": "https://www.axios.com/2026/11/15/democrats-make-america-nice-again-2028",
+     "summary": "Some Democrats weighing 2028 campaigns for president believe the midterms proved that Americans have soured on Trump-style, scorched-earth political warfare and want a brand of politics that's nicer and more optimistic.…",
+     "source": "",
+     "ts": 1794782406
+    },
+    {
+     "id": "bea2fb2c219a7052",
+     "title": "Vance may wait until late spring to reveal 2028 plans",
+     "link": "https://www.axios.com/2026/11/15/vance-2028-campaign-president-announce",
+     "summary": "Vice President Vance won't make a final decision on whether to run for president in 2028 until after the new year — and may wait until late spring to announce his intentions publicly, two sources with knowledge of his p…",
+     "source": "",
+     "ts": 1794781806
+    },
+    {
+     "id": "fa6c94270b6b34be",
+     "title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+     "link": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
+     "summary": "Treasury Secretary Scott Bessent on Sunday questioned whether Nvidia's earnings might have been inflated by inappropriate sales to China and urged the company to hire an outsider as CEO. Why it matters: Nvidia is centra…",
+     "source": "",
+     "ts": 1794763761
+    },
     {
      "id": "a5059e715f68acd2",
      "title": "Trump's border crackdown faces a new blue wall of governors and House members",
@@ -235,42 +267,10 @@
      "summary": "AI's titans were handed an extraordinary mandate: Police yourselves. But the industry faces a four-pronged crisis of trust as Democrats surge to power and many Americans rebel over AI and data centers. Guardrails for th…",
      "source": "",
      "ts": 1794659756
-    },
-    {
-     "id": "1b259ad46d2d4474",
-     "title": "MAGA turns on Lutnick amid China spy scandal",
-     "link": "https://www.axios.com/2026/11/14/lutnick-commerce-china",
-     "summary": "Commerce Secretary Lutnick has become the face of the Trump administration's troubled response to Chinese espionage and potential national security threats. The most intense scrutiny is coming from Republicans on the Hi…",
-     "source": "",
-     "ts": 1794659411
-    },
-    {
-     "id": "924364ccd8ec2379",
-     "title": "Wholesale food prices are on the rise",
-     "link": "https://www.axios.com/2026/11/14/grocery-wholesale-inflation-vegetables",
-     "summary": "Food prices are rising sharply even before they reach supermarket shelves. Why it matters: Americans are already paying more for groceries. New inflation data this week suggests that the pressure is not letting up. Whol…",
-     "source": "",
-     "ts": 1794655806
-    },
-    {
-     "id": "e408e1ed5becc9bc",
-     "title": "U.S. loses measles elimination status",
-     "link": "https://www.axios.com/2026/11/14/us-loses-measles-elimination-status",
-     "summary": "An international health organization has determined that the United States has lost its measles elimination status, according to multiple news reports. Why it matters: It's an official recognition of how much the countr…",
-     "source": "",
-     "ts": 1794654639
-    },
-    {
-     "id": "fc7646e65e0474d8",
-     "title": "3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day",
-     "link": "https://www.axios.com/2026/11/14/faa-ground-stop-saturday",
-     "summary": "The chaos from the FAA's nationwide ground stop lingered into early Saturday morning, with thousands of flights cancelled as airlines played catch-up. Why it matters: Millions of travelers will find themselves inconveni…",
-     "source": "",
-     "ts": 1794652122
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "cc992ff5f1",
@@ -279,88 +279,88 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "b0bd2a4b390f31bf",
-     "title": "브라질 Caixa 보험사 침해 사고로 고객 760만 명 전원의 이름과 납세자 번호 노출",
-     "link": "https://news.hada.io/topic?id=37207&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Caixa Seguridade의 피투자회사 Caixa Vida e Previdência(CVP) 에서 무단 접근으로 고객 개인정보가 외부에 복사된 사실을 확인함 노출된 정보는 이름과 CPF(브라질 개인 납세자 번호) 이며, 현재 고객 760만 명 전원이 포함되고 과거 고객 정보도 영향을 받음 일부 기록에는 주소, 전화번호, 이메일 주소, 생년월일도 포함됐으나, 예비 평가상 금융정보나 인증정…",
+     "id": "242204b3d5c3c16c",
+     "title": "휴대폰 잠금 해제 도구의 실체: 기술적 개요",
+     "link": "https://news.hada.io/topic?id=37225&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "상용 휴대폰 잠금 해제 도구의 차별점은 새로운 공격 기법보다 취약점 악용의 체계적 상품화 에 있음. 기기별 공격 코드를 확보하고 안정화해 비전문가도 사용할 수 있는 자동화 작업 흐름으로 묶음 보안 수준을 가르는 핵심은 최초 잠금 해제 전(BFU) 과 최초 잠금 해제 후(AFU) 상태의 차이임. AFU에서는 복호화 키가 메모리에 남으므로 화면을 다시 잠가도 데이터가 암호학적으로 차단되지 않음…",
      "source": "",
-     "ts": 1794757011
+     "ts": 1794779070
     },
     {
-     "id": "ab4069e9949c6c1d",
-     "title": "미국 IRS의 무료 온라인 세금 신고 서비스 오픈소스 저장소(2025)",
-     "link": "https://news.hada.io/topic?id=37206&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Direct File 은 납세자가 미국 국세청(IRS)에 연방 소득세 신고서를 무료로 직접 전자 제출할 수 있는 문답형 서비스로, 영어와 스페인어를 지원함 세법을 쉬운 일상 언어의 질문 으로 바꾸고, 답변을 표준 세금 신고서로 변환해 IRS의 Modernized e-File(MeF) API 로 전송함 Fact Graph 는 미완성 신고서처럼 정보가 불완전한 상태에서도 추론하도록 설계된 XM…",
+     "id": "0866eccb2ee8d6a9",
+     "title": "Emacs는 나의 브라우저",
+     "link": "https://news.hada.io/topic?id=37224&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Emacs 내장 브라우저 EWW 를 며칠간 적극적으로 사용해 보니, 개인적인 웹 이용의 약 85~90% 를 처리할 수 있었음 Chromium/Firefox에서 추천 콘텐츠와 눈길을 끄는 요소 때문에 쉽게 산만해졌지만, 텍스트 중심 탐색 으로 전환한 뒤 정보 검색과 문서 읽기, 생산 활동에 더 집중할 수 있었음 EWW 는 이미지와 GIF를 지원하며, 읽기 모드와 북마크, URL 복사 등을 E…",
      "source": "",
-     "ts": 1794756831
+     "ts": 1794778890
     },
     {
-     "id": "72cf86ff4620ea9a",
-     "title": "미국 10월 생산자물가 전년 대비 6.5% 상승, 약 4년 만에 최고",
-     "link": "https://news.hada.io/topic?id=37204&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "미국 10월 생산자물가지수(PPI) 가 전년 동월 대비 6.5% 상승 함 전년 동월 대비 상승률은 2022년 11월 이후 최고치 를 기록함 예상치 6.6%를 밑돌았지만 , 이전 수치인 6.3%보다 높아짐 전월 대비 PPI 상승률은 0.3% 로, 예상치 0.4%를 밑돎 9월 전월 대비 상승률은 기존 1.3%에서 1.4%로 상향 수정 됨 10월 생산자물가와 9월 수정치 전년 동월 대비 상승률…",
+     "id": "35ac8a598c636567",
+     "title": "Show GN: 달레 스터디 개발자 설문조사 - 한국 개발자의 일과 커리어, AI 사용을 묻는 익명 설문",
+     "link": "https://news.hada.io/topic?id=37223&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Stack Overflow 2025 설문에서 국가를 밝힌 35,369명 중 한국은 86명이었고, 국내에서 매년 나오던 프로그래머스 개발자 설문도 2023년을 끝으로 멈췄습니다. 한국 개발자의 일과 커리어를 들여다볼 데이터가 없어서, 개발자 커뮤니티 달레 스터디에서 직접 설문을 만들어 봤습니다. 주요 내용 일하는 곳, 보상, 커리어, 성장, 기술, 올해의 주제 AI를 10분 안팎으로 묻습니다…",
      "source": "",
-     "ts": 1794749502
+     "ts": 1794778844
     },
     {
-     "id": "1893b5ce7ab5305a",
-     "title": "AI 코딩 에이전트의 \"테스트 모두 통과\"를 믿기 전에 확인하는 9가지 (실측 사례 모음)",
-     "link": "https://news.hada.io/topic?id=37202&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Android 앱 몇 개를 혼자 만들면서 클로드 코드에 구현과 테스트를 맡겨 왔습니다. 그동안 \"통과\"라는 보고가 실제로는 아무것도 지키지 않던 경우를 모아서 정리했습니다. 테스트 3,066개가 다 통과한 채팅 앱에, 기기에서 DB 열기가 실패하는 코드가 남아 있었음 \"E2E 100% 통과\"의 출처는 expect()가 하나도 없는 러너 7개였음 버그 수정을 되돌려도 테스트 13개가 그대로…",
+     "id": "8ad4c37de8278788",
+     "title": "Microsoft 365 장애로 호텔 투숙객 15명 염소가스 중독",
+     "link": "https://news.hada.io/topic?id=37222&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Phantasialand 에서 Microsoft 장애로 수영장 염소 과다 경고 이메일을 받지 못했고, 호텔 투숙객 15명이 다침 수영장의 자동 투입 시스템 결함 으로 염소가 과다 주입됐으며, 사우나 구역 안전 관리 시스템은 이미 이메일 경고를 보낸 상태였음 Outlook을 포함한 Microsoft 서비스 장애 로 이메일이 도착하지 않아, 시설 측이 경고를 인지하지 못함 피해자들은 수영장 이…",
      "source": "",
-     "ts": 1794747874
+     "ts": 1794778710
     },
     {
-     "id": "74661b37ae885b8b",
-     "title": "고칠 줄 몰라서가 아니라 불편한 줄 몰라서 – 기억해야 할 창구를 줄인 업무 환경 개선기",
-     "link": "https://news.hada.io/topic?id=37201&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "개인 프로젝트(코드 대결 게임, 크롬 확장, 블로그 등)가 늘면서 각 프로젝트의 맥락을 기억하기 어려워지고, 무엇을 할지 정하는 일이 짐이 되어 의욕까지 떨어짐 회사 환경은 허브 저장소에 여러 저장소를 심볼릭 링크로 묶어 모노레포처럼 쓰지만, 서로 관계없는 개인 저장소에는 맞지 않음. 그래서 \"개발은 저장소별로, 관찰과 기록은 블로그에서\"로 나눔 문제를 \"기억하고 들여다봐야 할 창구(인터페…",
+     "id": "8341306eb49925a5",
+     "title": "vLLM으로 NVIDIA DGX Station 2대에서 GLM-5.3을 초당 607.8토큰으로 서빙하기",
+     "link": "https://news.hada.io/topic?id=37221&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "GLM-5.3 NVFP4 의 약 464GB 체크포인트를 DGX Station 2대의 GPU에 나눠 올리고, CPU 가중치 오프로딩 없이 하나의 OpenAI 호환 API로 서빙함 텐서 병렬화(TP=2) 로 두 GB300 GPU가 가중치와 연산을 분담하며, 모든 요청의 토큰 생성 과정에서 ConnectX-8 RDMA 연결로 부분 결과를 교환함 다중 토큰 예측(MTP) 으로 단계당 토큰 4개를…",
      "source": "",
-     "ts": 1794745993
+     "ts": 1794775566
     },
     {
-     "id": "e3ecc979cc370149",
-     "title": "법원, DRAM 가격 담합 소송 기각 신청 거부",
-     "link": "https://news.hada.io/topic?id=37200&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "미국 연방법원이 Samsung, SK Hynix, Micron의 공동 기각 신청을 전부 거부 하며 일반 DRAM 공급 제한 의혹에 관한 집단소송 추진 사건을 계속 심리하기로 함. 현 단계에서 담합 주장의 개연성을 인정한 것으로, 혐의가 입증된 것은 아님 원고들은 3사가 일반 DRAM 생산을 줄이고 HBM으로 생산능력을 전환 하면서 가격이 급등했다고 주장함. 소장에 따르면 2025년 3분기…",
+     "id": "f74b7f28aaf7be2c",
+     "title": "Turbo Pascal보다 크기가 큰 것들 (2011)",
+     "link": "https://news.hada.io/topic?id=37219&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Turbo Pascal 3.02 는 컴파일러와 IDE를 모두 포함한 실행 파일 크기가 39,731바이트 로, 2011년의 여러 웹 리소스와 개발 도구 파일보다 작았음 1986년 9월 출시된 MS-DOS용 Turbo Pascal 3 는 상업적 사용에 실용적인 확장을 갖춘 완전한 Pascal 컴파일러와 편집기를 긴밀하게 통합했음 프로젝트 빌드 속도는 Microsoft 컴파일러보다 몇 자릿수 빠…",
      "source": "",
-     "ts": 1794742364
+     "ts": 1794775386
     },
     {
-     "id": "445816977e8fd1eb",
-     "title": "Show GN: 인디해커온라인 – 창업자, 개발자들의 온라인 오피스를 만든 이야기",
-     "link": "https://news.hada.io/topic?id=37199&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "인디해커온라인은 혼자 일하는 창업자, 개발자가 브라우저 안 도트 오피스에 모여 각자 일하는 서비스로, 옆에 누가 일하고 있으면 나도 일하게 되는 바디 더블링 효과를 온라인으로 옮긴 것임 뽀모도로, Todo List, 프로젝트 툴 같은 생산성 툴을 한 군데에 모아 모두 무료 로 제공하고, 다른 사람이 지금 무슨 일에 집중하는지 보면서 정보를 나눌 수 있음 서버는 Elixir(Phoenix)…",
+     "id": "8ccac2ca9dd8f8ce",
+     "title": "현대 LLM의 위치 임베딩 이해하기",
+     "link": "https://news.hada.io/topic?id=37218&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "LLM의 위치 정보 는 같은 토큰이라도 문장 안의 순서와 거리에 따라 다르게 처리하도록 도움을 줌. 인과 마스크도 암묵적인 순서 정보를 주지만, 토큰 간 거리를 직접 알려주지는 않음 GPT-2는 학습한 위치 벡터를 입력 임베딩에 더하고, 원래 Transformer는 고정된 사인/코사인 벡터를 더함. 두 방식 모두 토큰의 절대 위치 를 표현함 RoPE 는 어텐션 내부에서 쿼리와 키를 회전시켜…",
      "source": "",
-     "ts": 1794737523
+     "ts": 1794775206
     },
     {
-     "id": "243fe9112937088a",
-     "title": "Show GN: agent-otel-kit - Claude Code·Codex·Gemini CLI 사용량, 비용, 도구 호출을 한 대시보드로",
-     "link": "https://news.hada.io/topic?id=37198&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "직접 만든 오픈소스입니다. 코딩 에이전트를 여러 개 같이 쓰다 보니 /usage 같은 에이전트별 화면으로는 셋을 나란히, 기간별로 보기 어려워서 만들었습니다. /usage를 대체하려는 것은 아니고, 에이전트를 여러 개 쓰는 개인이나 팀을 위한 도구입니다. 로컬에서 docker compose up 한 번으로 OpenTelemetry Collector, Prometheus, Loki, Temp…",
+     "id": "3bf1dbe384b87249",
+     "title": "세계 각국 보안기관의 광고 기반 감시 시스템 사용 확인",
+     "link": "https://news.hada.io/topic?id=37217&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Bloomberg 조사에서 Penlink의 광고 기반 감시 시스템 Webloc 을 도입한 여러 국가의 보안기관이 추가로 확인됨 이번 조사는 Citizen Lab의 기존 연구 를 바탕으로 추가 고객을 확인했으며, 앞서 파악한 잠재 고객 정보와도 부합함 Webloc 은 군과 정보기관에서 연방 법 집행기관을 거쳐 주와 지역 경찰로까지 확산되는 강력한 대규모 감시 도구임 유럽과 영국 에서는 이러한…",
      "source": "",
-     "ts": 1794733322
+     "ts": 1794772020
     },
     {
-     "id": "4cb6eda5e9caf24a",
-     "title": "Woz는 컴퓨터를 만들기도 전에 어떻게 Apple 1 BASIC을 작성했을까?",
-     "link": "https://news.hada.io/topic?id=37196&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Steve Wozniak은 단순한 설계안이 아니라 실제 6502 기계어 를 종이에 작성하고, 명령어를 직접 16진수로 변환하는 수작업 어셈블 로 BASIC을 구현함 당시 수천 달러의 시분할 컴퓨터 사용료 를 감당할 수 없어, 어셈블러 대신 종이에 주소와 명령어를 적고 해당 기계어 값을 찾아 기록함 BASIC 자체의 실행 테스트는 Apple 1 에서 했지만, 수식 평가용 스택 머신 은 별도로…",
+     "id": "a6a6b212c2d24ceb",
+     "title": "Claude라는 망상",
+     "link": "https://news.hada.io/topic?id=37216&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "기술 업계에서 코딩 실력과 사업 성공을 모든 분야에서 뛰어나다는 증거 로 받아들이는 과신은, AI가 인류를 구원하거나 위협할 것이라는 극단적인 전망으로 이어질 수 있음 빌 게이츠는 Claude의 코딩 실력이 자신과 비슷해졌다고 돌아봤으며, 이어 긴 코딩 작업과 코드 결함 탐지에서 AI가 초인적 수준에 이르렀다 고 평가함 프로그래밍을 특별한 정체성으로 삼던 개발자에게 자신처럼 코드를 만들고…",
      "source": "",
-     "ts": 1794728335
+     "ts": 1794771840
     },
     {
-     "id": "c9985339459f4a89",
-     "title": "EFF, 항소법원에 자동 번호판 인식 데이터 검색의 영장 의무화 요청",
-     "link": "https://news.hada.io/topic?id=37195&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "EFF와 ACLU 가 경찰의 영장 없는 자동 번호판 인식(ALPR) 데이터 추적을 미국 수정헌법 제4조상 수색 으로 인정해 달라는 법정조언자 의견서를 제6연방항소법원에 제출함 경찰은 강도 사건 차량의 번호판을 모르는 상태에서 Flock과 ELSAG 데이터베이스를 검색했고, 범행 현장 인근에서 포착된 피고인 차량을 확인한 뒤 결국 피고인을 체포함 1심 법원 은 번호판이 일반인에게 공개되어 있…",
+     "id": "7224224b64a2448d",
+     "title": "Lean으로 미국 세법 형식화하기",
+     "link": "https://news.hada.io/topic?id=37215&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Lean 증명 검사기와 AI 로 미국 세법의 참조 오류를 검사하고, 2025년 가구 단위 연방소득세를 실행 가능한 모델로 만들어 세금 계산 오류와 허점을 탐색함 공식 법전에서 입법 문구 오류 138건 을 찾아 각각 Lean 증명서를 만들었으며, 법률별 Git 이력으로 오류를 도입한 법률까지 추적할 수 있음 가상 가구 5,000곳을 기존 세금 소프트웨어 3종과 비교한 결과, PolicyEng…",
      "source": "",
-     "ts": 1794728155
+     "ts": 1794771659
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "d1c587ecba",
@@ -450,7 +450,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "f9eb976542",
@@ -458,6 +458,14 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "bc988386526b467c",
+     "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217428",
+     "summary": "젠슨 황 전 엔비디아 CEO가 사임한 지 며칠 만에 측근들과 복귀 가능성을 논의하기 시작한 것으로 알려졌다. 실리콘밸리 주요 경영진은 복귀를 위한 조직적인 로비에 나서고 백악관의 지원까지 확보할 계획이다.파이낸셜타임스(FT)는 15일(현지시간) 복수의 소식통을 인용해 황 전 CEO가 측근들과 엔비디아 CEO 복귀 가능성을 논의하고 있다고 보도했다.황의 측근 한 명은 실리콘밸리 주요 경영진으…",
+     "source": "",
+     "ts": 1794807178
+    },
     {
      "id": "55802d41239d69b4",
      "title": "[기고] 채점이 편한 시험은 AI에도 편하다",
@@ -529,18 +537,10 @@
      "summary": "이탈리아 개인정보보호 당국이 안드로이드 사용자의 동의 없이 스마트폰 사진과 동영상에 접근한 메타에 8억8700만달러(약 1조1886억원)의 벌금을 부과했다. 페이스북 앱의 사진 추천 기능이 사용자에게 충분히 고지되지 않은 채 개인 갤러리 데이터에 접근했다는 이유에서다.이탈리아 당국은 14일(현지시간) 발표를 통해 메타가 페이스북 앱에서 사용자의 사진과 동영상을 확인하고, 게시할 만한 콘텐츠…",
      "source": "",
      "ts": 1794743370
-    },
-    {
-     "id": "da4ad46e44b3c449",
-     "title": "젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217422",
-     "summary": "젠슨 황 전 엔비디아 CEO의 불륜과 사임 논란이 생성 AI를 활용한 풍자 영상과 이미지로 이어지고 있다. 영화 '매트릭스'의 주인공부터 뮤직비디오 속 가수까지 황의 얼굴을 합성한 영상들이 수백만 조회수를 기록하고 있다. AI 산업을 성장시킨 황이 자신이 공급해 온 GPU와 AI 기술로 만들어진 밈의 주인공이 됐다는 점이 눈길을 끈다.최근 X와 인스타그램, 레딧 등에는 황을 풍자한 AI 생…",
-     "source": "",
-     "ts": 1794742183
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "19ef1c7741",
@@ -630,7 +630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "263d8d0ce8",
@@ -720,7 +720,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "7ebf5b6c9a",
@@ -810,7 +810,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "2c60dce9bd",
@@ -900,7 +900,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "95180fe28d",
@@ -990,7 +990,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   },
   {
    "id": "c15f1e5a65",
@@ -1080,7 +1080,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794762876
+   "last_ok": 1794783297
   }
  ]
 }
