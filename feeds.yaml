@@ -7,7 +7,7 @@
 #    거기 있는 피드도 자동으로 함께 읽습니다 (같은 주소는 한 번만)
 # ─────────────────────────────────────────────
 
-top_n: 10
+top_n: 20
 summary_chars: 220
 
 feeds:
@@ -32,10 +32,6 @@ feeds:
   - name: GeekNews
     url: https://news.hada.io/rss/news
     site: https://news.hada.io
-
-  - name: Simon Willison's Weblog
-    url: https://simonwillison.net/atom/everything/
-    site: https://simonwillison.net
 
   - name: AI타임스 - 전체기사
     url: https://www.aitimes.com/rss/allArticle.xml
