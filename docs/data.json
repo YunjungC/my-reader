@@ -1,5 +1,5 @@
 {
- "generated_at": 1794922423,
+ "generated_at": 1794954459,
  "top_n": 20,
  "feeds": [
   {
@@ -9,12 +9,148 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "c133aa0b94f77315",
+     "title": "[예산으로 읽는 미래, 예지력] 프론티어 AI 프로젝트 - 정책브리핑",
+     "link": "https://www.korea.kr/news/policyFocusView.do?pkgId=49500845&newsId=148975762&pWise=main&pWiseMain=F3",
+     "summary": "Q. AI 가 바꾸는 대한민국의 미래, 정부 는 어떻게 준비할까요? A. 단순한 챗봇을 넘어, 스스로 생각하고 창작하는 '프론티어급 AI '의 시대가 다가오고 있습니다.",
+     "source": "",
+     "ts": 1794951816
+    },
+    {
+     "id": "4a9aadf858f90c6d",
+     "title": "“나이가 있어서 어렵다” AI 커닝 불안감 더 키우는 정부 [사설] - 문화일보",
+     "link": "https://www.munhwa.com/article/11631928",
+     "summary": "대학 수학능력시험에 인공지능 ( AI ) 등 첨단기술을 사용한 부정행위가 있을 것이라는 경고는 오래 전부터 구체적으로 제기됐다. 심지어 교육부도 심각성을 ...",
+     "source": "",
+     "ts": 1794935792
+    },
+    {
+     "id": "c68e29a1b5a4c60c",
+     "title": "정부 ' AI 악용 수능 대책' “단추 구멍 막아라”…1교시 전 안경 전수검사 | KBS 뉴스",
+     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715367",
+     "summary": "[앵커] 모레(19일) 수능시험장에서 수험생들은 옷의 단춧구멍을 모두 스티커로 가려야 합니다. 또 안경을 ...",
+     "source": "",
+     "ts": 1794933495
+    },
+    {
+     "id": "0270d44373fc6576",
+     "title": "K-뷰티, 고부가가치 신서비스 산업으로 확장··· 메디컬 뷰티 글로벌 경쟁력강화 - Naver Blog",
+     "link": "https://blog.naver.com/PostView.naver?blogId=mcst_pr&logNo=224480843802&redirect=Dlog",
+     "summary": "외국인들의 K-뷰티 서비스 소비가 확대되는 가운데 정부 가 ' AI ·융복합 K-뷰티 서비스 지원방안'을 발표했습니다. 기존 화장품 제조 중심에서 벗어나 인공지능 ( AI ) ...",
+     "source": "",
+     "ts": 1794930977
+    },
+    {
+     "id": "4bb532848950066a",
+     "title": "오픈 AI , AMD 손잡고 AI 인프라 다변화···美, 제3국 통한 中 반도체 접근 차단 - 헬로디디",
+     "link": "https://www.hellodd.com/news/articleView.html?idxno=113897",
+     "summary": "... 오픈 AI 는 AI 인프라를 추가확보하며 인프라 다변화에 나서고 미국 정부 는 ... 글로벌 인공지능 ( AI ) 반도체와 컴퓨팅 인프라 시장에서 기업들의 대규모 ...",
+     "source": "",
+     "ts": 1794930954
+    },
+    {
+     "id": "df2ccb2593b572a9",
+     "title": "워시 \" AI 영향 시나리오 마련 중\"…단기 통화 정책 힌트는 없어(상보) - 연합인포맥스",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445046",
+     "summary": "(뉴욕=연합인포맥스) 최진우 특파원 = 케빈 워시 미국 연방준비제도(연준·Fed) 의장은 16일(현지시간) 실무진이 인공지능 ( AI )의 경제적 영향과 관련해 ...",
+     "source": "",
+     "ts": 1794929549
+    },
+    {
+     "id": "8c6c6fe6727c63bd",
+     "title": "과기정통부 , AI 시대 최적화된 '국가지식정보' 고도화 추진 - 전자신문",
+     "link": "https://www.etnews.com/20261117000458",
+     "summary": "이번 세미나는 ' AI 시대, 지속 가능한 지식 생태계를 위한 국가 전략'을 주제로, 인공지능 ( AI ) 기술 발전에 따른 국가지식정보의 역할 변화와 새로운 정책 방향 ...",
+     "source": "",
+     "ts": 1794928422
+    },
+    {
+     "id": "79dd28f36ca563ef",
+     "title": "\" 정부 수능 AI 커닝 차단 정책 , 소 잃고 외양간도 못 고칠 판\" < 행정/외교 < 정치 < 기사본문 - 경상일보",
+     "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072829",
+     "summary": "대학수학능력시험(19일)을 이틀 앞두고 정부 와 여당이 인공지능 ( AI )을 악용한 부정행위 차단 대책을 잇달아 내놓자, 국민의힘 등 보수 야권이 정부 의 늑장 ...",
+     "source": "",
+     "ts": 1794928265
+    },
+    {
+     "id": "be4c0fb21970a62b",
+     "title": "\" AI 쓴다고 다 R&D 아니다\" … AI 재정사업, '이름' 아닌 '실질'로 R&D 가려야 - 대학지성 In&Out",
+     "link": "https://www.unipress.co.kr/news/articleView.html?idxno=15636",
+     "summary": "OECD 보완지침 반영한 판별기준 명문화 등 4대 정책 방향 제시. 정부 가 인공지능 ( AI ) 관련 사업에 투입하는 예산이 늘어나는 가운데, 단순히 AI 를 활용한다는 ...",
+     "source": "",
+     "ts": 1794928189
+    },
+    {
+     "id": "d89b63e2090ad0e1",
+     "title": "이재명 대통령 주재 '대학수학능력시험 비상 점검회의' 관련 강유정 수석 대변인 서면 브리핑 - 청와대",
+     "link": "https://www.president.go.kr/briefings/LjxIVdhs",
+     "summary": "... 정부 부처 관계자들이 참석했습니다. 이 대통령은 모두 발언을 통해 “최근 인공지능 과 초소형 첨단 기기를 활용한 부정행위가 확인되면서 사회적으로 큰 ...",
+     "source": "",
+     "ts": 1794927955
+    },
+    {
+     "id": "2352aafefe5bc4f7",
+     "title": "IMF, 韓 성장률 3.9%로 대폭 상향…'반도체가 다 했다' - MTN 뉴스",
+     "link": "https://news.mtn.co.kr/article/2026111715552919606",
+     "summary": "인공지능 ( AI ) 투자 확대에 따른 훈풍이 성장에 온기 ... 지난 3일 방한해 우리나라의 거시경제 상황과 정부 정책 을 점검한 국제통화기금(IMF) 한국 협의단.",
+     "source": "",
+     "ts": 1794926863
+    },
+    {
+     "id": "0bb90b52bc8c65a9",
+     "title": "[기자노트] 정부 정책 에 희생되는 과천, 시민의 목소리는 들리지 않는가 - 경기일보",
+     "link": "https://www.kyeonggi.com/article/20261117580426",
+     "summary": "과천은 대한민국을 대표하는 행정도시다. 정부 과천청사를 중심으로 형성된 도시 정체성은 과천의 자부심이자 지역경제를 지탱해 온 중요한 기반이었다.",
+     "source": "",
+     "ts": 1794925658
+    },
+    {
+     "id": "58671ba99d0bae92",
+     "title": "과기정통부 , AI 시대 국가지식정보 활용 혁신 방안 논의",
+     "link": "https://eiec.kdi.re.kr/policy/callDownload.do?num=289694&filenum=1&dtime=20261117170007",
+     "summary": "... 정책 과제와 향후 추진 방향에 대해. 의견을 나누었다. 과기정통부 엄열 인공지능정책 실장은 “ AI 가 스스로 판단하고 업무를 수행하는. 에이전트 시대로 나아가 ...",
+     "source": "",
+     "ts": 1794925108
+    },
+    {
+     "id": "bec1cf5482b0057f",
+     "title": "' AI 커닝 파문' 국가 AI정책 허점…산업진흥 외치다 위험엔 '뒷북' - 미디어오늘",
+     "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338521",
+     "summary": "세무사 시험 수석합격자가 인공지능 ( AI )과 전자기기를 활용한 부정행위를 실토하면서, 정부 가 이틀 앞으로 다가온 2027학년도 대학수학능력시험 감독 대책을 ...",
+     "source": "",
+     "ts": 1794924222
+    },
+    {
+     "id": "1af080f5bbf12611",
+     "title": "AI 커닝 수법·구매처 SNS 확산… 정부 , 부정행위 조장 정보 유통에 강력 대응키로",
+     "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89658",
+     "summary": "[인더스트리뉴스 한원석 기자] 초소형 카메라와 이어폰을 이용한 인공지능 ( AI ) 시험 부정행위 수법과 장비 구매처가 온라인에 확산되면서 정부 가 관련 정보 ...",
+     "source": "",
+     "ts": 1794923788
+    },
+    {
+     "id": "062cf0bd3be35fe5",
+     "title": "“데이터센터 환경정보 공개해야”... 한국 '안탈리아 AI 서약' 동참 - 더버터",
+     "link": "https://www.thebutter.org/news/articleView.html?idxno=3444",
+     "summary": "... 정부 가 인공지능 ( AI ) 데이터센터의 전력·물 사용 등 환경 부담 ... 국내 시민사회 단체들은 이번 서약을 데이터센터 확충 정책 에 환경적 책임을 반영하는 계기로 ...",
+     "source": "",
+     "ts": 1794921397
+    },
+    {
      "id": "1fc54cb9c849e74d",
      "title": "'글로벌 AI 허브' 도전 대전시…“과학도시 역량 총결집” - KBS 뉴스",
      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714589",
      "summary": "[앵커] 정부 가 국제기구와 손잡고 국내 구축을 추진 중인 글로벌 AI 허브 유치에 대전시가 도전장을 냈습니...",
      "source": "",
      "ts": 1794921263
+    },
+    {
+     "id": "46ab00d5ec3176f6",
+     "title": "AI 커닝 막겠다더니 … 정부 \"안경 전수검사, 단추 스티커 부착\" - 뉴데일리",
+     "link": "https://www.newdaily.co.kr/site/data/html/2026/11/17/2026111750249.html",
+     "summary": "정부 가 오는 19일 열리는 대학수학능력시험을 앞두고 인공지능 ( AI )과 스마트 기기를 활용한 부정행위에 대응하기 위한 대책을 발표했다.",
+     "source": "",
+     "ts": 1794920873
     },
     {
      "id": "de2340735fe17522",
@@ -25,152 +161,16 @@
      "ts": 1794920473
     },
     {
-     "id": "028a6f219fe631b0",
-     "title": "젠슨 황이 들춰보인 트럼프 정부 의 '민낯', 구멍 뚫린 반도체 정책 [워싱턴나우+] - 한국경제",
-     "link": "https://www.hankyung.com/article/202611170797i",
-     "summary": "Google 검색에서 한국경제 기사를 더 자주 볼 수 있습니다. AI 기사요약. 젠슨 황 전 엔비디아 CEO의 스캔들이 대중 반도체 우회 수출 및 상무부 내 비호 의혹 ...",
+     "id": "2cd4eb41fe4bc5e5",
+     "title": "정부 , 미국 주도 AI 샌프란시스코 선언 서명 - 아틀라스뉴스",
+     "link": "http://www.atlasnews.co.kr/news/articleView.html?idxno=12463",
+     "summary": "... 김진아 외교부 2차관(수석대표)과 이진수 과학기술정보통신부 인공지능정책 기획관이 참여했다.팍스실리카는 미국 주도로 반도체, 인공지능 ( AI ), 핵.",
      "source": "",
-     "ts": 1794916451
-    },
-    {
-     "id": "4026afd10b4de9e0",
-     "title": "과기정통부 , 인공지능 시대 국가지식정보 활용 혁신 방안 논의 - 누리일보",
-     "link": "https://nuriilbo.com/mobile/article.html?no=944389",
-     "summary": "이번 세미나는 ' AI 시대, 지속 가능한 지식 생태계를 위한 국가 전략'을 주제로, AI 기술 발전에 따른 국가지식정보의 역할 변화와 새로운 정책 방향을 논의하고 ...",
-     "source": "",
-     "ts": 1794914622
-    },
-    {
-     "id": "a6a7524142899cc3",
-     "title": "수능 D-2, 공정성 신뢰 위기…첨단 AI 커닝에 정부 대응은 20년 전 방식 그대로 - 조달경제신문",
-     "link": "https://www.jodaleconomy.com/news/articleView.html?idxno=3584",
-     "summary": "... 이틀 앞두고도 정부 는 AI 스마트안경 같은 첨단 디지털 커닝을 시험장에서 가려낼 장비를 갖추지 못했다 ... 포커스 조달 레이더 정책 /산업 기업/기술 글로벌 ...",
-     "source": "",
-     "ts": 1794913937
-    },
-    {
-     "id": "844b31ee0538628d",
-     "title": "예고된 ' AI 부정행위'…수능 코앞에 두고 정부 대책 우왕좌왕 - 연합뉴스",
-     "link": "https://www.yna.co.kr/view/AKR20261117073100530",
-     "summary": "... 노재현 기자 = 2027학년도 대학수학능력시험(수능)이 이틀 앞으로 다가온 가운데 인공지능 ... 이날 오후 하준경 청와대 정책 실장은 ' AI 활용 부정시험 확산 방지 ...",
-     "source": "",
-     "ts": 1794908230
-    },
-    {
-     "id": "47b64c4c00b9b8bf",
-     "title": "\"수능 연기 없다“ 1교시 전 안경 전수검사… 정부 ' AI 부정행위' 원천차단 - 글로벌이코노믹",
-     "link": "https://www.g-enews.com/article/General-News/2026/11/20261117182348873e207547429_1",
-     "summary": "인공지능 ( AI )과 스마트안경, 초소형 카메라 등 첨단 기기를 악용한 부정 ... 정부 가 2027학년도 대학수학능력시험(수능) 연기론까지 검토했지만 시험 일정 을 예정",
-     "source": "",
-     "ts": 1794908204
-    },
-    {
-     "id": "34c9fb7dd7e9fc2a",
-     "title": "김영도 전문대교협 회장도 “수능 부정행위자 원적 대학 퇴학… 정부 엄정 대응 동의”",
-     "link": "https://news.unn.net/news/articleView.html?idxno=600812",
-     "summary": "김영도 회장은 “ 인공지능 ( AI )과 초소형 카메라 등 첨단기기를 악용한 부정 ... 교육 정책정부 “수능 부정행위 무관용”… '응시제한 1년→10년' '입학 ...",
-     "source": "",
-     "ts": 1794907525
-    },
-    {
-     "id": "19cbaf3ffc55fed7",
-     "title": "[중국증시-마감] 美 AI 반도체 규제 여파 속 하락 - 연합인포맥스",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445206",
-     "summary": "... 정책 과 AI 등 주요 현안을 논의할 예정이다. 한편, 미국 정부 는 중국으로 엔비디아 반도체를 밀반출한 의혹을 받고 있는 싱가포르 데이터센터기업 메가 ...",
-     "source": "",
-     "ts": 1794907192
-    },
-    {
-     "id": "961141e355f84014",
-     "title": "정부 , 수능 스마트안경· AI 부정행위 전면 차단…감독인력 8400명 추가 배치 - 인공지능신문",
-     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42765",
-     "summary": "정부 가 2027학년도 대학수학능력시험을 앞두고 스마트안경과 초소형 카메라, 인공지능 ( AI ) 등 첨단 기술을 악용한 부정행위를 차단하기 위해 시험장 감독을 ...",
-     "source": "",
-     "ts": 1794906432
-    },
-    {
-     "id": "5dd55a3aca2843e5",
-     "title": "앞에선 녹색 AI 약속, 뒤에선 규제 완화? 두 얼굴의 한국 - 뉴스펭귄",
-     "link": "https://www.newspenguin.com/news/articleViewAmp.html?idxno=22455",
-     "summary": "환경 책임을 약속한 정부 가 국내 데이터센터 확대 정책 에도 이를 반영하고 있는지 의문이 제기된다. 한국의 AI 데이터센터 산업 ...",
-     "source": "",
-     "ts": 1794906343
-    },
-    {
-     "id": "a405826e240bbc40",
-     "title": "“韓경제 이렇게 잘 나갈 줄은”… 정부 에 돈 풀라던 IMF, 이젠 과열 경고",
-     "link": "https://www.mk.co.kr/news/economy/12211508",
-     "summary": "국제통화기금(IMF)이 인공지능 ( AI ) 호황과 반도체 수출이 한국 경제를 이끌고 있다며 올해와 내년 성장률 전망치를 대폭 높였다. 다만 반도체 호황으로 경기 ...",
-     "source": "",
-     "ts": 1794905946
-    },
-    {
-     "id": "497b3db9d3a915ff",
-     "title": "대통령부터 총리·부처까지 총력… 정부 , AI 수능·국가고시 부정행위 '비상' - 조세금융신문",
-     "link": "https://www.tfmedia.co.kr/news/article.html?no=208967",
-     "summary": "(조세금융신문=안종명 기자) 최근 인공지능 ( AI )과 첨단 통신 기기를 악용한 부정행위가 국가 자격시험에서 드러나면서, 대통령까지 나서 수능을 비롯한 국가 ...",
-     "source": "",
-     "ts": 1794905857
-    },
-    {
-     "id": "46beab9efecadf5d",
-     "title": "전북도, 자체 개발 생성형 '전북형 AI ' 정부 혁신 박람회서 선보인다 - 목포타임즈",
-     "link": "https://mokpotimes.com/news/articleView.html?idxno=177870",
-     "summary": "... 정부 혁신 박람회'에 참가해 자체 개발한 생성형 인공지능 ( AI )인 '전북 AI '를 선보인다고 17일 밝혔다 ... 정부 혁신 정책 과 우수사례를 공유하는 행사다 ...",
-     "source": "",
-     "ts": 1794904317
-    },
-    {
-     "id": "27a8ae69de7c7bb6",
-     "title": "AI 부정행위 사태에 수능 연기 요청 빗발… 정부 ·전문가 “현실성 낮아” | - 투데이신문",
-     "link": "https://www.ntoday.co.kr/news/articleViewAmp.html?idxno=130926",
-     "summary": "【투데이신문 권신영 기자】2027학년도 대학수학능력시험을 이틀 앞두고 인공지능 ... 일정 의 혼란을 고려하면 예정대로 시험을 치르는 것이 현실적이라는 ...",
-     "source": "",
-     "ts": 1794904271
-    },
-    {
-     "id": "bee1fc129073966c",
-     "title": "[속보] 정부 “수능 때 단추에 스티커 붙이고, 재난문자로 전화기 적발 - 이코노미스트",
-     "link": "https://economist.co.kr/article/view/ecn202611170065",
-     "summary": "... c이코노미스트(https://economist.co.kr) '내일을 위한 경제뉴스 이코노미스트' 무단 전재 및 재배포 금지. 로켓배송 상품, 오늘주문! 내일도착!",
-     "source": "",
-     "ts": 1794904241
-    },
-    {
-     "id": "a8c2df2a9f62888c",
-     "title": "AI 부정행위 사태에 수능 연기 요청 빗발… 정부 ·전문가 “현실성 낮아” - 투데이신문",
-     "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=130926",
-     "summary": "【투데이신문 권신영 기자】2027학년도 대학수학능력시험을 이틀 앞두고 인공지능 ( AI ) 기술을 활용한 부정행위 우려가 확산하면서 시험 연기를 요구하는 ...",
-     "source": "",
-     "ts": 1794903700
-    },
-    {
-     "id": "227ea3d7e039305a",
-     "title": "[포스코포럼] “송전탑용 강관 정부 정책 에 맞춰 수요 증가” - 철강금속신문",
-     "link": "https://www.snmnews.com/news/articleView.html?idxno=577571",
-     "summary": "... AI 데이터센터 증설과 반도체 클러스터 조성 등 아주 큰 산업적 변환기를 맞이하고 있는 가운데 전력 수요도 대폭 증가하게 되는데 정부 에서는 국가기관 전력.",
-     "source": "",
-     "ts": 1794903370
-    },
-    {
-     "id": "0bcd3c81becc2d92",
-     "title": "과기정통부 , 인공지능 시대 국가지식정보 활용 혁신 방안 논의 - 뉴스파이어",
-     "link": "https://www.newsfire.co.kr/news/articleView.html?idxno=2000958",
-     "summary": "이번 세미나는 ' AI 시대, 지속 가능한 지식 생태계를 위한 국가 전략'을 주제로 AI 기술 발전에 따른 국가지식정보의 역할 변화와 새로운 정책 방향을 논의하고 ...",
-     "source": "",
-     "ts": 1794903113
-    },
-    {
-     "id": "ce80646b422f262e",
-     "title": "AI 기술패권 경쟁 속 한국 산업 대전환…초격차 전략 찾는다 - 동아경제",
-     "link": "https://m.daenews.co.kr/27025",
-     "summary": "이어지는 정책 발표 세션에서는 박태현 산업통상부 산업 인공지능 정책관이 정부 의 산업 AI 정책 추진 방향에 대해 발표를 진행한다. 주제발표 세션에서는 국내 ...",
-     "source": "",
-     "ts": 1794902145
+     "ts": 1794917278
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "cf53c0f1af",
@@ -340,7 +340,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "25ac01331a",
@@ -348,6 +348,94 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "8082b8e3489a250e",
+     "title": "FAA pauses tech upgrade linked to nationwide ground stop",
+     "link": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
+     "summary": "The Federal Aviation Administration is halting the installation of new routers following Friday's nearly five-hour nationwide ground stop , the agency confirmed to Axios Tuesday. Why it matters: The technology rollout i…",
+     "source": "",
+     "ts": 1794950179
+    },
+    {
+     "id": "7cd52d71e1a92af0",
+     "title": "Why the world's biggest climate meeting (still) matters",
+     "link": "https://www.axios.com/2026/11/17/un-climate-conference-negotiations-energy",
+     "summary": "Every year, tens of thousands of people gather to discuss nothing short of humanity's future on a hotter planet. Yet the world seems increasingly distracted by just about everything else. Why it matters: For all of thei…",
+     "source": "",
+     "ts": 1794949206
+    },
+    {
+     "id": "79c92c5d8e8b9c30",
+     "title": "Why the internet suddenly broke all at once",
+     "link": "https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking",
+     "summary": "Americans were locked out of bank accounts, blocked from boarding flights and unable to check emails in rapid succession over the past week. Why it matters: The internet immediately pointed fingers toward an AI agent do…",
+     "source": "",
+     "ts": 1794948592
+    },
+    {
+     "id": "5df7d8f5f45d7774",
+     "title": "What is a dirty bomb and how dangerous is the weapon",
+     "link": "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon",
+     "summary": "President Trump warned Iran against orchestrating a \"dirty bomb\" attack in Washington, D.C., though the White House says there are no credible threats. The big picture: Unlike a nuclear weapon, a \"dirty bomb\" uses commo…",
+     "source": "",
+     "ts": 1794943855
+    },
+    {
+     "id": "1b11b29c4d2e966f",
+     "title": "Scammers are sending fake emails to people worried about Nvidia's stock",
+     "link": "https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails",
+     "summary": "Scammers are already exploiting the scandal surrounding Nvidia to lure unsuspecting investors and business professionals into downloading malware. Why it matters: AI is making it easier for criminals to capitalize on th…",
+     "source": "",
+     "ts": 1794942472
+    },
+    {
+     "id": "5d47aab2d4b87b6e",
+     "title": "Jensen Huang agrees to face Congress over Nvidia scandal",
+     "link": "https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates",
+     "summary": "Jensen Huang and Nvidia general counsel Tim Teter will officially testify before Congress in early December, lawmakers announced Tuesday. Why it matters: Lawmakers want answers on whether Nvidia's powerful AI chips were…",
+     "source": "",
+     "ts": 1794935446
+    },
+    {
+     "id": "70054ab4672706c2",
+     "title": "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO",
+     "link": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-return-earnings",
+     "summary": "Jensen Huang acknowledged in a statement to the Wall Street Journal that he'd be willing to return to Nvidia as CEO. Why it matters: A push to reinstate Huang began almost as soon as he exited the company, but Nvidia's…",
+     "source": "",
+     "ts": 1794935201
+    },
+    {
+     "id": "af8ebd3cedf11692",
+     "title": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+     "link": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+     "summary": "Just maybe, both the extreme techno-optimists and AI doom-and-gloomers are wrong about the economic impact of the technology. That's the argument that venture capitalist Marc Andreessen — who is co-leading a Federal Res…",
+     "source": "",
+     "ts": 1794934813
+    },
+    {
+     "id": "dd86484486845238",
+     "title": "Hakeem Jeffries shifts tactics ahead of House Democrats' internal speaker vote",
+     "link": "https://www.axios.com/2026/11/17/hakeem-jeffries-speaker-vote-house-democrats",
+     "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) plans to force his members to take a tallied vote this week on whether to nominate him as speaker of the House, according to two sources familiar with the matter. Why it ma…",
+     "source": "",
+     "ts": 1794926000
+    },
+    {
+     "id": "8402278f32eb9f02",
+     "title": "Nvidia's earnings mark start of post-Jensen era",
+     "link": "https://www.axios.com/2026/11/17/nvidia-earnings-report-ceo-transition",
+     "summary": "Data: FactSet; Chart: Matt Phillips/Axios Nvidia's post-Jensen Huang era begins in earnest with the release of its third-quarter results after the close of trading Tuesday. Why it matters: Investors and analysts will be…",
+     "source": "",
+     "ts": 1794918006
+    },
+    {
+     "id": "b16d704e72abfd3d",
+     "title": "U.S. gets another D+ on premature births",
+     "link": "https://www.axios.com/2026/11/17/premature-birth-rate-us-high-low",
+     "summary": "Data: National Center for Health Statistics via March of Dimes; Map: Carly Mallenbaum/Axios The U.S. earned a D+ for its preterm birth rate yet again , according to the latest March of Dimes report card . Why it matters…",
+     "source": "",
+     "ts": 1794913207
+    },
     {
      "id": "93bdc8eb0df6e1c4",
      "title": "Behind the Curtain: If competence were cool",
@@ -419,98 +507,10 @@
      "summary": "United Airlines said Monday that it resolved what it called a \"widespread system outage\" that delayed departing flights for about 90 minutes. Why it matters: It was a quick resolution to yet another issue affecting the…",
      "source": "",
      "ts": 1794872505
-    },
-    {
-     "id": "12fb50528067520d",
-     "title": "Fewer international students, billions at stake",
-     "link": "https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets",
-     "summary": "Fewer international students are enrolling at American universities, costing the American economy billions of dollars and hurting college towns. Why it matters: International students typically pay higher tuition than t…",
-     "source": "",
-     "ts": 1794864963
-    },
-    {
-     "id": "a2e513e28efacd9c",
-     "title": "What we know about what caused the FAA's nationwide ground stop",
-     "link": "https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons",
-     "summary": "A newly installed router is at the center of the investigation into the Federal Aviation Administration's nationwide ground stop last Friday, which disrupted thousands of flights nationwide. Why it matters: The technica…",
-     "source": "",
-     "ts": 1794857404
-    },
-    {
-     "id": "48b8ccc2d0a0aa26",
-     "title": "SCOTUS gives DEI a boost after national assault",
-     "link": "https://www.axios.com/2026/11/16/supreme-court-diversity-equity-inclusion-grants",
-     "summary": "The Supreme Court on Monday declined to hear three conservative appeals tied to battles over diversity, equity and inclusion , leaving lower-court rulings intact in disputes over federal research grants, medical trainin…",
-     "source": "",
-     "ts": 1794856637
-    },
-    {
-     "id": "d34477c2e8234c12",
-     "title": "Exclusive: White House requires signoff before staffers testify to Congress",
-     "link": "https://www.axios.com/2026/11/16/exclusive-white-house-requires-signoff-before-agency-staffers-testify-to-congress",
-     "summary": "The White House counsel has instructed all executive branch agencies to get permission from their chief legal counsel and legislative affairs offices before allowing any employee to testify before Congress, according to…",
-     "source": "",
-     "ts": 1794848406
-    },
-    {
-     "id": "b1ba0716124b5192",
-     "title": "U.S. attorney targets another Democrat over congressional investigtions",
-     "link": "https://www.axios.com/2026/11/16/warren-us-attorney-investigations-threat",
-     "summary": "A U.S. attorney put likely incoming Senate Banking Committee Chair Sen. Elizabeth Warren (D-Mass.) on notice about her intent to investigate corporations and expected probes into the president's inner circle. Why it mat…",
-     "source": "",
-     "ts": 1794843202
-    },
-    {
-     "id": "20e054884d0ef974",
-     "title": "Average diesel prices are under $6 per gallon for the first time in months",
-     "link": "https://www.axios.com/2026/11/16/diesel-dips-below-6-per-gallon",
-     "summary": "Data: AAA; Chart: Ben Geman/Axios Average U.S. diesel prices inched below $6 per gallon on Monday for the first time since Sept. 10 amid lower oil prices recently, per AAA data. Why it matters: Diesel soared even more t…",
-     "source": "",
-     "ts": 1794835575
-    },
-    {
-     "id": "eedd9d202c15520d",
-     "title": "Employer health cost crunch is worse than projected",
-     "link": "https://www.axios.com/2026/11/16/employer-health-insurance-rising-costs-survey",
-     "summary": "There's new evidence that double-digit health cost increases were hitting employers well before the forecasts of big spikes for 2027 — forcing big changes in workplace coverage for millions of Americans. Why it matters:…",
-     "source": "",
-     "ts": 1794825008
-    },
-    {
-     "id": "86bc2f4feb597a60",
-     "title": "The chain-reaction era: Constant shock and awe",
-     "link": "https://www.axios.com/2026/11/16/chain-reaction-nvidia-ai-politics-business",
-     "summary": "It was random, but related, that we were hit with a tectonic election result, an epic AI-and-spy scandal , and the dramatic FAA shutdown in just over one week. This is our new reality: constant shock and awe, igniting c…",
-     "source": "",
-     "ts": 1794824572
-    },
-    {
-     "id": "ac5edfad20650d25",
-     "title": "Why Democrats may want to make Trump look good",
-     "link": "https://www.axios.com/2026/11/16/democrats-trump-midterms-work-together",
-     "summary": "DENVER — Democrats' euphoria over their once-in-a-generation wave of midterm victories is giving way to a reality check: They were lucky to have a weakened opposition. And they might be \"renting\" this year's voters if t…",
-     "source": "",
-     "ts": 1794824410
-    },
-    {
-     "id": "2fddce45a911ef1e",
-     "title": "\"No sane person questions whether AI works\" — but an AI bubble appears ready to pop.",
-     "link": "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble",
-     "summary": "The downfall of Nvidia CEO Jensen Huang adds an explosive new risk to an already-strained AI boom, threatening to burst a financial bubble even if the technology ultimately succeeds. Why it matters: History shows that w…",
-     "source": "",
-     "ts": 1794824108
-    },
-    {
-     "id": "a726d63704714968",
-     "title": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech",
-     "link": "https://www.axios.com/2026/11/16/maga-jensen-huang-chinese-spy-scandal-trump",
-     "summary": "Prominent conservative thinkers and MAGA figures are seizing on former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy to pull President Trump away from his alliance with the tech right. Why it matters: The…",
-     "source": "",
-     "ts": 1794823209
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "cc992ff5f1",
@@ -519,168 +519,168 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "cde2ff82243b30fd",
-     "title": "Show GN: 자랑터 - 내가 만든 게임, 서비스를 올리면 AI가 인스타 카드뉴스로 소개해 주는 플랫폼",
-     "link": "https://news.hada.io/topic?id=37343&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "자랑터는 인디 개발자가 만든 게임/서비스/프로그램을 올리고, 다른 메이커의 작품을 구경하는 플랫폼 입니다. 혼자 기획하고 개발하여 운영하고 있습니다. 그 동안 사이드 프로젝트로 서비스를 만들어도 보여줄 곳이 마땅치 않았습니다. 개발 커뮤니티에 올리면 금방 묻혀서, 사용자 반응을 얻기 어려웠습니다. 그래서 개인이 만든 것들을 전시하는 공간을 만들고, 밖에서도 알려지도록 인스타그램 홍보까지 붙…",
+     "id": "8b594bd99e0a84e8",
+     "title": "허점은 못된 놈들이나 이용하는 것",
+     "link": "https://news.hada.io/topic?id=37369&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "단속받지 않더라도 해서는 안 되는 행동 은 있음. 상점 입구 앞 인도에 주차해도 아무도 제지하지 않는다는 조언이 그 사례임 어린 시절에는 그런 조언을 하는 어른이 천재처럼 보였지만 , 성장한 뒤 돌아보니 영리한 사람이 아니라 못된 사람이었음 세계관을 평가하는 간단한 기준은 모두가 그 세계관을 따른다면 어떻게 될지 생각하는 것임 모두가 Walmart 출입문 앞에 주차할 수는 없으므로, 누구도…",
      "source": "",
-     "ts": 1794914604
+     "ts": 1794951845
     },
     {
-     "id": "a5f18c699ac87a67",
-     "title": "3dfx 1 카드는 왜 색이 그렇게 물 빠진 듯 보였을까?",
-     "link": "https://news.hada.io/topic?id=37342&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "3DFX의 선형에 가까운 출력 과 일반적인 비선형 디스플레이에서 제작한 텍스처의 불일치가 특유의 물 빠진 듯한 색을 만들었음 NeXT와 3DFX는 색 공간을 올바르게 처리하려는 의도 로 동시대 제품보다 선형에 가까운 출력을 택했지만, 대체로 경쟁 제품보다 보기 좋지 않은 결과를 냈음 선형 출력은 충분한 색 정밀도가 있을 때 적합하지만, 채널당 4~6비트 였던 이들 시스템에서는 어두운 색의…",
+     "id": "7856d6de5be6fde7",
+     "title": "MAI Code 2와 Code 2 Flash - 일상적인 기업 코딩의 가격 대비 성능에 초점을 맞춘 모델",
+     "link": "https://news.hada.io/topic?id=37368&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Microsoft AI가 MAI Code 2와 Code 2 Flash 를 공개함. Code 2는 심층 디버깅과 여러 파일에 걸친 구현에, Flash는 코드 설명과 간단한 수정 등 대량 반복 작업에 초점을 둠 Microsoft 평가에서 Code 2 는 4개 코딩 벤치마크 평균으로 GPT-6.1 Sol 성능의 98%를 비용 40%로 제공함. 비용 계산에는 50% 프로모션 가격 이 적용됨 Cod…",
      "source": "",
-     "ts": 1794911556
+     "ts": 1794951665
     },
     {
-     "id": "965ea6d0255544f1",
-     "title": "Janet Reno가 말하던 사람은 내 친구 Coolio(컴퓨터 범죄자)였다",
-     "link": "https://news.hada.io/topic?id=37341&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Michael Bacarella는 2000년 2월 Yahoo, buy.com, eBay 등의 DDoS 공격 을 당시 17세였던 IRC 친구 Dennis “Coolio” Moran이 실행하는 모습을 지켜봤다고 회고함 Bacarella에 따르면 Dennis는 두 사람이 함께 만든 BIND 취약점 개념 증명(PoC) 을 서버 침입과 봇넷 구축에 사용했고, 이후 사이트를 마비시키고 돈을 요구하려…",
+     "id": "ce0aebb05246160c",
+     "title": "Nvidia, 싱가포르 매출 1,040억 달러에 달하던 시기에 해당 지역 매출 공개 중단",
+     "link": "https://news.hada.io/topic?id=37367&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Nvidia는 지역별 매출 집계 기준을 고객의 청구지 주소에서 본사 소재지로 변경 하면서 싱가포르 매출을 별도로 공개하지 않게 됨 FT가 확인한 법인 회계자료에 따르면, 2025년 싱가포르 법인을 통해 기록한 매출은 1,040억 달러 로 12개월간 72% 증가했으며 전 세계 매출의 거의 절반을 차지함 싱가포르 법인은 전 세계 고객을 상대하는 글로벌 허브 이며, 이 법인을 통해 판매한 칩 가…",
      "source": "",
-     "ts": 1794909814
+     "ts": 1794951485
     },
     {
-     "id": "3af2db78321a8967",
-     "title": "Show GN: GRID 라이브러리 - HTML 태그로 디자인하는 100만 행 초고속 가상화 그리드 오픈소스입니다.",
-     "link": "https://news.hada.io/topic?id=37340&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "안녕하세요. 그리드 라이브러리 소개입니다. 자바스크립트 객체나 복잡한 설정 코드 대신, 익숙한 HTML 태그(<table>, <tr>, <td>)로 테이블 구조를 그대로 마크업하면 내부 엔진이 자동으로 고성능 가상화 그리드로 변환해 줍니다. DOM 가상화 기술을 통해 100만 행 이상의 대용량 데이터도 지연 없이 부드럽게 렌더링되며, Shadow DOM을 통한 완벽한 스타일 격리(Zero…",
+     "id": "e5a6e8af49e31871",
+     "title": "가중치 약 7GB LLM, \"26학년도 수능 표점 400점 초과 달성",
+     "link": "https://news.hada.io/topic?id=37366&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "플래그십 휴대전화 메모리에 오프로딩 될 용량의 오프라인 모델로 2026학년도 수능을 풀어보았더니 7.16GB Gemma 4 12B Q4가 원점수 총합 399.2, 8.6GB Ternary Bonsai 2-27B가 385.2로 메디컬 합격선을 보였습니다. 각각 자연형 기준 표준점수는 Reasoning 기준 405점 / 407점을 기록하였습니다. 현재 대책인 재난문자와 전파탐지기는 통신기기를…",
      "source": "",
-     "ts": 1794908986
+     "ts": 1794950146
     },
     {
-     "id": "fae7d42cb37abdbb",
-     "title": "AT&T, 허위 광고 소송에서 Comcast의 ‘광섬유 기반 Wi-Fi’는 케이블이라고 주장",
-     "link": "https://news.hada.io/topic?id=37339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AT&T가 Comcast를 허위 광고로 제소 함. Xfinity의 ‘fiber-powered’ 광고가 가정까지 광섬유로 연결되는 서비스라는 오해를 준다는 이유임 Xfinity 인터넷 대부분은 광섬유와 동축 케이블을 결합한 HFC 망 을 사용하며, 가정에 연결되는 마지막 구간은 동축 케이블임 AT&T는 해당 광고의 영구 금지와 광고로 얻은 이익 반환 을 요구함. 문구 자체가 허위가 아니더라도…",
+     "id": "4900b9523385d8c0",
+     "title": "Apple 서비스 장애",
+     "link": "https://news.hada.io/topic?id=37365&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "",
      "source": "",
-     "ts": 1794904455
+     "ts": 1794943910
     },
     {
-     "id": "73dfe065cea3512c",
-     "title": "저작권으로는 이길 수 없다",
-     "link": "https://news.hada.io/topic?id=37337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "기업의 공유 자원 남용 에 맞서 카피레프트를 강화하거나 소프트웨어를 독점화하기보다, 작업의 개성, 기술의 구조, 상호부조에서 대안을 찾아야 함 저작권 집행 은 법적 위협과 변호사, 국가 권력에 의존하므로, 장기적으로 그 기반인 권력과 통제의 논리를 재생산하지 않고 활용하기 어려움 프로젝트에 깊이 배어 있는 개성 은 원치 않는 기업의 활용을 어렵게 할 수 있으며, 기업이 이를 지워도 이후 변…",
+     "id": "30e897744a269884",
+     "title": "고품질 IMAP, 1부: 메일함은 데이터베이스다",
+     "link": "https://news.hada.io/topic?id=37364&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "IMAP 메일함은 단순한 파일 모음보다 전용 질의 언어로 접근하는 데이터베이스 에 가까우며, 서버는 이메일을 저장하는 데 그치지 않고 구조를 파싱하고 검색해야 함 SEARCH와 FETCH 는 조건에 맞는 메시지를 찾고 제목, 첨부파일, 특정 바이트 범위만 선택적으로 가져오게 해, 느리고 불안정한 연결에서도 효율적인 메일 사용을 지원함 Aerogramme는 ImapTest와 Dovecot 비…",
      "source": "",
-     "ts": 1794895374
+     "ts": 1794942198
     },
     {
-     "id": "ef4325876c32ed17",
-     "title": "화학은 사실 기하학이다",
-     "link": "https://news.hada.io/topic?id=37336&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "화학 반응 네트워크 이론 은 추정하기 어려운 수많은 반응 속도 상수 대신 네트워크 구조와 기하학을 이용해 농도 변화와 평형의 성질을 판단함 화학종을 좌표축으로, 반응을 벡터로 표현하면 농도 궤적이 움직일 수 있는 화학양론적 적합류 를 구할 수 있으며, 평형점은 이 영역과 평형점 집합의 교점에 놓임 결핍도 0 정리 는 복합체 수, 연결류 수, 반응 벡터 공간의 차원만으로 특정 조건에서 양의…",
+     "id": "b73ab987e06498a9",
+     "title": "NSA 내부 네트워크 가동 중단",
+     "link": "https://news.hada.io/topic?id=37363&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "CNN에 따르면 미국 국가안보국(NSA)이 내부 통신에 사용하는 고도 기밀 네트워크 의 가동이 중단됨 NSA는 문제의 범위를 파악 중이며, CNN 보도 당시 사이버공격의 증거는 즉각 확인되지 않음 Reuters는 장애 범위와 지속 시간 을 즉시 확인하지 못했으며, NSA도 논평 요청에 바로 응답하지 않음 이번 장애 소식은 미국 항공 교통 차질과 Microsoft 이메일 서비스 중단 등 잇따…",
      "source": "",
-     "ts": 1794890121
+     "ts": 1794941212
     },
     {
-     "id": "a9139a94dbd6a5ee",
-     "title": "OpenCode Browse - 코딩 에이전트가 사용자의 실제 브라우저를 쓰게 하는 도구",
-     "link": "https://news.hada.io/topic?id=37333&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "MCP 서버와 Chromium 확장 프로그램 으로 에이전트가 사용자의 기존 탭, 로그인 상태, 확장 프로그램을 갖춘 실제 브라우저를 이용하게 함 에이전트는 페이지 읽기, 클릭, 입력 을 수행하고 스크린샷, 탭 녹화, 네트워크 트래픽을 캡처할 수 있음 로그인, 2FA, 결제 처럼 사용자 작업이 필요한 단계에서는 탭을 사용자에게 넘기고, 사용자가 Continue 를 클릭하면 작업을 이어감 에이…",
+     "id": "706079e3fcb69883",
+     "title": "모델별로 가장 좋은 하네스는 무엇일까?",
+     "link": "https://news.hada.io/topic?id=37362&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "FrontierHarness Eval v1.1 이 22개 하네스 구성과 5개 모델을 비교한 결과, 비용 대비 성능이 가장 좋은 하네스는 모델마다 달랐음 GLM-5.3과 Codex CLI 조합은 뚜렷한 우위를 보였지만, 나머지 4개 모델에서는 최적 후보와 경쟁 후보 간 결과가 근접함 같은 모델에서도 하네스에 따라 작업당 비용이 1.8~5.0배 차이 났으며, 더 비싼 하네스가 더 높은 통과율을…",
      "source": "",
-     "ts": 1794886425
+     "ts": 1794941032
     },
     {
-     "id": "e9d28af59e663ed8",
-     "title": "Squircles - 정사각형과 원 사이의 곡선, 구현 방식과 연속성 비교",
-     "link": "https://news.hada.io/topic?id=37332&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "스쿼클(squircle) 은 정사각형과 원 사이의 형태로, 하나의 수학적 정의가 아니라 여러 곡선으로 구현할 수 있으며 매개변수에 따라 원과 정사각형 사이에서 달라짐 슈퍼타원(superellipse) 은 대표적인 스쿼클로, 지수에 따라 형태가 바뀌며 서로 다른 변형은 단위 반지름에서 사분면 중점의 좌표인 게이지(gauge) 로 비교할 수 있음 Apple과 Figma의 스쿼클 은 단순한 슈퍼…",
+     "id": "eb56ef66086d72de",
+     "title": "GPT-6.2 Astra와 Sol 출시 - 더 적은 토큰으로 전문 업무와 코딩 성능 개선",
+     "link": "https://news.hada.io/topic?id=37361&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "OpenAI가 고난도 프로젝트용 GPT-6.2 Astra 와 일상 업무용 GPT-6.2 Sol 을 출시함. 두 모델 모두 까다로운 작업에서 출력 토큰을 줄이면서 결과 품질을 높여, 같은 사용 한도 안에서 더 많은 작업을 처리하도록 개선됨 Astra는 전문 업무와 과학 연구 평가에서 최고 성적을 기록함. 다단계 전문 업무 평가인 Agents’ Last Exam에서는 GPT-6 Astra보다…",
      "source": "",
-     "ts": 1794882831
+     "ts": 1794940852
     },
     {
-     "id": "1aac64c6c5d4b24c",
-     "title": "Show GN: Subscale - 여러 Tailscale 계정 중 주소별로 나눠 연결해주는 CLI 도구",
-     "link": "https://news.hada.io/topic?id=37328&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Tailscale 계정을 여러개 등록해 사용하는 경우 동시에 여러 계정을 활성화 할 수 없고 수동으로 스위칭하며 사용해야 하는 문제가 있습니다 제 경우 회사용 계정, 개인 계정을 동시에 사용할 수가 없어 이를 해결하기 위해 Subscale을 만들었습니다 Subscale은 다른 네트워크에 접근해야 할 때 기존 연결을 유지하면서 필요한 주소만 다른 계정으로 접속할 수 있습니다 계정마다 이름을…",
+     "id": "48aa83c9044dd3fe",
+     "title": "Baidu와 Xiaomi CEO, AI 열풍과 수익 간 격차 확대 경고",
+     "link": "https://news.hada.io/topic?id=37360&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Baidu와 Xiaomi의 CEO 가 AI에 대한 막대한 투자가 상업적 수익을 앞지르고 있다며, 실용적인 응용 서비스 개발에 집중할 것을 촉구함 두 경영진은 대규모 자본 지출 과 수익성 있는 AI 도입 사이의 격차가 커지고 있다고 경고함 AI의 가치는 더 강력한 모델이 아니라 실제 활용처 에 달려 있음 Baidu CEO Robin Li Yanhong은 AI 모델에 적합한 고부가가치 응용 분…",
      "source": "",
-     "ts": 1794880048
+     "ts": 1794937491
     },
     {
-     "id": "c2f690dc98405038",
-     "title": "Windows 11, 사용하는 코딩 에이전트와 개발 도구 정보를 수집함",
-     "link": "https://news.hada.io/topic?id=37327&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Windows의 MissionControlAggregator.dll 은 기존 시스템 이벤트에서 코딩 에이전트와 개발 도구 사용 여부를 감지해 로컬에 저장하고 진단 보고서를 생성함 보고서는 개발 도구 범주 12개, CLI 에이전트 4개, 데스크톱 에이전트 5개 의 관찰 여부를 비트맵으로 기록함. 조사한 보고서에서는 프롬프트나 소스 코드가 발견되지 않았음 선택적 진단 데이터 를 허용하면 해당…",
+     "id": "d33065e459a9573c",
+     "title": "Claude Code 팀이 검증을 바라보는 방식",
+     "link": "https://news.hada.io/topic?id=37359&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Claude Code 팀은 코드의 약 90%를 Claude로 작성하고 리뷰 하며, 사람이 모든 변경을 확인하는 대신 에이전트가 실행 결과로 작업을 입증하는 검증 루프 를 구축함 우선 투자할 테스트는 E2E, 속성 기반, 차등 테스트 임. 실제 사용자 흐름, 깨지면 안 되는 제약, 기존 시스템과의 동작 비교로 단위 테스트만으로 놓칠 수 있는 오류를 확인함 검증의 중심은 변경한 앱을 실제로 실…",
      "source": "",
-     "ts": 1794879234
+     "ts": 1794937311
     },
     {
-     "id": "3051223487491932",
-     "title": "Branchless Programming - CPU 분기 예측과 분기 없는 프로그래밍 이해하기",
-     "link": "https://news.hada.io/topic?id=37325&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "현대 CPU는 파이프라인을 통해 여러 명령어의 처리 단계를 병렬적으로 진행하며, 조건 분기가 발생하면 분기 예측(Branch Prediction)을 통해 다음에 실행할 명령어를 미리 처리함. 하지만 분기 예측이 실패하면 잘못된 경로에서 처리하던 명령어를 버리고 파이프라인을 복구해야 하므로 성능 저하가 발생함. 특히 반복문 내부에서 예측하기 어려운 조건 분기가 자주 발생하면 이러한 비용이 누…",
+     "id": "d87b8c78233a3831",
+     "title": "미국 국가안보 고도 기밀 통신망 가동 중단",
+     "link": "https://news.hada.io/topic?id=37358&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "사안을 아는 관계자 6명에 따르면, 미국 국가안보국(NSA)이 내부 기밀정보 소통에 사용하는 NSA Net 이 가동 중단 상태임 NSA는 장애 범위 를 파악하는 동안 직원들의 출근 시간을 분산하고 있음 현재까지 이번 장애가 사이버공격 때문이라는 증거는 없음 전현직 미국 관리 2명에 따르면, 이중화 체계와 백업 통신망 이 있어 아시아 순방 중인 트럼프 대통령에게 긴급 정보를 전달하는 데는 영…",
      "source": "",
-     "ts": 1794877802
+     "ts": 1794937130
     },
     {
-     "id": "191ecfd02f587740",
-     "title": "Modern Web Guidance 1.0 - 코딩 에이전트에 최신 웹 개발 지침을 제공하는 스킬 모음",
-     "link": "https://news.hada.io/topic?id=37324&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "크롬팀의 Modern Web Guidance 1.0 은 코딩 에이전트에게 웹 플랫폼 전문 지식, 권장사항, 브라우저 호환성 데이터를 제공해 성능, 접근성, 보안을 개선하도록 지원함 현대화 워크플로 가 기존 HTML, CSS, JavaScript, package.json 을 정적 분석해 안전한 업그레이드 경로를 찾음 수백 개의 검증된 AI 지식 격차를 겨냥해 가이드를 확장하고, 전문가 검토와…",
+     "id": "864fefe145867017",
+     "title": "Nimony: Nim을 위한 새로운 컴파일러",
+     "link": "https://news.hada.io/topic?id=37357&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Nimony 는 Nim의 새로운 컴파일러이자 Nim 3 언어의 기반으로, 빌림 검사, 명시적 nil 허용 여부, 합 타입, 타입 검사를 수행하는 제네릭을 지원하며 처음부터 증분/병렬 빌드를 고려해 설계됨 LLVM/GCC에 의존하지 않는 네이티브 코드 생성 을 지원하며, 같은 코드베이스를 C, 네이티브 코드, JavaScript, WebAssembly로 컴파일할 수 있음 자동 참조 카운팅과…",
      "source": "",
-     "ts": 1794877802
+     "ts": 1794933524
     },
     {
-     "id": "fc8f36cf58020c72",
-     "title": "백준 온라인 저지 (BOJ) 11월 20일 재오픈",
-     "link": "https://news.hada.io/topic?id=37321&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "당초 2026.10.26. 재오픈 하려 했으나, PHP2Shell 대응 등으로 연기했었음. 재오픈 일정을 11월 17일 이메일을 통해 공지함. 서비스 재오픈 일정 재오픈 예정일: 2026년 11월 20일(금) 서비스 주소: https://www.acmicpc.net/",
+     "id": "3086871ed9b50535",
+     "title": "더 많은 앱이 아니라 더 나은 오픈소스가 필요하다",
+     "link": "https://news.hada.io/topic?id=37356&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "AI 보조 코딩으로 새 앱을 만드는 것뿐 아니라 이미 많은 사람이 쓰는 오픈소스를 개선하는 데도 힘을 쏟을 필요가 있음 . 기존 도구의 속도와 사용성을 높이면 모든 사용자가 매일 혜택을 얻음 오픈소스는 필요한 기능을 이미 갖춘 경우가 많지만, 설치와 운영의 어려움 때문에 전담 시스템 관리자가 없는 비영리단체는 기업용 도구를 선택하게 됨 명령어 하나로 설치하고, 안전하게 업그레이드하고, 저렴…",
      "source": "",
-     "ts": 1794877276
+     "ts": 1794933344
     },
     {
-     "id": "ee784b00ed14e399",
-     "title": "CI 시장은 세 갈래로 나뉘었다",
-     "link": "https://news.hada.io/topic?id=37320&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "CI 시장은 범용 러너 인프라, 오케스트레이션 플랫폼, 코드/빌드 엔지니어링 계층으로 나뉘며, 각각 실행 비용과 속도, 실행 환경 제어, 파이프라인 프로그래밍 가능성에 초점을 맞춤 GitHub Actions 는 커뮤니티 액션과 통합 기능으로 생태계의 중심을 차지하지만, 속도와 디버깅의 한계, 2026년의 안정성 문제로 경쟁 우위가 약해지고 있음 러너 교체형 서비스 는 기존 워크플로를 유지하…",
+     "id": "f008355831af857a",
+     "title": "Show GN: buntOS - Mainline Linux 7.2 + Rust Wayland OS with built-in AI agent control on a Dimensity 8300 tab",
+     "link": "https://news.hada.io/topic?id=37355&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "I ported mainline Linux 7.2.12 (182-patch queue) and Mesa 26.3 ( panthor ) to the Lenovo Xiaoxin Pad Pro 12.7 (2025, TB375FC / MediaTek MT6897), running a custom Debian-based desktop OS called buntOS (built on a Rust/Sm…",
      "source": "",
-     "ts": 1794876001
+     "ts": 1794929758
     },
     {
-     "id": "e04069a0dc196916",
-     "title": "세계 최대 브랜드들, Optimizely를 통해 악성코드에 감염",
-     "link": "https://news.hada.io/topic?id=37319&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "웹사이트 A/B 테스트 플랫폼 Optimizely Web 을 통해 BBC, Zoom, CNN, Salesforce, GitLab 등 178개 조직의 사이트 방문자에게 악성 JavaScript 가 배포됨 공격자는 모든 페이지에서 실행되는 Project JavaScript 를 변조해 신뢰받던 Optimizely CDN으로 악성코드를 전달했으며, 다수 고객 프로젝트의 쓰기 권한을 확보한 경로는…",
+     "id": "61e48659fed31d4a",
+     "title": "VisualBasic.World: 1997~2012년 Planet Source Code 프로그램 갤러리",
+     "link": "https://news.hada.io/topic?id=37353&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "VisualBasic.World 는 Visual Basic으로 만든 프로그램을 모은 시각적 아카이브임 수록 대상은 Planet Source Code 의 프로그램임 갤러리가 다루는 기간은 1997~2012년 임 개별 프로그램을 갤러리 형태 로 둘러볼 수 있음 과거 Visual Basic으로 만든 결과물을 시각적으로 모아 보여주는 데 초점을 둠 Visual Basic 프로그램 아카이브 Visu…",
      "source": "",
-     "ts": 1794875990
+     "ts": 1794929554
     },
     {
-     "id": "f10c71416a1e2e3f",
-     "title": "United Airlines, 광범위한 시스템 장애 발생했다고 밝혀",
-     "link": "https://news.hada.io/topic?id=37318&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "United Airlines 에서 월요일 약 30분간 시스템 장애가 발생해 미국 공항의 일부 출발편이 지연됐으며, 항공사는 이후 복구를 발표함 영향을 받은 항공편은 150편 미만 이며, 이미 비행 중인 항공편과 United Express 항공편에는 영향이 없었음 승무원이 사용하는 비행 계획, 기상 브리핑, 승무원 관리 도구 에 접근 문제가 생겼고, 조종사에게 로그아웃하지 말라는 지침이 내려…",
+     "id": "a4b7a2b642886e86",
+     "title": "학교 휴대전화 금지가 시험 성적을 점진적으로 높인다는 새로운 근거",
+     "link": "https://news.hada.io/topic?id=37352&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "학교 휴대전화 금지 전후 성적을 비교한 첫 대규모 전국 분석에서 엄격한 금지 정책 이 학생들의 학업 성취도를 소폭 높이기 시작한 것으로 나타남 하루 종일 휴대전화를 잠금 파우치에 보관하게 한 학교에서는 수학과 읽기 성적이 연간 1~2주 추가 수업 에 해당하는 수준으로 향상됨 연구는 2021~2026년 미국 4,600개 학교의 학생 330만 명 을 대상으로, 엄격한 금지 정책을 도입한 학교와…",
      "source": "",
-     "ts": 1794875810
+     "ts": 1794925956
     },
     {
-     "id": "f78632a32b9dd8b8",
-     "title": "AVA - AI 에이전트용 데이터 분석 및 시각화 프레임워크",
-     "link": "https://news.hada.io/topic?id=37317&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "앱이나 AI 에이전트에 자연어로 데이터를 분석하고 차트를 만드는 기능 을 붙이는 JavaScript 프레임워크 “1월과 2월 매출을 제품별로 비교해 줘”라고 물으면 SQL을 생성해 실행하고, 결과 데이터와 요약 을 반환. 실행한 쿼리도 확인할 수 있음 CSV, Excel, Parquet 파일과 PostgreSQL, MySQL 등 을 연결하고, 파일과 DB의 데이터를 한 쿼리에서 함께 분석…",
+     "id": "e6eb32d606f67946",
+     "title": "코딩 에이전트 삭제 사고 10건, 실행된 셸 명령으로 본 원인과 안전한 형태",
+     "link": "https://news.hada.io/topic?id=37349&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "올해 9월부터 11월까지 Claude Code, Codex, Antigravity, opencode 에서 공개된 삭제 사고 10건을, 원문 이슈와 글에서 실제로 실행된 명령을 확인해 셸 수준의 원인으로 정리했습니다. 대부분은 에이전트가 넓은 범위를 지우려 한 것이 아니라, 좁은 폴더 하나를 지우려던 명령이 셸 해석 과정에서 다른 대상을 가리키게 된 경우였습니다. 재현 가능한 원인은 macO…",
      "source": "",
-     "ts": 1794875402
+     "ts": 1794923450
     },
     {
-     "id": "02e89170008962f8",
-     "title": "AI 슬롭은 왜 이렇게 읽기 짜증날까?",
-     "link": "https://news.hada.io/topic?id=37316&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 슬롭이 읽기 괴로운 이유는 불명확한 글쓰기 에 있음. 단어를 다 알아도 누가 무엇을 했는지, 요점이 무엇인지 다시 짚어야 하는 문장 이 자주 나옴 업무에서는 이런 글이 Slack 메시지나 PR 설명처럼 그냥 넘길 수 없는 글 에 섞여 있어, 이미 복잡한 내용을 해독해야 하는 독자의 부담이 커짐 불명확한 글에서는 행위자와 행동을 숨기는 문장 , 모호한 표현, 내용 없는 문장과 잘못된 강…",
+     "id": "ee80c13b463f41ea",
+     "title": "Three.js에서 AAA 게임 수준의 실내 조명 구현하기",
+     "link": "https://news.hada.io/topic?id=37347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Three.js에서 AAA 게임 수준의 실내 조명 을 구현하기 위해, 움직이지 않는 물체에는 미리 구운 라이트맵을 쓰고 움직이는 물체에는 주변 지점에서 미리 측정한 빛을 사용함 화면에 보이는 물체를 바탕으로 반사(SSR)와 간접광(SSGI) 을 계산하고, 화면 정보로 계산할 수 없는 부분은 라이트맵이나 프로브 등으로 채우는 설계 이렇게 모은 빛을 재질 계산에 넘겨 표면의 거칠기와 금속성 이…",
      "source": "",
-     "ts": 1794874804
+     "ts": 1794922948
     },
     {
-     "id": "24eba66f10d70092",
-     "title": "GitHub에서 Codeberg로 이전하기",
-     "link": "https://news.hada.io/topic?id=37314&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Inko와 개인 프로젝트 를 Codeberg로 이전하면서 70개 이상의 저장소를 검토함. GitHub 복귀 후 기여자는 다소 늘었지만, AI로 생성한 저품질 기여와 자유 소프트웨어 가치에 대한 우려가 다시 이전을 택한 배경임 저장소 가져오기 는 대체로 작동했지만, GitHub 요청 제한에 걸려도 안내가 없고 사용자 연결과 이슈 유형은 별도 처리가 필요했음 Forgejo Actions 는 기…",
+     "id": "89722fe94215a28b",
+     "title": "앱이 전체 디스크 접근 또는 시스템 및 앱 보호 우회 권한을 요청할 때",
+     "link": "https://news.hada.io/topic?id=37346&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "macOS 27.3부터 일부 앱이 전체 디스크 접근이나 시스템 및 앱 보호 우회 권한을 요청하면, 전체 권한 대신 특정 보호 폴더나 앱만 선택 해 접근을 허용할 수 있음 백업, 디스크 정리, 파일 색인, 보안 앱 등이 이런 권한을 요청하며, 일부는 넓은 접근 범위가 필요하지만 필요 이상으로 권한을 요청하는 앱 도 있음 전체 디스크 접근 을 허용하면 메시지, 이메일, 사진과 동영상, 다른 사…",
      "source": "",
-     "ts": 1794873891
+     "ts": 1794922768
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "f9eb976542",
@@ -688,6 +688,38 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "1d2a75b7c28b0cfd",
+     "title": "[11월17일] 미국 이어 중국도 'AI 과학적 발견' 경쟁…문샷, 생물학·화학 연구에 집중",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217482",
+     "summary": "중국 AI 기업들도 미국의 오픈AI와 앤트로픽이 주도하는 'AI 과학적 발견' 경쟁에 뛰어들고 있습니다. 그동안 미국 최첨단 모델과의 성능 격차를 줄이는 데 집중했던 중국 기업들이 이제는 수학과 과학 분야에서 새로운 지식을 만들어내는 능력을 차세대 경쟁력으로 내세우기 시작한 것입니다.사우스차이나모닝포스트(SCMP)는 16일(현지시간) 문샷 AI가 '키미' 모델을 생물학과 화학, 신약 개발…",
+     "source": "",
+     "ts": 1794985200
+    },
+    {
+     "id": "17a74d9f15c431b6",
+     "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217513",
+     "summary": "오픈AI가 차세대 플래그십 모델 'GPT-6.2 아스트라(Astra)'와 'GPT-6.2 솔(Sol)'을 출시했다. 안전성 문제로 이전 버전의 출시를 취소한 지 약 50일 만으로, 종합 성능 평가에서 세계 2위에 오르고 API 가격도 20% 인하하는 등 성능과 비용 경쟁력을 동시에 강화했다.오픈AI는 17일(현지시간) 공식 블로그를 통해 최고 성능 모델인 GPT-6.2 아스트라와 비용 효율…",
+     "source": "",
+     "ts": 1794984520
+    },
+    {
+     "id": "6d19d3904d6e153d",
+     "title": "젠슨 황 \"이사회가 원하면 CEO 복귀\"…엔비디아는 검토 안 해",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217512",
+     "summary": "젠슨 황 전 엔비디아 CEO가 퇴진 이후 처음으로 공식 성명을 내고 이사회가 원한다면 CEO로 복귀하겠다는 뜻을 밝혔다. 직원과 투자자, 실리콘밸리 주요 인사들에 이어 도널드 트럼프 미국 대통령까지 복귀를 지지하고 있지만, 엔비디아 이사회는 복귀를 검토하지 않는 것으로 알려졌다. 황 전 CEO는 17일(현지시간) 성명을 통해 복귀 의사를 공개적으로 밝혔다. 지난 12일 사임한 이후 첫 공식…",
+     "source": "",
+     "ts": 1794980239
+    },
+    {
+     "id": "b66580a6d15d0393",
+     "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217511",
+     "summary": "마이크로소프트(MS)가 오픈AI와 앤트로픽의 첨단 모델에 근접한 코딩 성능을 훨씬 낮은 비용으로 구현한 자체 AI 모델 'MAI 코드 2(MAI Code 2)'를 공개했다. 사이버 보안과 AI 에이전트의 판단 작업에 특화한 모델도 함께 선보이며, 외부 AI 모델에 대한 의존도를 줄이고 자체 모델 경쟁력을 강화하고 나섰다.MS는 17일(현지시간) 미국 샌프란시스코에서 열린 연례 기술 행사 '…",
+     "source": "",
+     "ts": 1794978065
+    },
     {
      "id": "6dd848cbce9c047d",
      "title": "텐센트 'Hy4 플래시' 출시...일상 업무 특화·작업 비용 95% 절감",
@@ -743,6 +775,14 @@
      "summary": "중국 연구진과 기업들이 미국 AI 모델의 답변을 자국 모델 학습에 활용하는 '증류' 작업을 자동화하고 전문 인력을 투입하는 등 개발 공정으로 체계화하고 있다. 미국이 중국 당국에 이런 출력 수집이 지식재산권 침해에 해당할 수 있다고 경고한 비공개 협의 내용도 드러났다.로이터는 17일(현지시간) 중국의 논문과 특허, 기업 공시, 채용 공고, 정부 문서 등 300여건을 분석해 미국 모델의 출력…",
      "source": "",
      "ts": 1794937989
+    },
+    {
+     "id": "a46de171a1034ae8",
+     "title": "“광영동의 어제와 오늘을 담다”… 광양시, 지역의 역사를 기록한 석재 아트월 조성",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217510",
+     "summary": "전라남도 광양시 광영동에 지역의 역사와 변화 과정을 한눈에 살펴볼 수 있는 석재 아트월이 조성됐다. 이번 광영동 주민자치센터 아트월 조성사업은 지역의 옛 모습을 기록하고, 주민들에게 고향의 역사와 정체성을 전달하는 역사문화공간을 마련하는 데 의미를 두고 있다.아트월은 '우리의 고향 광영동'이라는 문구를 중심으로 지역의 과거와 현재를 시각적으로 표현한 것이 특징이다. 광영동의 역사적 기록과…",
+     "source": "",
+     "ts": 1794937500
     },
     {
      "id": "acd0c06d8e251078",
@@ -807,50 +847,10 @@
      "summary": "애플이 일반 이용자가 AI의 건강 정보를 얼마나 이해하고 신뢰하며 실제 생활에 활용하는지 살피기 위한 연구용 앱을 출시했다. 의료 AI 기업 오픈에비던스(OpenEvidence)와 협력해 미국에서 최대 20만명을 모집하고, 개인 건강 데이터를 반영한 답변의 유용성도 검증한다.애플은 15일(현지시간) ‘애플 헬스 AI 사용 연구(Apple Health AI Usage Study)’를 시작했다…",
      "source": "",
      "ts": 1794931500
-    },
-    {
-     "id": "e087bf38943ade66",
-     "title": "WSJ \"앨리스 황 남편, 중국 정부 지원받아 13조 데이터센터 사업 추진\"",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217500",
-     "summary": "젠슨 황 전 엔비디아 CEO와 관계를 맺었던 앨리스 황의 남편이 중국 정부의 지원을 받아 90억달러(약 13조원)가 넘는 데이터센터 개발 사업을 추진한 사실이 확인됐다. 아내가 엔비디아의 첨단 AI 칩 공급망에 관여하던 시기에 남편은 중국 정부의 컴퓨팅 인프라 구축 사업을 확대하고 있었던 것으로 드러났다.월스트리트저널(WSJ)은 16일(현지시간) 중국 정부 기록과 기업 공시를 분석한 결과,…",
-     "source": "",
-     "ts": 1794931144
-    },
-    {
-     "id": "8cd881c4ee5dd58f",
-     "title": "세계 슈퍼컴퓨터 신규 진입 역대 최저…한국 '한강' 12위",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217486",
-     "summary": "세계 최고 성능 슈퍼컴퓨터 순위에 새로 진입한 시스템이 1993년 집계 시작 이후 가장 적은 27대를 기록했다. 고성능 컴퓨팅(HPC) 시장의 성장은 계속되고 있지만, 신규 컴퓨팅 투자가 전통적인 슈퍼컴퓨터에서 AI 데이터센터로 이동하는 흐름이 영향을 미친 것으로 분석된다.TOP500 공식 발표에 따르면, 16일(현지시간) 미국 시카고에서 열린 슈퍼컴퓨팅 2026(SC26)에서 발표된 제6…",
-     "source": "",
-     "ts": 1794929361
-    },
-    {
-     "id": "515e1606e345aa17",
-     "title": "업스테이지·코히어 '소버린 AI 동맹'…한국 넘어 아태 기업 시장 조준",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217489",
-     "summary": "업스테이지(대표 김성훈)가 캐나다의 대표 AI 기업 코히어와 손잡고 국내는 물론 아시아태평양 지역 기업용(엔터프라이즈) AI 시장 공략에 나선다. 글로벌 소버린 AI 수요에 대응하기 위한 공동 모델 개발도 추진한다.업스테이지는 규제 산업 및 정부 부문 특화 소버린 AI 기업 코히어와 전략적 제휴를 맺었다고 17일 밝혔다. 코히어는 2019년 구글 출신 연구원들이 설립한 캐나다 기업으로, 고…",
-     "source": "",
-     "ts": 1794929257
-    },
-    {
-     "id": "8a34636b0cd8744f",
-     "title": "스마일샤크, AWS와 스타트업 AI 세미나 개최…에이전트 적용 사례 공유",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217494",
-     "summary": "AI 클라우드 관리 전문 스마일샤크(대표 장진환)가 아마존웹서비스(AWS)와 공동으로 스타트업의 AI 사업화 전략과 에이전트 구축 사례를 공유하는 세미나를 개최했다. AI 투자 동향부터 실제 기업 업무에 적용한 기술까지 소개하며 AI 에이전트 도입에 필요한 데이터 관리와 사람의 검토 역할을 강조했다.스마일샤크는 서울 강남구 오렌지플래닛 강남센터에서 'AI로 만드는 성장, VC가 보는 기회'…",
-     "source": "",
-     "ts": 1794929122
-    },
-    {
-     "id": "ec80cfbdd4d0b486",
-     "title": "오픈AI, 외부 전문가에 내부 모델·학습 데이터 개방...AI 안전성 독립 검증",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217479",
-     "summary": "오픈AI가 외부 AI 안전성 평가기관에 비공개 모델과 학습 데이터, 내부 감시 시스템 등에 대한 접근권을 제공하기로 했다. 기존의 모델 출시 전 평가에서 벗어나 외부 전문가가 개발과 학습 과정까지 직접 검증하도록 하는 것이 핵심이다.오픈AI는 16일(현지시간) 아폴로 리서치(Apollo Research), METR, 트랜슬루스(Transluce), 굿파이어(Goodfire) 등 4개 독립…",
-     "source": "",
-     "ts": 1794924363
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "19ef1c7741",
@@ -858,6 +858,38 @@
    "url": "https://www.technologyreview.com/feed/",
    "site": "https://www.technologyreview.com",
    "items": [
+    {
+     "id": "63e33b4081ff7aae",
+     "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+     "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+     "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Grig…",
+     "source": "",
+     "ts": 1794941207
+    },
+    {
+     "id": "6a38a59720a4812c",
+     "title": "Hydropower hit record lows in the US Southwest this summer",
+     "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+     "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rel…",
+     "source": "",
+     "ts": 1794937930
+    },
+    {
+     "id": "86f07be892b022f0",
+     "title": "Research Reports",
+     "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+     "summary": "To access a report, click on the corresponding image below.",
+     "source": "",
+     "ts": 1794926386
+    },
+    {
+     "id": "15316cf2cd2a4876",
+     "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+     "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen H…",
+     "source": "",
+     "ts": 1794921000
+    },
     {
      "id": "9c493a96e3fa6482",
      "title": "The open-source movement wants Jensen Huang back",
@@ -905,42 +937,10 @@
      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for t…",
      "source": "",
      "ts": 1794564000
-    },
-    {
-     "id": "5de37488cd547f03",
-     "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-     "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-     "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerber…",
-     "source": "",
-     "ts": 1794564000
-    },
-    {
-     "id": "07356858caea4ddc",
-     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-     "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-     "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review…",
-     "source": "",
-     "ts": 1794514584
-    },
-    {
-     "id": "56aae23ea0ecf27d",
-     "title": "The Download: COP31’s climate challenge and the quest for immortality",
-     "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists…",
-     "source": "",
-     "ts": 1794489000
-    },
-    {
-     "id": "198edc5850c5aa3e",
-     "title": "What to know about this year’s UN climate talks",
-     "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-     "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, markin…",
-     "source": "",
-     "ts": 1794416400
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "263d8d0ce8",
@@ -948,6 +948,14 @@
    "url": "https://www.microsoft.com/en-us/research/feed/",
    "site": "https://www.microsoft.com/en-us/research",
    "items": [
+    {
+     "id": "23b0b78bf3060353",
+     "title": "Can AI help build a healthier future?",
+     "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+     "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric…",
+     "source": "",
+     "ts": 1794934337
+    },
     {
      "id": "8451eda18f3aa606",
      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
@@ -1019,18 +1027,10 @@
      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the effici…",
      "source": "",
      "ts": 1792598400
-    },
-    {
-     "id": "c84a57a97fd6c729",
-     "title": "Called to serve: Tech, research, and positive impact",
-     "link": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
-     "summary": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu abo…",
-     "source": "",
-     "ts": 1792512000
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "7ebf5b6c9a",
@@ -1120,7 +1120,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "2c60dce9bd",
@@ -1128,6 +1128,150 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "c2534ea2bd5365aa",
+     "title": "Optimum skips $102.5m debt payment as company continues debt negotiations",
+     "link": "https://www.datacenterdynamics.com/en/news/optimum-skips-1025m-debt-payment-as-company-continues-debt-negotiations/",
+     "summary": "As company confirms it's working to reduce $22bn debt",
+     "source": "",
+     "ts": 1794936340
+    },
+    {
+     "id": "43324581dc8e99bd",
+     "title": "150MW data center project planned in Haifa, Israel",
+     "link": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
+     "summary": "Local renewable and real estate firms partner on project",
+     "source": "",
+     "ts": 1794936116
+    },
+    {
+     "id": "ff6e4a24b06f586a",
+     "title": "Swedish energy giant Vattenfall selects Kraken to manage battery and renewable assets in Germany",
+     "link": "https://www.datacenterdynamics.com/en/news/swedish-energy-giant-vattenfall-selects-kraken-to-manage-battery-and-renewable-assets-in-germany/",
+     "summary": "Will provide a cloud-native control layer across Vattenfall’s BESS and renewable assets",
+     "source": "",
+     "ts": 1794936031
+    },
+    {
+     "id": "10980d0626c30412",
+     "title": "Patmos plans 50MW data center outside Birmingham, Alabama",
+     "link": "https://www.datacenterdynamics.com/en/news/patmos-plans-50mw-data-center-outside-birmingham-alabama/",
+     "summary": "Company looks to convert former Walmart building",
+     "source": "",
+     "ts": 1794935336
+    },
+    {
+     "id": "48b13c93d7a3a206",
+     "title": "University of Osaka launches SEAFOOD platform to link Octopus supercomputer with quantum processors",
+     "link": "https://www.datacenterdynamics.com/en/news/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer-with-quantum-processors/",
+     "summary": "Platform will initially be made available to ten research teams at the university",
+     "source": "",
+     "ts": 1794934847
+    },
+    {
+     "id": "b9a7878a41555b8e",
+     "title": "Amazon to invest $7bn into Indian renewable projects by 2030",
+     "link": "https://www.datacenterdynamics.com/en/news/amazon-to-invest-7bn-into-indian-renewable-projects-by-2030/",
+     "summary": "Signs four PPAs in India with a combined capacity of 934MW",
+     "source": "",
+     "ts": 1794934237
+    },
+    {
+     "id": "86ebe67cd0bc5059",
+     "title": "Macquarie Data Centres eyes 200MW campus in Sydney, Australia",
+     "link": "https://www.datacenterdynamics.com/en/news/macquarie-data-centres-eyes-200mw-campus-in-sydney-australia/",
+     "summary": "Firm looks to continue build-out in Macquarie Park",
+     "source": "",
+     "ts": 1794934207
+    },
+    {
+     "id": "00441ca036b7b808",
+     "title": "100MW data center planned in Sussex, UK",
+     "link": "https://www.datacenterdynamics.com/en/news/100mw-data-center-planned-in-sussex-uk/",
+     "summary": "As Pace DC plans project in Bedfordshire",
+     "source": "",
+     "ts": 1794932551
+    },
+    {
+     "id": "550e818efdef0b9b",
+     "title": "Millicom to acquire Entel Peru for $1.7bn",
+     "link": "https://www.datacenterdynamics.com/en/news/millicom-agrees-to-buy-entel-peru-for-1714-million/",
+     "summary": "The acquisition will enable Millicom to enter the Peruvian market and expand its presence to 13 countries",
+     "source": "",
+     "ts": 1794932360
+    },
+    {
+     "id": "957de633f52071f9",
+     "title": "Sponsored: Gaining time: The evolution of the market",
+     "link": "https://www.datacenterdynamics.com/en/opinions/gaining-time-the-evolution-of-the-market/",
+     "summary": "Time has become an increasingly important factor in major construction and engineering builds, with schedule durations contracting significantly over the past 15 years",
+     "source": "",
+     "ts": 1794931200
+    },
+    {
+     "id": "8bc15f70c9a807cf",
+     "title": "The Cooling Supplement",
+     "link": "https://www.datacenterdynamics.com/en/magazines/the-cooling-supplement-2026-4/",
+     "summary": "Hot topics for cold data centers",
+     "source": "",
+     "ts": 1794930780
+    },
+    {
+     "id": "d398221fc40ad163",
+     "title": "Intersect signs 1.5GW transformer supply deal with Heron Power",
+     "link": "https://www.datacenterdynamics.com/en/news/intersect-signs-15gw-transformer-supply-deal-with-heron-power/",
+     "summary": "Deliveries expected to commence in 2028",
+     "source": "",
+     "ts": 1794929211
+    },
+    {
+     "id": "2136573e3fd19784",
+     "title": "CBRE: Milan set to overtake Dublin as fifth-largest data center market in Europe by 2028",
+     "link": "https://www.datacenterdynamics.com/en/news/cbre-milan-set-to-overtake-dublin-as-fifth-largest-data-center-market-in-europe-by-2028/",
+     "summary": "Milan could see 255MW of new capacity",
+     "source": "",
+     "ts": 1794928878
+    },
+    {
+     "id": "0a7da0b7bcc63d2a",
+     "title": "Northern Europe Energy targets data center in Riihimäki, Finland",
+     "link": "https://www.datacenterdynamics.com/en/news/northern-europe-energy-targets-data-center-in-riihim%C3%A4ki-finland/",
+     "summary": "Ixian plans 50MW project in Lapinlahti, SR-Kiinteistöt eyes development in Kauhava",
+     "source": "",
+     "ts": 1794927662
+    },
+    {
+     "id": "87e2c001c124e881",
+     "title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+     "link": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+     "summary": "System debuted at 14 on most recent Top500 list",
+     "source": "",
+     "ts": 1794927660
+    },
+    {
+     "id": "bd4bd183f68bea4f",
+     "title": "Rakuten Mobile, JTower pair to expand infra sharing to more than 1,000 sites in Japan",
+     "link": "https://www.datacenterdynamics.com/en/news/rakuten-mobile-jtower-pair-to-expand-infra-sharing-to-more-than-1000-sites-in-japan/",
+     "summary": "Includes indoor and outdoor sites",
+     "source": "",
+     "ts": 1794927040
+    },
+    {
+     "id": "38073d185356b10f",
+     "title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+     "link": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+     "summary": "Companies target sites across Finland, Estonia, Latvia, and Sweden",
+     "source": "",
+     "ts": 1794926436
+    },
+    {
+     "id": "4cc6dc2c7f1d1159",
+     "title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+     "link": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+     "summary": "PPA to support Google's data centers in The Dalles",
+     "source": "",
+     "ts": 1794925860
+    },
     {
      "id": "c7a52667340a2e9c",
      "title": "The future of direct-to-die is dielectric",
@@ -1142,155 +1286,11 @@
      "link": "https://www.datacenterdynamics.com/en/news/jensen-huang-plots-return-as-nvidia-ceo-as-doubt-raised-on-whether-alice-huang-was-a-chinese-spy/",
      "summary": "But the board appears resistant to the idea of a comeback",
      "source": "",
-     "ts": 1794918938
-    },
-    {
-     "id": "9b9bbe237dd3e9bc",
-     "title": "NTT Docomo hit by third 5G Standalone outage in just over a week in Japan",
-     "link": "https://www.datacenterdynamics.com/en/news/ntt-docomo-hit-by-third-5g-standalone-outage-in-just-over-a-week-in-japan/",
-     "summary": "Another outage yesterday followed one in each of the previous two weeks",
-     "source": "",
      "ts": 1794918900
-    },
-    {
-     "id": "4c8b0a0208e32ea4",
-     "title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
-     "link": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
-     "summary": "Oaktree seeking $8 billion valuation for Pure DC",
-     "source": "",
-     "ts": 1794918810
-    },
-    {
-     "id": "006a58e72e5ee3f6",
-     "title": "Data4 sells minority stake in Greek unit to Hellenic sovereign fund",
-     "link": "https://www.datacenterdynamics.com/en/news/data4-sells-minority-stake-in-greek-unit-to-hellenic-sovereign-fund/",
-     "summary": "HIIF takes 23 percent stake",
-     "source": "",
-     "ts": 1794918737
-    },
-    {
-     "id": "b8cd5f950965fa6d",
-     "title": "China's LineShine retains supercomputing crown as both Top500 and Green500 lists remain largely unchanged",
-     "link": "https://www.datacenterdynamics.com/en/news/chinas-lineshine-retains-supercomputing-crown-as-both-top500-and-green500-lists-remain-largely-unchanged/",
-     "summary": "No movement in the top ten installations since June edition of the list",
-     "source": "",
-     "ts": 1794918644
-    },
-    {
-     "id": "1ebaeb30f3a8162b",
-     "title": "Digital Realty launches liquid cooling lab in Singapore",
-     "link": "https://www.datacenterdynamics.com/en/news/digital-realty-launches-liquid-cooling-lab-in-singapore/",
-     "summary": "Company’s third DRIL lab to open this year",
-     "source": "",
-     "ts": 1794918506
-    },
-    {
-     "id": "fdbc41aa2b556019",
-     "title": "Italian startup targets data centers with offshore energy storage",
-     "link": "https://www.datacenterdynamics.com/en/news/italian-startup-targets-data-centers-with-offshore-energy-storage/",
-     "summary": "Pre-FEED and FEED studies are underway for projects in Calabria and Sicily",
-     "source": "",
-     "ts": 1794918438
-    },
-    {
-     "id": "b931821b9e8a8237",
-     "title": "Vodafone joint venture to develop two major data center projects in Egypt",
-     "link": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
-     "summary": "The scheme includes building Egypt's first sovereign AI data center",
-     "source": "",
-     "ts": 1794914735
-    },
-    {
-     "id": "a14a309484a78975",
-     "title": "FAA ground stop saga: Lumen highlights legacy network rut as HPE bats away Juniper blame",
-     "link": "https://www.datacenterdynamics.com/en/news/faa-ground-stop-saga-lumen-highlights-legacy-network-rut-as-hpe-bats-away-juniper-blame/",
-     "summary": "Outage brings aging networking discussions back to Earth",
-     "source": "",
-     "ts": 1794914628
-    },
-    {
-     "id": "861a129ab6b64797",
-     "title": "Canadian carrier Québecor submits CA$31bn takeover offer of Telus",
-     "link": "https://www.datacenterdynamics.com/en/news/canadian-carrier-qu%C3%A9becor-submits-ca31bn-takeover-offer-of-telus/",
-     "summary": "The potential deal could shake up the Canadian mobile market",
-     "source": "",
-     "ts": 1794914520
-    },
-    {
-     "id": "47cb401c3ac66125",
-     "title": "Power moves: How grid delays and shortages will shape the next wave of data centers",
-     "link": "https://www.datacenterdynamics.com/en/whitepapers/power-moves-how-grid-delays-and-shortages-will-shape-the-next-wave-of-data-centers/",
-     "summary": "Navigating the AI energy squeeze with alternative power strategies, behind-the-meter generation, and power-first site selection",
-     "source": "",
-     "ts": 1794913140
-    },
-    {
-     "id": "52f80c2b004f81e1",
-     "title": "Sponsored: Ascend Analytics launches behind-the-meter asset valuation for data center and large industrial loads",
-     "link": "https://www.datacenterdynamics.com/en/product-news/ascend-analytics-launches-behind-the-meter-asset-valuation-for-data-center-and-large-industrial-loads/",
-     "summary": "New PowerVAL capability values storage sited behind a commercial or industrial meter, co-optimizing retail rate, demand charge and coincident peak savings",
-     "source": "",
-     "ts": 1794902400
-    },
-    {
-     "id": "cb160bb18edc33ab",
-     "title": "SK Hynix to partner with South Korean gov’t on chip testing facility",
-     "link": "https://www.datacenterdynamics.com/en/news/sk-hynix-to-partner-with-south-korean-govt-on-chip-testing-facility/",
-     "summary": "Part of company’s plans to invest $1.05bn in the country over next five years",
-     "source": "",
-     "ts": 1794852146
-    },
-    {
-     "id": "0efa3ce7b3b2623a",
-     "title": "US Dep’t of Commerce issues rule to restrict remote access to advanced AI chips",
-     "link": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/",
-     "summary": "Adds five new countries to its export restriction list, including Malaysia and Singapore",
-     "source": "",
-     "ts": 1794852065
-    },
-    {
-     "id": "9c24c6804d18e3c6",
-     "title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
-     "link": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
-     "summary": "Following unsuccessful IPO launch",
-     "source": "",
-     "ts": 1794850604
-    },
-    {
-     "id": "ba604866f1fd3b3a",
-     "title": "AI cloud startup Luminal secures $25m in Series A funding",
-     "link": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-luminal-secures-25m-in-series-a-funding/",
-     "summary": "Company offers search compiler and inference cloud services",
-     "source": "",
-     "ts": 1794850567
-    },
-    {
-     "id": "9b1a7187e5312e66",
-     "title": "Belgian telcos to retire 2G networks by 2029",
-     "link": "https://www.datacenterdynamics.com/en/news/belgian-telcos-to-retire-2g-networks-by-2029/",
-     "summary": "National regulator confirms telcos will phase out the technology in 2028-2029",
-     "source": "",
-     "ts": 1794850241
-    },
-    {
-     "id": "aed1bfb3563ab5d0",
-     "title": "Nvidia unveils Rubin HPC GPU for agentic AI-powered science and engineering workloads",
-     "link": "https://www.datacenterdynamics.com/en/news/nvidia-unveils-rubin-hpc-gpu-for-agentic-ai-powered-science-and-engineering-workloads/",
-     "summary": "New GPU features more than 50,000 CUDA cores",
-     "source": "",
-     "ts": 1794849986
-    },
-    {
-     "id": "5843e7a352d84c30",
-     "title": "OpenAI signs on for 457MW AI capacity with TensorWave",
-     "link": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
-     "summary": "Will cover multiple sites over six years",
-     "source": "",
-     "ts": 1794849679
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "95180fe28d",
@@ -1460,7 +1460,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   },
   {
    "id": "c15f1e5a65",
@@ -1468,6 +1468,22 @@
    "url": "https://www.theregister.com/software/headlines.atom",
    "site": "https://www.theregister.com",
    "items": [
+    {
+     "id": "73f7510f673e1f7e",
+     "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
+     "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
+     "summary": "Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests – plus much more",
+     "source": "",
+     "ts": 1794937500
+    },
+    {
+     "id": "ac6a20f9d2f7461d",
+     "title": "SAP's cloud migration chief is migrating to Ionos as CEO",
+     "link": "https://www.theregister.com/software/2026/11/17/saps-cloud-migration-chief-is-migrating-to-ionos-as-ceo/5310530",
+     "summary": "After more than two decades in Walldorf, Thomas Saueressig takes reins at hosting provider in April",
+     "source": "",
+     "ts": 1794935608
+    },
     {
      "id": "448782f3fddcf233",
      "title": "Up to 99% of UK civil servants rely on Microsoft for comms, minister admits",
@@ -1611,26 +1627,10 @@
      "summary": "We've got a hunch the memory crunch is taking a bite out of Windows revenue",
      "source": "",
      "ts": 1793741909
-    },
-    {
-     "id": "b65824c31f6f166c",
-     "title": "GhostBSD 26.2 takes the fright out of FreeBSD with a friendlier installer",
-     "link": "https://www.theregister.com/os-platforms/2026/11/03/ghostbsd-262-takes-the-fright-out-of-freebsd-with-a-friendlier-installer/5307228",
-     "summary": "Full-disk encryption joins the toolkit, MATE and Xfce stay while Gershwin sits this one out",
-     "source": "",
-     "ts": 1793721720
-    },
-    {
-     "id": "e92d0ea9f8346142",
-     "title": "SUSE to cut one in ten employees because of... AI",
-     "link": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
-     "summary": "'Modern tooling is already changing our daily workflows' says CEO at open source biz",
-     "source": "",
-     "ts": 1793633400
     }
    ],
    "error": null,
-   "last_ok": 1794922423
+   "last_ok": 1794954459
   }
  ]
 }
