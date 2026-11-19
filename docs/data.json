@@ -1,5 +1,5 @@
 {
- "generated_at": 1795022359,
+ "generated_at": 1795048127,
  "top_n": 20,
  "feeds": [
   {
@@ -8,6 +8,46 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "4f2b7e726fd4f241",
+     "title": "30일 지나면 삭제되는데… AI 커닝, 통신기록으로 잡겠다는 정부 [팩플] - 중앙일보",
+     "link": "https://www.joongang.co.kr/article/25479995",
+     "summary": "정부 가 ' 인공지능 ( AI ) 커닝'을 시험이 끝난 뒤까지 잡아내겠다고 나섰지만, 기술업계를 중심으로 실효성에 대한 의구심이 커지고 있다.",
+     "source": "",
+     "ts": 1795033194
+    },
+    {
+     "id": "d04a52d7877f3b58",
+     "title": "지식재산처, AI 감시체계 구축·특허분쟁 지원 최대 3억원 확대",
+     "link": "http://www.e-patentnews.com/15925",
+     "summary": "... 인공지능 ( AI ) 기반 NPE 활동 감시체계 구축과 특허분쟁 대응 지원 확대 등 정부 차원의 대응 현황을 밝혔다 ... 정책 변화에 대한 국내 산업계의 입장을 전달하.",
+     "source": "",
+     "ts": 1795033165
+    },
+    {
+     "id": "bc1dc0e11053ac6a",
+     "title": "정부 ' AI 역추적', 법 장벽 넘을까 - 경향신문",
+     "link": "https://www.khan.co.kr/article/202611182123005",
+     "summary": "정부 가 빅테크와 손잡고 수능 ' AI 커닝' 사후 추적에 나서기로 하면서 인공지능 대화 기록이 조사 대상으로 떠올랐다. 다만 의심스러운 정황을 이유로 모든 ...",
+     "source": "",
+     "ts": 1795032661
+    },
+    {
+     "id": "7f8818bd94a8cd21",
+     "title": "MEDI:GATE NEWS : 의료 AI 보상 도입 여부보다 어떤 효과 냈나…기업·투자업계 보상 예측 가능해야",
+     "link": "https://www.medigatenews.com/news/2879948780",
+     "summary": "... 인공지능 데이터 정책 과 박정환 과장, 건강보험심사평가원 디지털의료기술등재부 임진선 팀장. [메디게이트뉴스 이지원 기자] 의료 인공지능 ( AI ) 기술이 개발 ...",
+     "source": "",
+     "ts": 1795029455
+    },
+    {
+     "id": "9b54544587b3d4fc",
+     "title": "공공의료 AI 고속도로 내년 35개·2029년 72개 병원으로 확대",
+     "link": "https://www.paxmedicalnews.com/news/articleView.html?idxno=3440",
+     "summary": "... AI 투자 포럼'을 열었다. 행사에는 이형훈 보건복지부 제2차관과 정부 출자 정책 펀드 운용사 5곳, 의료 AI 기업, 한국보건산업진흥원, 건강보험심사평가원 ...",
+     "source": "",
+     "ts": 1795027334
+    },
     {
      "id": "993835ed50e5e1a6",
      "title": "과기정통부 , 내년 시니어 과학기술인 활용 종합계획 수립 - 전자신문",
@@ -41,6 +81,22 @@
      "ts": 1795014270
     },
     {
+     "id": "d53dc2b3a86c3242",
+     "title": "지역·필수·공공 의료 AX 가속화 위해의료 현장-헬스케어 AI 민간 투자 연결 지원 - 보건복지부",
+     "link": "https://www.mohw.go.kr/gallery.es?mid=a10505000000&bid=0003&b_list=12&act=view&list_no=380644&nPage=1&vlist_no_npage=1&keyField=&orderby=&cg_code=",
+     "summary": "... 정책 펀드(K-바이오백신 펀드 등) 운용사 5개사와 의료 AI 기업, 한국보건산업진흥원, 건강보험심사평가원 등 관계자 150여 명이 참석하였다. 정부 는 지난 8월 ...",
+     "source": "",
+     "ts": 1795011836
+    },
+    {
+     "id": "8f57651582516391",
+     "title": "민주당 정보통신특위 19일 출범... AI 해킹·부정행위 대응 논의 - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261118094127",
+     "summary": "국회 과학기술정보방송통신위원회 소속 한준호, 김현, 김우영, 이훈기 의원이 위원으로 합류한다. AI 보안과 개인정보 정보통신 법제, 통신 정책 분야 전문가들도 ...",
+     "source": "",
+     "ts": 1795011138
+    },
+    {
      "id": "b20417f48f1fe774",
      "title": "'첨단 AI 해킹' 막을 '차르', 부처간 벽부터 넘어야 한다 - 한겨레",
      "link": "https://www.hani.co.kr/arti/economy/it/1287847.html",
@@ -63,6 +119,22 @@
      "summary": "미국 정부 가 중국 기업들이 해외 데이터센터를 통해 엔비디아(Nvidia)의 첨단 인공지능 ( AI ) 반도체를 우회적으로 사용하는 것을 차단하기 위한 새로운 수출 ...",
      "source": "",
      "ts": 1795008370
+    },
+    {
+     "id": "9ab7b00f5c50c8a4",
+     "title": "경기북부 6개 지방 정부 , 지방우대지수 전면 재검토 촉구 - 매일일보",
+     "link": "https://www.m-i.kr/news/articleView.html?idxno=2019944",
+     "summary": "매일일보 = 정수연 기자 | 코스피가 인공지능 ( AI ) 산업을 둘러싼 불확실성과 외국인의 연이은 매도세에 결국 5000선을 내줬다. 미국의 대중국 반도체 수출 ...",
+     "source": "",
+     "ts": 1795007626
+    },
+    {
+     "id": "d3722c4993a2101f",
+     "title": "AI 가 택배 상자를 옮기는 시대, '초혁신경제'가 바꿀 우리 일상은? - 대한민국 정책브리핑",
+     "link": "https://www.korea.kr/news/reporterView.do?newsId=148975940",
+     "summary": "정부 는 지난해 8월 '새 정부 경제성장전략'을 발표하면서 '초혁신경제 선도 프로젝트 ' 15대 과제를 선정했다. 그래핀 등 첨단소재·부품 분야 5개와 기후·에너지· ...",
+     "source": "",
+     "ts": 1795007112
     },
     {
      "id": "a59b6c16351a11e6",
@@ -95,82 +167,10 @@
      "summary": "19일 치러지는 2027학년도 대학수학능력시험을 앞두고 정부 가 내놓은 인공지능 ... 뉴욕대는 아예 음성 AI 시험관을 만들어 학생에게 프로젝트 기여도를 캐묻는 ...",
      "source": "",
      "ts": 1795005012
-    },
-    {
-     "id": "4e3e3e23e74ba9af",
-     "title": "오세훈 AI 부정행위 작년에도 있었는데 이재명 정부 뭐했나 - 한국경제",
-     "link": "https://www.hankyung.com/article/202611184090i",
-     "summary": "... 정책 협의회에서 발언하고 있다. /사진=뉴스1. 오세훈 시장이 18일 “지난해 가을 대학가에서 인공지능 ( AI )를 이용한 집단 부정행위가 잇따랐는데 더불어민주당 ...",
-     "source": "",
-     "ts": 1795004196
-    },
-    {
-     "id": "05aa0fe624083a7d",
-     "title": "AI 규제 대응 플랫폼 코딧, 신보 '퍼스트펭귄' 선정 - 와우테일",
-     "link": "https://wowtale.net/2026/11/18/268263/",
-     "summary": "인공지능 ( AI ) · 바이오헬스 · 소부장 · 벤처캐피탈 · 콘텐츠 · M&A · 엔터프라이즈 ... 국회와 정부 의 정책 데이터를 분석해 기업의 리스크 관리를 지원한다. 10억 ...",
-     "source": "",
-     "ts": 1795003910
-    },
-    {
-     "id": "7e44733f4dc4fdc2",
-     "title": "네이버·카카오, 우즈베키스탄 디지털 영토 확장 시동…소버린 AI 공동 프로젝트 검토 - 더구루",
-     "link": "https://www.theguru.co.kr/news/article.html?no=109896",
-     "summary": "... 기자] 네이버와 카카오가 우즈베키스탄 디지털 전환(DX)에 힘을 보탠다. 양사는 향후 우즈베키스탄 소버린 인공지능 ( AI ) ... AI ·과학기술 정책 및 인력 교류 확대 ...",
-     "source": "",
-     "ts": 1795002451
-    },
-    {
-     "id": "7073546456ffe8fc",
-     "title": "[성명] 제63회 세무사 시험 AI 부정행위 등에 대한 입장",
-     "link": "https://ccej.or.kr/posts/BatB74L",
-     "summary": "국가시험 근간 무너뜨린 세무사 시험 AI 부정행위 사태, 정부 는 땜질식 처방 넘어 국가시험 AI 보안 방역 체계 즉각 확립하라 최근 치러진 제63회...",
-     "source": "",
-     "ts": 1795001296
-    },
-    {
-     "id": "be9c98ec8ff290e9",
-     "title": "[COP31] 韓-IEA, '아시아 전기화' 협력 본격 추진 - 넷제로뉴스",
-     "link": "http://www.netzeronews.kr/news/articleView.html?idxno=6715",
-     "summary": "정부 · 정책 . [COP31] 韓-IEA, '아시아 전기화' 협력 본격 추진. 도시혁 기자 ... ▷ 정부 , IEA 공동연구로 구체적 이행계획 마련. ◇일러: 넷제로뉴스 AI .",
-     "source": "",
-     "ts": 1794999543
-    },
-    {
-     "id": "92b1315c281c0a73",
-     "title": "[단독] 정부 , '지역별 전기 도매가 차등화' 개편 보류...발전사 강력 반발에 제동 - 매일경제",
-     "link": "https://www.mk.co.kr/news/economy/12212157",
-     "summary": "실무협의회와 규칙개정위 일정 이 밀리면서 연내 심의와 제도 도입 시점을 가늠하기 어려워졌다. 도매가격 개편이 늦어지면 지방 산업용 전기요금 인하에 필요한 ...",
-     "source": "",
-     "ts": 1794997594
-    },
-    {
-     "id": "873f367a9243dbb7",
-     "title": "정부 , 피지컬 AI 실무인력 양성 본격화…전주·성남·청주·창원에 테스트베드 4곳 구축",
-     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42790",
-     "summary": "정부 가 로봇과 인공지능 ( AI )을 결합한 피지컬 AI 기술의 산업현장 확산을 위해 전국에 실습형 교육 인프라를 구축한다. 올해 100억원을 투입해 지역별 주력 ...",
-     "source": "",
-     "ts": 1794995984
-    },
-    {
-     "id": "c739f2740bf2ca62",
-     "title": "지역·필수·공공 의료 AX 가속화 위해 의료 현장-헬스케어 AI 민간 투자 연결 지원",
-     "link": "https://eiec.kdi.re.kr/policy/callDownload.do?num=289707&filenum=1&dtime=20261118182344",
-     "summary": "이날 포럼에는 이형훈 보건복지부 제2차관을 비롯해 정부 가 출자한 정책 ... - (패널) 복지부 의료 인공지능 데이터 정책 과장, 심평원,. 투자사(프리미어, KB) ...",
-     "source": "",
-     "ts": 1794993907
-    },
-    {
-     "id": "32c09d5803fe824d",
-     "title": "[자막뉴스] AI 커닝 '위급문자'로 막겠다는 정부 …\"10분이면 가능\" 벌써 우회법 공유 - SBS NEWS",
-     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851955",
-     "summary": "심지어는 휴대전화의 진동 장치나 스피커 장치를 물리적으로 제거하는 방법도 거론되고 있습니다. 챗GPT, 제미나이 등 생성형 인공지능 챗봇에 '위급재난문자 ...",
-     "source": "",
-     "ts": 1794990067
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "cf53c0f1af",
@@ -178,6 +178,54 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
    "items": [
+    {
+     "id": "43af3ad7b5c84f10",
+     "title": "세레브라스, AMD GPU와 나눠 처리하는 추론 공개…전력당 5배 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61501/",
+     "summary": "세레브라스가 GPU가 프롬프트를, 자사 CS-3가 답변 생성을 맡는 분리 추론을 공개했다. CS-3만 쓴 구성보다 메가와트당 처리량이 5배 높다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "176dc2de56652406",
+     "title": "발스 시험서 AI 모델, '게임' 설정에 민간인 표적 지정 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61498/",
+     "summary": "AI 평가 스타트업 발스의 시험에서 AI 모델들이 '게임' 설정에 민간인을 공격 표적으로 지목했다. 클로드 오퍼스 5.5는 이란 학교를 최대 72% 비율로 표적 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "f98c4f173a87eb6c",
+     "title": "MS 에이전트 프레임워크에 비밀 키 빼내는 악성 버전 2개 배포 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61496/",
+     "summary": "마이크로소프트 에이전트 프레임워크 PyPI 배포판에 비밀 키를 빼내는 악성 버전 1.26.1과 1.26.2가 약 45분 동안 등록됐다. 에이키도는 1.26.0 고정과 비밀 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "4509565ff614d858",
+     "title": "앤트로픽, IPO 공모가 주당 11만 611원…희망가 웃돌아 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61493/",
+     "summary": "앤트로픽이 IPO 공모가를 주당 83달러로 정했다. 희망 범위 70~78달러보다 높고, 11월 19일 나스닥에서 종목 코드 ANT로 거래를 시작한다.",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "4603a18048898cac",
+     "title": "엔비디아, 중국 H200 판매 중단…크레스 CEO 대행 발표 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61494/",
+     "summary": "엔비디아가 중국에서 H200 판매를 중단한다고 콜렛 크레스 CEO 대행이 밝혔다. 제퍼리스는 새 수출 규정으로 내년 데이터센터 매출이 최대 620억 달러 줄 수 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "a133809071435ab7",
+     "title": "엔비디아, 삼성전기, 킨서스와 기판 공급 계약 확대 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61503/",
+     "summary": "엔비디아가 삼성전기, 대만 기판 기업 킨서스(Kinsus) 등 공급망 협력사와 AI 인프라 구축을 지원하기 위해 공급 약정을 확대한다고 현지 시각 11월 17일 ...",
+     "source": "",
+     "ts": null
+    },
     {
      "id": "b91a135f87aa67cf",
      "title": "GPT-6.2 아스트라로 만든 결과물…파리 3D 지도부터 로봇 팔까지 - AI 매터스",
@@ -289,58 +337,10 @@
      "summary": "케빈 워시 연준 의장이 초지능이 미국 경제에 가져올 시나리오 3개를 제시했다. 같은 날 마이클 바 이사는 AI 에이전트가 몇 분 만에 진행되는 뱅크런을 ...",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "d83b81eed07fe4df",
-     "title": "[AI 매터스 칼럼 뉴스레터 #31] AI는 쓰고 싶고 AI 건물은 싫다니",
-     "link": "https://aimatters.co.kr/news-report/61467/",
-     "summary": "AI 매터스는 관찰, 실행, 데이터 해석이라는 서로 다른 시선을 한자리에 모아, AI가 일하는 방식과 의사결정, 산업의 문법을 어떻게 다시 쓰고 있는지 매주 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "9b3bcde3816a5d4d",
-     "title": "[AI 활용팁] 코파일럿 앱에서 워드, 엑셀, 파워포인트 파일 바로 만들기 - AI 매터스",
-     "link": "https://aimatters.co.kr/ai-tool/61409/",
-     "summary": "이그나이트 2026에서 정식 출시된 코파일럿 홈과 오피스 인 코파일럿으로 워드, 엑셀, 파워포인트 파일을 생성하는 방법을 소개한다. 이용 조건, 홈 구성, ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "41af4ccf21f043fb",
-     "title": "로이터 \"中, 미국 AI 증류로 자국 모델 학습…문서 300건 분석\" - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61479/",
-     "summary": "로이터가 중국 논문, 특허, 정부 문서 300여 건을 분석한 결과 미국 AI 모델 답변으로 자국 모델을 학습하는 증류가 산업 현장으로 확산됐다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "49ceea52ad951e25",
-     "title": "우버 이츠, 집라인 드론 배송 시작…2029년 하루 100만 건 목표 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61454/",
-     "summary": "우버 이츠가 11월 17일 미국 텍사스주 스프링에서 집라인 드론 배송을 시작했다. 두 회사는 댈러스를 거쳐 미국 수십 개 도시로 넓혀 2029년 말까지 하루 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "8b85e6acf5bf8e7e",
-     "title": "텐센트, 작업 비용 13분의 1로 줄인 'Hy4 플래시' 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61404/",
-     "summary": "텐센트가 일상 업무용 AI 모델 Hy4 플래시를 공개했다. 전체 매개변수 2240억 개 가운데 120억 개만 쓰고, 작업당 비용은 Hy4 프리뷰의 13분의 1이다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "3451b6039174ad3f",
-     "title": "공범이 AI로 바뀌었다…단추 카메라에서 AI 안경까지 25년 시험 커닝의 변화 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61473/",
-     "summary": "2026년 10월 10일 연세대 수시 논술 고사장에서 감독관의 안경 점검을 통과한 수험생이 시험이 시작되자 AI 스마트 안경으로 바꿔 끼다 적발됐다.",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "25ac01331a",
@@ -348,6 +348,70 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "13a46f7720ed7db1",
+     "title": "Republicans lost hope in Reconciliation 3.0",
+     "link": "https://www.axios.com/2026/11/19/republicans-reconciliation-defense-spending",
+     "summary": "The Senate GOP's last-ditch effort to pass a defense-heavy, $350 billion reconciliation package is dead on arrival without accompanying spending cuts, House Republicans tell Axios. Why it matters: House Republicans have…",
+     "source": "",
+     "ts": 1795047177
+    },
+    {
+     "id": "a29e7d64fbf456aa",
+     "title": "\"There'll be no hostage-taking\": The anti-Jeffries rebellion that failed to materialize",
+     "link": "https://www.axios.com/2026/11/19/hakeem-jeffries-speaker-vote-left-progressives",
+     "summary": "The left's campaign to whip up a groundswell of opposition to House Minority Leader Hakeem Jeffries (D-N.Y.) among his members failed in stunning fashion on Wednesday. Why it matters: Fewer than a dozen members voted ag…",
+     "source": "",
+     "ts": 1795047143
+    },
+    {
+     "id": "9e95a87976f998d0",
+     "title": "Anthropic valued at over $1 trillion in historic IPO",
+     "link": "https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion",
+     "summary": "Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion. Why it matters: Wall Street expects the AI boom to continue, despite some recent tumult. Zoom in: An…",
+     "source": "",
+     "ts": 1795040192
+    },
+    {
+     "id": "558ecf00060ef09c",
+     "title": "Mississippi senator-elect turns historic win into nationwide Nike offer",
+     "link": "https://www.axios.com/2026/11/18/air-force-ones-nike-colom-valedictorians",
+     "summary": "High school students across the U.S. have a new reason to vie for the top spot in their class: a custom pair of Nike Air Force 1 sneakers, thanks to a request from Mississippi Sen.-elect Scott Colom . Why it matters: Co…",
+     "source": "",
+     "ts": 1795039418
+    },
+    {
+     "id": "37f18f007637b671",
+     "title": "Islam will overtake Christianity as world's largest religion by 2035: Pew",
+     "link": "https://www.axios.com/2026/11/18/islam-largest-religion-christianity-pew-2035",
+     "summary": "Data: Pew Research ; Chart: Erin Davis/Axios Islam is expected to surpass Christianity as the world's largest religion by 2035, according to Pew Research Center projections released Wednesday. Why it matters: The shift…",
+     "source": "",
+     "ts": 1795034059
+    },
+    {
+     "id": "c14b93582f14889b",
+     "title": "Trust, but prepare: How to make sense of AI's age of upheaval",
+     "link": "https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare",
+     "summary": "Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air travel, banks and work products like Microsoft Outlook. The outages seem genuinely scary and related. So wh…",
+     "source": "",
+     "ts": 1795032006
+    },
+    {
+     "id": "9321f6ec53e0ba4a",
+     "title": "The senators who could join Van Hollen's insurgency against Schumer",
+     "link": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader",
+     "summary": "Sen. Chris Van Hollen is picking up endorsements in his challenge to Chuck Schumer for Senate Democratic leader. Why it matters: The leadership fight exposes divisions within the Democratic Party days after its sweeping…",
+     "source": "",
+     "ts": 1795027789
+    },
+    {
+     "id": "849efd209ddc4df6",
+     "title": "Trump to meet Putin in China amid renewed push to end Ukraine war",
+     "link": "https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine",
+     "summary": "President Trump will hold a one-on-one meeting with Russian President Vladimir Putin on Thursday during the trilateral summit in China, a U.S. official said. Why it matters: The meeting in Shenzhen will take place as Tr…",
+     "source": "",
+     "ts": 1795022304
+    },
     {
      "id": "3222a09f8f628767",
      "title": "House Democrats formally nominate Hakeem Jeffries for speaker",
@@ -376,7 +440,7 @@
      "id": "0fc19eca6657d86b",
      "title": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
      "link": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport",
-     "summary": "Chinese President Xi Jinping greeted President Trump in a surprise appearance on the tarmac in Shenzhen, China, Wednesday. Why it matters: Xi paid Trump a special honor by greeting him on the tarmac, reciprocating a ges…",
+     "summary": "Chinese President Xi Jinping greeted President Trump in a surprise appearance on the tarmac in Shenzhen, China, on Wednesday. Why it matters: Xi paid Trump a special honor by greeting him on the tarmac, reciprocating a…",
      "source": "",
      "ts": 1795001968
     },
@@ -443,74 +507,10 @@
      "summary": "The White House is dropping Heidi Overton 's nomination to lead the Food and Drug Administration because of a lack of congressional support, Axios has learned. Why it matters: The decision means the Trump administration…",
      "source": "",
      "ts": 1794959795
-    },
-    {
-     "id": "21729ee21b74b75f",
-     "title": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback",
-     "link": "https://www.axios.com/2026/11/17/donald-trump-jr-data-centers",
-     "summary": "Donald Trump Jr. signaled that investors underestimated the political pushback to the AI ecosystem in an interview at Axios' annual BFD summit in New York. The big picture: The 2026 midterms reflected deep distrust of t…",
-     "source": "",
-     "ts": 1794958092
-    },
-    {
-     "id": "cd81011a0f9c024e",
-     "title": "\"We will remain thoughtful\": Nvidia says it will continue to backstop AI ecosystem",
-     "link": "https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress",
-     "summary": "Nvidia's interim CEO said Tuesday that the company will be \"disciplined\" as it decides how much to invest in neoclouds and other AI customers going forward. Why it matters: Nvidia isn't just the biggest chip partner for…",
-     "source": "",
-     "ts": 1794957332
-    },
-    {
-     "id": "d638519e93ce118a",
-     "title": "Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe",
-     "link": "https://www.axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress",
-     "summary": "Nvidia posted a stronger-than-expected third quarter and a bullish outlook in its first earnings report after Jensen Huang was ousted as CEO in a scandal that has reportedly spawned an SEC investigation. Why it matters:…",
-     "source": "",
-     "ts": 1794953820
-    },
-    {
-     "id": "c130833e04673e07",
-     "title": "Duffy's $50 billion request gets chilly reception from Senate GOP",
-     "link": "https://www.axios.com/2026/11/17/sean-duffy-faa-senate-republicans-50-billion",
-     "summary": "Transportation Secretary Sean Duffy's $50 billion request to overhaul the nation's air traffic control system is getting a chilly reception from Senate Republicans, who are balking at the hefty price tag. Why it matters…",
-     "source": "",
-     "ts": 1794952568
-    },
-    {
-     "id": "8082b8e3489a250e",
-     "title": "FAA pauses tech upgrade linked to nationwide ground stop",
-     "link": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
-     "summary": "The Federal Aviation Administration is halting the installation of new routers following Friday's nearly five-hour nationwide ground stop , the agency confirmed to Axios Tuesday. Why it matters: The technology rollout i…",
-     "source": "",
-     "ts": 1794950179
-    },
-    {
-     "id": "7cd52d71e1a92af0",
-     "title": "Why the world's biggest climate meeting (still) matters",
-     "link": "https://www.axios.com/2026/11/17/un-climate-conference-negotiations-energy",
-     "summary": "Every year, tens of thousands of people gather to discuss nothing short of humanity's future on a hotter planet. Yet the world seems increasingly distracted by just about everything else. Why it matters: For all of thei…",
-     "source": "",
-     "ts": 1794949206
-    },
-    {
-     "id": "5df7d8f5f45d7774",
-     "title": "What is a dirty bomb and how dangerous is the weapon",
-     "link": "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon",
-     "summary": "President Trump warned Iran against orchestrating a \"dirty bomb\" attack in Washington, D.C., though the White House says there are no credible threats. The big picture: Unlike a nuclear weapon, a \"dirty bomb\" uses commo…",
-     "source": "",
-     "ts": 1794943855
-    },
-    {
-     "id": "1b11b29c4d2e966f",
-     "title": "Scammers are sending fake emails to people worried about Nvidia's stock",
-     "link": "https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails",
-     "summary": "Scammers are already exploiting the scandal surrounding Nvidia to lure unsuspecting investors and business professionals into downloading malware. Why it matters: AI is making it easier for criminals to capitalize on th…",
-     "source": "",
-     "ts": 1794942472
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "cc992ff5f1",
@@ -519,168 +519,168 @@
    "site": "https://news.hada.io",
    "items": [
     {
-     "id": "30db0e4efbba1f55",
-     "title": "Gemini 4 Carbon은 왜 이렇게 오래 걸릴까?",
-     "link": "https://news.hada.io/topic?id=37411&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Kernel의 비공개 버그 수정 평가 에서 Gemini 4 Carbon은 Opus와 Astra가 몇 분 만에 끝내는 작업에 거의 한 시간을 사용했으며, 느린 추론 외에도 불필요한 작업과 비효율적인 도구 사용이 시간을 늘렸음 추론 속도 차이 가 설명하는 추가 소요 시간은 Astra 대비 16~30%, Opus 대비 45~49%였고, 나머지는 더 길어진 작업 과정에서 발생함 Carbon은 전체…",
+     "id": "71c981bc2929194e",
+     "title": "nginx2root - nginx 원격 코드 실행 취약점 5개와 Linux 커널 권한 상승 취약점",
+     "link": "https://news.hada.io/topic?id=37438&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Xint가 서로 다른 설정에 영향을 주는 nginx 비인증 원격 코드 실행 취약점 5개 와 별도의 Linux SCTP 취약점을 발견함. nginx 취약점은 각각 독립적으로 워커 권한의 명령 실행으로 이어짐 가장 광범위한 CVE-2026-123007 은 HTTP/2가 활성화된 미패치 서버에 영향을 주며, nginx 1.9.5부터 1.31.8까지 취약 코드가 포함됨 nginx 취약점을 SCTP…",
      "source": "",
-     "ts": 1795012348
+     "ts": 1795046922
     },
     {
-     "id": "e907ea7c90b956da",
-     "title": "Web Browser Engineering (2021) - Python으로 직접 만드는 웹 브라우저",
-     "link": "https://news.hada.io/topic?id=37410&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Web Browser Engineering 은 기본적이지만 완결된 웹 브라우저를 직접 만들며 브라우저의 작동 원리를 배우는 학습서임 구현 언어는 Python 이며, 브라우저를 수천 줄 규모의 코드로 작성함 구현 범위는 네트워킹부터 JavaScript까지 아우름 영어판은 Bookshop, B&N, Amazon 에서 구매할 수 있음 번역판은 한국어와 일본어 로도 출간되어 있음 브라우저 구현으로…",
+     "id": "2558f6a1ebf720ec",
+     "title": "Codeberg 도메인이 계정에서 갑자기 사라져 사이트 접속 불가",
+     "link": "https://news.hada.io/topic?id=37437&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "codeberg.org 가 아직 원인이 확인되지 않은 도메인 문제로 접속 불가 상태가 됨 도메인은 만료되거나 이전되지 않았는데도 Codeberg 계정에서 완전히 사라짐 Codeberg는 이와 관련한 이메일 알림을 받지 못함 공지 시점에 도메인은 clientHold 상태임 Codeberg는 원인 파악과 해결을 위해 도메인 등록업체에 연락을 시도 중 이며, 해결에 시간이 걸릴 수 있음 도메인…",
      "source": "",
-     "ts": 1795008673
+     "ts": 1795046742
     },
     {
-     "id": "aa24c2640b776ded",
-     "title": "Show GN: Sidehand - 내가 타이핑하는 동안 창 뒤의 Windows 앱을 AI 에이전트가 조작하는 MCP 서버",
-     "link": "https://news.hada.io/topic?id=37409&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 에이전트에게 데스크톱 앱을 맡기면 마우스가 움직이고 창이 앞으로 튀어나와서, 끝날 때까지 PC를 못 쓰게 됩니다. 제가 다른 창에서 계속 타이핑하는 동안 에이전트는 뒤에 가려진 앱에서 일하게 하고 싶어서 만들었습니다. Sidehand는 Windows 10/11용 MCP 서버입니다(CLI와 pi 확장도 있습니다). Claude Code, Codex, Cursor 같은 MCP 클라이언트가…",
+     "id": "dfcc9a574bd7d6df",
+     "title": "Claude는 대규모 단백질 서열로 학습됐다",
+     "link": "https://news.hada.io/topic?id=37436&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "연구가 거의 없는 단백질의 다음 아미노산을 예측하는 실험에서, 비교한 LLM 중 최신 Claude 모델만 뚜렷한 서열 예측 능력 을 보임. 이는 상당한 규모의 단백질 서열 학습을 뒷받침하는 근거임 Claude Fable 5.2 의 정답률은 실제 단백질에서 54%, 순서를 섞은 대조군에서 9%였음. GPT, Gemini와 시험한 오픈웨이트 모델 7종은 실제 서열과 대조군의 정답률 차이가 거의…",
      "source": "",
-     "ts": 1795007603
+     "ts": 1795044843
     },
     {
-     "id": "250bca0d68d76754",
-     "title": "Codeberg.org 접속 불가",
-     "link": "https://news.hada.io/topic?id=37408&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "codeberg.org 도메인이 완전히 접속 불가 상태가 됐으며, 등록업체 NameSilo의 Codeberg 계정에서도 사라짐 Codeberg는 갱신 누락이 아니며 , 로그인 기록에 의심스러운 접속이 없고 계정의 도메인 이력에도 관련 기록이 없다고 확인함 후속 확인에서 도메인 정지 사실이 드러났으며, NameSilo 내부 악용 신고 대응팀으로 사안이 이관돼 최종 결정을 기다리고 있음 긴급…",
+     "id": "416011f60a0bddc8",
+     "title": "KVM: x86: INIT 에뮬레이션 시 MMU 컨텍스트를 무조건 초기화하도록 수정(CVE-2026-99312)",
+     "link": "https://news.hada.io/topic?id=37435&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Linux 커널의 KVM에서 INIT 에뮬레이션 시 MMU 컨텍스트가 오래된 상태로 남는 취약점 을 수정함 L2가 CR0.PG=0 으로 실행 중일 때 INIT가 발생하면 L1이 오래된 MMU 컨텍스트로 실행될 수 있어, 페이징이 이미 비활성화된 경우에도 MMU를 초기화 하도록 변경함 이 버그는 중첩 SVM에만 영향 을 주며, VMX에서는 INIT를 무조건 가로채므로 L2가 활성화된 상태에서…",
      "source": "",
-     "ts": 1795005150
+     "ts": 1795041367
     },
     {
-     "id": "0a4aef04267119a3",
-     "title": "Show GN: Clippy HTML - Clippy의 진단을 정적 웹페이지로 바꿔주는 도구",
-     "link": "https://news.hada.io/topic?id=37406&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Clippy의 경고를 rustdoc 스타일의 정적 웹페이지로 바꿔주는 도구입니다. 터미널에서 Clippy 경고를 읽는 게 불편하다 느껴 만들었습니다. 주요 기능은 다음과 같습니다. 한 화면에서 어떤 진단이 얼마나 나왔는지 확인 진단을 클릭해서 소스코드로 이동 검색 수정안을 diff로 확인 이 프로젝트의 코드에 이 도구를 사용해 만든 보고서 가 게시되어 있으니, 설치 없이 도구 형태를 확인해…",
+     "id": "0f9811b15251144b",
+     "title": "Tencent Hy4 Flash - 100만 토큰 컨텍스트를 지원하는 저비용 멀티모달 모델",
+     "link": "https://news.hada.io/topic?id=37434&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Tencent가 Hy4 flash 를 공개함. 약 2,200억 파라미터 중 토큰당 120억 개를 활성화하며, 네이티브 멀티모달과 100만 토큰 컨텍스트 를 지원함 API 요금은 100만 토큰당 입력 0.070달러, 출력 0.281달러 로, Hy4보다 크게 낮음 하이브리드 어텐션, LatentMoE, Engram으로 KV 캐시를 Hy4의 1/6 로 줄이고, 강화학습으로 평균 종단 간 출력 토…",
      "source": "",
-     "ts": 1794996530
+     "ts": 1795041187
     },
     {
-     "id": "bf2a62de7f73f1ad",
-     "title": "Harvard 연구진, AI 코딩 에이전트가 병목을 코드 리뷰로 옮겼음을 확인",
-     "link": "https://news.hada.io/topic?id=37405&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "하버드 연구진이 655개 기업, 근로자 720,542명 의 업무 데이터를 분석함. AI 코딩 에이전트 도입 후 코드 작성량은 44.0% 증가 했지만, 실제 배포까지 완료한 작업의 증가 폭은 훨씬 작았음 완료한 Jira 이슈는 13.7%, 대규모 프로젝트나 기능을 나타내는 에픽은 18.0% 증가 했으나, 두 추정치 모두 통계적 유의성 기준에는 조금 못 미쳤음 PR 제출부터 병합까지 걸리는 시…",
+     "id": "93aebec267567366",
+     "title": "Google Gemini의 개인 비서 기능 ‘Tasks’, 이제 무료로 제공",
+     "link": "https://news.hada.io/topic?id=37433&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Tasks 가 미국, 일본, 한국, 캐나다, 호주, 인도에서 수억 명을 대상으로 무료 배포되기 시작함. 새 Gemini 4 Hydrogen 모델을 사용하며, 고급 기능 일부는 미국부터 출시함 이메일, 캘린더, 비밀번호, 결제 수단과 연결해 전화 예약, 청구서 분석, 쇼핑 을 수행함. Google 서비스에 이미 있는 개인 정보를 활용해 작업을 이어갈 수 있음 구매에는 Agent Payment…",
      "source": "",
-     "ts": 1794995287
+     "ts": 1795040666
     },
     {
-     "id": "dacca38c6bff1d8b",
-     "title": "Archive Team, 2026년 11월 20일 폐쇄되는 Apple Support Community 아카이빙 진행 중",
-     "link": "https://news.hada.io/topic?id=37404&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Archive Team 이 폐쇄 예정인 Apple의 온라인 지원 포럼 Apple Support Community 를 아카이빙하고 있음 서비스는 2026년 11월 20일 영구 폐쇄 될 예정이며, 폐쇄 공지는 11월 10일에 발표됨 공지 당일부터 새 게시물 작성이 중단 됐으며, 사이트는 읽기 전용 상태로 제공됨 Apple Discussions 와 Apple Tech Exchange라는 이름으로…",
+     "id": "4e188e347a4ac23b",
+     "title": "Gemini 4 Neon - 복잡한 코딩과 분석에 추론 성능과 효율을 갖춘 AI 모델",
+     "link": "https://news.hada.io/topic?id=37432&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Google이 복잡한 코딩과 분석을 빠르고 비용 효율적으로 처리하는 Gemini 4 Neon 을 공개함. 가장 어려운 장기 프로젝트용 Carbon과 빠른 일상 작업용 Hydrogen 사이에서 추론 깊이와 효율의 균형 을 맡음 Artificial Analysis Intelligence Index 에서 xhigh 추론 수준 기준 61점으로 전체 3위, Vals Index에서 2위를 기록했으며,…",
      "source": "",
-     "ts": 1794995107
+     "ts": 1795040539
     },
     {
-     "id": "4b17fde7986a87e1",
-     "title": "AI가 All About Berlin을 죽이고 있다",
-     "link": "https://news.hada.io/topic?id=37403&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "베를린 생활 안내 사이트 All About Berlin 은 7년간 성장한 뒤 트래픽의 75%를 잃었으며 , 운영자는 그 원인을 Google AI Overviews로 지목함 Google 검색에서 사이트 링크보다 광고와 AI 생성 답변 이 먼저 나오면서, 콘텐츠를 제공한 사이트로의 방문이 줄어드는 상황임 독자가 기존의 4분의 1로 줄어 운영 재원과 생계 유지 가 어려워졌으며, 운영자는 새 가이…",
+     "id": "264f53dfb31a3d10",
+     "title": "Genie 4, Project Genie에서 이용 가능 - 실시간 세계 수정과 오디오 생성 지원",
+     "link": "https://news.hada.io/topic?id=37431&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Google이 AI Ultra 구독자 중 이용 대상자에게 Genie 4를 제공하기 시작 함. Project Genie에서 브라우저로 가상 세계를 만들고 직접 돌아다니며, 탐색 도중에도 프롬프트로 수정 할 수 있음 Genie 4는 탐색 도중 입력한 프롬프트로 날씨, 캐릭터, 행동을 바꾸며, 장면에 맞춰 주변 소리부터 캐릭터 대사까지 실시간 네이티브 오디오 를 생성함 Genie 3 도 계속 제…",
      "source": "",
-     "ts": 1794990757
+     "ts": 1795040319
     },
     {
-     "id": "53332d2a07144b36",
-     "title": "YC 스타트업 면접 중 알게 된 내 LinkedIn 무단 사용 사실",
-     "link": "https://news.hada.io/topic?id=37402&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "",
+     "id": "87fca10b123c277f",
+     "title": "Redict 공식 지원 종료",
+     "link": "https://news.hada.io/topic?id=37430&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Redict가 공식적으로 지원 종료 되며, 7.3.6이 마지막 릴리스 임 Redis에서 이탈한 커뮤니티를 카피레프트 프로젝트 로 모으려 했지만, valkey의 성공과 Redis의 카피레프트 라이선스 복귀 속에서 지속 가능한 커뮤니티를 구축하지 못함 기존 사용자에게는 valkey로 전환 할 것을 권장하며, 허용적 라이선스를 사용하지만 장기 전망이 더 낫다고 봄 Redis로의 복귀는 권장하지…",
      "source": "",
-     "ts": 1794987067
+     "ts": 1795039260
     },
     {
-     "id": "74a3c2eca7899b2c",
-     "title": "Show GN: 냥이잡기 - 부정행위를 시도하는 냥이들을 잡는 게임",
-     "link": "https://news.hada.io/topic?id=37401&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "\"제한 시간 45초. 당신은 냥이를 찾아낼 수 있나요?\" 요즘 시험 부정행위 관련해 논란이 많습니다. 심심하던 터라 시험 감독하는 게임 만들어봤습니다. 생각보다 부정행위를 잡아내는 게 어렵네요. 가볍게 만들어 보았으니 심심하실 때 한판 즐겨보시면 좋겠습니다!",
+     "id": "7e0d6c0e54d55b78",
+     "title": "AI 에이전트, 감사 실험에서 KPMG 회계사보다 더 나은 질문 던져",
+     "link": "https://news.hada.io/topic?id=37429&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "KPMG UK가 100개 이상의 AI 에이전트 로 영국 상장사의 재무제표를 검토한 실험에서, 에이전트들이 일부 사안을 기존 감사팀보다 깊이 조사하고 사람이 묻지 않았던 질문을 던짐 Project Exponential 은 단순 행정 보조를 넘어 감사 전반에 에이전트를 투입했으며, 정보 수집부터 분석, 문서화, 결론 초안 작성과 후속 조치 제안까지 수행함 이번 실험은 정식 법정감사가 아니며 ,…",
      "source": "",
-     "ts": 1794987012
+     "ts": 1795037561
     },
     {
-     "id": "c2ccb96b72b4ed0e",
-     "title": "Show GN: Claude Code와 Codex를 한 화면에서 관리하는 macOS 개발 도구를 만들었습니다",
-     "link": "https://news.hada.io/topic?id=37400&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "안녕하세요. 개인적으로 개발하면서 불편했던 점을 해결하려고 codeme라는 데스크톱 앱을 만들었습니다. Claude Code나 Codex를 여러 개 실행하다 보면 터미널도 많아지고, 어떤 에이전트가 어떤 파일을 수정했는지 확인하기 번거롭더라고요. 그래서 Git worktree를 기반으로 에이전트마다 독립적인 작업 공간을 만들고, 진행 상황과 코드 변경 사항을 한 화면에서 확인할 수 있도록…",
+     "id": "3e0a58949a3b0836",
+     "title": "스코틀랜드식 HTTP 상태 코드",
+     "link": "https://news.hada.io/topic?id=37426&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "HTTP 상태 코드 를 스코틀랜드식 말투와 욕설 섞인 짧은 문구로 바꾼 목록임 200 은 “NAE BOTHER”, 즉 “문제없어”, 201 은 “THAT'S IT MADE”, 즉 “다 만들었어”에 해당함 이동을 가리키는 문구 는 “저쪽으로 가”부터 “당분간 저쪽으로 꺼져”, “영원히 저쪽으로 꺼져”까지 구분함 400번대 에는 “넌 대체 누구야”, “돈 내놔”, “씨발 여기 없다고, 친구”…",
      "source": "",
-     "ts": 1794985232
+     "ts": 1795034191
     },
     {
-     "id": "e0b6442c5651b7db",
-     "title": "Show GN: 고객이 직접 문자를 보내는(MO) 방식의 휴대폰 번호 인증 API (웹 SDK 출시)",
-     "link": "https://news.hada.io/topic?id=37398&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "예전에 \"고객이 직접 문자를 보내는(MO) 방식의 휴대폰 인증 API\"로 소개했던 옥토모입니다. 그사이 QR 인증 과 웹 SDK 가 추가되어 다시 공유합니다. 현재 1,000개가 넘는 애플리케이션이 연동해 쓰고 있고, 여러 기업의 서비스에서 실제 회원가입 인증에 사용되고 있습니다. 옥토모가 뭔가요 기존 SMS 인증(MT): 서비스가 사용자에게 인증 문자를 발송합니다. 건당 9~50원에 월…",
+     "id": "5fdd63b62fe9ad99",
+     "title": "캠브리지 사전, ‘human’을 2026년 올해의 단어로 선정",
+     "link": "https://news.hada.io/topic?id=37425&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Cambridge Dictionary가 ‘human’을 2026년 올해의 단어로 선정 함. AI가 사람과 기계의 경계를 흐리면서 인간다운 것은 무엇이며, 무엇을 인간에게 남겨야 하는지 가 중요한 질문으로 떠오름 Bill Gates 는 돌봄 종사자처럼 기계가 대체해서는 안 되는 ‘인간에게 남겨둘 일자리’를 옹호하며, AI의 성공은 인간의 삶을 얼마나 개선하는지 로 평가해야 한다고 봄 배우,…",
      "source": "",
-     "ts": 1794981753
+     "ts": 1795034011
     },
     {
-     "id": "f58407e88c3b82dc",
-     "title": "Show GN: Disposable - AI로 만든 작은 도구를 나누고 각자 에이전트로 다시 만드는 곳",
-     "link": "https://news.hada.io/topic?id=37396&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI로 만든 작은 도구를 나누는 사이트 Disposable을 만들어 혼자 운영하고 있습니다. 에이전트 덕분에 내 일에 딱 맞는 도구를 금방 만들 수 있게 됐지만, 그런 도구는 대개 쓰고 나면 버려지고 비슷한 일이 필요한 사람은 처음부터 다시 만듭니다. 그렇다고 오픈소스로 내놓자니 문서와 유지보수가 부담이고요. 그래서 \"오픈소스처럼 나누고, 관리 부담은 없이. 방법은 남기고, 도구는 내 방식…",
+     "id": "6833a470e02f76b9",
+     "title": "에너지 음료, 심정지 보고 빈도 11배와 연관",
+     "link": "https://news.hada.io/topic?id=37421&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "FDA 이상사례 보고를 분석한 예비 연구에서 에너지 음료와 자극제 함유 보충제 관련 보고는 해당 성분이 없는 제품 관련 보고보다 심정지를 포함하는 빈도가 약 11배 높았음 심근경색 보고 빈도도 약 4.5배 , 심실성 부정맥이나 두근거림은 약 4배 높았지만, 이는 소비자의 실제 발병 위험 배수 를 뜻하지 않음 카페인과 자극제 제품 관련 심혈관 이상사례 보고의 약 45%가 18~34세 에 해당…",
      "source": "",
-     "ts": 1794980786
+     "ts": 1795030361
     },
     {
-     "id": "e0aa3814b66208e9",
-     "title": "USN-9131-1: CRaC JDK 25 vulnerabilities",
-     "link": "https://news.hada.io/topic?id=37395&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Ubuntu Security Notices 의 USN-9131-1 글임. 게시일은 2026년 11월 17일이라고 함. CRaC JDK 25 에서 보안 문제 몇 건이 고쳐졌다고 함. 보안 수정 외에 버그 수정, 새 기능, 그리고 호환되지 않을 수 있는 변경도 패키지에 들어 있다고 함. 이 업데이트는 새 업스트림 릴리스를 쓰고, 추가 버그 수정도 들어 있다고 함. 일반 시스템 업데이트를 한 뒤…",
+     "id": "0b5539d4d812f43a",
+     "title": "폴란드, 칼리닌그라드 접경에서 위장 공작을 저지했다고 밝혀",
+     "link": "https://news.hada.io/topic?id=37420&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "러시아 정보기관이 폴란드에서 대규모 인명 피해 를 일으킨 뒤 우크라이나에 책임을 돌리는 파괴 공작을 계획했으며, 폴란드가 이를 저지하기 위한 작전을 벌였다고 현지 신문이 보도함 계획된 공격 시점은 10월 말~11월 초 , 장소는 칼리닌그라드 접경의 폴란드 영토였으며, 익명 소식통에 따르면 목적은 우크라이나 지원 중단 이었음 폴란드는 협력국 정보기관의 경고 를 받았고 자체 정보 분석에서도 위…",
      "source": "",
-     "ts": 1794980581
+     "ts": 1795027101
     },
     {
-     "id": "4c7c39694f17d891",
-     "title": "FOSS for All Conference 2026: 커뮤니티 주도 국내 오픈소스 컨퍼런스",
-     "link": "https://news.hada.io/topic?id=37394&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "FOSS for All Conference 2026 대한민국 인터넷의 아버지로 불리는 전길남 박사 (KAIST 명예교수)가 FOSS for All Conference 2026 기조연사로 나서 Portable Software, 1983 을 발표함 1980년대 초 컴퓨터 국산화(KIET) 시절의 DOS·UNIX 이식 가능 소프트웨어 개발사, 리처드 스톨먼의 80년대 KAIST 방문 일화부터 오…",
+     "id": "328794cd18f10603",
+     "title": "Microsoft AI, 가격 대비 성능을 앞세운 새 모델 7종 공개",
+     "link": "https://news.hada.io/topic?id=37419&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Microsoft AI가 보안, 코딩, 이미지, 음성, 의사결정 분야의 새 모델 7종 을 출시함. 실제 엔지니어링 작업을 수행하는 에이전트를 24시간 운영할 수 있는 가격대를 목표로 함 MAI Code 2 는 Microsoft의 일상적인 기업 코딩 벤치마크 평균에서 GPT-6.1 Sol 성능의 98%를 약 40% 가격에 제공함 MAI Cyber 2 Flash 는 CyberGym-E2E에서…",
      "source": "",
-     "ts": 1794978766
+     "ts": 1795026921
     },
     {
-     "id": "5546334230851ca3",
-     "title": "GitHub 저장소 페이지 리디자인 제안 (2019)",
-     "link": "https://news.hada.io/topic?id=37393&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "GitHub 저장소 페이지의 정보 구조와 화면 배치 개선안 으로, 중첩 탐색과 불필요한 장식을 줄이고 같은 화면에 더 많은 프로젝트 정보를 담는 데 초점을 맞춤 두 단계로 나뉜 탭을 단일 탐색 메뉴 로 합치고 장식적인 아이콘을 제거해, 저장소 어디서든 Releases 같은 항목에 바로 접근하도록 바꿈 Watch의 현재 상태 를 드롭다운에 명확히 표시하고, 저장소 설명과 주제를 공통 영역으로…",
+     "id": "e26e7391f9cc8d2c",
+     "title": "Inside Deutsche Bank - 1,500만 건 이상 유출 파일로 들여다본 도이체방크 내부",
+     "link": "https://news.hada.io/topic?id=37418&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "1,500만 건 이상 유출 파일 에 기반한 국제 공동 탐사로, 도이체방크의 조직 문화 결함과 구조적 사각지대, 규정 준수보다 이익을 앞세운 행태를 추적함 자료 범위는 금융범죄 방지, 제재 감시, 내부 감사 와 고위험 고객의 거래 관계 유지 또는 종료를 결정하는 부서까지 걸쳐 있음 Jho Low 관련 최소 24건, 총 1억 7,298만 유로의 거래를 처리한 사례와 러시아 자금의 유럽 유입,…",
      "source": "",
-     "ts": 1794978147
+     "ts": 1795023578
     },
     {
-     "id": "648aeff471bf63bd",
-     "title": "Google의 AI 답변, 검색 유입을 40% 줄임",
-     "link": "https://news.hada.io/topic?id=37392&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "미국 데스크톱 사용자를 대상으로 한 무작위 실험에서 구글 검색시 Google AI Overviews가 표시 되면 외부 웹사이트 클릭이 약 40% 감소 함 AI Overviews 노출 범위 가 정보 검색뿐 아니라 상품 비교, 사이트 탐색, 구매 목적 검색까지 확대됨. 미국 중심 키워드에서는 노출 비중이 2024년 9월 약 6%에서 2026년 8월 61%로 늘어남 생성형 엔진 최적화(GEO)…",
+     "id": "8af40242a8ddc0ba",
+     "title": "NGINX HTTP/2 처리에서 인증 없이 원격 코드 실행 가능한 취약점 발견",
+     "link": "https://news.hada.io/topic?id=37417&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "HTTP/2를 활성화한 NGINX에서 인증 없이 원격 코드 실행으로 이어질 수 있는 취약점 2건 이 발견됨. CVE-2026-123633과 CVE-2026-123007이며, CVSS 4.0 기준 9.2점의 Critical 취약점 CVE-2026-123633 은 리버스 프록시 처리 중 연결 슬롯이 부족할 때 발생하는 해제 후 사용(use-after-free) 문제임. 요청 처리에 필요한 연결…",
      "source": "",
-     "ts": 1794976919
+     "ts": 1795023398
     },
     {
-     "id": "1ac22bfcf7dc577c",
-     "title": "IRS 로그인에 요구되는 ID.me 약관 동의",
-     "link": "https://news.hada.io/topic?id=37391&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "IRS 온라인 서비스에 ID.me로 로그인하는 납세자 는 민간 업체인 ID.me의 약관을 적용받음. 다만 IRS는 정부가 운영하는 Login.gov 로그인도 지원함 ID.me 약관은 소액사건을 제외한 분쟁을 원칙적으로 개별 중재 로 처리하며, 배심재판과 집단소송을 포기하도록 함. 최초 동의 후 30일 이내 적용 제외 를 신청할 수 있음 개인정보처리방침은 마케팅 활용과 기업 거래에 따른 정보…",
+     "id": "ee3520281a9bdf0d",
+     "title": "WWDC 2007에서 Steve Jobs가 선보인 Core Animation 데모",
+     "link": "https://news.hada.io/topic?id=37416&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "WWDC 2007의 Core Animation 데모 는 2007년 하드웨어에서 여러 영상의 동시 재생, 즉각적인 확대와 태그 검색을 매끄럽게 보여줌 피드에서 이 데모를 접한 뒤 Sequoia 를 30초 동안 조작해 봤을 때는 패널이 느리게 로딩돼 대조를 이룸 개인적인 체감으로는 Tahoe가 더 나쁘며 , 계속 사용 중인 Sequoia도 그보다 겨우 조금 나은 수준임 다만 이러한 Apple…",
      "source": "",
-     "ts": 1794976739
+     "ts": 1795021279
     },
     {
-     "id": "e79662c3b79bb396",
-     "title": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
-     "link": "https://news.hada.io/topic?id=37390&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "",
+     "id": "4ce4eb4442532583",
+     "title": "모든 작업에 LLM이 필요한 것은 아니다",
+     "link": "https://news.hada.io/topic?id=37415&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "PostHog는 예/아니오나 정해진 선택지와 그 확률을 반환하는 의사결정 모델 을 활용함. 개인정보 탐지, 요청에 맞는 모델 선택, 검색 결과 재정렬처럼 짧은 판단을 반복하는 작업 에 적용 고비용 LLM 호출 전에 간단한 판단을 맡기면 불필요한 호출을 줄일 수 있으며, 개인정보 검사에서는 요약의 98.7%가 LLM 호출을 건너뜀 SQL 조회 결과에 맞는 차트 추천 에도 활용함. 다만 모델이…",
      "source": "",
-     "ts": 1794972659
+     "ts": 1795019613
     },
     {
-     "id": "c5a87c8729b34d6e",
-     "title": "이스라엘 대 Wikipedia",
-     "link": "https://news.hada.io/topic?id=37388&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Tech for Palestine(T4P) 이 2001년 이후 Wikipedia를 친이스라엘 방향으로 조작하려 한 활동 17건을 정리한 보고서를 공개함. 공개 자료를 토대로 이 가운데 최소 9건이 여전히 진행 중이라고 밝힘 보고서는 Wikipedia에 대한 압력을 검색과 AI의 정보에 영향을 미치려는 활동 과 연결함. Wikipedia가 Google 검색과 주요 AI 챗봇의 정보원이 된다는…",
+     "id": "836ddd1e4da56b1a",
+     "title": "Energy-Based Reasoners: 추론 효율 385배 향상",
+     "link": "https://news.hada.io/topic?id=37414&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Energy-Based Reasoners(EBR) 는 잠재 추론 상태의 에너지 함수를 학습하고, 그 에너지를 낮추는 경사 하강으로 반복 추론을 수행하는 모델임 에너지 값 으로 외부 검증기 없이 후보 답을 평가하고, 기울기로 상태 개선 방향과 반복 중단 시점을 결정함 180만 파라미터 로 Sudoku-Extreme 정확도 99.9%를 달성함. 다만 HN 제목의 385배와 달리, 본문의 추론…",
      "source": "",
-     "ts": 1794969143
+     "ts": 1795016452
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "f9eb976542",
@@ -688,6 +688,30 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "6b1c3a3703496825",
+     "title": "구글, 세계 3위 성능 '제미나이 4 네온' 출시…작업 비용 32% 절감",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217546",
+     "summary": "구글이 최상위 모델에 가까운 성능을 유지하면서 복잡한 업무의 처리 비용을 낮춘 '제미나이 4 네온(Gemini 4 Neon)'을 출시했다. 종합 지능 평가에서 기존 '제미나이 4 카본'을 소폭 앞섰으며, 코딩과 기업 업무 자동화, 과학 연구 등 다양한 분야에서 높은 성능을 기록한 것이 특징이다.구글은 18일(현지시간) 공식 블로그를 통해 제미나이 4 제품군의 새로운 모델인 네온을 공개했다.…",
+     "source": "",
+     "ts": 1795077568
+    },
+    {
+     "id": "7d08941b9612b2aa",
+     "title": "엔비디아, 첫 직원회의서 \"앞으로 나아가자\"…황 복귀 배제",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217545",
+     "summary": "엔비디아가 젠슨 황 전 CEO의 퇴임 이후 처음 열린 전 직원회의에서 새로운 경영 체제로의 전환을 강조했다. 일부 직원들이 황의 복귀를 요구하는 가운데 경영진은 복귀 불가 방침을 재확인하고, 기존 사업 전략을 유지하겠다고 약속했으며 임금 인상과 주식 보상 일정도 앞당기기로 했다.블룸버그와 뉴욕타임스(NYT), CNBC 등은 18일(현지시간) 엔비디아가 미국 캘리포니아주 산타클라라 본사에서…",
+     "source": "",
+     "ts": 1795071624
+    },
+    {
+     "id": "f293f96abdc40b66",
+     "title": "[11월18일] 미국 핵심 시스템 줄줄이 마비…해킹 없었지만 AI 공격 공포 커져",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217524",
+     "summary": "미국에서 항공관제와 은행, 마이크로소프트(MS), 애플, 국가안보국(NSA)까지 주요 시스템이 잇따라 마비되면서 기술에 대한 불안감이 커지고 있습니다. 사이버 공격이나 AI가 원인이라는 증거는 없지만, 최근 AI의 소프트웨어 취약점 발견 능력이 급격히 발전하고 실제 브라우저 보안 사고까지 발생한 상황에서 AI를 이용한 대규모 사이버 공격에 대한 공포도 커지고 있다는 점이 주목됩니다.주요 외…",
+     "source": "",
+     "ts": 1795071600
+    },
     {
      "id": "175ff06b00571835",
      "title": "오픈AI \"사이버 보안, 코딩보다 큰 사업 될 것\"…신성장 동력 육성",
@@ -698,7 +722,7 @@
     },
     {
      "id": "b8e5ef61d2ef9ee8",
-     "title": "앤트로픽·오픈AI 등 주요 모델, ‘게임’으로 속이자 민간인까지 군사 표적으로 식별",
+     "title": "앤트로픽·오픈AI 모델, ‘게임’으로 속이자 민간인을 군사 표적으로 식별",
      "link": "https://www.aitimes.com/news/articleView.html?idxno=217523",
      "summary": "앤트로픽과 오픈AI, 구글, 딥시크 등 주요 AI 기업의 모델이 간단한 프롬프트 조작만으로 민간인과 학교까지 군사 표적으로 식별하는 것으로 나타났다. 전쟁 상황을 '게임'이라고 설명하면 안전장치를 우회하는 사례도 확인돼 AI의 군사적 오용을 막기 위한 추가 대책이 필요하다는 지적이다.미국 AI 평가 스타트업 발스 AI(Vals AI)는 17일(현지시간) 연구 보고서에서 주요 AI 모델을 대…",
      "source": "",
@@ -754,7 +778,7 @@
     },
     {
      "id": "e1f10d0d01a87811",
-     "title": "허사비스의 AI 신약 기업, 6개월 새 9.4조 투자 유치…임상시험 본격 추진",
+     "title": "허사비스의 AI 신약 기업, 6개월 새 9.4조 투자 유치…임상시험 추진",
      "link": "https://www.aitimes.com/news/articleView.html?idxno=217528",
      "summary": "데미스 허사비스 구글 딥마인드 공동창업자가 설립한 AI 신약 개발 스타트업 아이소모픽 랩스(Isomorphic Labs)가 50억달러(약 6조6000억원) 규모의 투자를 유치했다. 지난 5월 21억달러를 조달한 데 이어 불과 6개월 만에 총 71억달러(약 9조4000억원)를 확보하며, AI로 설계한 자체 신약 후보물질의 임상시험 진입을 추진하고 있다.아이소모픽 랩스는 17일(현지시간) 공식…",
      "source": "",
@@ -823,34 +847,10 @@
      "summary": "광주과학기술원(GIST)이 올해 AI대학을 출범시키고 반도체 설계 전문교육을 시작한 데 이어 AI반도체연구원 설립을 추진한다. 기존 교육조직 확대와 전문인력 양성을 바탕으로 반도체 설계부터 패키징·시험·실증까지 아우르는 연구체계를 구축하겠다는 계획이다.GIST는 지난 16일 설립 33주년 기념식을 열고 이 같은 구상을 포함한 중기 발전계획 'GIST 비전 2035'를 발표했다고 17일 밝혔…",
      "source": "",
      "ts": 1795013602
-    },
-    {
-     "id": "82a08d4e1e4381bc",
-     "title": "노타, AI 에이전트 성능 높이는 풀스택 최적화 기술 공개...\"시간 47%·토큰 60% 절감\"",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217515",
-     "summary": "노타(대표 채명수)는 19일 AI 모델 경량화와 GPU 커널 최적화에 AI 에이전트의 작업 흐름까지 제어하는 ‘풀스택 최적화’ 기술을 공개했다.회사 측은 동일한 AI 모델과 GPU 환경에서 코딩 에이전트 클라인 기본 구성 대비 작업 시간을 최대 47%, 출력 토큰을 최대 60% 줄여 별도의 장비 증설이나 모델 교체 없이 기존 AI 인프의 활용 효율을 높였다고 밝혔다.에이전트는 하나의 요청을…",
-     "source": "",
-     "ts": 1795013331
-    },
-    {
-     "id": "9bf1a4f85ff50ed2",
-     "title": "MS, '코파일럿'에 상시 업무 수행 AI 도입…기업용 에이전트 관리도 강화",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217532",
-     "summary": "마이크로소프트(MS)가 이용자의 반복적인 지시 없이 업무를 수행하는 AI 에이전트 '오토파일럿(Autopilot)'을 코파일럿에 도입했다. 여러 직원과 AI 에이전트가 협업하는 기능을 추가하고, 기업이 에이전트의 활동과 비용, 보안까지 통합 관리하는 시스템도 강화했다.MS는 17일(현지시간) 미국 샌프란시스코에서 열린 연례 기술 행사 '이그나이트 2026'에서 코파일럿의 새로운 기능과 기업…",
-     "source": "",
-     "ts": 1795012733
-    },
-    {
-     "id": "caa6f8c9bcb7d03e",
-     "title": "젠슨 황 딸, 메가스피드 의혹 대응 관여…엔비디아 가족 경영 논란",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217518",
-     "summary": "젠슨 황의 딸 매디슨 황이 중국 칩 밀수 의혹에 휩싸인 싱가포르 클라우드 기업 메가스피드(Megaspeed)와 엔비디아의 거래를 둘러싼 회사의 대외 대응에 깊이 관여한 것으로 알려졌다. 가족 중심의 경영 구조와 친인척의 고위직 승진을 둘러싼 내부 우려까지 다시 부각되면서, 황의 사임 이후 진행 중인 이사회 조사에도 관심이 쏠리고 있다.파이낸셜타임스(FT)는 17일(현지시간) 복수의 소식통을…",
-     "source": "",
-     "ts": 1795010563
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "19ef1c7741",
@@ -940,7 +940,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "263d8d0ce8",
@@ -1030,7 +1030,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "7ebf5b6c9a",
@@ -1120,7 +1120,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "2c60dce9bd",
@@ -1290,7 +1290,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "95180fe28d",
@@ -1460,7 +1460,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   },
   {
    "id": "c15f1e5a65",
@@ -1630,7 +1630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795022359
+   "last_ok": 1795048127
   }
  ]
 }
