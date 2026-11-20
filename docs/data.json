@@ -1,5 +1,5 @@
 {
- "generated_at": 1795179760,
+ "generated_at": 1795211474,
  "top_n": 20,
  "feeds": [
   {
@@ -8,6 +8,134 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "e42ee5271dfd82bc",
+     "title": "' AI 커닝' 비상인데, 수능 문제로 출제 된 AI …윤석열 정부 도 등장 - 한겨레",
+     "link": "https://www.hani.co.kr/arti/society/schooling/1288390.html",
+     "summary": "초소형카메라, 스마트폰 같은 전자기기와 생성형 인공지능 을 활용한 부정행위를 막으려 정부 가 대책을 쏟아낸 가운데 치러진 2027학년도 대학수학능력시험에 ...",
+     "source": "",
+     "ts": 1795201247
+    },
+    {
+     "id": "49e81c645360042e",
+     "title": "한국 전자 정부 , 12년 만에 세계 1위 탈환…덴마크·싱가포르 제쳤다",
+     "link": "https://www.sisaworld.kr/news/articleView.html?idxno=26674",
+     "summary": "이어 국민 누구나 인공지능 의 혜택을 누릴 수 있는 ' AI 민주 정부 '를 속도감 있게 구현하겠다고 밝혔다. 이번 1위 탈환은 한국 전자 정부 가 기존의 온라인 행정 ...",
+     "source": "",
+     "ts": 1795200910
+    },
+    {
+     "id": "f0b1608fc3562635",
+     "title": "한국, UN 전자 정부 평가 세계 최정상 탈환…'12년만' - 연합뉴스",
+     "link": "https://www.yna.co.kr/amp/view/MYH20261120021300038",
+     "summary": "2년마다 이뤄지는 평가에서 우리나라가 1위에 오른 건 12년 만인데요. 이재경 기자가 보도합니다. [기자]. 인공지능 ( AI ) 국민비서에게 주민등록등본 발급을 요청 ...",
+     "source": "",
+     "ts": 1795191422
+    },
+    {
+     "id": "d28b3eefe850113a",
+     "title": "AI 데이터센터 전력계통영향평가, 비수도권 50MW 이하 면제…특구는 '기술 평가만' - 뉴스센터",
+     "link": "https://www.newscenterkorea.com/news/articleView.html?idxno=2721",
+     "summary": "과기정통부 ·기후부 시행령 입법예고…메가 프로젝트 ·일괄처리 대상은 '패스트트랙' ... ' 인공지능 데이터센터 산업 진흥에 관한 특별법'은 비수도권에 신축 ...",
+     "source": "",
+     "ts": 1795190802
+    },
+    {
+     "id": "182c339158df4da3",
+     "title": "AI 데이터센터 전력계통영향평가 손질…비수도권 50MW 이하 면제 - 전기신문",
+     "link": "https://www.electimes.com/news/articleView.html?idxno=374994",
+     "summary": "과기정통부 ·기후부, AIDC 맞춤형 평가 개선 추진 특구 내 비기술적 평가 면제·메가 프로젝트 우선 처리 ... 정부 가 인공지능 ( AI ) 데이터센터(AIDC)의 신속한 구축을 ...",
+     "source": "",
+     "ts": 1795188351
+    },
+    {
+     "id": "a4298cfbdbc19e6f",
+     "title": "'모두의 창업' 5개월 만에 두 번째 유출…이번엔 AI 솔루션 공급기업이 뚫려 - 조달경제신문",
+     "link": "https://www.jodaleconomy.com/news/articleView.html?idxno=3615",
+     "summary": "정부 창업 지원 사업 '모두의 창업'에서 5개월 만에 두 번째 개인정보 유출 사고가 났다.올해 6월에는 정부 플랫폼에서 합격자 5000명의 정보가 새 나갔고,",
+     "source": "",
+     "ts": 1795187619
+    },
+    {
+     "id": "24ec35555329a235",
+     "title": "베트남, 법률교육에 AI ·디지털 기술 도입…법률정보 접근권 강화 - 법치뉴스",
+     "link": "http://www.bubb.co.kr/news/articleView.html?idxno=6238",
+     "summary": "/사진=베트남 정부 포털. 베트남이 인공지능 ( AI )과 디지털 기술을 활용해 국민의 법률정보 접근권을 확대하고 정책 수립 과정에 시민 참여를 강화하는 법률교육 ...",
+     "source": "",
+     "ts": 1795186493
+    },
+    {
+     "id": "d4eedab472baaa9c",
+     "title": "정부 , '시험 공정성 회복 TF' 가동… AI 부정행위 원천 차단 - 더나은미래",
+     "link": "https://futurechosun.com/archives/167297",
+     "summary": "... 2027학년도 대학수학능력시험(수능)을 앞두고 운영한 ' 인공지능 ( AI ) ... 대응반은 2027학년도 대학별고사 일정 이 모두 마무리될 때까지 상시 ...",
+     "source": "",
+     "ts": 1795186448
+    },
+    {
+     "id": "1ee1346296698e66",
+     "title": "한국, UN 전자 정부 평가 '세계 1위'… 정부 24·모바일 신분증 등 호평 - 한국방송뉴스",
+     "link": "https://www.ikbn.news/news/article.html?no=217726",
+     "summary": "행안부는 인공지능 과 생애주기 중심의 공공서비스 혁신을 추진해 온 정부 의 ' AI 민주 정부 ' 정책 방향이 올해 유엔의 평가 의제인 '디지털 정부 에서 에이전틱 정부 ...",
+     "source": "",
+     "ts": 1795184071
+    },
+    {
+     "id": "b66bc9be0b78a494",
+     "title": "정부 , AIDC 기준 신설…비수도권 50MW 이하는 전력계통영향평가 면제 - 테크월드",
+     "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410101",
+     "summary": "GPU와 NPU 등 AI 가속기를 일정 규모 이상 갖추고 이를 운영하기 위한 전력·냉각 설비를 확보하면서 설계전력비율이 1.5 이하여야 한다. AI 장비전력 기준은 ...",
+     "source": "",
+     "ts": 1795181390
+    },
+    {
+     "id": "f40b7ec7732d167b",
+     "title": "SK텔레콤, 디지털헬스학회 추계학술대회서 A.X 모델 발표 - MEDI:GATE NEWS",
+     "link": "https://www.medigatenews.com/news/2728639954",
+     "summary": "... AI 연구원 등 정부 독자 AI 파운데이션 모델(독파모) 프로젝트 3개 정예팀이 발표하는 세션을 연다고 19일 밝혔다. 세션 주제는 K-파운데이션 모델과 디지털 ...",
+     "source": "",
+     "ts": 1795179796
+    },
+    {
+     "id": "7e031b3f96f413f9",
+     "title": "국산 NPU 7개사 만난 국가 AI 전략위…\"실증부터 판로까지 지원\" - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261120103721",
+     "summary": "정부 가 국산 인공지능 ( AI ) 반도체 상용화를 촉진하기 위해 국산 AI 모델과 ... 하 부위원장은 첫 일정 으로 광주 인공지능 산업융합사업단(AICA)에서 ...",
+     "source": "",
+     "ts": 1795179644
+    },
+    {
+     "id": "0b7e6a55c503063b",
+     "title": "국가 AI 전략위, 전남광주 AI 현장 점검…국산 NPU·조선 AX· AI 컴퓨팅센터 잇는다 - 테크월드",
+     "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410096",
+     "summary": "... 정부 정책 과 연계해 국산 AI 반도체부터 AI 인프라, 산업 현장 적용까지 이어지는 생태계를 점검하기 위해 마련됐다. 하 부위원장은 첫 일정 으로 광주 인공지능 ...",
+     "source": "",
+     "ts": 1795177555
+    },
+    {
+     "id": "9d0c59722a06b692",
+     "title": "AI 데이터센터 신속 구축 위해 규제 푼다…비수도권 50MW까지 전력영향평가 면제 - 부산일보",
+     "link": "https://www.busan.com/view/busan/view.php?code=2026112013164425699",
+     "summary": "다른 사업자의 인공지능 ( AI ) 장비를 설치·운영할 수 있도록 공간과 설비 ... 과기정통부 관계자는 “메가 프로젝트 등 GW(기가와트)급 대규모 AI 데이터 ...",
+     "source": "",
+     "ts": 1795177001
+    },
+    {
+     "id": "fffff82093313b8a",
+     "title": "「 인공지능 데이터센터 특별법」 하위법령 제정안 입법예고 - 문서뷰어",
+     "link": "https://www.korea.kr/docViewer/iframe_skin/doc.html?fn=438071974489594bb435583625def7b0&rs=/docViewer/result/2026.11/20/438071974489594bb435583625def7b0",
+     "summary": "(AIDC 특별법 시행령 제3조) · AIDC를 ➀ AI 가속기(GPU·NPU 등)를 일정 규모* 이상 보유하며, ➁해당 가속기 운영에 필수적인 전력·냉각 등 설비를 갖추고, ➂설계 ...",
+     "source": "",
+     "ts": 1795176107
+    },
+    {
+     "id": "bea37a99ebc58a5a",
+     "title": "한국, 12년만에 UN 전자 정부 평가 '세계 1위'…“ AI 민주 정부 도약” - 조선비즈",
+     "link": "https://biz.chosun.com/topics/topics_social/2026/11/20/FELYBADZ75BJVEGFXN2JJS65KU/",
+     "summary": "정부 는 이번 성과를 토대로 세계 최고의 ' 인공지능 ( AI ) 민주 정부 '로 도약한다는 계획이다. ... 정책 과정에 참여할 수 있는지를 살펴본다. 통신인프라는 ...",
+     "source": "",
+     "ts": 1795171519
+    },
     {
      "id": "96cf3a6efa8c5b30",
      "title": "과기정통부 -기후부, 인공지능 데이터센터 신속 구축을 위한 전력계통영향평가 제도 개선 추진",
@@ -25,152 +153,24 @@
      "ts": 1795170727
     },
     {
+     "id": "785adc7d228ef69e",
+     "title": "비수도권 50㎿ 이하 AI 데이터센터, 전력계통영향평가 면제 - 에너지뉴스",
+     "link": "https://www.2news.co.kr/news/articleView.html?idxno=33390",
+     "summary": "정부 가 비수도권에 구축하는 계약전력 50㎿(메가와트) 이하 인공지능 ( AI ) 데이터센터에 대해 전력계통영향평가를 면제하는 방안을 추진한다. AI 데이터센터 ...",
+     "source": "",
+     "ts": 1795170341
+    },
+    {
      "id": "0504bac6c1b7b0a1",
      "title": "정부 인정 AIDC 기준 나왔다...AIDC 특별법 하위법령서 구체화 - AI 타임스",
      "link": "https://www.aitimes.com/news/articleView.html?idxno=217609",
      "summary": "과학기술정보통신부 는 ' 인공지능 데이터센터 산업 진흥에 관한 특별법(AIDC ... 이들 하위법령에 따르면, AIDC는 GPU·NPU 등 AI 가속기를 일정 규모 이상 보유하고 ...",
      "source": "",
      "ts": 1795169221
-    },
-    {
-     "id": "13c3e134004140bf",
-     "title": "통신망도 `자율주행` 시대… 정부 , 6G NW AI 에이전트 개발 추진 - 디지털데일리",
-     "link": "https://www.ddaily.co.kr/page/view/2026112002301345469",
-     "summary": "[사진= AI 기반 생성이미지][디지털데일리 강소현 기자] 정부 가 6G 시대에 대비해 통신망을 스스로 운영하는 인공지능 ( AI ) 에이전트 개발을 추진한다.",
-     "source": "",
-     "ts": 1795168206
-    },
-    {
-     "id": "eea19d02b843fdb7",
-     "title": "美, 중국에 AI 반도체 88만개 수출 승인…첨단 반도체 통제 논란 - 동아사이언스",
-     "link": "https://www.dongascience.com/ko/news/80990",
-     "summary": "미국 정부 가 AI 반도체 수출을 승인한 중국 기업 일부가 미국 국방부가 중국군 관련 기업으로 분류한 곳으로 확인돼 미국의 첨단 반도체 수출통제 정책 을 ...",
-     "source": "",
-     "ts": 1795167983
-    },
-    {
-     "id": "7a9ca536fe4ba595",
-     "title": "[ AI 고속도로] AI 데이터센터 구축 문턱 낮아진다…업계 기대 속 남은 과제는 - 지디넷코리아",
-     "link": "https://zdnet.co.kr/view/?no=20261120171231",
-     "summary": "정부 가 인공지능 데이터센터(AIDC) 구축에 걸림돌로 작용했던 행정 절차를 개선하면서 국내 AI 인프라 사업자들의 투자 부담이 줄어들 전망이다.",
-     "source": "",
-     "ts": 1795167938
-    },
-    {
-     "id": "56eadba797f33abb",
-     "title": "비수도권 AI 데이터센터, 계약전력 50MW 이하 계통영향평가 면제되나 - 수소신문",
-     "link": "https://www.hydrogennews.co.kr/news/articleView.html?idxno=5228",
-     "summary": "... 인공지능 ( AI ) 데이터센터 가운데 ... 정부 는 대규모 사업에 대해서는 평가를 유지하되, AI 데이터센터 특구에 들어서면 평가 항목을 줄이고 메가 프로젝트 ...",
-     "source": "",
-     "ts": 1795166569
-    },
-    {
-     "id": "d5d29854fa9bda71",
-     "title": "과기정통부 , AIDC 특별법 하위법령 입법예고…인허가·전력평가 기준 구체화",
-     "link": "https://byline.network/2026/11/1120-8/",
-     "summary": "AIDC 특별법은 AI 시대 핵심 인프라인 인공지능 데이터센터의 구축과 안정적인 운영을 지원하기 위해 여야 합의로 제정됐다. 법률은 지난 6월9일 공포됐으며, ...",
-     "source": "",
-     "ts": 1795166302
-    },
-    {
-     "id": "33136ea670493646",
-     "title": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련 - 대한민국 정책브리핑",
-     "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
-     "summary": "과학기술정보통신부 는 ' 인공지능 데이터센터 산업 진흥에 관한 특별법 ... 정부 가 반도체· AI ·데이터센터 등 3대 메가 프로젝트 를 발표한 지난 6월 29일 ...",
-     "source": "",
-     "ts": 1795164568
-    },
-    {
-     "id": "0554810af6522cd8",
-     "title": "AI 데이터센터 구축 규제 완화…비수도권 50MW 이하 전력영향평가 면제",
-     "link": "https://www.weeklypeople.net/view.do?seq=23844",
-     "summary": "[위클리피플 김진욱 기자] 정부 가 인공지능 ( AI ) 데이터센터의 신속한 구축과 ... 일정 규모 이상의 AI 가속기를 보유하고 전력·냉각 등 필수 설비를 ...",
-     "source": "",
-     "ts": 1795164071
-    },
-    {
-     "id": "aef80788e2e1d258",
-     "title": "한국, 유엔 전자 정부 평가 12년 만에 194개국 중 '1위' - 인더스트리뉴스",
-     "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89956",
-     "summary": "행안부는 인공지능 ( AI )을 공공서비스에 활용하려는 정부 정책 이 올해 유엔이 제시한 '디지털 정부 에서 에이전틱 정부 로의 전환'이라는 평가 방향과 맞닿아 있다고 ...",
-     "source": "",
-     "ts": 1795163621
-    },
-    {
-     "id": "4454eb6377cf9966",
-     "title": "대한민국, 국제연합(UN) 전자 정부 평가 12년 만에 세계 1위 탈환 | 경제 정책 자료 |KDI 경제교육·정보센터",
-     "link": "https://eiec.kdi.re.kr/policy/materialView.do?num=289864",
-     "summary": "- 3대 핵심 영역 전반에서 고르게 최상위권의 성적을 거둔 데다, 인공지능 과 생애주기 중심의 공공서비스 혁신을 추진해 온 ' AI 민주 정부 ' 기조가 올해 유엔의 ...",
-     "source": "",
-     "ts": 1795162832
-    },
-    {
-     "id": "7c60d06e97c0ab2e",
-     "title": "MS·Google·AWS와 손잡고 교사의 인공지능 ( AI )·융합교육 역량을 키운다 | 경제 정책 자료",
-     "link": "https://eiec.kdi.re.kr/policy/materialView.do?num=289861",
-     "summary": "교육부는 '26.11.21.(토)부터 12.5.(토)까지 마이크로소프트(MS) · 구글(Google) · 아마존웹서비스(AWS)와 연계해 「 인공지능 ( AI )·융합교육 교사연구회 역량 ...",
-     "source": "",
-     "ts": 1795162830
-    },
-    {
-     "id": "8aa96bd2dc91c29c",
-     "title": "규제는 한 곳에, 중복 조항은 정비 목록에… 정부 ' AI 규제비서' 띄운다 - 비즈한국",
-     "link": "https://bizhankook.com/articles/ai-regulatory-assistant-launched.html",
-     "summary": "정부 가 부처별로 흩어진 규제 정보를 통합하고 정비를 돕는 ' AI 규제정보분석시스템' 구축을 추진합니다. 생성형 AI 를 활용한 ' AI 규제비서'가 내년 1월 ...",
-     "source": "",
-     "ts": 1795161714
-    },
-    {
-     "id": "4228cd492c12dd79",
-     "title": "[권향엽 국회의원, 2026 국정감사 활약상] AI 대전환부터 정책 자금 부실관리까지 '집중 질의'",
-     "link": "http://www.gynet.co.kr/news/articleView.html?idxno=57368",
-     "summary": "권향엽 국회의원이 2026년 국회 산업통상자원중소벤처기업위원회 국정감사에서 △ 정부 AI 대전환 정책 △중소기업 지원사업 실효성 △공공기관 방만경영 ...",
-     "source": "",
-     "ts": 1795161636
-    },
-    {
-     "id": "361aef20bca1499e",
-     "title": "과기정통부 -기후부, 인공지능 데이터센터 신속 구축을 위한 전력계통영향평가 제도 개선 추진",
-     "link": "https://www.hellot.net/news/article.html?no=116471",
-     "summary": "과학기술정보통신부 와 기후에너지환경부가 AI 데이터센터(AIDC)의 신속한 ... 또 AIDC 특구 내 AIDC는 비기술적 평가를 면제해 평가를 간소화하고, 메가 프로젝트 ...",
-     "source": "",
-     "ts": 1795160421
-    },
-    {
-     "id": "1fc4e7fd1b0afe0b",
-     "title": "센스톤 'OTAC TAG', 백악관·텍사스 추진 '수도 인프라 사이버 방어' 프로젝트 합류 - 보안뉴스",
-     "link": "https://www.boannews.com/news/articleView.html?idxno=147416",
-     "summary": "조달청·한국 정책 학회, AI 시대 공공조달 미래전략 세미나 공동 개최 ... 센스톤, 과기정통부 피지컬 AI 보안 과제에서 'OT 구간 보안' 기술 개발 맡는다.",
-     "source": "",
-     "ts": 1795158195
-    },
-    {
-     "id": "aabd6372c7685074",
-     "title": "비수도권 AI 데이터센터, 50MW 이하면 전력계통영향평가 면제 - 더트래커",
-     "link": "https://thetracker.co.kr/View.aspx?No=4322589",
-     "summary": "정부 가 비수도권 인공지능 데이터센터(AIDC) 구축을 촉진하기 위해 전력계통 ... 정부 는 계약전력 100MW 이상인 시설 중 GW급 메가 프로젝트 에 해당하는 ...",
-     "source": "",
-     "ts": 1795158093
-    },
-    {
-     "id": "ae21f00a198d3b8d",
-     "title": "K-GX, 진정한 녹색전환 출발점 되려면...그린 AI 정책 까지 포함해야 - ESG경제",
-     "link": "https://www.esgeconomy.com/news/articleView.html?idxno=17489",
-     "summary": "K-GX 전략은 10대 녹색산업의 2035 기술개발 목표 및 일정 을 ... 인공지능 ( AI ) 산업의 발전, 즉 그린 AI 정책 이다. 정부 가 앞서 발표한 '3대 메가 프로젝트 ...",
-     "source": "",
-     "ts": 1795157651
-    },
-    {
-     "id": "ba8f968431342cc4",
-     "title": "AI 안전포럼, 12월 7일 국회서 제2차 정책 세미나 개최… AI 혁신·안전 공존 해법 모색 - 전자신문",
-     "link": "https://www.etnews.com/20261120000276",
-     "summary": "송기헌 국회 과방위원장 주최… 정부 ·산업계·학계 전문가 참여. AI 안전성 평가·검증 역량 강화 및 민관 협력 거버넌스 구축 논의. Photo Image. 인공지능 ( AI ) ...",
-     "source": "",
-     "ts": 1795156456
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "cf53c0f1af",
@@ -340,7 +340,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "25ac01331a",
@@ -348,6 +348,62 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "8b96bab42047b10f",
+     "title": "Second judge to block Trump's contested D.C. arch",
+     "link": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+     "summary": "A second federal judge will block construction on President Trump 's embattled arch set to be erected near Arlington National Cemetery , multiple outlets reported Friday. Why it matters: It represents yet another barrie…",
+     "source": "",
+     "ts": 1795210349
+    },
+    {
+     "id": "0569dbb41fdaad66",
+     "title": "Congress gets a historic overhaul from every direction",
+     "link": "https://www.axios.com/2026/11/20/house-senate-freshmen-class-largest-decades",
+     "summary": "Senate data includes members who served nonconsecutive terms; House data does not. Data: House historian, U.S. Senate ; Chart: Erin Davis/Axios Americans want change , and they're about to get it: A perfect storm of con…",
+     "source": "",
+     "ts": 1795209621
+    },
+    {
+     "id": "1de069dddb7de2a5",
+     "title": "Trump floats major tax on U.S. companies constructing data centers overseas",
+     "link": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+     "summary": "President Trump on Friday said he would block U.S. companies from building data centers overseas or impose a \"tremendous tax\" on them if they do. Why it matters: Trump's push to keep AI infrastructure in the country com…",
+     "source": "",
+     "ts": 1795202273
+    },
+    {
+     "id": "2f78c477f8b8bcd8",
+     "title": "Johnson urges Republicans to show up to work",
+     "link": "https://www.axios.com/2026/11/20/house-republicans-mike-johnson-attendance-midterms",
+     "summary": "Speaker Mike Johnson (R-La.) is warning House Republicans that their jobs aren't over yet after so many skipped town this week that GOP leaders had to call it quits. Why it matters: Republicans still have a month-plus l…",
+     "source": "",
+     "ts": 1795199014
+    },
+    {
+     "id": "e1b8db06b8a485ad",
+     "title": "Trump secretary's Christian messages to staff went \"too far,\" judge rules",
+     "link": "https://www.axios.com/2026/11/20/brooke-rollins-christian-messages-judge",
+     "summary": "A federal judge said Thursday that Agriculture Secretary Brooke Rollins' overtly Christian messages to department employees went \"too far\" and put enough pressure on staff to raise a First Amendment violation. The big p…",
+     "source": "",
+     "ts": 1795189324
+    },
+    {
+     "id": "3eaddc5cb54edcc5",
+     "title": "Anthropic is public, now comes the hard part",
+     "link": "https://www.axios.com/2026/11/20/anthropic-public-shareholders",
+     "summary": "Data: FactSet; Chart: Matt Phillips/Axios With its IPO done and dusted, Anthropic's shareholders will be watching its progress toward becoming a business that doesn't need constant capital infusions from investors and v…",
+     "source": "",
+     "ts": 1795176608
+    },
+    {
+     "id": "d84b36548cf39d0a",
+     "title": "GTA VI hijacks America",
+     "link": "https://www.axios.com/2026/11/20/gta-6-viral-moments-monoculture",
+     "summary": "The internet's warring tribes converged Thursday for the loud, lawless debut of \" Grand Theft Auto VI ,\" as 13 years of anticipation culminated in one of the great viral spectacles of all time. Why it matters: In a medi…",
+     "source": "",
+     "ts": 1795171504
+    },
     {
      "id": "9b0b3e4964905173",
      "title": "America's religious \"nones\" move from voters to lawmakers",
@@ -451,66 +507,10 @@
      "summary": "President Trump still considers Elon Musk an ally despite the world's richest man saying he's \"not MAGA,\" the president told NBC News on Thursday. Why it matters: Musk's latest break from Trump's political movement come…",
      "source": "",
      "ts": 1795110640
-    },
-    {
-     "id": "d5890408f66d2659",
-     "title": "Meta rethinks climate goal as AI emissions soar 45%",
-     "link": "https://www.axios.com/2026/11/19/meta-ai-emissions-rise",
-     "summary": "Meta's greenhouse gas emissions surged 45% last year amid its AI infrastructure boom, prompting the tech giant to reconsider its goal of reaching net-zero emissions by 2030. Why it matters : Other tech giants have repor…",
-     "source": "",
-     "ts": 1795107648
-    },
-    {
-     "id": "2d9b0084bc644b5e",
-     "title": "Myanmar becomes first state found responsible for genocide by UN court",
-     "link": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
-     "summary": "Myanmar became the first state the International Court of Justice has held responsible for committing genocide in a landmark ruling Thursday. Why it matters: The decision could have far-reaching implications for other g…",
-     "source": "",
-     "ts": 1795105315
-    },
-    {
-     "id": "fa9bfba5949da6d4",
-     "title": "Why the Senate energy permitting bill might become law",
-     "link": "https://www.axios.com/2026/11/19/energy-permitting-bill-senate-politics",
-     "summary": "If the sweeping Senate permitting bill becomes law, it will reflect a rare convergence of political and market forces strong enough to trump the Beltway aversion to big, bipartisan deals. Why it matters: The bill could…",
-     "source": "",
-     "ts": 1795095980
-    },
-    {
-     "id": "bc80716f0fe45a2e",
-     "title": "New alarm over China controlling drug supply chains",
-     "link": "https://www.axios.com/2026/11/19/china-biotech-policy-warning",
-     "summary": "China is intensifying efforts to control the entire drug supply chain, putting the U.S. at risk of being cut off from future lifesaving treatments, the National Security Commission on Emerging Biotechnology warns in a n…",
-     "source": "",
-     "ts": 1795084205
-    },
-    {
-     "id": "68413ff474446dbc",
-     "title": "Poll: Republicans in early 2028 primary states back Israel, not its critics",
-     "link": "https://www.axios.com/2026/11/19/republicans-israel-poll-2028-primary-states",
-     "summary": "Republican voters in four early 2028 primary states have favorable views of Israel by wide margins and have negative opinions of three leading right-wing critics of the Jewish state, according to a new poll by a nationa…",
-     "source": "",
-     "ts": 1795083605
-    },
-    {
-     "id": "6f70168f6a21bc7a",
-     "title": "Putting cyber risk in perspective, from the experts (our own CTO)",
-     "link": "https://www.axios.com/2026/11/19/cybersecurity-worries",
-     "summary": "Axios chief technology officer Dan Cox, who's spent 25 years at some of the world's biggest tech companies, puts the recent spate of high-profile failures in perspective: My parents, my siblings and plenty of other peop…",
-     "source": "",
-     "ts": 1795083017
-    },
-    {
-     "id": "5ce699bc856d9e7f",
-     "title": "Doomsday prepping goes mainstream",
-     "link": "https://www.axios.com/2026/11/19/tech-outages-emergency-preparedness-prepper-boom",
-     "summary": "The internet has caught the emergency preparation bug , fueled by fears of AI-led cyberattacks , power grid vulnerabilities, transportation standstills and international threats . The big picture: The \"prepper\" mindset…",
-     "source": "",
-     "ts": 1795083016
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "cc992ff5f1",
@@ -518,6 +518,150 @@
    "url": "https://news.hada.io/rss/news",
    "site": "https://news.hada.io",
    "items": [
+    {
+     "id": "b3b3263d8b44b1f6",
+     "title": "Oxygene의 제작 과정",
+     "link": "https://news.hada.io/topic?id=37544&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Jean-Michel Jarre의 Oxygène 은 파리 아파트 주방에서 8트랙 녹음기와 제한된 전자악기로 만든 연주 앨범으로, 1976년 프랑스 발매 이후 전 세계 약 2,000만 장 판매에 이름 실험적 사운드와 팝 멜로디의 결합 이 제작의 중심이었으며, 손으로 연주한 시퀀스와 미세하게 바뀌는 음색이 반복되는 패턴에도 생동감을 더함 50주년 기념판 은 2026년 11월 20일 발매 예정이…",
+     "source": "",
+     "ts": 1795207102
+    },
+    {
+     "id": "06ee7ca48159ce29",
+     "title": "Navier–Stokes 방정식의 유한 시간 발산",
+     "link": "https://news.hada.io/topic?id=37543&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "유한 시간 발산 을 다루는 논문과 이에 동반하는 Lean 4 형식화 를 담은 저장소임 형식화는 정리의 명세와 증명을 분리하며, Solution.lean 이 lean/Breakdown/ 라이브러리 를 이용해 정리들을 증명함 논문에 해시가 기재된 인증서(certificate) 와 그 조건 충족을 검증하는 엄밀한 계산은 저장소에 없으며, 해당 계산은 형식화에도 포함되지 않음 Lean 라이브러리는…",
+     "source": "",
+     "ts": 1795206922
+    },
+    {
+     "id": "23a08d90fa70f579",
+     "title": "Anthropic의 기록적인 IPO도 AI주 매도세 막지 못해, 세계 증시 급락",
+     "link": "https://news.hada.io/topic?id=37542&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Anthropic 주가가 상장 둘째 날 최대 12% 하락하며 공모가에 근접했고, 기록적인 IPO도 AI 관련 기업의 매도세를 멈추지 못함 Nasdaq 종합지수 는 2026년 상승분을 모두 반납했으며, Dow Jones와 S&P 500은 장중 일시적으로 조정 구간에 진입함 아시아 증시 는 2020년 이후 최악의 한 주를 기록했고, 유럽 증시도 2025년 3월 이후 최대 주간 낙폭을 보임 투자…",
+     "source": "",
+     "ts": 1795203422
+    },
+    {
+     "id": "3dfdc917cbda2a5f",
+     "title": "긴급 공지: Alessandro Masullo의 GRH 증명안 공개",
+     "link": "https://news.hada.io/topic?id=37541&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Alessandro Masullo의 GRH 증명안 이 현재 초안 형태로 공개됨. 확정된 증명이 아니라 검토가 필요한 단계임 Brian Conrad 가 수개월 동안 면밀히 검토하고 광범위한 피드백을 제공했으며, 이를 초안에 반영 중임 지금까지의 검토는 긍정적 이지만, 증명이 최종적으로 성립하는지는 아직 확정되지 않음 이 작업은 AI 사용 없이 전적으로 사람이 수행 함 원래 Stanford에서…",
+     "source": "",
+     "ts": 1795203242
+    },
+    {
+     "id": "1efe2f4efdf3f2b4",
+     "title": "언어 모델은 자신의 가중치를 직접 다시 쓸 수 있다",
+     "link": "https://news.hada.io/topic?id=37540&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Qwen3.5 27B 가 자신의 가중치, 채점된 답변, 실행 도구를 이용해 실패를 진단하고, 그래디언트나 추가 학습 없이 가중치를 수정해 미공개 문제 정확도를 6.6%p 높임 자기 재작성(self-rewriting) 은 모델이 직접 수정값을 만들고 원본과 수정본을 비교하는 방식임. 개선이 가중치에 남으므로 배포 후 답변마다 별도 프롬프트나 추가 연산이 필요하지 않음 제출 전 별도 연습 문제…",
+     "source": "",
+     "ts": 1795199916
+    },
+    {
+     "id": "fe7ebec8e6277094",
+     "title": "iOS에 여전히 WebKit 이외의 엔진을 쓰는 브라우저가 없는 이유",
+     "link": "https://news.hada.io/topic?id=37539&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Apple은 EU와 일본에서 iOS용 대체 브라우저 엔진을 허용했지만, Mozilla는 충족하기 어려운 조건 때문에 아직 비WebKit 브라우저가 출시되지 못했다고 지적함 iOS의 Apple 엔진 사용 제약 으로 인해 Mozilla는 Gecko에 구현된 Firefox의 기능 전체를 iPhone 사용자에게 쉽게 제공할 수 없음 Gecko를 도입하려면 기존 Firefox 앱을 업데이트하는 대신…",
+     "source": "",
+     "ts": 1795199736
+    },
+    {
+     "id": "edbb71715209b1f0",
+     "title": "IEA, 건물 냉방 에너지 수요가 난방을 추월하고 있음",
+     "link": "https://news.hada.io/topic?id=37537&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "IEA의 World Energy Outlook 2026 에 따르면 건물 냉방이 역사상 처음으로 난방을 추월하는 변화가 진행 중임. 다만 이는 제공되는 에너지 서비스 기준이며, 실제 소비하는 연료와 전력은 여전히 난방이 더 많음 소득 증가와 기온 상승 이 냉방 수요를 끌어올림. 중국을 제외한 신흥국과 개발도상국에서는 가구의 85%가 연중 일정 기간 고온에 노출되지만, 에어컨 보유율은 20%…",
+     "source": "",
+     "ts": 1795197344
+    },
+    {
+     "id": "4e812c24e2b21646",
+     "title": "Postgres 19 REPACK: 더 빠른 내장 테이블 비대화 정리",
+     "link": "https://news.hada.io/topic?id=37536&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Postgres 19는 확장 없이 테이블을 재구축하는 REPACK SQL 명령을 추가함. CONCURRENTLY 를 사용하면 대부분의 작업 동안 읽기와 쓰기를 유지하며, 마지막 파일 교체 시에만 짧게 잠금을 획득함 일반 VACUUM 이 죽은 튜플의 공간을 내부 재사용 가능 상태로 만드는 것과 달리, REPACK은 테이블을 다시 작성해 디스크 공간을 OS에 반환 함 온라인 재구축은 트리거 대…",
+     "source": "",
+     "ts": 1795197164
+    },
+    {
+     "id": "ae459289d25b3607",
+     "title": "Synology 보안 권고: DSM과 BeeStation OS의 치명적 취약점",
+     "link": "https://news.hada.io/topic?id=37535&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Synology가 원격 공격자의 임의 파일 읽기/쓰기와 서비스 거부 공격 을 허용하는 CVE-2026-120382에 대응하는 보안 업데이트를 공개함 취약점은 DSM의 OAuth API 에서 명령어 인자 구분자를 적절히 무력화하지 못하는 문제로, 심각도는 Critical이며 CVSS 3.1 점수는 9.8 임 DSM 7.4와 7.3 은 수정 버전이 제공되며, 각각 7.4.1-90080-2와 7…",
+     "source": "",
+     "ts": 1795196984
+    },
+    {
+     "id": "76b8306492e8ac7e",
+     "title": "코드 작성을 멈추면 코드 리뷰 실력도 떨어진다",
+     "link": "https://news.hada.io/topic?id=37534&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "코드를 직접 쓰지 않고 지시와 리뷰만으로 전문성을 유지하거나 높이기는 어려우며, 직접 연습하는 과정 이 개발 역량 유지와 향상에 필요함 쟁점은 AI가 만든 코드의 단기적인 품질 이 아니라, 직접 작업하는 개발자와 그렇지 않은 개발자의 숙련도 변화 에 있음 소프트웨어 엔지니어링이 코드 작성보다 넓은 활동이더라도, 코드의 작동 방식과 좋은 코드의 특성, 변경하기 쉬운 구조를 이해하려면 Clau…",
+     "source": "",
+     "ts": 1795196804
+    },
+    {
+     "id": "76d36881b6b81257",
+     "title": "다시는 Framework 하드웨어를 사지 않겠다",
+     "link": "https://news.hada.io/topic?id=37533&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "개발자용으로 구매한 약 3,000유로짜리 Framework Laptop 16 에서 개봉 직후 입력 모듈 오류가 발생했고, 3개월 넘게 지원과 부품 교체를 거쳐도 해결되지 않아 구매 기업이 향후 Framework 구매를 중단하기로 함 첫 키보드는 운영체제 설치 전부터 숫자 키패드로 잘못 식별됐으며, 직원이 Framework 자체 도구로 키보드 결함을 좁혀냈지만 지원팀은 먼저 미드플레이트를 교…",
+     "source": "",
+     "ts": 1795196623
+    },
+    {
+     "id": "b9a6f2101fc1bb53",
+     "title": "Jujutsu 입문: Git 사용자에게 익숙하면서도 다른 버전 관리 방식",
+     "link": "https://news.hada.io/topic?id=37531&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Jujutsu( jj ) 는 Git 저장소에서 Git과 함께 사용할 수 있는 버전 관리 시스템으로, 자동 리베이스와 실행 취소를 조합해 커밋 그래프 중심으로 작업함 작업 사본도 커밋 으로 관리하며 별도 스테이징 영역이 없음. 파일 편집 후 jj 명령으로 자동 스냅샷을 만들고, 커밋 ID가 바뀌어도 논리적 변경의 change ID 는 유지됨 이전 커밋을 수정하면 후손 커밋을 자동 리베이스 하…",
+     "source": "",
+     "ts": 1795192815
+    },
+    {
+     "id": "025f84dbaf436200",
+     "title": "Signal은 사용자의 프라이버시 보호에 진지함",
+     "link": "https://news.hada.io/topic?id=37530&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Signal 이 모바일 운영체제에 내장된 AI 에이전트의 대화 데이터 수집을 막기 위해, iOS 27과 AI 비서의 화면 접근을 감지할 수 있는 Android 환경에 스크린샷 차단 조치를 적용함 운영체제의 화면 읽기 기반 AI 기능 은 Signal 데이터를 수집해 로컬 데이터베이스나 원격 서버에서 활용할 수 있으며, 수집 이후에는 Signal이 통제하거나 대화 참여자의 프라이버시를 독립적으…",
+     "source": "",
+     "ts": 1795192634
+    },
+    {
+     "id": "d768608f96828aca",
+     "title": "Anthropic 수학자, Claude와 리만 가설 및 일반화 리만 가설을 증명했다고 발표 [pdf]",
+     "link": "https://news.hada.io/topic?id=37529&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Anthropic의 수학자 Levent Alpöge 가 Claude와 함께 리만 가설과 일반화 리만 가설(GRH)의 증명을 발견했다 고 발표함. 확장 리만 가설에도 적용할 수 있을 것으로 기대하지만, 이 부분은 아직 전망임 리만 가설은 소수의 분포가 평균에서 얼마나 벗어나는지에 관한 난제 로, 1859년 제기된 클레이 밀레니엄 문제 중 하나임 논증을 추가 가정 없이 Lean으로 형식화했다…",
+     "source": "",
+     "ts": 1795188841
+    },
+    {
+     "id": "1a426e76ba72c0d3",
+     "title": "쉽게 설명할 수 없다면 이해한 것이 아니다 (2017)",
+     "link": "https://news.hada.io/topic?id=37527&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Richard Feynman 은 어려운 개념을 초보자에게 설명하는 능력을 중시했으며, 대학 1학년 수준으로 설명하지 못한 물리 현상에 대해 “우리가 정말로 이해하지 못한다는 뜻”이라고 말함 Apple 에서도 엔지니어에게 복잡한 기술이나 제품을 쉽게 설명할 것을 기대하며, John Gruber에 따르면 이는 경영진의 이해를 돕기 위해서가 아니라 엔지니어가 완전히 이해했는지 확인하기 위해서임…",
+     "source": "",
+     "ts": 1795185137
+    },
+    {
+     "id": "bcb33c968c35b7ef",
+     "title": "Show GN: 잘하나 – 지방의회 회의록을 사안별로 이어 보여 주는 서비스",
+     "link": "https://news.hada.io/topic?id=37526&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "잘하나는 지방의회 회의록을 읽어, 누가 무엇을 했는지보다 사안이 어떻게 이어졌는지를 보여 주는 서비스입니다. 직접 만들어 운영하고 있습니다. 만든 이유 회의록은 공개돼 있습니다. 그런데 공개돼 있다는 것과 쉽게 확인할 수 있다는 것은 전혀 다른 일이었습니다. 거제시의회 한 곳만 해도 한 임기에 회의가 500번이 넘고, 회의록 한 편이 길게는 100쪽이 넘습니다. 하나의 사안은 여러 회의,…",
+     "source": "",
+     "ts": 1795182228
+    },
+    {
+     "id": "f9e531f9eceb0d8a",
+     "title": "Carnival Cruises의 황산화물 배출량, 유럽 전체 자동차의 10배에 달함(2019)",
+     "link": "https://news.hada.io/topic?id=37525&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Transport & Environment(T&E) 분석에 따르면, Carnival Corporation 이 2017년 유럽 연안에서 배출한 황산화물(SOx)은 유럽 자동차 2억 6,000만 대 배출량의 거의 10배였음 세계 2위 크루즈 운영사 Royal Caribbean Cruises 의 황산화물 배출량도 유럽 전체 자동차의 4배 였음 크루즈선의 황산화물 오염에 가장 많이 노출된 국가는…",
+     "source": "",
+     "ts": 1795181961
+    },
+    {
+     "id": "dd2f60be78ba6a4c",
+     "title": "Frostbite: AI가 발견하고 설계하고 검증한 새로운 CPU 아키텍처",
+     "link": "https://news.hada.io/topic?id=37524&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Architect Labs가 상호작용망(interaction nets) 기반의 범용 CPU Frostbite를 공개함. AI 시스템이 컴파일러, 새 명령어 집합, 아키텍처, RTL, 검증, 최종 GDS까지 함께 반복 개선함 25개 워크로드에서 전력당 성능 4.59배 를 기록함. 비교 대상은 비슷한 면적의 실리콘 검증된 듀얼 이슈 인오더 CPU 코어이며, 결과는 실제 칩 측정이 아닌 실리콘…",
+     "source": "",
+     "ts": 1795181781
+    },
     {
      "id": "d44e0370c54028e0",
      "title": "Show GN: rdocs2md – Rust로 만든 경량 문서→Markdown 변환 CLI/MCP (HWP/PDF/Office 지원)",
@@ -533,154 +677,10 @@
      "summary": "FFmpeg 9.1 “Gauss” 가 2026년 11월 20일 출시됐으며, 9.1 릴리스 브랜치의 최신 안정 버전임 공식 프로젝트는 소스 코드만 제공 하며, 바로 실행할 수 있는 Linux, Windows, macOS 패키지와 빌드는 외부 배포처에서 받을 수 있음 모든 릴리스는 PGP 서명 으로 진위를 검증할 수 있으며, 9.1에는 양자내성 서명 파일도 제공됨 양자내성 서명 은 아직 Gnu…",
      "source": "",
      "ts": 1795177940
-    },
-    {
-     "id": "cc52380fcb5fa7d1",
-     "title": "“이건 직접 쓴 글이라는 게 보이네요”",
-     "link": "https://news.hada.io/topic?id=37519&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "공학 학위 프로젝트의 중간 보고서를 직접 작성한 학생에게 지도교수는 직접 쓴 글임을 알아볼 수 있다 며, AI가 작성한 보고서를 많이 받아왔다고 말함 이 학생의 마지막 학년 수업에서는 AI 사용 권장과 사실상의 기대 사이 경계가 흐려졌고, 사용하지 않으면 불리하다고 느끼는 환경이었음 산업의 변화에 대비한다는 이유로 AI 사용을 배우지만, 하루 종일 AI에 지시하는 수업 경험은 공학 진로에…",
-     "source": "",
-     "ts": 1795174354
-    },
-    {
-     "id": "d9ae7a936a2c03c0",
-     "title": "Show GN: night-port - 고전 DOS 게임 어쩐지 저녁 Native/WASM/Pocket 포트",
-     "link": "https://news.hada.io/topic?id=37518&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "고전 DOS 게임 \"어쩐지 좋은 일이 생길 것 같은 저녁\"을 Analogue Pocket에서 플레이하고 싶어서 SDL로 포팅하였습니다. Pocket 포팅이 끝나고 나서 WASM을 사용해 웹으로 포팅할 수도 있을 것 같아 시도해 봤는데 꽤 괜찮은 결과물이 나왔습니다.(모바일에서도 잘 작동합니다.) 개발에는 로컬 LLM만을 사용하였습니다.(Qwen3.8-27B, Qwen3.8-Flash-Nex…",
-     "source": "",
-     "ts": 1795171166
-    },
-    {
-     "id": "c5d61813e0ea0c3b",
-     "title": "PostgreSQL 19 - 읽기와 쓰기를 막지 않는 REPACK, 실행 계획 제어 확장 추가",
-     "link": "https://news.hada.io/topic?id=37517&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "REPACK 명령 으로 디스크 공간을 회수하고 테이블을 재구성할 수 있으며, CONCURRENTLY 옵션을 사용하면 테이블 읽기와 쓰기를 차단하지 않음 pg_plan_advice 와 pg_stash_advice 로 쿼리 플래너의 결정을 제어하고, 쿼리별 실행 계획 조언을 저장해 자동 적용할 수 있음 논리 복제 는 wal_level=replica 일 때 재시작 없이 활성화할 수 있고 시퀀스…",
-     "source": "",
-     "ts": 1795170897
-    },
-    {
-     "id": "13be21041dc3bcb8",
-     "title": "뮤텍스 포이즈닝은 모두에게 적합하지 않다",
-     "link": "https://news.hada.io/topic?id=37516&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Rust의 뮤텍스 포이즈닝(poisoning) 기본 적용 은 일부 불변식 보호를 위해 대부분의 사용 사례에 성능과 가독성 비용을 부과한다는 비판을 받음 포이즈닝은 락을 보유한 상태에서 패닉이 발생했음을 기록하고 이후 락 획득 시 오류를 반환하지만, 가변 상태 전반의 불변식 위반 을 해결하지는 못함 정수를 읽는 예제에서 생성 어셈블리 는 lock().unwrap() 사용 시 147줄, 포이즈…",
-     "source": "",
-     "ts": 1795169005
-    },
-    {
-     "id": "8dfee2627f075269",
-     "title": "OpenSSL: EVP_EncodeBlock()의 버퍼 오버플로(CVE-2026-121481, CVSS 9.8)",
-     "link": "https://news.hada.io/topic?id=37513&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "OpenSSL의 EVP_EncodeBlock() 버퍼 오버플로 를 수정하는 PR이 공개됐으며, Base64 인코딩 결과 길이가 int 범위를 넘는 입력 처리 등이 수정 대상임 최초에는 잘못된 입력에 -1 을 반환 하려 했으나, 기존 호출 코드가 반환값을 검사하지 않고 size_t 로 변환할 수 있다는 호환성 우려로 인코딩 함수에 OPENSSL_assert() 를 사용하는 방식 으로 변경됨…",
-     "source": "",
-     "ts": 1795163892
-    },
-    {
-     "id": "e9c3b4db12d41a55",
-     "title": "Google, OEM에 GrapheneOS 지원과 부트로더 잠금 해제를 막도록 압박한다는 의혹",
-     "link": "https://news.hada.io/topic?id=37512&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "GrapheneOS는 Google이 OEM에 협력 여부를 확인하고 GMS 라이선스 조건으로 압박 해 GrapheneOS 지원과 부트로더 잠금 해제를 막으려 한다고 밝힘 Play Integrity API 와 Play Store 앱 보호 기능이 대체 운영체제의 앱 사용을 차단하며, 특히 Play Integrity가 GrapheneOS의 지속 가능성을 가로막는 핵심 문제라고 비판함 Google…",
-     "source": "",
-     "ts": 1795163711
-    },
-    {
-     "id": "782061f0c0f53bbe",
-     "title": "Show GN: 가상 주민 - 서비스 링크를 넣으면 주민 100명이 둘러보고 어디서 왜 나갔는지 알려 주는 도구",
-     "link": "https://news.hada.io/topic?id=37511&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "만들고 있는 서비스 링크를 넣으면, 가상 주민 100명이 첫 페이지를 둘러보고 어디서 망설였고 왜 나갔는지를 별점과 리뷰로 보여 줍니다. 성격과 관심사가 다른 주민 1000명 가운데 그 서비스에 관심 있을 만한 100명을 골라서 들여보냄 주민마다 관심사와 성격에 따라 어디까지 읽을지, 버튼을 누를지, 언제 나갈지가 정해짐 (성별·지역·소득으로는 나누지 않음) 첫 페이지는 컴퓨터·휴대폰 폭으…",
-     "source": "",
-     "ts": 1795162927
-    },
-    {
-     "id": "2918ff26433dbc50",
-     "title": "PostgreSQL 19 Released",
-     "link": "https://news.hada.io/topic?id=37510&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "2026년 11월 19일 PostgreSQL Global Development Group 이 postgresql.org 에 출시 발표함 pg_plan_advice 확장이 계획의 안정과 질의 성능을 더 다루게 한다고 함. 대기 서버에서 \"read-your-writes\" 일관성을 지원하고, \"get or create\" 동작이 네트워크 왕복을 줄인다고 함. …",
-     "source": "",
-     "ts": 1795162727
-    },
-    {
-     "id": "3584f9ba661e758f",
-     "title": "Visa, Mastercard, JPMorgan 고객 데이터, 해커에 의해 유출",
-     "link": "https://news.hada.io/topic?id=37508&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "랜섬웨어 그룹 이 Visa, Mastercard, JPMorgan Chase 고객 수천 명의 데이터를 목요일에 유출함 해커들은 제3자 업체 에 접근해 고객 정보를 노출함 해당 기업들에 따르면 이번 유출로 인한 서비스 운영 차질은 없었음 이번 사건은 지난 일주일 동안 소비자들을 불안하게 한 일련의 기술 관련 사고 에 뒤이어 발생함 제공된 본문만으로는 유출 정보의 구체적 항목 이나 침해당한 제…",
-     "source": "",
-     "ts": 1795156338
-    },
-    {
-     "id": "48b72e6aa8b3e184",
-     "title": "중력을 이용한 차단 불가능한 통신",
-     "link": "https://news.hada.io/topic?id=37507&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "엘리베이터 평형추를 움직여 만든 중력장 변화 로 벽돌벽 너머 약 0.7m 떨어진 수신기에 메시지를 전송했으며, 전송 속도는 분당 1비트 였음 전파되는 중력파가 아니라 준정적 뉴턴 중력장 에 이진 정보를 담는 방식으로, 질량체와 시판 중력계만으로 구현함 중력장은 알려진 물질로 수동 차폐 할 수 없지만, 주변 질량을 움직이거나 진동을 일으키는 능동적 방해와 신호 위조는 가능함 ‘Gravity’…",
-     "source": "",
-     "ts": 1795152801
-    },
-    {
-     "id": "2abaa56f000ad20d",
-     "title": "Show GN: Namoo - 부모님의 이야기를 AI 인터뷰로 기록해 이북과 오디오북으로 만들어 주는 앱",
-     "link": "https://news.hada.io/topic?id=37506&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "부모님의 이야기를 좀 더 체계적으로 기록하기 위해 Namoo를 만들었습니다. 유명인들은 대필 작가를 고용하거나 엄청난 시간을 할애해서 자신의 과거를 기록해두곤 합니다. 우리가 직접 부모님과 대화를 나누며 기록을 남기는 것도 가능하겠지만 직접 인터뷰를 진행하는 것도, 질문을 준비하고 정리하는 것도 쉽지 않습니다. Namoo는 AI가 인터뷰어 역할을 맡아 한 번에 하나씩 질문합니다. 부모님은…",
-     "source": "",
-     "ts": 1795148152
-    },
-    {
-     "id": "561897c9c586db1d",
-     "title": "Gemini 4 Neon, Models Engineering Index의 새로운 1위에 오름",
-     "link": "https://news.hada.io/topic?id=37505&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "언어 모델의 엔지니어링 작업 실전 성능 을 평가하는 Models Engineering Index(Mei)에서 Google의 Gemini 4 Neon 이 68.0점으로 1위를 기록함 Anthropic Fable 5.2 가 65.3점으로 2위, OpenAI 6.2 Astra 가 61.5점으로 3위에 자리함 Google 4 Carbon 은 61.4점으로 4위, Anthropic Opus 5.5…",
-     "source": "",
-     "ts": 1795145496
-    },
-    {
-     "id": "d96cbe662c2a910b",
-     "title": "소프트웨어 기업들은 가정용 컴퓨팅을 없애려 하는가?",
-     "link": "https://news.hada.io/topic?id=37504&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "한 번 구매한 프로그램을 내 컴퓨터에서 계속 쓰려는 사용자와, 매달 사용료를 받으려는 기업의 이해관계가 충돌함. 구독과 클라우드 전환이 프로그램과 데이터를 직접 통제하는 개인용 컴퓨팅을 약화시킴 SaaS와 클라우드 전환 은 사용자가 소프트웨어를 소유하고 실행하는 방식에서, 기업이 소유권을 유지하며 사용료를 받는 방식으로 수익 구조를 바꿈 가정용 운영체제와 생산성 도구를 장기간 사용하는 경우…",
-     "source": "",
-     "ts": 1795142155
-    },
-    {
-     "id": "415d8d04120e3adf",
-     "title": "Show GN: OneHandy - 회원가입 없이 브라우저에서 쓰는 무료 웹 도구 123종 (계산기·변환기·텍스트·이미지)",
-     "link": "https://news.hada.io/topic?id=37499&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "직접 만들고 있는 무료 웹 도구 모음입니다. 설치도 회원가입도 없이 바로 열어서 쓸 수 있습니다. 도구 123종: 텍스트 변환, 개발자 유틸리티, 디자인·색상, 생산성, 이미지, SEO 도구, 그리고 한국 생활 계산기(급여·4대보험·대출·학점 등) 계산·변환은 브라우저 안에서 처리하고, 입력값을 서버로 보내지 않습니다 Astro 5 정적 사이트(전 페이지 정적 HTML)로 만들었고 한국어·…",
-     "source": "",
-     "ts": 1795136384
-    },
-    {
-     "id": "c8116938b473dc61",
-     "title": "98% 슬롯머신: 유료 광고는 어떻게 착취적 세금이 되었나",
-     "link": "https://news.hada.io/topic?id=37498&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "유료 광고는 손익분기점에 조금 못 미치는 수익 으로 창업자가 광고비를 계속 투입하게 만드는 슬롯머신과 같다는 비판을 받음 광고 대시보드는 순손실보다 노출, 클릭률, 클릭당 비용의 개선 을 부각하고, 광고주는 손실 원인을 경매 구조가 아닌 랜딩 페이지나 광고 문구에서 찾게 됨 광고 경매의 경쟁 심화 로 입찰가가 광고주의 매출총이익 기준 손익분기점까지 오르면서, 초기 초과이익이 플랫폼으로 이전…",
-     "source": "",
-     "ts": 1795135033
-    },
-    {
-     "id": "de0c88fa4c150c35",
-     "title": "Show HN: Cornhole News - Hacker News에서 영감을 받은 미국 중서부 뉴스 사이트",
-     "link": "https://news.hada.io/topic?id=37497&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Cornhole News 는 미국 중서부 전역의 뉴스를 모아 보여주는 Hacker News 스타일의 사이트임 뉴스 목록은 외부 기사 링크 로 구성되며, 각 항목에 투표 화살표와 점수, 댓글 수가 표시됨 지역 정치와 환경, 교육, 농업, 생활 소식 을 함께 다루며, 지역 매체와 전국 매체의 기사를 연결함 기술 관련 지역 현안으로는 데이터센터 전력 비용 과 데이터센터 건립 일시 중단 검토에 관…",
-     "source": "",
-     "ts": 1795134853
-    },
-    {
-     "id": "37fba40f96fabf9b",
-     "title": "Kiri - 무료 ngrok 대안을 내장한 경량 Docker Desktop 대체재",
-     "link": "https://news.hada.io/topic?id=37496&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "기존 Docker 이미지와 명령을 그대로 사용 하는 컨테이너 런타임으로, 맥/윈도우/리눅스에서 실행 docker CLI, Compose, buildx와 Docker Engine API를 지원 해 기존 개발 도구와 연결 가능 컨테이너별 실시간 로그, 터미널, 파일과 자원 사용량 을 앱에서 확인하고, Compose 프로젝트를 묶어서 관리 무료 터널링 기능 Kiri Share 로 로컬 앱을 공개…",
-     "source": "",
-     "ts": 1795134602
-    },
-    {
-     "id": "55bd960e01c4ddd2",
-     "title": "이해 가능성을 위한 설계",
-     "link": "https://news.hada.io/topic?id=37494&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "LLM이 코드를 더 많이 작성할수록 개발자의 핵심 책임은 코드 품질 판단 과 검토에 있음. 생성된 코드를 이해하지 못하면 LLM은 복잡성을 빠르게 늘리는 도구에 그칠 수 있음 계약에 의한 설계 , 데이터 불변식, 부수 효과와 전역 상태 의존성의 격리를 통해 코드베이스 전체가 아니라 필요한 부분만 읽고 동작을 이해하도록 설계할 수 있음 세 실천법의 공통 원리는 국소적 추론(local reas…",
-     "source": "",
-     "ts": 1795133098
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "f9eb976542",
@@ -850,7 +850,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "19ef1c7741",
@@ -858,6 +858,22 @@
    "url": "https://www.technologyreview.com/feed/",
    "site": "https://www.technologyreview.com",
    "items": [
+    {
+     "id": "01449c61c8b86a22",
+     "title": "The most misunderstood graph in AI just got a major update",
+     "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+     "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require j…",
+     "source": "",
+     "ts": 1795198515
+    },
+    {
+     "id": "956a058c400b943d",
+     "title": "The Download: inside the quest to make our minds immortal",
+     "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To…",
+     "source": "",
+     "ts": 1795180200
+    },
     {
      "id": "0011ae0145f003e8",
      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
@@ -921,26 +937,10 @@
      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rel…",
      "source": "",
      "ts": 1794937930
-    },
-    {
-     "id": "86f07be892b022f0",
-     "title": "Research Reports",
-     "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-     "summary": "To access a report, click on the corresponding image below.",
-     "source": "",
-     "ts": 1794926386
-    },
-    {
-     "id": "15316cf2cd2a4876",
-     "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-     "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen H…",
-     "source": "",
-     "ts": 1794921000
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "263d8d0ce8",
@@ -1030,7 +1030,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "7ebf5b6c9a",
@@ -1038,6 +1038,14 @@
    "url": "https://stratechery.com/feed/",
    "site": "https://stratechery.com",
    "items": [
+    {
+     "id": "c9a56a8320a05d6f",
+     "title": "2026.47: Down in DC",
+     "link": "https://stratechery.com/2026/down-in-dc/",
+     "summary": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
+     "source": "",
+     "ts": 1795201797
+    },
     {
      "id": "31ab2adcd8d3aed1",
      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
@@ -1109,18 +1117,10 @@
      "summary": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
      "source": "",
      "ts": 1794394800
-    },
-    {
-     "id": "a1393a77bc91e08d",
-     "title": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
-     "link": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
-     "summary": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
-     "source": "",
-     "ts": 1794308400
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "2c60dce9bd",
@@ -1128,6 +1128,142 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "dafea3bf01a74471",
+     "title": "UK competition body probes hyperscaler security and cloud lock-in",
+     "link": "https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
+     "summary": "CMA continues digital sovereignty investigation with consultation into IAM and Kubernetes",
+     "source": "",
+     "ts": 1795194555
+    },
+    {
+     "id": "5e7c1ca4d1aaeb35",
+     "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
+     "link": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
+     "summary": "Aims to build five data center buildings on site",
+     "source": "",
+     "ts": 1795194381
+    },
+    {
+     "id": "0edf38a9b8f4bc7a",
+     "title": "CyrusOne and KEP top out 48MW data center in Osaka, Japan",
+     "link": "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
+     "summary": "First facility under the pair's Japanese joint venture",
+     "source": "",
+     "ts": 1795194229
+    },
+    {
+     "id": "99fa342154b92e1b",
+     "title": "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report",
+     "link": "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
+     "summary": "Telco looks to offload data center biz as it acquires subsea cable company Sparkle",
+     "source": "",
+     "ts": 1795194103
+    },
+    {
+     "id": "f70c8acc3a153399",
+     "title": "Tokenomics: Putting a price on intelligence",
+     "link": "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
+     "summary": "Inside the on-demand consumption model",
+     "source": "",
+     "ts": 1795194034
+    },
+    {
+     "id": "089f91db71c46967",
+     "title": "Two copper thieves slapped with prison sentences in Rockbridge County, Virginia",
+     "link": "https://www.datacenterdynamics.com/en/news/two-copper-thieves-slapped-with-prison-sentences-in-rockbridge-county-virginia/",
+     "summary": "As two men could face further charges over other incidents",
+     "source": "",
+     "ts": 1795191033
+    },
+    {
+     "id": "814e8227c92f0cdf",
+     "title": "Sponsored: Principles of a financeable GPUaaS SLA",
+     "link": "https://www.datacenterdynamics.com/en/opinions/principles-of-a-financeable-gpuaas-sla/",
+     "summary": "\"A financeable SLA is measurable, calculable, and auditable\"",
+     "source": "",
+     "ts": 1795190400
+    },
+    {
+     "id": "498f09a2a9894152",
+     "title": "Lambda deploys Nvidia Photonics switches at QScale data center",
+     "link": "https://www.datacenterdynamics.com/en/news/lambda-deploys-nvidia-photonics-switches-at-qscale-data-center/",
+     "summary": "Deployment in Quebec, Canada, now sports co-packaged optics switches",
+     "source": "",
+     "ts": 1795190400
+    },
+    {
+     "id": "9d6c65e992f2657d",
+     "title": "Regulation ready",
+     "link": "https://www.datacenterdynamics.com/en/whitepapers/regulation-ready/",
+     "summary": "How early design and development decisions shape data center approval and delivery",
+     "source": "",
+     "ts": 1795189739
+    },
+    {
+     "id": "f021fb3523b4330c",
+     "title": "SpaceX expresses interest in building data centers in Bulgaria",
+     "link": "https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/",
+     "summary": "Bulgaria could also host several new Starlink ground stations, said the country’s economy ministry",
+     "source": "",
+     "ts": 1795189623
+    },
+    {
+     "id": "8538eaeab0d2f25c",
+     "title": "Why AI hardware supply chains demand board-level disaster prevention",
+     "link": "https://www.datacenterdynamics.com/en/opinions/why-ai-hardware-supply-chains-demand-board-level-disaster-prevention/",
+     "summary": "And why it might be time to play defense",
+     "source": "",
+     "ts": 1795188646
+    },
+    {
+     "id": "6713f33e2618f20f",
+     "title": "AMD set to lease planned 5C data center in Pennsylvania",
+     "link": "https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/",
+     "summary": "5C looking to buy site in Mount Carmel from FIT Energy",
+     "source": "",
+     "ts": 1795187981
+    },
+    {
+     "id": "156a8c36ab9cb8f9",
+     "title": "Egypt’s Forbes International Tower to house a data center",
+     "link": "https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/",
+     "summary": "US government contractor Aedan Looking Glass ALG will lead technology and infrastructure delivery",
+     "source": "",
+     "ts": 1795187860
+    },
+    {
+     "id": "bd88abe065fe9e0f",
+     "title": "US Senate passes bill requiring data centers to pay more for grid infrastructure",
+     "link": "https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/",
+     "summary": "Now heads to the House",
+     "source": "",
+     "ts": 1795187707
+    },
+    {
+     "id": "63a0dfdc697175e5",
+     "title": "Microsoft becomes first company to use Intel’s EMIB packaging technology for Azure hardware",
+     "link": "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-to-use-intels-emib-packaging-technology-for-azure-hardware/",
+     "summary": "Agreement also confirms long-term supply of Xeon processors to Microsoft, companies said",
+     "source": "",
+     "ts": 1795183637
+    },
+    {
+     "id": "0b459ed9ae59334c",
+     "title": "Nebius expands Israel data center lease with Mega Or by 134MW",
+     "link": "https://www.datacenterdynamics.com/en/news/nebius-expands-israel-data-center-lease-with-mega-or-by-134mw/",
+     "summary": "Facilities set to be completed by Q2 2028",
+     "source": "",
+     "ts": 1795180023
+    },
+    {
+     "id": "9b841c9c407a4c50",
+     "title": "Florida man sentenced to 51 months for stealing $800,000 from victims through cell tower fraud plot",
+     "link": "https://www.datacenterdynamics.com/en/news/florida-man-sentenced-to-51-months-for-stealing-800000-from-victims-through-cell-tower-fraud-plot/",
+     "summary": "The scheme ran for six years",
+     "source": "",
+     "ts": 1795179871
+    },
     {
      "id": "e0df5b2338bbe9e8",
      "title": "L&G-led 90MW data center site in East London sold to unnamed buyer",
@@ -1151,146 +1287,10 @@
      "summary": "Three-building campus to support 216MW at full build-out",
      "source": "",
      "ts": 1795178556
-    },
-    {
-     "id": "c131bc705bb738bd",
-     "title": "US trade agency to support Philippine’s Infinivan on new domestic subsea cable project",
-     "link": "https://www.datacenterdynamics.com/en/news/us-trade-agency-to-support-philippines-infinivan-on-new-domestic-subsea-cable-project/",
-     "summary": "Silangan cable to link islands of Luzon and Mindanao",
-     "source": "",
-     "ts": 1795178468
-    },
-    {
-     "id": "63ab8a64eb0e3564",
-     "title": "California AG issues Nvidia with subpoena as part of probe into Chinese chip exports",
-     "link": "https://www.datacenterdynamics.com/en/news/california-ag-issues-nvidia-with-subpoena-as-part-of-probe-into-chinese-chip-exports/",
-     "summary": "AG Rob Bonta will also investigate if confidential information was passed to China or investors were misled",
-     "source": "",
-     "ts": 1795178366
-    },
-    {
-     "id": "4b9c1b1315cee7e7",
-     "title": "Saudi social and livestreaming platform HooLive migrates to Tencent Cloud",
-     "link": "https://www.datacenterdynamics.com/en/news/saudi-social-and-livestreaming-platform-hoolive-migrates-to-tencent-cloud/",
-     "summary": "Tencent also publishes quarterly earnings results",
-     "source": "",
-     "ts": 1795178131
-    },
-    {
-     "id": "67b85e14b8e9b867",
-     "title": "TeraWulf starts construction at Kentucky data center campus",
-     "link": "https://www.datacenterdynamics.com/en/news/terawulf-starts-construction-at-kentucky-data-center-campus/",
-     "summary": "Justified Data campus set to be leased to Anthropic",
-     "source": "",
-     "ts": 1795175997
-    },
-    {
-     "id": "e7cd4fd3be4bd2e5",
-     "title": "Deutsche Telekom invests $109 million in Mistral AI as first step in larger partnership",
-     "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-invests-109-million-in-mistral-ai-as-first-step-in-larger-partnership/",
-     "summary": "Adds to an existing $3.48bn raised in Mistral’s Series D funding round",
-     "source": "",
-     "ts": 1795175313
-    },
-    {
-     "id": "0b31ab467a7d6394",
-     "title": "Google to fund $10.8m transmission line upgrade for Ohio Power in Columbus",
-     "link": "https://www.datacenterdynamics.com/en/news/google-to-fund-108m-transmission-line-upgrade-for-ohio-power-in-columbus/",
-     "summary": "Will fund the installation of advanced conductors across 15.5 miles of transmission lines",
-     "source": "",
-     "ts": 1795174493
-    },
-    {
-     "id": "4a83985e4dd199c4",
-     "title": "Hochtief's Yexio launches Edge data center in Paderborn, Germany",
-     "link": "https://www.datacenterdynamics.com/en/news/hochtiefs-yexio-launches-edge-data-center-in-paderborn-germany/",
-     "summary": "Second facility under the Yexio name, more planned across DACH",
-     "source": "",
-     "ts": 1795172152
-    },
-    {
-     "id": "7ee9a5c1e8bf8eb2",
-     "title": "Nexalus and Renda launch liquid-cooled AI server for data center retrofit market",
-     "link": "https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/",
-     "summary": "Features eight Nvidia Blackwell GPUs",
-     "source": "",
-     "ts": 1795172056
-    },
-    {
-     "id": "2756097d804298f2",
-     "title": "AWS launches Local Zone Edge location in Bogotá, Colombia",
-     "link": "https://www.datacenterdynamics.com/en/news/aws-launches-local-zone-edge-location-in-bogot%C3%A1-colombia/",
-     "summary": "Company continues roll-out of smaller Edge zones",
-     "source": "",
-     "ts": 1795171986
-    },
-    {
-     "id": "76c7ad3280bd1c70",
-     "title": "PowerCompute tests AI and HPC workloads at Oklahoma cryptomine",
-     "link": "https://www.datacenterdynamics.com/en/news/powercompute-tests-ai-and-hpc-workloads-at-oklahoma-cryptomine/",
-     "summary": "Company dips its toe into AI pivot",
-     "source": "",
-     "ts": 1795171686
-    },
-    {
-     "id": "03289f36d3ebb47e",
-     "title": "Meta to reevaluate net-zero timeline on the back of record emissions",
-     "link": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
-     "summary": "Company reported a 45 percent increase in carbon footprint due to AI demand",
-     "source": "",
-     "ts": 1795171444
-    },
-    {
-     "id": "f8775160ba23876f",
-     "title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
-     "link": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
-     "summary": "Successful in-orbit compute software tests demonstrate progressing maturity of ODC concept",
-     "source": "",
-     "ts": 1795171321
-    },
-    {
-     "id": "fa6e0dd18bf7c007",
-     "title": "Alibaba Cloud launches sixth data center in Malaysia",
-     "link": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-launches-sixth-data-center-in-malaysia/",
-     "summary": "Company also posts Q2 2027 earnings",
-     "source": "",
-     "ts": 1795171140
-    },
-    {
-     "id": "8710e152e2151897",
-     "title": "Clearwave to acquire Tucows Ting-owned fiber assets",
-     "link": "https://www.datacenterdynamics.com/en/news/tucows-sells-fiber/",
-     "summary": "As Tucows continues to shift fiber assets",
-     "source": "",
-     "ts": 1795171088
-    },
-    {
-     "id": "d4d5cdff0133dec6",
-     "title": "DCD Survey: Airflow management",
-     "link": "https://www.datacenterdynamics.com/en/whitepapers/dcd-survey-airflow-management/",
-     "summary": "Examining advanced airflow management and contaminant control in AI data centers",
-     "source": "",
-     "ts": 1795167295
-    },
-    {
-     "id": "66f2cb17940aaa20",
-     "title": "Sponsored: Capital planning and the art of calibrating confidence",
-     "link": "https://www.datacenterdynamics.com/en/marketwatch/capital-planning-and-the-art-of-calibrating-confidence/",
-     "summary": "As the stakes keep rising for capital program management, data center owners need to evaluate what they know and how much confidence they place in the evidence backing that knowledge",
-     "source": "",
-     "ts": 1795165200
-    },
-    {
-     "id": "dca4a15a16575736",
-     "title": "Crypto firm Avax One drops modular data center initiatives",
-     "link": "https://www.datacenterdynamics.com/en/news/crypto-firm-avax-one-drops-modular-data-center-initiatives/",
-     "summary": "Company looks to focus instead on crypto",
-     "source": "",
-     "ts": 1795108573
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "95180fe28d",
@@ -1460,7 +1460,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795179760
+   "last_ok": 1795211474
   },
   {
    "id": "c15f1e5a65",
@@ -1629,8 +1629,8 @@
      "ts": 1793741909
     }
    ],
-   "error": "ValueError: RSS/Atom 형식이 아닙니다 (사이트가 차단·오류 페이지를 돌려줬을 수 있음)",
-   "last_ok": 1795145176
+   "error": null,
+   "last_ok": 1795211474
   }
  ]
 }
