@@ -1,5 +1,5 @@
 {
- "generated_at": 1795211474,
+ "generated_at": 1795230932,
  "top_n": 20,
  "feeds": [
   {
@@ -8,6 +8,30 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/115563606942436386",
    "site": "https://www.google.com/alerts",
    "items": [
+    {
+     "id": "42bc0a4a8479db8a",
+     "title": "\"앤트로픽 공동창업자, 트럼프 '아동 투자계좌'에 기부 예정\" - TV서울",
+     "link": "https://tvseoul.kr/news/article.html?no=80181",
+     "summary": "앤트로픽과 트럼프 행정부는 올해 초부터 AI 정책 과 규제 방향 등을 둘러싸고 갈등을 빚어왔다. 미 국방부(전쟁부)는 주로 적대국 기업을 대상으로 하는 ...",
+     "source": "",
+     "ts": 1795223116
+    },
+    {
+     "id": "53ec03f1deeef288",
+     "title": "이재명 \"韓 전자 정부 1위론 부족…국민 체감 ' AI 민주 정부 ' 구축” - 지디넷코리아",
+     "link": "https://zdnet.co.kr/view/?no=20261120132358",
+     "summary": "AI 통합민원서비스로 여러 기관을 거쳐야 하는 민원 처리 절차를 줄이고 AI 기반 정책 ... 이재명 대통령 UN 전자 정부 한국 정부 인공지능 AI 개인정보 공공서비스 ...",
+     "source": "",
+     "ts": 1795220686
+    },
+    {
+     "id": "1d395f39354d6c27",
+     "title": "사이버보안 컨트롤타워 추진에 AI 모델 개발까지...현장 대응체계는 과제 - MTN 뉴스",
+     "link": "https://news.mtn.co.kr/article/2026112015171769048",
+     "summary": "정부 가 범 정부 사이버보안 컨트롤타워 구축과 보안 특화 인공지능 ( AI ) 모델 개발을 동시에 추진하고 있다 ... 결국 정부 가 추진하는 사이버보안 강화 정책 ...",
+     "source": "",
+     "ts": 1795209299
+    },
     {
      "id": "e42ee5271dfd82bc",
      "title": "' AI 커닝' 비상인데, 수능 문제로 출제 된 AI …윤석열 정부 도 등장 - 한겨레",
@@ -23,6 +47,14 @@
      "summary": "이어 국민 누구나 인공지능 의 혜택을 누릴 수 있는 ' AI 민주 정부 '를 속도감 있게 구현하겠다고 밝혔다. 이번 1위 탈환은 한국 전자 정부 가 기존의 온라인 행정 ...",
      "source": "",
      "ts": 1795200910
+    },
+    {
+     "id": "f862ef94b5a5e3b4",
+     "title": "용인시醫 \"비만치료제 해외 구매, 정부 저약가 정책 탓\" - 청년의사",
+     "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044750",
+     "summary": "... 일정 수량 이내 허용했다. 다만 불법 유통과 오남용 방지를 위해 반복 ... '평생 응시 금지'에 시험 개편론까지 인공지능 ( AI )을 활용한 국가자격시험 ...",
+     "source": "",
+     "ts": 1795198467
     },
     {
      "id": "f0b1608fc3562635",
@@ -55,6 +87,14 @@
      "summary": "정부 창업 지원 사업 '모두의 창업'에서 5개월 만에 두 번째 개인정보 유출 사고가 났다.올해 6월에는 정부 플랫폼에서 합격자 5000명의 정보가 새 나갔고,",
      "source": "",
      "ts": 1795187619
+    },
+    {
+     "id": "5dc22147b440d36f",
+     "title": "정부 , AI 데이터센터 신속 구축 지원 - 의학신문",
+     "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016910",
+     "summary": "... AI 데이터센터의 신속한 구축을 지원하기 위해 AIDC 맞춤형 전력계통영향평가(이하 '전평') 제도 개선을 추진한다고 밝혔다. ' 인공지능 데이터센터 산업 ...",
+     "source": "",
+     "ts": 1795186893
     },
     {
      "id": "24ec35555329a235",
@@ -127,50 +167,10 @@
      "summary": "(AIDC 특별법 시행령 제3조) · AIDC를 ➀ AI 가속기(GPU·NPU 등)를 일정 규모* 이상 보유하며, ➁해당 가속기 운영에 필수적인 전력·냉각 등 설비를 갖추고, ➂설계 ...",
      "source": "",
      "ts": 1795176107
-    },
-    {
-     "id": "bea37a99ebc58a5a",
-     "title": "한국, 12년만에 UN 전자 정부 평가 '세계 1위'…“ AI 민주 정부 도약” - 조선비즈",
-     "link": "https://biz.chosun.com/topics/topics_social/2026/11/20/FELYBADZ75BJVEGFXN2JJS65KU/",
-     "summary": "정부 는 이번 성과를 토대로 세계 최고의 ' 인공지능 ( AI ) 민주 정부 '로 도약한다는 계획이다. ... 정책 과정에 참여할 수 있는지를 살펴본다. 통신인프라는 ...",
-     "source": "",
-     "ts": 1795171519
-    },
-    {
-     "id": "96cf3a6efa8c5b30",
-     "title": "과기정통부 -기후부, 인공지능 데이터센터 신속 구축을 위한 전력계통영향평가 제도 개선 추진",
-     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790068&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
-     "summary": "... 영향평가 면제 - - AIDC 특구 내 AIDC는 비기술적 평가 면제(평가 간소화) - 메가 프로젝트 , 인허가 일괄처리 - 정책 브리핑 | 브리핑룸 | 보도자료.",
-     "source": "",
-     "ts": 1795170881
-    },
-    {
-     "id": "91233b45bbe5d259",
-     "title": "정부 , 비수도권 AI 데이터센터 50㎿까지 전력평가 면제한다 - 경향신문",
-     "link": "https://www.khan.co.kr/article/202611201501001",
-     "summary": "정부 가 인공지능 산업 발전을 위해 비수도권 지역에 AI 데이터센터를 지을 경우 전력계통 영향평가를 면제해주는 구체적 기준을 '계약전력 50㎿'로 정했다.",
-     "source": "",
-     "ts": 1795170727
-    },
-    {
-     "id": "785adc7d228ef69e",
-     "title": "비수도권 50㎿ 이하 AI 데이터센터, 전력계통영향평가 면제 - 에너지뉴스",
-     "link": "https://www.2news.co.kr/news/articleView.html?idxno=33390",
-     "summary": "정부 가 비수도권에 구축하는 계약전력 50㎿(메가와트) 이하 인공지능 ( AI ) 데이터센터에 대해 전력계통영향평가를 면제하는 방안을 추진한다. AI 데이터센터 ...",
-     "source": "",
-     "ts": 1795170341
-    },
-    {
-     "id": "0504bac6c1b7b0a1",
-     "title": "정부 인정 AIDC 기준 나왔다...AIDC 특별법 하위법령서 구체화 - AI 타임스",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217609",
-     "summary": "과학기술정보통신부 는 ' 인공지능 데이터센터 산업 진흥에 관한 특별법(AIDC ... 이들 하위법령에 따르면, AIDC는 GPU·NPU 등 AI 가속기를 일정 규모 이상 보유하고 ...",
-     "source": "",
-     "ts": 1795169221
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "cf53c0f1af",
@@ -178,6 +178,62 @@
    "url": "https://www.google.co.kr/alerts/feeds/11999480042175370274/2544050648251835555",
    "site": "https://aimatters.co.kr",
    "items": [
+    {
+     "id": "147a0562bd75213e",
+     "title": "유럽위원회, AI 해킹 도구 쓴 사이버 공격 피해 확인 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61837/",
+     "summary": "더 레코드 보도를 보면 토마 레니에 EC 대변인은 공격의 첫 징후를 10월 22일 탐지했다며 이번 사건을 'AI가 생성한 사이버 캠페인'이라고 설명했다. 대변인은 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "13d7f739213ae954",
+     "title": "[AI 활용팁] 챗GPT 스페이스로 페이지 만들고 팀과 공유하기 - AI 매터스",
+     "link": "https://aimatters.co.kr/ai-tool/61833/",
+     "summary": "플러스 이용자로 확대된 챗GPT 스페이스의 이용 조건, 페이지와 슬라이드 작성 순서, 연결 앱 자료 활용, 공유 권한과 무료 이용자 제한을 오픈AI 도움말로 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "90d9930c0afe2757",
+     "title": "구글 크롬, 가짜 웹 '미러 디멘션'에서 AI 에이전트 보안 시험 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61839/",
+     "summary": "구글 크롬팀이 가상 웹사이트 수천 개로 브라우저 AI 에이전트를 시험하는 미러 디멘션을 공개했다. 자동 레드팀은 엔지니어 한 명당 하루 1000개 넘는 시험 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "88ab8fd58bbcb902",
+     "title": "SEC, 엔비디아 회계 조사…주가 하루 14% 하락 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61845/",
+     "summary": "로이터가 SEC의 엔비디아 회계 조사를 20일 보도했고, 엔비디아 주가는 14.01% 내린 125.53달러에 마감했다. 장중 시가총액은 알파벳보다 적어 미국 4위가 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "fbce7d3efa8a7670",
+     "title": "美 상원 초당파 4명, 상장사 AI 투자 공시 강화법 발의 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61841/",
+     "summary": "워너, 케네디, 올소브룩스, 라운즈 미국 상원의원이 상장 기업의 AI 거버넌스, AI 인프라 금융, 위험 요인 공시를 강화하는 오딧 AI 법을 앤트로픽 상장일에 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "806e43f55a93895a",
+     "title": "오픈AI, 코덱스로 챗GPT 속도 저하 잡는 '퍼포먼스 팩토리' 공개 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61843/",
+     "summary": "오픈AI가 코덱스 에이전트로 챗GPT 성능 저하를 조사하고 수정안을 내는 퍼포먼스 팩토리를 공개했다. 석 달 남짓 1700건 넘는 조사와 600건 넘는 원인 규명 ...",
+     "source": "",
+     "ts": null
+    },
+    {
+     "id": "b88117b2962aab4d",
+     "title": "애플, 앱 조작하는 자체 AI 에이전트 개발…채용 공고로 확인 - AI 매터스",
+     "link": "https://aimatters.co.kr/news-report/61835/",
+     "summary": "애플이 코드 작성, 웹 탐색, 앱 제어, 기기 조작을 대신하는 자율 AI 에이전트를 개발 중이라고 블룸버그가 채용 공고를 근거로 보도했다.",
+     "source": "",
+     "ts": null
+    },
     {
      "id": "eca6a649ae88b49b",
      "title": "인셉션, 머큐리 API 12월 종료…엔비디아 인수 협상 보도 - AI 매터스",
@@ -281,66 +337,10 @@
      "summary": "구글 딥마인드 셰인 레그 등 14명이 AGI 이후 초지능(ASI)으로 가는 4개 경로와 7개 병목을 분석했다. 유효 컴퓨팅 연 10배 증가 추정과 10~20년 내 ASI ...",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "064d93945f07ba9a",
-     "title": "앨트먼 \"오픈AI는 상장할 계획\"…앤트로픽 상장 하루 전 발언 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61722/",
-     "summary": "샘 앨트먼 오픈AI CEO가 뉴욕타임스 딜북 서밋에서 \"우리는 상장할 계획\"이라고 말했다. 9월에는 2026년 상장을 추진하지 않겠다고 밝힌 바 있다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "fc4c397a647c8710",
-     "title": "옴니사, 주권형 엔드포인트 관리 서비스 한국과 인도로 확대 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61738/",
-     "summary": "옴니사가 엔드포인트 완전 관리형 서비스 OSS를 한국과 인도로 확대해 8개 시장에서 제공한다. 윈도우 서버 지원을 추가했고, AI 에이전트 실행 환경의 주권 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "fb77aa3e6601f821",
-     "title": "벡터코리아, 오토핵 2026에 AI 기반 차량 보안 실습환경 제공 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61735/",
-     "summary": "벡터코리아가 오토핵 2026에서 CANoe AI 기반 블랙박스 보안 실습 환경을 제공했다. AI가 찾은 이상 징후를 실제 관측 데이터로 재현하고 엔지니어가 최종 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "a6ea488aa083d9a8",
-     "title": "앤트로픽 공모가 11만 253원 확정…108조 원 역대 최대 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61543/",
-     "summary": "앤트로픽이 IPO 공모가를 주당 83달러로 확정하고 공모 주식을 9억 8000만 주로 확대했다. 로이터에 따르면, 조달 금액은 813억 1000만 달러로 역대 최대다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "f72153220e16475d",
-     "title": "[AI 활용팁] 챗GPT 대화 기록을 제미나이로 가져와 이어 쓰기 - AI 매터스",
-     "link": "https://aimatters.co.kr/ai-tool/61707/",
-     "summary": "챗GPT와 클로드의 대화 기록, 메모리를 제미나이로 옮기는 방법이다. 메모리 가져오기 순서, .zip 내보내기 경로, 5GB와 하루 5개 한도, 삭제 방법, ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "f85db2958a83485a",
-     "title": "앤트로픽 상장 첫날 시간대별 주가…12만 9,896원 마감 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61769/",
-     "summary": "앤트로픽 주가가 11월 19일 나스닥 상장 첫날 오전 11시 48분 111.50달러에 첫 거래를 기록한 뒤 오후 1시 18분 92.72달러까지 하락했고, 97.17달러로 마감 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "2c5e0c611bff36ac",
-     "title": "클라우드플레어, 문서 추출 AI '클레어릭' 오픈웨이트 공개 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61716/",
-     "summary": "클라우드플레어가 문서 데이터 추출 모델 클레어릭 개선판과 90억 파라미터 클레어릭-플래시를 오픈웨이트로 공개했다. 텍스트 필드 평가에서 336개 중 335 ...",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "25ac01331a",
@@ -510,7 +510,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "cc992ff5f1",
@@ -518,6 +518,118 @@
    "url": "https://news.hada.io/rss/news",
    "site": "https://news.hada.io",
    "items": [
+    {
+     "id": "060394174a4f15b6",
+     "title": "AGI 다음에는 무엇이 올까?",
+     "link": "https://news.hada.io/topic?id=37558&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "인간 수준의 AGI는 지능의 상한이 아님 . 거의 모든 관심 과제에서 대규모 인간 전문가 집단보다 적은 시간과 자원으로 뛰어난 성과를 내는 범용 초지능(ASI)으로 발전할 가능성이 있으며, 이를 추적할 측정 체계가 필요함 최첨단 모델의 능력 향상이 정체되더라도, 하드웨어와 소프트웨어 효율 개선은 AI를 대규모로 저렴하게 사용하는 인지 산업화 를 이끌 수 있음. 다만 현재 AI의 수와 속도를…",
+     "source": "",
+     "ts": 1795228659
+    },
+    {
+     "id": "b53b73df9a346856",
+     "title": "Anthropic, IPO 직후 주가 급락…Nasdaq은 2026년 상승분 반납",
+     "link": "https://news.hada.io/topic?id=37557&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Anthropic 주가가 상장 다음 날 9% 하락 하며 매도세를 이끌었고, 상반기 증시와 경제성장을 견인한 AI 투자 열풍의 지속 가능성에 대한 우려가 커짐 Nasdaq은 하루 5.3% 하락 해 연간 상승분을 모두 반납했으며, S&P 500과 Dow는 최근 고점 대비 10% 하락한 조정 국면에 진입함 Nvidia는 약 14% 급락 했으며, 규제 당국이 회계 부정 의혹을 조사하고 있다는 Re…",
+     "source": "",
+     "ts": 1795224764
+    },
+    {
+     "id": "7bf7b85cc6789af1",
+     "title": "Codex로 일하는 새로운 방식 [영상]",
+     "link": "https://news.hada.io/topic?id=37556&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Codex 하네스 가 CLI, 데스크톱 앱, ChatGPT, Slack, Dots, Agents API로 확장되며, 로컬 코딩뿐 아니라 클라우드 장기 작업과 여러 업무 도구를 연결하는 기반으로 쓰임 코드 작성뿐 아니라 관련 대화와 문서를 찾고, 동료의 확인을 받아 배포와 결과 확인까지 맡기는 방식 으로 Codex의 활용 범위가 넓어짐 플러그인과 컨텍스트 수집 을 통해 저장소 밖의 메시지,…",
+     "source": "",
+     "ts": 1795222202
+    },
+    {
+     "id": "93cd8402f8a19137",
+     "title": "Cloudflare가 Raft 대신 QuePaxa를 선택한 이유",
+     "link": "https://news.hada.io/topic?id=37555&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Cloudflare는 전 세계에 분산된 실험적 제어 평면 서비스 Meerkat 에 QuePaxa를 채택함. 인터넷의 지연 급증과 연결 장애에도 단일 리더에 의존하지 않고 합의를 이어가는 것이 핵심 요구사항임 Raft나 Multi-Paxos 같은 리더 기반 합의 는 리더 장애 탐지와 교체 중 진행이 멈추며, 후보 간 경쟁으로 네트워크가 회복된 뒤에도 선거가 길어질 수 있음 QuePaxa에서…",
+     "source": "",
+     "ts": 1795221602
+    },
+    {
+     "id": "079aa1bd5e5e0571",
+     "title": "‘확률적 앵무새’가 리만 가설을 증명한 모양이다",
+     "link": "https://news.hada.io/topic?id=37554&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Levent Alpöge가 Anthropic 모델로 일반화 리만 가설을 증명했다 고 발표했으며, 결과물은 1,740만 줄의 Lean 코드 임 Scott Aaronson은 증명의 유효성을 확신하지는 않지만, Lean 인증을 갖춘 AI 결과가 철회된 사례를 아직 보지 못했다 는 점에서 이번 증명도 유지될 것으로 예상함 Lean의 커널 버그와 기반 타입 이론의 건전성 은 여전히 검증상의 쟁점이지…",
+     "source": "",
+     "ts": 1795221581
+    },
+    {
+     "id": "8d2eba1bca1d45b9",
+     "title": "Nvidia 회계 처리, SEC가 조사 중이라고 소식통 전해",
+     "link": "https://news.hada.io/topic?id=37553&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "미국 증권거래위원회(SEC) 가 Nvidia의 잠재적인 회계 문제를 조사 중이라고 Reuters가 보도함 Nvidia 주가는 금요일 약 14% 하락 하며 7거래일 연속 떨어졌고, 한 주 동안 시가총액 약 9,000억 달러 가 사라짐 최근 실적 발표에서 상세 분기 보고서인 10-Q 제출 시점 을 평소와 달리 수주 뒤로 안내했으며, 독립적인 이사회 위원회의 조사도 진행 중임 싱가포르 법인을 통…",
+     "source": "",
+     "ts": 1795221401
+    },
+    {
+     "id": "15df67cb3f19b492",
+     "title": "초대형 Git 저장소의 개발 속도 높이기",
+     "link": "https://news.hada.io/topic?id=37552&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Google이 대규모 Git 프로젝트의 소스 동기화와 빌드 병목을 줄이는 ABFS(Another Build File Service) 를 오픈소스로 공개함 Android에서 체크아웃은 약 36분에서 8초 미만 , 전체 빌드는 약 80분에서 2분을 조금 넘는 수준 으로 단축함 가상 파일 시스템 CASFS 가 필요한 파일만 지연 로딩하고, 소스 코드부터 작업 공간, 중간 빌드 파일, 최종 결과까…",
+     "source": "",
+     "ts": 1795221061
+    },
+    {
+     "id": "e13706b894344157",
+     "title": "SignuDoc - 내 계정에 배포해 운영하는 오픈소스 전자서명 앱",
+     "link": "https://news.hada.io/topic?id=37551&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "PDF에 서명과 입력란을 배치하고 이메일로 서명을 요청 하는 DocuSign 대체재 받는 사람은 가입 없이 링크를 열어 이름을 입력하거나 손으로 서명하며, 휴대폰에서도 이용 가능 최대 25명의 서명 순서 를 지정하거나 여러 사람이 동시에 서명할 수 있음 서명, 이니셜, 날짜, 이름, 텍스트, 숫자, 체크박스와 선택 항목을 문서에 배치 대시보드에서 누구의 서명을 기다리는지 확인 하고, 서명…",
+     "source": "",
+     "ts": 1795221002
+    },
+    {
+     "id": "5c4f594bd9c5befe",
+     "title": "항상 작동하는 에이전트 구축하기",
+     "link": "https://news.hada.io/topic?id=37550&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "상시 작동 에이전트 는 세션 간 맥락을 유지하고 직접적인 감독 없이 행동하며, 실제로는 대부분 대기하다가 이벤트가 발생할 때 짧게 실행되는 구조임 핵심은 새로운 에이전트 루프가 아니라 이벤트 수신함, 타이머, 메모리, 권한, 발신함 으로 구성된 주변 아키텍처이며, 실행 시점과 상태 유지, 결과 전달을 관리함 최근 모델의 판단력 향상과 장기 작업 비용 감소 로 구현이 더 실용적이 됨. 한 장…",
+     "source": "",
+     "ts": 1795220402
+    },
+    {
+     "id": "8719f7da74127266",
+     "title": "jj-musubi 공개: Jujutsu 저장소의 실시간 동기화",
+     "link": "https://news.hada.io/topic?id=37549&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "jj-musubi 는 여러 머신의 Jujutsu( jj ) 저장소를 실시간으로 동기화하며, 작업 스냅샷뿐 아니라 커밋, 리베이스, 가져오기 등의 변경도 다른 머신에 전달함 각 머신의 작업 복사본은 수정하지 않고 이력만 동기화하므로, 빌드 중인 파일을 바꾸지 않으면서 새 작업 이력을 받을 수 있음 한 머신에서 허브 를 실행하고 데몬들이 SSH로 jj 이력을 교환하는 구조로, 여러 머신을 사용…",
+     "source": "",
+     "ts": 1795219416
+    },
+    {
+     "id": "eaad0fd872461030",
+     "title": "우리는 개발자들에게 알리지도 않고 아키텍트로 승진시켰다",
+     "link": "https://news.hada.io/topic?id=37548&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "AI에 요구사항만 전달하고 아키텍처를 지정하지 않으면 , 성능과 데이터 설계에 관한 결정까지 AI에 맡기게 됨 Google Forms 애드온에서 AI가 작성한 설치 로그 코드 가 사용자 이메일과 ID를 차례로 조회하면서, 정적인 환영 화면을 띄우는 데 15초가 걸림 아키텍트의 역할은 앱을 느리게 만드는 요구사항에 제동을 걸거나 , 비동기 처리 등으로 성능과 보안 사이의 절충안을 찾는 것임…",
+     "source": "",
+     "ts": 1795214010
+    },
+    {
+     "id": "90de94dae7509b0d",
+     "title": "Google 직원들, AI를 원하지 않는 학교에 불이익 주지 말라고 회사에 요구",
+     "link": "https://news.hada.io/topic?id=37547&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Google 직원 수백 명이 Gemini AI 도구를 끄는 학교의 Google 검색 접근을 차단 하는 정책을 철회하라고 경영진에 요구함 Alphabet Workers Union의 청원 은 교육자가 AI 도입 방식을 자유롭게 선택해야 하며, 검색 차단은 학교가 Google 제품 전체를 배제하게 만들 수 있다고 경고함 학부모와 지역사회 단체들이 미국 7개 도시에서 항의 시위 를 벌였고, 뉴욕시…",
+     "source": "",
+     "ts": 1795211077
+    },
+    {
+     "id": "a75d9ea179976fa7",
+     "title": "외력이 없는 Euler와 Navier-Stokes 방정식의 특이점과 일반화 리만 가설",
+     "link": "https://news.hada.io/topic?id=37546&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "AI를 활용한 Euler 방정식, Navier-Stokes 방정식, 일반화 리만 가설의 증명 자료 가 공개됨. 사람이 읽을 수 있는 논증까지 정리된 결과부터, 방대한 Lean 코드의 검증과 해석이 진행 중인 결과까지 단계가 다름 외력이 없는 3차원 비압축성 Euler 방정식의 유한 시간 발산 에 대해 사람이 읽을 수 있는 증명과 Lean 형식화가 작성됨 외력이 없는 3차원 비압축성 Navi…",
+     "source": "",
+     "ts": 1795210897
+    },
+    {
+     "id": "9d5a5e054d004f96",
+     "title": "Inkling 2 Mini - 노트북에서 실행하는 반복형 트랜스포머 모델",
+     "link": "https://news.hada.io/topic?id=37545&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Thinking Machines Lab이 Inkling 2 Mini 를 오픈 웨이트로 공개함. 총 264억 파라미터의 모델로, 약 20GB 메모리 를 사용해 노트북에서도 로컬 실행이 가능함 중간 레이어를 토큰마다 3회 반복 하는 구조로, 추론을 모두 텍스트로 출력하지 않고 내부 연산을 늘림. 에이전트 코딩처럼 추론 품질이 중요한 작업에서 더 적은 토큰으로 답에 도달하도록 설계함 공개한 평가…",
+     "source": "",
+     "ts": 1795210716
+    },
     {
      "id": "b3b3263d8b44b1f6",
      "title": "Oxygene의 제작 과정",
@@ -538,15 +650,15 @@
      "id": "23a08d90fa70f579",
      "title": "Anthropic의 기록적인 IPO도 AI주 매도세 막지 못해, 세계 증시 급락",
      "link": "https://news.hada.io/topic?id=37542&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Anthropic 주가가 상장 둘째 날 최대 12% 하락하며 공모가에 근접했고, 기록적인 IPO도 AI 관련 기업의 매도세를 멈추지 못함 Nasdaq 종합지수 는 2026년 상승분을 모두 반납했으며, Dow Jones와 S&P 500은 장중 일시적으로 조정 구간에 진입함 아시아 증시 는 2020년 이후 최악의 한 주를 기록했고, 유럽 증시도 2025년 3월 이후 최대 주간 낙폭을 보임 투자…",
+     "summary": "Anthropic 주가가 상장 둘째 날 최대 9% 하락하며 공모가에 근접했고, 기록적인 IPO도 AI 관련 기업의 매도세를 멈추지 못함 Nasdaq 종합지수 는 2026년 상승분을 모두 반납했으며, Dow Jones와 S&P 500은 조정 구간으로 마감 아시아 증시 는 2020년 이후 최악의 한 주를 기록했고, 유럽 증시도 2025년 3월 이후 최대 주간 낙폭을 보임 투자자들은 막대한 AI…",
      "source": "",
      "ts": 1795203422
     },
     {
      "id": "3dfdc917cbda2a5f",
-     "title": "긴급 공지: Alessandro Masullo의 GRH 증명안 공개",
+     "title": "긴급 공지: Alessandro Masullo, 일반화 리만 가설(GRH) 증명안 공개",
      "link": "https://news.hada.io/topic?id=37541&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Alessandro Masullo의 GRH 증명안 이 현재 초안 형태로 공개됨. 확정된 증명이 아니라 검토가 필요한 단계임 Brian Conrad 가 수개월 동안 면밀히 검토하고 광범위한 피드백을 제공했으며, 이를 초안에 반영 중임 지금까지의 검토는 긍정적 이지만, 증명이 최종적으로 성립하는지는 아직 확정되지 않음 이 작업은 AI 사용 없이 전적으로 사람이 수행 함 원래 Stanford에서…",
+     "summary": "Alessandro Masullo가 일반화 리만 가설(GRH)의 증명안 을 공개함. 리만 가설을 더 넓은 종류의 L함수로 확장한 문제로, 아직 증명이 확인된 단계는 아님 Brian Conrad가 수개월 동안 논증을 면밀히 검토 하며 제공한 피드백을 원고에 반영 중임. 발표문은 지금까지의 검토를 긍정적으로 평가하지만, 최종 검증 결과를 내놓지는 않음 AI를 사용하지 않고 사람이 작성한 작업…",
      "source": "",
      "ts": 1795203242
     },
@@ -565,122 +677,10 @@
      "summary": "Apple은 EU와 일본에서 iOS용 대체 브라우저 엔진을 허용했지만, Mozilla는 충족하기 어려운 조건 때문에 아직 비WebKit 브라우저가 출시되지 못했다고 지적함 iOS의 Apple 엔진 사용 제약 으로 인해 Mozilla는 Gecko에 구현된 Firefox의 기능 전체를 iPhone 사용자에게 쉽게 제공할 수 없음 Gecko를 도입하려면 기존 Firefox 앱을 업데이트하는 대신…",
      "source": "",
      "ts": 1795199736
-    },
-    {
-     "id": "edbb71715209b1f0",
-     "title": "IEA, 건물 냉방 에너지 수요가 난방을 추월하고 있음",
-     "link": "https://news.hada.io/topic?id=37537&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "IEA의 World Energy Outlook 2026 에 따르면 건물 냉방이 역사상 처음으로 난방을 추월하는 변화가 진행 중임. 다만 이는 제공되는 에너지 서비스 기준이며, 실제 소비하는 연료와 전력은 여전히 난방이 더 많음 소득 증가와 기온 상승 이 냉방 수요를 끌어올림. 중국을 제외한 신흥국과 개발도상국에서는 가구의 85%가 연중 일정 기간 고온에 노출되지만, 에어컨 보유율은 20%…",
-     "source": "",
-     "ts": 1795197344
-    },
-    {
-     "id": "4e812c24e2b21646",
-     "title": "Postgres 19 REPACK: 더 빠른 내장 테이블 비대화 정리",
-     "link": "https://news.hada.io/topic?id=37536&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Postgres 19는 확장 없이 테이블을 재구축하는 REPACK SQL 명령을 추가함. CONCURRENTLY 를 사용하면 대부분의 작업 동안 읽기와 쓰기를 유지하며, 마지막 파일 교체 시에만 짧게 잠금을 획득함 일반 VACUUM 이 죽은 튜플의 공간을 내부 재사용 가능 상태로 만드는 것과 달리, REPACK은 테이블을 다시 작성해 디스크 공간을 OS에 반환 함 온라인 재구축은 트리거 대…",
-     "source": "",
-     "ts": 1795197164
-    },
-    {
-     "id": "ae459289d25b3607",
-     "title": "Synology 보안 권고: DSM과 BeeStation OS의 치명적 취약점",
-     "link": "https://news.hada.io/topic?id=37535&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Synology가 원격 공격자의 임의 파일 읽기/쓰기와 서비스 거부 공격 을 허용하는 CVE-2026-120382에 대응하는 보안 업데이트를 공개함 취약점은 DSM의 OAuth API 에서 명령어 인자 구분자를 적절히 무력화하지 못하는 문제로, 심각도는 Critical이며 CVSS 3.1 점수는 9.8 임 DSM 7.4와 7.3 은 수정 버전이 제공되며, 각각 7.4.1-90080-2와 7…",
-     "source": "",
-     "ts": 1795196984
-    },
-    {
-     "id": "76b8306492e8ac7e",
-     "title": "코드 작성을 멈추면 코드 리뷰 실력도 떨어진다",
-     "link": "https://news.hada.io/topic?id=37534&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "코드를 직접 쓰지 않고 지시와 리뷰만으로 전문성을 유지하거나 높이기는 어려우며, 직접 연습하는 과정 이 개발 역량 유지와 향상에 필요함 쟁점은 AI가 만든 코드의 단기적인 품질 이 아니라, 직접 작업하는 개발자와 그렇지 않은 개발자의 숙련도 변화 에 있음 소프트웨어 엔지니어링이 코드 작성보다 넓은 활동이더라도, 코드의 작동 방식과 좋은 코드의 특성, 변경하기 쉬운 구조를 이해하려면 Clau…",
-     "source": "",
-     "ts": 1795196804
-    },
-    {
-     "id": "76d36881b6b81257",
-     "title": "다시는 Framework 하드웨어를 사지 않겠다",
-     "link": "https://news.hada.io/topic?id=37533&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "개발자용으로 구매한 약 3,000유로짜리 Framework Laptop 16 에서 개봉 직후 입력 모듈 오류가 발생했고, 3개월 넘게 지원과 부품 교체를 거쳐도 해결되지 않아 구매 기업이 향후 Framework 구매를 중단하기로 함 첫 키보드는 운영체제 설치 전부터 숫자 키패드로 잘못 식별됐으며, 직원이 Framework 자체 도구로 키보드 결함을 좁혀냈지만 지원팀은 먼저 미드플레이트를 교…",
-     "source": "",
-     "ts": 1795196623
-    },
-    {
-     "id": "b9a6f2101fc1bb53",
-     "title": "Jujutsu 입문: Git 사용자에게 익숙하면서도 다른 버전 관리 방식",
-     "link": "https://news.hada.io/topic?id=37531&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Jujutsu( jj ) 는 Git 저장소에서 Git과 함께 사용할 수 있는 버전 관리 시스템으로, 자동 리베이스와 실행 취소를 조합해 커밋 그래프 중심으로 작업함 작업 사본도 커밋 으로 관리하며 별도 스테이징 영역이 없음. 파일 편집 후 jj 명령으로 자동 스냅샷을 만들고, 커밋 ID가 바뀌어도 논리적 변경의 change ID 는 유지됨 이전 커밋을 수정하면 후손 커밋을 자동 리베이스 하…",
-     "source": "",
-     "ts": 1795192815
-    },
-    {
-     "id": "025f84dbaf436200",
-     "title": "Signal은 사용자의 프라이버시 보호에 진지함",
-     "link": "https://news.hada.io/topic?id=37530&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Signal 이 모바일 운영체제에 내장된 AI 에이전트의 대화 데이터 수집을 막기 위해, iOS 27과 AI 비서의 화면 접근을 감지할 수 있는 Android 환경에 스크린샷 차단 조치를 적용함 운영체제의 화면 읽기 기반 AI 기능 은 Signal 데이터를 수집해 로컬 데이터베이스나 원격 서버에서 활용할 수 있으며, 수집 이후에는 Signal이 통제하거나 대화 참여자의 프라이버시를 독립적으…",
-     "source": "",
-     "ts": 1795192634
-    },
-    {
-     "id": "d768608f96828aca",
-     "title": "Anthropic 수학자, Claude와 리만 가설 및 일반화 리만 가설을 증명했다고 발표 [pdf]",
-     "link": "https://news.hada.io/topic?id=37529&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Anthropic의 수학자 Levent Alpöge 가 Claude와 함께 리만 가설과 일반화 리만 가설(GRH)의 증명을 발견했다 고 발표함. 확장 리만 가설에도 적용할 수 있을 것으로 기대하지만, 이 부분은 아직 전망임 리만 가설은 소수의 분포가 평균에서 얼마나 벗어나는지에 관한 난제 로, 1859년 제기된 클레이 밀레니엄 문제 중 하나임 논증을 추가 가정 없이 Lean으로 형식화했다…",
-     "source": "",
-     "ts": 1795188841
-    },
-    {
-     "id": "1a426e76ba72c0d3",
-     "title": "쉽게 설명할 수 없다면 이해한 것이 아니다 (2017)",
-     "link": "https://news.hada.io/topic?id=37527&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Richard Feynman 은 어려운 개념을 초보자에게 설명하는 능력을 중시했으며, 대학 1학년 수준으로 설명하지 못한 물리 현상에 대해 “우리가 정말로 이해하지 못한다는 뜻”이라고 말함 Apple 에서도 엔지니어에게 복잡한 기술이나 제품을 쉽게 설명할 것을 기대하며, John Gruber에 따르면 이는 경영진의 이해를 돕기 위해서가 아니라 엔지니어가 완전히 이해했는지 확인하기 위해서임…",
-     "source": "",
-     "ts": 1795185137
-    },
-    {
-     "id": "bcb33c968c35b7ef",
-     "title": "Show GN: 잘하나 – 지방의회 회의록을 사안별로 이어 보여 주는 서비스",
-     "link": "https://news.hada.io/topic?id=37526&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "잘하나는 지방의회 회의록을 읽어, 누가 무엇을 했는지보다 사안이 어떻게 이어졌는지를 보여 주는 서비스입니다. 직접 만들어 운영하고 있습니다. 만든 이유 회의록은 공개돼 있습니다. 그런데 공개돼 있다는 것과 쉽게 확인할 수 있다는 것은 전혀 다른 일이었습니다. 거제시의회 한 곳만 해도 한 임기에 회의가 500번이 넘고, 회의록 한 편이 길게는 100쪽이 넘습니다. 하나의 사안은 여러 회의,…",
-     "source": "",
-     "ts": 1795182228
-    },
-    {
-     "id": "f9e531f9eceb0d8a",
-     "title": "Carnival Cruises의 황산화물 배출량, 유럽 전체 자동차의 10배에 달함(2019)",
-     "link": "https://news.hada.io/topic?id=37525&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Transport & Environment(T&E) 분석에 따르면, Carnival Corporation 이 2017년 유럽 연안에서 배출한 황산화물(SOx)은 유럽 자동차 2억 6,000만 대 배출량의 거의 10배였음 세계 2위 크루즈 운영사 Royal Caribbean Cruises 의 황산화물 배출량도 유럽 전체 자동차의 4배 였음 크루즈선의 황산화물 오염에 가장 많이 노출된 국가는…",
-     "source": "",
-     "ts": 1795181961
-    },
-    {
-     "id": "dd2f60be78ba6a4c",
-     "title": "Frostbite: AI가 발견하고 설계하고 검증한 새로운 CPU 아키텍처",
-     "link": "https://news.hada.io/topic?id=37524&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Architect Labs가 상호작용망(interaction nets) 기반의 범용 CPU Frostbite를 공개함. AI 시스템이 컴파일러, 새 명령어 집합, 아키텍처, RTL, 검증, 최종 GDS까지 함께 반복 개선함 25개 워크로드에서 전력당 성능 4.59배 를 기록함. 비교 대상은 비슷한 면적의 실리콘 검증된 듀얼 이슈 인오더 CPU 코어이며, 결과는 실제 칩 측정이 아닌 실리콘…",
-     "source": "",
-     "ts": 1795181781
-    },
-    {
-     "id": "d44e0370c54028e0",
-     "title": "Show GN: rdocs2md – Rust로 만든 경량 문서→Markdown 변환 CLI/MCP (HWP/PDF/Office 지원)",
-     "link": "https://news.hada.io/topic?id=37522&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "AI 에이전트가 다양한 문서를 읽을 때 외부 프로그램이나 무거운 라이브러리 없이 빠르게 Markdown으로 변환할 수 있도록 Rust로 만든 CLI 도구입니다. PDF, HWP/HWPX, DOC/DOCX, PPT/PPTX, XLS/XLSX, ODT/ODS/ODP, RTF, EPUB 등 14개 문서 형식 을 지원합니다. 주요 특징 단일 실행 파일: 약 4MiB의 Windows x64 EXE.…",
-     "source": "",
-     "ts": 1795178475
-    },
-    {
-     "id": "fd2cb49508728876",
-     "title": "FFmpeg 9.1 'Gauss' - 멀티미디어 프로젝트의 핵심 구성 요소인 FFmpeg의 최신 안정 릴리스",
-     "link": "https://news.hada.io/topic?id=37521&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "FFmpeg 9.1 “Gauss” 가 2026년 11월 20일 출시됐으며, 9.1 릴리스 브랜치의 최신 안정 버전임 공식 프로젝트는 소스 코드만 제공 하며, 바로 실행할 수 있는 Linux, Windows, macOS 패키지와 빌드는 외부 배포처에서 받을 수 있음 모든 릴리스는 PGP 서명 으로 진위를 검증할 수 있으며, 9.1에는 양자내성 서명 파일도 제공됨 양자내성 서명 은 아직 Gnu…",
-     "source": "",
-     "ts": 1795177940
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "f9eb976542",
@@ -688,6 +688,142 @@
    "url": "https://www.aitimes.com/rss/allArticle.xml",
    "site": "https://www.aitimes.com",
    "items": [
+    {
+     "id": "cfbbac161a2b658c",
+     "title": "젠슨 황, 20여년 전부터 직원들에게 폭언·위협…불만 제기 이어져",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217644",
+     "summary": "엔비디아 직원들이 젠슨 황 전 CEO의 폭언과 공개적인 모욕을 동반한 경영 방식에 20여년 전부터 불만을 제기해 온 것으로 드러났다. 엔비디아가 AI 칩 시장을 장악하며 세계적인 기업으로 성장하는 동안에도 직원들을 위협하고 인격적으로 모욕하는 관리 방식이 이어졌다는 증언이 나왔다.뉴욕타임스(NYT)는 20일(현지시간) 전·현직 직원 12명 이상과 법원 기록, 내부 문서 등을 취재한 결과를…",
+     "source": "",
+     "ts": 1795261911
+    },
+    {
+     "id": "f0671b795c49f461",
+     "title": "유튜브, 미 교육청들과 '중독 소송' 4조원 합의 추진",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217647",
+     "summary": "구글의 유튜브가 청소년의 정신건강을 해치는 중독성 플랫폼을 설계했다는 이유로 미국 교육청들이 제기한 소송에서 30억달러(약 4조원) 규모의 합의에 근접했다. 합의가 성사되면 미국 교육청을 대상으로 한 기업 합의금 가운데 역대 최대 규모가 될 전망이다.20일(현지시간) 블룸버그에 따르면 유튜브는 수천 곳의 교육청에 약 30억달러를 지급하는 원칙적 합의에 도달했다.합의안에는 청소년을 보호하기…",
+     "source": "",
+     "ts": 1795261440
+    },
+    {
+     "id": "2bc8c2ea470b30e2",
+     "title": "트럼프 \"젠슨 황에 두 번째 기회 줘야\"…CEO 복귀 재촉구",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217646",
+     "summary": "도널드 트럼프 미국 대통령이 젠슨 황 전 엔비디아 CEO의 복귀를 다시 한번 촉구했다. 사생활 문제로 물러났지만 미국 AI 산업의 경쟁력을 위해 다시 기회를 줘야 한다며, 시진핑 중국 국가주석도 황을 높이 평가했다고 전했다.워싱턴포스트와 CNBC에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 황 전 CEO에 대해 \"그는 좋은 사람이다. 몇 가지 잘못된 결정을 내렸지만 매우…",
+     "source": "",
+     "ts": 1795261070
+    },
+    {
+     "id": "49048405cab70ac9",
+     "title": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217641",
+     "summary": "미국 민주당 하원의원들이 엔비디아가 중국으로의 반도체 불법 우회 수출 의혹을 받는 싱가포르 클라우드 기업 메가스피드에 대한 미 상무부 조사에 부당하게 개입했는지 조사에 착수했다. 엔비디아와 트럼프 행정부의 관계뿐 아니라 중국 반도체 수출통제 집행의 공정성까지 조사 대상에 올랐다.로이터와 블룸버그에 따르면 그레고리 믹스 뉴욕주 하원의원과 시드니 카믈라거-도브 캘리포니아주 하원의원은 20일(현…",
+     "source": "",
+     "ts": 1795260340
+    },
+    {
+     "id": "319b0c386ffbefba",
+     "title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217643",
+     "summary": "스페이스X의 AI 코딩 플랫폼 커서(Cursor)가 중국산 AI 모델의 사용을 단계적으로 중단하는 방안을 검토하고 있다. 미국 의회가 자국 기술 생태계에서 중국산 AI 모델의 사용 현황을 조사하면서, 기업들의 의존도를 줄이려는 움직임도 본격화하고 있다.CNBC는 20일(현지시간) 미국 하원 국토안보위원회와 중국특별위원회의 공동 보고서를 인용, 커서가 지정학적 위험을 고려해 중국에서 개발된…",
+     "source": "",
+     "ts": 1795258887
+    },
+    {
+     "id": "7ac363bc65ea3780",
+     "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217640",
+     "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 AI를 활용한 군사적 의사결정에는 인간이 개입해야 한다는 원칙에 합의했다. 양국이 AI 기술 패권을 놓고 경쟁하는 상황에서도 주요 군사작전을 AI가 독자적으로 수행해서는 안 된다는 데 뜻을 모은 것으로, 2024년 핵무기 사용 결정에 관한 합의보다 적용 범위가 넓어졌다.스콧 베선트 미국 재무장관은 20일(현지시간) CNBC 인터뷰에서 트럼…",
+     "source": "",
+     "ts": 1795257722
+    },
+    {
+     "id": "a8aa2852b1a21ad3",
+     "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217645",
+     "summary": "미국 증권거래위원회(SEC)가 엔비디아의 회계 처리 문제를 조사하는 것으로 알려지면서 주가가 14% 폭락했다. 젠슨 황 전 CEO 퇴진에 이어 회계 처리와 매출 공시의 신뢰성에 대한 의문까지 제기되면서 시가총액이 알파벳 아래로 떨어지고 2008년 금융위기 이후 최장 주간 하락세를 기록했다.로이터는 20일(현지시간) 소식통 2명을 인용해 SEC 집행부서가 엔비디아의 회계 처리와 관련된 잠재적…",
+     "source": "",
+     "ts": 1795257131
+    },
+    {
+     "id": "052caccfd65f03f6",
+     "title": "[AI카툰] Bob, Senior IT guy - 밥, 코스모스의 시작",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217636",
+     "summary": "글·그림 Dr. Alf",
+     "source": "",
+     "ts": 1795255200
+    },
+    {
+     "id": "e08c059e995d2d8f",
+     "title": "[내면 지도 그리기] 43 Inner Mapping: 나를 찾는 지도",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217635",
+     "summary": "작은 것들에게도 한 해가 있다기계와 도구에게 감사하는 날이 있습니다.낯설게 들릴 수도 있지만, 세계 곳곳에는 실제로 그런 날이 있습니다. 일을 다한 것들에게 수고했다고 말하는 날. 너무 당연해서 한 번도 고마워한 적 없었던 것들을 다시 바라보는 날. 그런 날이 왜 필요한지를 생각하다 보면, 어느새 우리 자신의 하루를 들여다보게 됩니다.11월이 되면 거리의 색이 한꺼번에 바뀝니다. 여름 내내…",
+     "source": "",
+     "ts": 1795255200
+    },
+    {
+     "id": "371da31a4bdc78b7",
+     "title": "트럼프 \"해외에 데이터센터 짓는 미국 기업에 막대한 세금 부과\"",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217642",
+     "summary": "도널드 트럼프 미국 대통령이 해외에 데이터센터를 건설하는 미국 기업에 막대한 세금을 부과하겠다고 밝혔다. 미국 내 AI 인프라 투자를 늘리겠다는 취지로, 실제 시행된다면 미국 빅테크 기업들의 글로벌 데이터센터 투자에 상당한 영향을 미칠 전망이다.로이터 등에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 \"우리 기업들이 미국 밖에 데이터센터를 짓도록 허용하지 않을 것\"이라며 해…",
+     "source": "",
+     "ts": 1795254549
+    },
+    {
+     "id": "73dcf1c12412db77",
+     "title": "비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217616",
+     "summary": "정부가 비수도권 AI 데이터센터 가운데 계약전력 50메가와트(MW) 이하 시설에 대한 전력계통영향평가를 면제하는 방안을 추진한다. AI 데이터센터 특구에는 평가 간소화를, 메가프로젝트와 인허가 일괄처리 대상에는 우선 심사를 도입할 계획이다.과학기술정보통신부와 기후에너지환경부는 20일 AI 데이터센터의 신속한 구축을 지원하기 위해 전력계통영향평가 제도를 개선한다고 밝혔다.정부는 이날 '인공지…",
+     "source": "",
+     "ts": 1795252500
+    },
+    {
+     "id": "27a97ab90fe1c1a2",
+     "title": "베트남 수상태양광 속도…자라이성 35MW 착공·닥락성 304MW 부지 승인",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217553",
+     "summary": "베트남 자라이성에서 35메가와트(MW) 규모의 수상태양광 발전소 착공식이 열렸다. 닥락성은 304MW 수상태양광 발전사업에 필요한 수면 포함 부지 약 354ha의 임대를 승인하며 사업 추진 절차를 진행하고 있다.자라이성 당위원회가 지난 18일(현지시간) 발표한 자료에 따르면, 이날 바우깐 수상태양광 발전소와 떠이호-쯔프롱 풍력발전소의 착공식이 함께 열렸다.바우깐 수상태양광 발전소는 바우깐…",
+     "source": "",
+     "ts": 1795252500
+    },
+    {
+     "id": "439490e97709a1fe",
+     "title": "칠레 103MW 태양광발전소, 사이버공격 신고 후 80일 넘게 가동 중단",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217563",
+     "summary": "칠레 북부의 103메가와트(MW) 규모 태양광발전소가 사이버공격을 원인으로 신고한 뒤 80일 넘게 가동을 재개하지 못하고 있다. 함께 설치된 98MW·312메가와트시(MWh) 규모의 배터리에너지저장장치(BESS)도 전력망에서 분리된 상태다.칠레 국가전력조정기관(CEN)이 지난 17일(현지시간) 공개한 운영일보에 따르면, 후아타콘도 태양광발전소와 BESS의 가동 가능 비율은 모두 0%로 기록…",
+     "source": "",
+     "ts": 1795252200
+    },
+    {
+     "id": "ea465225d013bc3c",
+     "title": "앤트로픽, 상장 이틀째 8.5% 급락...공모가까지 근접",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217639",
+     "summary": "역대 최대 규모의 기업공개(IPO)를 기록한 앤트로픽이 상장 이틀 만에 주가가 급락하며 공모가에 근접했다. 엔비디아를 비롯한 주요 AI 관련주가 동반 하락하면서 앤트로픽의 상장이 AI 투자 열기를 되살릴 것이라는 기대도 꺾였다.앤트로픽 주가는 20일(현지시간) 나스닥에서 전날보다 8.5% 하락한 88.91달러에 거래를 마쳤다. 장중에는 83.05달러까지 떨어지며 공모가 83달러에 불과 5센…",
+     "source": "",
+     "ts": 1795252109
+    },
+    {
+     "id": "167e57d54a9a6f0b",
+     "title": "위성으로 본 칭하이성 태양광단지, 준공 2~5년 뒤 식생지수 28.4% 높아져",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217554",
+     "summary": "중국 칭하이성의 대규모 태양광 발전단지에서 준공 2~5년 후 식생지수가 공사 이전 대비 평균 28.4% 높아진 것으로 나타났다. 위성영상으로 관측한 식생의 녹색도 변화로, 식물이 자라는 면적이 같은 비율로 증가했다는 의미는 아니다.중국 허하이대와 칭하이 황허수력발전 등 공동 연구진이 지난 17일(현지시간) 국제학술지 '인포메이션 지오그래피(Information Geography)'에 온라인…",
+     "source": "",
+     "ts": 1795251900
+    },
+    {
+     "id": "3537c963f0b740a5",
+     "title": "앤트로픽 수학자 \"클로드로 167년 난제 리만 가설 증명\"...검증 착수",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217638",
+     "summary": "앤트로픽의 수학자가 '클로드'의 도움으로 167년 동안 풀리지 않았던 수학계 최대 난제 중 하나인 '리만 가설(Riemann Hypothesis)'을 증명했다고 주장했다. 수학계의 검증을 거쳐 증명이 인정된다면 현대 수학의 가장 중요한 미해결 문제를 해결하는 동시에 AI가 인간 수학자와 함께 역사적인 연구 성과를 만들어낸 사례가 될 전망이다.앤트로픽의 수학자 레벤트 알포게는 20일(현지시간…",
+     "source": "",
+     "ts": 1795250160
+    },
+    {
+     "id": "d4d4da8a48d3a235",
+     "title": "[11월20일] 구글 \"AGI는 끝이 아니다\"…AGI 이후 4가지 발전 경로 제시",
+     "link": "https://www.aitimes.com/news/articleView.html?idxno=217605",
+     "summary": "그동안 AI 업계의 관심은 'AGI가 언제 등장할 것인가'에 집중돼 왔습니다. 그러나 최근 AI 발전이 빨라지고 2030년 무렵 AGI에 도달할 것이라는 전망까지 나오면서, 논의는 'AGI 이후에는 무엇이 일어날 것인가'로 이어지고 있습니다.이런 가운데 구글 딥마인드가 AGI 이후 AI가 발전할 수 있는 네 가지 기술적 경로를 제시했습니다. 인간 수준의 지능을 확보하더라도 AI의 발전은 멈…",
+     "source": "",
+     "ts": 1795244400
+    },
     {
      "id": "8caaddde4c2d7625",
      "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
@@ -711,146 +847,10 @@
      "summary": "오픈AI가 AI 모델의 응답 속도에 따라 API 요금을 차등 적용하는 새로운 과금 방식을 선보였다. 개발자가 응답 완료까지 기다릴 수 있는 시간을 길게 설정하면 최대 40%까지 비용을 절감할 수 있어, 대규모 AI 작업을 수행하는 기업과 개발자의 비용 부담을 줄일 수 있게 됐다.오픈AI는 18일(현지시간) API 요청의 완료 목표 시간을 2시간 또는 8시간으로 설정하면 요금을 할인해 주는…",
      "source": "",
      "ts": 1795195076
-    },
-    {
-     "id": "f23563525d2aec73",
-     "title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217629",
-     "summary": "메타가 AI 에이전트가 작업 경험을 바탕으로 기억 관리 방식을 스스로 개선하고, 이를 모델 학습에도 반영하는 기술을 공개했다. 최근 오픈AI와 앤트로픽이 AI를 활용한 연구개발 자동화와 자기개선 성과를 잇달아 발표한 가운데, 메타도 기억 관리 능력을 AI 스스로 발전시키는 방법을 제시했다.메타는 19일(현지시간) 공식 연구 발표를 통해 AI 에이전트가 어떤 정보를 기억하고 언제 다시 불러올…",
-     "source": "",
-     "ts": 1795194900
-    },
-    {
-     "id": "236489035563d831",
-     "title": "캘리포니아주, 엔비디아에 소환장...중국 기밀 유출·투자자 기만 조사",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217637",
-     "summary": "미국 캘리포니아주 법무부가 젠슨 황 전 엔비디아 CEO와 중국 간 연관성 의혹을 둘러싸고 엔비디아에 대한 조사에 착수했다. 황 전 CEO와 회사의 행위로 중국에 첨단 AI 칩이나 기밀 정보가 전달됐는지, 엔비디아가 관련 위험을 투자자들에게 제대로 알렸는지 등을 조사할 예정이다.캘리포니아주 법무부는 19일(현지시간) 공식 성명을 통해 롭 본타 법무장관이 엔비디아에 조사 관련 소환장을 발부했다…",
-     "source": "",
-     "ts": 1795194426
-    },
-    {
-     "id": "1d6a0d3b771c1ba7",
-     "title": "미 상무부, 중국군 연계 기업에 AI 칩 수출 허가...하원 자료 공개로 파장",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217634",
-     "summary": "미국 상무부가 엔비디아와 AMD의 AI 칩 약 88만개를 중국 기업에 수출하도록 승인한 사실이 공개됐다. 전체 승인 물량의 30% 이상은 미 국방부가 중국군 연계 기업으로 지정했거나 이후 지정한 업체들에 배정된 것으로 나타나, 수출 허가 심사 과정에 대한 논란이 커질 전망이다.블룸버그와 로이터에 따르면, 미 하원 외교위원회는 19일(현지시간) 도널드 트럼프 행정부가 2025년 12월부터 2…",
-     "source": "",
-     "ts": 1795193841
-    },
-    {
-     "id": "ea3927e678c7b3b2",
-     "title": "오픈AI, 코덱스로 챗GPT 성능 문제 자동 진단·수정안 작성",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217626",
-     "summary": "오픈AI가 '코덱스'를 활용해 챗GPT의 성능 저하 원인을 찾아내고 수정까지 지원하는 내부 자동화 시스템을 공개했다. 성능 문제가 발생하면 AI 에이전트가 로그와 코드를 분석해 원인을 파악하고 수정안을 작성하며, 배포 후에는 문제가 해결됐는지도 확인한다.오픈AI는 19일(현지시간) 코덱스 기반의 내부 성능 관리 시스템 '퍼포먼스 팩토리(Performance Factory)'의 개발 과정과…",
-     "source": "",
-     "ts": 1795193257
-    },
-    {
-     "id": "25cb3a598bd4f338",
-     "title": "구글, 제미나이에 '컴퓨터 유즈' 기능 도입...맥 앱 직접 제어",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217606",
-     "summary": "구글이 맥용 '제미나이' 앱에 컴퓨터를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 도입했다. 앤트로픽과 오픈AI가 1~2년 전부터 선보인 기능으로, 구글도 기존 개발자용 기술을 일반 이용자에게 확대하면서 AI 에이전트 경쟁에 본격적으로 뛰어들었다.구글은 19일(현지시간) 공식 블로그를 통해 맥용 제미나이 앱에 컴퓨터 유즈 기능을 추가했다고 밝혔다. 사용자가 프롬프트에 '…",
-     "source": "",
-     "ts": 1795192681
-    },
-    {
-     "id": "5c8405a9cb19a7f1",
-     "title": "[게시판] 셀렉트스타, 출판협회와 AI 학습용 출판데이터 공급 협력 등 단신",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217631",
-     "summary": "■ 셀렉트스타(대표 김세엽)는 대한출판문화협회와 저작권자 및 출판권자의 권리를 보호하면서 고품질 AI 학습용 출판데이터를 공급하기 위한 업무협약(MOU)을 체결했다고 밝혔다. 양측은 ▲출판데이터 정제·가공·구조화·품질 검증 관련 기술 교류 ▲AI 학습용 데이터 공급 체계 마련 ▲출판데이터 수요처 관련 사업 공동 참여 등을 진행한다. 셀렉트스타는 광학문자인식(OCR)과 문서 레이아웃 분석(D…",
-     "source": "",
-     "ts": 1795192200
-    },
-    {
-     "id": "d3896c2b22d1878f",
-     "title": "뉴로퓨전, AI 미래 예측 벤치마크서 공동 1위...구글·오픈AI 앞서",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217627",
-     "summary": "국내 AI 전문 뉴로퓨전이 글로벌 AI 미래 예측 벤치마크에서 구글 딥마인드와 오픈AI, 앤트로픽 등 주요 AI 기업을 앞서며 공동 1위를 기록했다. 경제·금융 지표와 주요 국제 사건의 발생 가능성을 예측하는 평가에서 자체 개발한 AI 시스템의 경쟁력을 입증했다는 설명이다.뉴로퓨전(대표 최한철)은 20일 글로벌 AI 예측 성능 평가인 '포캐스트벤치(ForecastBench)' 종합 리더보드…",
-     "source": "",
-     "ts": 1795191600
-    },
-    {
-     "id": "6c42f2d9e9979a6d",
-     "title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217602",
-     "summary": "애플이 기존 '시리 AI'보다 복잡한 업무를 자율적으로 처리할 수 있는 범용 AI 에이전트 개발에 나섰다. 사용자를 대신해 여러 앱과 웹사이트를 조작하고 코드 작성과 디버깅까지 수행하는 시스템으로, 메타와 오픈AI 등 경쟁사의 AI 에이전트에 대응하려는 움직임이다.블룸버그는 19일(현지시간) 애플이 최근 공개한 채용 공고를 통해 이 같은 개발 계획을 드러냈다고 보도했다.애플은 '능동형 에이…",
-     "source": "",
-     "ts": 1795191329
-    },
-    {
-     "id": "a478e5d655f7c98a",
-     "title": "모레, LLM 추론 효율 높이는 프레임워크 ‘TIDE’ 공개",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217599",
-     "summary": "모레(대표 조강원)는 대형언어모델(LLM)의 추론 성능과 효율을 높이는 자기 개선형 추론 프레임워크 ‘TIDE’를 공개했다고 20일 밝혔다. TIDE는 미국 시카고에서 열린 고성능 컴퓨팅(HPC) 컨퍼런스 '슈퍼컴퓨팅 2026'에서 처음 발표됐다.TIDE는 실제 추론 과정에서 생성되는 데이터를 활용해 보조 모델을 지속적으로 개선하고, LLM의 추론 속도와 컴퓨팅 자원 활용 효율을 높이는 기…",
-     "source": "",
-     "ts": 1795190602
-    },
-    {
-     "id": "44080a497c7c6841",
-     "title": "AI가 먼저 걸렀다…스팸 데이터 개방으로 대량 악성문자·스팸전화 수신 전 차단",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217628",
-     "summary": "국민이 신고한 스팸 데이터를 AI로 분석해 민간과 공공기관에 개방한 결과 악성 문자 5억건과 스팸 전화 1200만건이 이용자 수신 전에 차단됐다.한국인터넷진흥원(KISA)과 방송미디어통신위원회는 20일 서울 피스앤파크 컨벤션에서 ‘2026 스팸 데이터 개방 성과 공유회'를 개최하고 이 같은 내용을 공개했다.KISA는 불법스팸이 단순 광고를 넘어 불법도박, 불법금융, 불법의약품, 불법성인물,…",
-     "source": "",
-     "ts": 1795190528
-    },
-    {
-     "id": "717dfcbf74b95530",
-     "title": "AMD 리사 수 \"젠슨 황은 훌륭한 리더...엔비디아 논란과 거리 둘 것\"",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217625",
-     "summary": "리사 수 AMD CEO가 사임한 젠슨 황 전 엔비디아 CEO를 업계의 탁월한 리더라고 평가하면서도, 엔비디아를 둘러싼 각종 논란에는 거리를 두겠다는 입장을 밝혔다. 경쟁사에 대한 예우를 표하면서도 관련 의혹이나 경영진 교체에 따른 이해득실에는 직접적인 언급을 피했다.비즈니스인사이더에 따르면, 수 CEO는 18일(현지시간) 미국 오스틴에서 열린 '투모로우X 서밋'에서 \"엔비디아는 훌륭한 기업…",
-     "source": "",
-     "ts": 1795186541
-    },
-    {
-     "id": "6a3a5ab1ec9d7fbc",
-     "title": "엔비디아, dLLM 개발사 인셉션 6700억 이상에 인수 협상",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217611",
-     "summary": "엔비디아가 확산언어모델(dLLM) 개발 스타트업 인셉션(Inception)을 최소 5억달러(약 6700억원)에 인수하기 위해 막바지 협상을 진행 중인 것으로 알려졌다. 빠른 속도를 강점으로 내세운 dLLM 기술과 핵심 연구 인력을 확보해 자체 AI 모델 '네모트론(Nemotron)' 경쟁력을 강화하려는 전략으로 풀이된다.디 인포메이션은 19일(현지시간) 정통한 복수의 소식통을 인용, 엔비디…",
-     "source": "",
-     "ts": 1795185052
-    },
-    {
-     "id": "78b1bb3bcc606196",
-     "title": "KT·LG전자, 양자직접통신 시스템 구현…이미지·문자 전송·복원 성공",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217623",
-     "summary": "KT(대표 박윤영)는 LG전자(대표 류재철)와 양자 상태에 디지털 정보를 전송하는 '양자직접통신(QSDC)' 시스템을 구현하고 이미지·문자 데이터 전송 및 복원을 성공했다고 20일 밝혔다.QSDC는 정보 암호화에 사용할 키를 공유하는 '양자키분배(QKD)'와 달리, 정보 자체를 양자 상태에 담아 전달하는 차세대 양자통신 기술이다. KT는 QKD에 이어 QSDC 기술을 확보해 양자통신의 응용…",
-     "source": "",
-     "ts": 1795184509
-    },
-    {
-     "id": "d18b8290d4434b21",
-     "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217613",
-     "summary": "문샷 AI가 인도네시아 데이터센터를 통해 엔비디아의 최신 AI 칩을 임대하려던 1억5000만달러(약 2000억원) 규모의 계약을 취소했다. 미국이 해외 데이터센터를 통한 중국 기업의 첨단 AI 칩 원격 사용까지 제한하는 새로운 규제를 발표하면서 해외 GPU 확보 전략에 제동이 걸렸다.디 인포메이션은 19일(현지시간) 복수의 소식통을 인용, 문샷 AI가 동남아시아의 네오클라우드 업체와 체결한…",
-     "source": "",
-     "ts": 1795183622
-    },
-    {
-     "id": "bbfc74f21842b705",
-     "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217604",
-     "summary": "오픈AI의 'GPT-6.2 아스트라'와 구글의 '제미나이 4 네온'이 2027학년도 수능에서 탐구 17개 과목을 포함한 전 과목 만점을 기록했다. 국내 모델 중에서는 LG AI연구원의 'K-엑사원 2.5'가 가장 높은 성적표를 받았다.순천향대 컴퓨터소프트웨어공학과 재학생인 구유겸 씨는 20일 자신이 직접 구축한 수능 LLM 벤치마크 'CSAT-벤치마크'를 통해 현존 AI 모델 35종의 20…",
-     "source": "",
-     "ts": 1795182987
-    },
-    {
-     "id": "97156fe1061f8992",
-     "title": "구글, 우주 AI 데이터센터 구축 위해 블루 오리진과 계약...2029년 위성 발사",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217615",
-     "summary": "구글이 우주에 태양광 기반 AI 데이터센터를 구축하기 위한 실험에 제프 베이조스의 우주기업 블루 오리진을 발사 파트너로 선정했다. 2029년 초 자체 개발한 AI 반도체를 탑재한 위성 여러기를 발사해 우주에서 대규모 AI 연산이 가능한지 본격적으로 시험할 계획이다.블루 오리진은 19일(현지시간) 구글이 '프로젝트 선캐처(Project Suncatcher)' 위성 발사를 위해 자사의 대형 로…",
-     "source": "",
-     "ts": 1795182243
-    },
-    {
-     "id": "784a21886dc48bbd",
-     "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기",
-     "link": "https://www.aitimes.com/news/articleView.html?idxno=217614",
-     "summary": "AMD가 미국의 제재 대상인 중국 기업들과 거래 관계를 유지했다는 공매도 투자업체의 보고서가 나오면서 주가가 약 8% 급락했다. 중국 서버업체에 대한 반도체 펌웨어 공급과 제재 대상 기업으로부터의 라이선스 수입 등이 미국의 수출 통제 규정 위반 논란으로 번질 가능성이 제기됐다.로이터와 CNBC 등에 따르면, AMD 주가는 19일(현지시간) 뉴욕 증시에서 전일 대비 7.72% 하락한 489.…",
-     "source": "",
-     "ts": 1795181647
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "19ef1c7741",
@@ -940,7 +940,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "263d8d0ce8",
@@ -1030,7 +1030,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "7ebf5b6c9a",
@@ -1120,7 +1120,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "2c60dce9bd",
@@ -1290,7 +1290,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "95180fe28d",
@@ -1298,6 +1298,22 @@
    "url": "https://www.whitehouse.gov/presidential-actions/feed/",
    "site": "https://www.whitehouse.gov",
    "items": [
+    {
+     "id": "66c4dca518a09ec9",
+     "title": "NATIONAL ADOPTION MONTH, 2026",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
+     "summary": "From the moment a child is conceived, they are a gift from God, bringing hope, love, and a future filled with promise into the world. For countless children across our Nation, adoption provides the gift of a loving fami…",
+     "source": "",
+     "ts": 1795228298
+    },
+    {
+     "id": "a201d50ff95f2be0",
+     "title": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
+     "link": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
+     "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act (40 U.S.C. 101 et seq.) and the common law, it…",
+     "source": "",
+     "ts": 1795228265
+    },
     {
      "id": "09bb57871116f0a2",
      "title": "Nominations Sent to the Senate",
@@ -1441,26 +1457,10 @@
      "summary": "MEMORANDUM FOR THE ATTORNEY GENERAL THE COUNSEL TO THE PRESIDENT THE ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY THE DIRECTOR OF THE OFFICE OF GOVERNMENT ETHICS THE CHAIRMAN OF THE EQUAL EMPLOYMENT OPPORTUNITY COMMIS…",
      "source": "",
      "ts": 1791421200
-    },
-    {
-     "id": "481c500a8d04485c",
-     "title": "National Energy Dominance Month, 2026",
-     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
-     "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION America’s abundant energy resources are the backbone of our booming economy and the foundation of our enduring prosperity. During National Energy Dominance…",
-     "source": "",
-     "ts": 1791403521
-    },
-    {
-     "id": "717f24698a8b41f8",
-     "title": "Columbus Day, 2026",
-     "link": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
-     "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION More than five centuries ago, Christopher Columbus embarked westward across uncharted waters and discovered the New World — bringing with him the rich trad…",
-     "source": "",
-     "ts": 1791402468
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   },
   {
    "id": "c15f1e5a65",
@@ -1630,7 +1630,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795211474
+   "last_ok": 1795230932
   }
  ]
 }
