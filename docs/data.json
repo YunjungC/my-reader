@@ -1,5 +1,5 @@
 {
- "generated_at": 1795265099,
+ "generated_at": 1795293260,
  "top_n": 20,
  "feeds": [
   {
@@ -9,12 +9,100 @@
    "site": "https://www.google.com/alerts",
    "items": [
     {
+     "id": "2ce856a56b00ce8a",
+     "title": "트럼프, “美기업 해외 데이터센터 건설 강력 제재” 공표 - 넷제로뉴스",
+     "link": "http://www.netzeronews.kr/news/articleView.html?idxno=6732",
+     "summary": "정부 · 정책 · 해외. 트럼프, “美기업 해외 데이터센터 건설 강력 제재” 공표 ... ▷ 미·중 AI 안전장치 합의 주장…첨단 반도체 규제·주요 외교 현안 진전 불투명.",
+     "source": "",
+     "ts": 1795280370
+    },
+    {
+     "id": "47ae0f1a1e1378b2",
+     "title": "미래의 피지컬 AI 전문가 발굴! 「2026 청소년 로보틱스 챌린지」 결선 개최 - 보도자료 | 브리핑룸",
+     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790143&pWise=sub&pWiseSub=C5",
+     "summary": "정부정책 사실은 이렇습니다. 실시간 인기뉴스 11.21. 22:07 기준. 숫자로 ... 우리 사회의 인공지능 을 생각하고 토론하는 축제의 장, ｢ AI 인사이트 ...",
+     "source": "",
+     "ts": 1795266717
+    },
+    {
+     "id": "ac0e0c1170d0c4fe",
+     "title": "상세화면 - 보험 정책 - 정책 일반 - 정책 마당 - 금융위원회",
+     "link": "https://www.fsc.go.kr/po010103/86564?srchCtgry=&curPage=21&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+     "summary": "【관련 국정과제】 22번, 초격차 인공지능 ( AI ) 선도기술·인재 확보 46-1번 ... 'K-엔비디아 육성' 프로젝트 는 금융위, 과기정통부 등이 협업하여 국가 ...",
+     "source": "",
+     "ts": 1795266482
+    },
+    {
+     "id": "77c5e2f4d46091ce",
+     "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\" - 대한민국 정책브리핑",
+     "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148976210",
+     "summary": "이재명 대통령은 20일 인공지능 ( AI )과 첨단장비를 악용한 시험 부정행위를 막기 위해 변화된 환경에 맞게 국가시험 제도를 A부터 Z까지 전면적으로 신속하게 ...",
+     "source": "",
+     "ts": 1795265498
+    },
+    {
+     "id": "459b6b49438604ea",
+     "title": "과기정통부 -기후부, AIDC 맞춤형 전력계통영향평가 개선 추진 - DWBNEWS(장애인복지뉴스)",
+     "link": "https://www.dwbnews.kr/news/articleView.html?idxno=125758",
+     "summary": "과학기술정보통신부 (부총리 겸 과기정통부 장관 배경훈, 이하 ' 과기정통부 ')와 기후에너지환경부(장관 김성환, 이하 '기후부')는 인공지능 데이터센터(이하 ...",
+     "source": "",
+     "ts": 1795265243
+    },
+    {
+     "id": "93e499d29f01827b",
+     "title": "李대통령, 울산 AI 데이터센터 현장 점검… “빠른 속도로 추진한 SK에 감사” - 매일경제",
+     "link": "https://www.mk.co.kr/news/politics/12215257",
+     "summary": "충청권 삼성HBM공장 착공식 이어 SK·AWS 공동 투자 현장 찾으며 메가 프로젝트 2주 연속 행보 “ AI 데이터센터는 디지털 고속도로 국가 균형발전 핵심 동력” ...",
+     "source": "",
+     "ts": 1795259671
+    },
+    {
+     "id": "6e392a1e803dd486",
+     "title": "李, 울산 SK AI 데이터센터 건설 현장 방문…“국가 경쟁 위해 속도전이 핵심”(종합)",
+     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261121010008187",
+     "summary": "... 대통령은 21일 울산 SK AI ( 인공지능 )데이터센터 건설 현장을 찾아 메가 프로젝트 진행 상황을 점검 ... 정부 에서도 많이 고민하도록 하겠다\"고 말했다.",
+     "source": "",
+     "ts": 1795259408
+    },
+    {
+     "id": "320083b3700961f1",
+     "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI 데이터센터 건설 현장 점검",
+     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
+     "summary": "... AI 데이터센터는 정부 가 추진하는 메가 프로젝트 AI 데이터센터 가운데 가. ... 이 대통령은 지난해 6월 취임 후 첫 지역 일정 으로 울산 AI 데이터센터 출범식에 ...",
+     "source": "",
+     "ts": 1795258530
+    },
+    {
+     "id": "d7ab05f0c0a5e7e1",
+     "title": "李대통령 \" AI 데이터센터가 산업화시대 경부고속도로…인력·전력 지원\" | - 연합인포맥스",
+     "link": "https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4445861",
+     "summary": "2주 연속 지역 메가 프로젝트 점검. (서울=연합인포맥스) 정지서 기자 = 이재명 대통령은 21일 울산 SK 인공지능 데이터센터(AIDC) 건설 현장을 찾아 인공지능 ( ...",
+     "source": "",
+     "ts": 1795258219
+    },
+    {
+     "id": "2c680a5d10877dc9",
+     "title": "이 대통령, 울산 AI 데이터센터 찾아 \"국가 경쟁 속도전이 핵심\"(종합) - 뉴시스",
+     "link": "https://mobile.newsis.com/view/NISX20261121_0003877713",
+     "summary": "지난주 충청권 이어 영남권 메가 프로젝트 현장 방문 \"균형발전 주요 국가 과제…메가 프로젝트 가 핵심장치\" 첨단시설 인력 부족에 \"속도전이 핵심… 정부 도 ...",
+     "source": "",
+     "ts": 1795257660
+    },
+    {
      "id": "bf1e828c7aa5f755",
      "title": "李, 울산 SK AI 데이터센터 방문‥\"국가 경쟁 위해 속도전이 핵심\" - MBC 뉴스",
      "link": "https://imnews.imbc.com/news/2026/politics/article/6867469_36911.html",
      "summary": "이재명 대통령이 울산의 AI 데이터센터 건설 현장을 찾아 영남권 메가 프로젝트 추진 상황을 점검하고 지원을 약속했습니다. 이 대통령은 오늘 울산 남구 ...",
      "source": "",
      "ts": 1795256020
+    },
+    {
+     "id": "758f52429222286b",
+     "title": "TV조선 점수조작 사건 4년 만에 무죄, 한상혁 위원장을 만났습니다 - 미디어오늘",
+     "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338608",
+     "summary": "... 일정 경우 사용을 금지할 수 있도록 법·제도를 개선해야 할 때”라고 강조했습니다. [관련 기사 : ' AI 커닝 파문' 국가 AI정책 허점…산업진흥 외치다 위험엔 ...",
+     "source": "",
+     "ts": 1795255983
     },
     {
      "id": "baffb0a29fd2a69f",
@@ -49,6 +137,22 @@
      "ts": 1795249156
     },
     {
+     "id": "76025e7a2052eeba",
+     "title": "[ET시선] 공공 클라우드 전환, 보안·개방 해법 찾아야 - 전자신문",
+     "link": "https://www.etnews.com/20261120000265",
+     "summary": "공공 정보시스템의 안정성과 복원력을 높이는 동시에 인공지능 ( AI ) ... 정부 의 정책 방향은 분명하다. 국가 AI 전략위원회는 올해 2월 ' AI정부 인프라 ...",
+     "source": "",
+     "ts": 1795249080
+    },
+    {
+     "id": "025590870a155969",
+     "title": "트럼프, “美기업 해외 데이터센터 건설 강력 제재” 공표 - 넷제로뉴스",
+     "link": "https://www.netzeronews.kr/news/articleView.html?idxno=6732",
+     "summary": "... AI 협력 논의가 공급망과 투자 결정에 미칠 영향을 구분해 검토할 필요가 있습니다. 정부 와 산업계는 미국의 후속 정책 을 확인하면서 데이터센터 투자에 ...",
+     "source": "",
+     "ts": 1795249015
+    },
+    {
      "id": "c97de99b247f99ff",
      "title": "우리 사회의 인공지능 을 생각하고 토론하는 축제의 장, ｢ AI 인사이트 페스티벌 시상식｣ 개최",
      "link": "https://www.newsfire.co.kr/news/articleView.html?idxno=2005672",
@@ -63,114 +167,10 @@
      "summary": "이번 일정 에는 SK텔레콤과 SK하이퍼 등 SK그룹 관계자들을 비롯해 배경훈 부총리 겸 과학기술정보통신부 장관, 김상욱 울산시장, 임현철 울산 남구청장 등이 ...",
      "source": "",
      "ts": 1795248415
-    },
-    {
-     "id": "d4ad2a4ccba34ca6",
-     "title": "이 대통령 \" AI 경쟁은 속도전\"…울산 데이터센터 찾아 지방 메가 프로젝트 점검 - 뉴시안",
-     "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101738",
-     "summary": "이 대통령은 지난해 6월 취임 후 첫 지역 일정 으로 울산 AI 데이터센터 출범식에 참석한 바 있다. 울산 SK AI 데이터센터는 정부 가 추진하는 AI 데이터센터 ...",
-     "source": "",
-     "ts": 1795248388
-    },
-    {
-     "id": "00b68309cda5254d",
-     "title": "3482억원 `국산 피지컬 AI ` 연구개발 윤곽…IITP “현장 작동 여부가 관건” - 디지털데일리",
-     "link": "https://www.ddaily.co.kr/page/view/2026112102592077504",
-     "summary": "2027년 신규 5개 과제 기획…첫해 정부 지원금 최대 550억원 '로봇 두뇌' 개발에 예산 절반…데이터·현장 실증·안전·시뮬레이션 통합[사진= 인공지능 으로 제작한 ...",
-     "source": "",
-     "ts": 1795248137
-    },
-    {
-     "id": "a297af84fde22e04",
-     "title": "李 대통령 “ AI 데이터센터가 산업 성장의 핵심”…SK 울산 현장서 투자 확대 강조",
-     "link": "https://www.ekn.kr/web/view.php?key=20261121024092851",
-     "summary": "이번 일정 은 지난 12일 충남 아산의 삼성전자 온양캠퍼스 건설 현장을 방문한 데 이은 두 번째 메가 프로젝트 현장 점검이다. 또한 지난해 6월 취임 이후 첫 ...",
-     "source": "",
-     "ts": 1795248024
-    },
-    {
-     "id": "5dc061f4c0784c8e",
-     "title": "이 대통령, 울산 AI 데이터센터 현장 찾아 \"세계경쟁서 속도가 생명\" - 오마이뉴스",
-     "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287049",
-     "summary": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 21일 울산의 SK 인공지능 데이터센터(AIDC) 건설 현장을 방문, 영남권 메가 프로젝트 추진 현황을 점검하고 ...",
-     "source": "",
-     "ts": 1795245054
-    },
-    {
-     "id": "93cb55434be9b65c",
-     "title": "이 대통령, 울산 AI 데이터센터 현장 점검 … \"속도가 생명, 인력 대책 고민\" | AMP | 뉴데일리",
-     "link": "https://www.newdaily.co.kr/site/data/html/2026/11/21/2026112150059.amp.html",
-     "summary": "이재명 대통령은 21일 울산 SK 인공지능 ( AI ) 데이터센터 건설 현장을 찾아 영남권 메가 프로젝트 추진 현황을 점검하고 정부 지원을 약속했다.",
-     "source": "",
-     "ts": 1795244824
-    },
-    {
-     "id": "2eb8675438a1aec3",
-     "title": "이재명 대통령 '울산으로'... 영남권 메가 프로젝트 점검 - BBS 뉴스",
-     "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119992",
-     "summary": "... 프로젝트 추진 상황을 점검하고 정부 차원의 지원을 약속했습니다.이 ... 울산 SK 데이터센터 \"대한민국 AI 대전환 이끌 ' 인공지능 고속도로' 될 것\".",
-     "source": "",
-     "ts": 1795244760
-    },
-    {
-     "id": "6aa66cd91ea73895",
-     "title": "정부 , 2030년 AI 유니콘 20개 목표…'첫 고객·규제실증·해외 연계' 3축 가동 - 얼리어답터뉴스",
-     "link": "https://www.eanews.kr/news/1054447",
-     "summary": "중기부, 2030년 목표로 5년 1조 원 지원 체계 제시 인공지능 ( AI ) 스타트업 정책 은 더 이상 창업자와 투자자만의 이야기가 아니다. 병원 예약, 민원 처리, ...",
-     "source": "",
-     "ts": 1795244286
-    },
-    {
-     "id": "5cf1516da108daea",
-     "title": "정부 , 2030년까지 AI 유니콘 20개 집중 육성… '첫 고객·규제실증' 패키지로 성장 병목 푼다",
-     "link": "http://knpp.co.kr/news/595563",
-     "summary": "1조 지원보다 첫 고객 확보가 성패 가른다 인공지능 ( AI ) 스타트업 정책 에서 가장 비싼 자원은 보조금이 아니라 첫 매출이다. 중소벤처기업부가 2026년 11월 ...",
-     "source": "",
-     "ts": 1795244235
-    },
-    {
-     "id": "e5f4afb98db41f52",
-     "title": "“ AI 통제 주체 불분명해···2027년까지 프로젝트 40% 폐기·강등” - 데이터넷",
-     "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300418",
-     "summary": "가트너, AI 에이전트 ID·통제·거버넌스 실패 위험성 경고 “ AI 킬스위치 작동 시 업무 연속성 중단 위험 높아” 정부 ·금융당국, AI 에이전트 보안 위한 가이드라인 ...",
-     "source": "",
-     "ts": 1795243225
-    },
-    {
-     "id": "3efd959a979d576e",
-     "title": "[속보] 이재명 대통령 “ AI 데이터센터, 지역균형발전 핵심”…울산 SK 건설 현장 점검 - 강원일보",
-     "link": "https://www.kwnews.co.kr/article/20261121500078",
-     "summary": "... 프로젝트 추진 상황을 점검하고, 사업의 신속한 추진을 위한 정부 차원의 지원 의지를 밝혔다. 특히 인공지능 ( AI ) 인프라 투자가 지역의 새로운 성장 동력이 ...",
-     "source": "",
-     "ts": 1795242663
-    },
-    {
-     "id": "e664be3ad0aee011",
-     "title": "李 대통령 AI 인프라 지방으로…2주 연속 메가 프로젝트 현장 점검 - 한국경제",
-     "link": "https://www.hankyung.com/article/2026112113577",
-     "summary": "... AI 데이터센터 건설현장을 방문하고 있다. 청와대사진기자단. 이재명 대통령이 울산 인공지능 ( AI ) 데이터센터 건설 현장을 찾아 정부 차원의 지원을 약속했다.",
-     "source": "",
-     "ts": 1795240222
-    },
-    {
-     "id": "f87784dafd6b02f7",
-     "title": "“경부고속도로처럼 AI 길 열 것”…李대통령, 울산 SK AI 데이터센터 방문 - 조세일보",
-     "link": "https://m.joseilbo.com/news/view.htm?newsid=580151&class2=&class=5",
-     "summary": "이 대통령은 21일 울산 SK 인공지능 데이터센터(AIDC) 건설 현장을 방문해 영남권 메가 프로젝트 추진 상황을 점검하고 이같이 밝혔다. 지난 12일 충남 아산 삼성 ...",
-     "source": "",
-     "ts": 1795238729
-    },
-    {
-     "id": "9f6c2251f55a4d7c",
-     "title": "李 대통령, 울산 AI 데이터센터 현장 찾아…“새로운 성장 모멘텀” - 서울경제TV",
-     "link": "https://www.sentv.co.kr/article/view/sentv202611210016",
-     "summary": "정부 는 영남권을 첨단산업 미래 선도 거점으로 만들기 위한 312조원 규모의 프로젝트 계획을 공유한 바 있다. 지방 중심의 국토공간 전환을 위한 비전과 정책 ...",
-     "source": "",
-     "ts": 1795238119
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "cf53c0f1af",
@@ -233,98 +233,10 @@
      "summary": "애플이 코드 작성, 웹 탐색, 앱 제어, 기기 조작을 대신하는 자율 AI 에이전트를 개발 중이라고 블룸버그가 채용 공고를 근거로 보도했다.",
      "source": "",
      "ts": null
-    },
-    {
-     "id": "eca6a649ae88b49b",
-     "title": "인셉션, 머큐리 API 12월 종료…엔비디아 인수 협상 보도 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61805/",
-     "summary": "확산 방식 언어 모델 머큐리를 개발한 인셉션이 12월 28일 API 서비스를 종료한다. 디 인포메이션은 엔비디아가 인셉션을 최소 5억 달러에 인수하는 방안을 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "90f10fce8f294334",
-     "title": "메타, AI 기기 '뮤즈 참' 40만 원에 판매 계획 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61803/",
-     "summary": "디 인포메이션은 메타가 AI 에이전트 뮤즈 전용 휴대 기기 뮤즈 참을 300달러에 판매하고 버라이즌 5G 데이터를 최대 1년 무료로 제공할 계획이라고 보도 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "e2d3062bd79008ec",
-     "title": "“AI 강국인 줄 알았던 유럽마저 밀렸다”… 맥킨지가 분석한 AI 패권 경쟁의 현실 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61713/",
-     "summary": "AI 패권 경쟁에서 유럽 기업의 AI 투자 비중은 3%로 미국 17%, 중화권 13%에 크게 못 미쳤다. 맥킨지가 세계경제포럼 백서에서 연산 능력, 성장 자금, ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "68f6b07efeaafffc",
-     "title": "TSMC와 삼성, 中 고객 칩 출하 중단…문샷은 계약 취소 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61807/",
-     "summary": "미국의 새 수출 규정 시행 뒤 TSMC와 삼성전자가 중국 고객 일부 칩 출하를 중단했고, 문샷 AI는 인도네시아 엔비디아 칩 임대 계약 1억 5000만 달러를 취소 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "d1bfbc2c4a69f25b",
-     "title": "구글, 블루 오리진과 우주 AI 데이터센터 위성 발사 계약 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61801/",
-     "summary": "구글이 우주 AI 데이터센터 연구 프로젝트 선캐처의 TPU 위성을 2029년 1분기 블루 오리진의 대형 로켓 뉴 글렌으로 발사하는 계약을 체결했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "92826b177236387c",
-     "title": "딥마인드 AGI에서 ASI로, 효율 개선 이어지면 같은 AI 작업 연산비 10년 뒤 100만분의 1",
-     "link": "https://aimatters.co.kr/news-report/61784/",
-     "summary": "구글 딥마인드 AGI에서 ASI로 보고서는 초지능으로 가는 경로 4가지와 걸림돌 7가지를 정리했다. 연구진은 유효 연산량이 해마다 약 10배씩 는다고 추정했다 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "f73fc71a459d9431",
-     "title": "두바이 미래재단, 건물 안 배송 로봇 도입…배달 기업 8곳 참여 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61788/",
-     "summary": "두바이 미래재단 산하 두바이 퓨처 랩스가 건물 안 배송을 로봇이 담당하는 로봇 실내 물류 프로그램을 시작했다. 탈라바트, 딜리버루, 카림 등 8곳이 참여 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "73e7b09edcc1799b",
-     "title": "中 메가로보, 2,674억 원 유치…AI 실험 자동화 로봇 확대 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61787/",
-     "summary": "중국 생명과학 실험 자동화 로봇 기업 메가로보가 2억 달러(약 2674억 원)를 유치했다. 오만 투자청, 그래니트 아시아, 시노베이션 벤처스 등이 참여했다.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "327b38e0838a476c",
-     "title": "레이더 칩 기업 아르베, 3분기 매출 10억 원대…中 레벨3 차량 수주 - AI 매터스",
-     "link": "https://aimatters.co.kr/news-report/61789/",
-     "summary": "이스라엘 이미징 레이더 칩 기업 아르베의 3분기 매출이 80만 달러(약 10억 7000만 원)로 전년 30만 달러보다 증가했다. 대형 자동차 그룹의 레벨 3 차량 ...",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "2c359af8f9be04fc",
-     "title": "말한 내용을 어떤 앱에서나 다듬어 입력하는 AI 음성 받아쓰기 도구, Superwhisper(슈퍼위스퍼)",
-     "link": "https://aimatters.co.kr/ai-tool/ai-tool-db/61697/",
-     "summary": "Superwhisper(슈퍼위스퍼)는 어떤 앱에서나 음성을 다듬은 텍스트로 입력하는 AI 받아쓰기 도구입니다. 주요 기능과 사용 방법을 확인하세요.",
-     "source": "",
-     "ts": null
-    },
-    {
-     "id": "319f7ec857c02a90",
-     "title": "학습 자료를 수업·퀴즈·플래시카드로 바꾸는 AI 학습 도구, Raena AI(레이나 AI) - AI매터스",
-     "link": "https://aimatters.co.kr/ai-tool/ai-tool-db/61701/",
-     "summary": "Raena AI(레이나 AI)는 학습 자료를 단계별 수업, 퀴즈, 플래시카드, 팟캐스트로 바꾸는 AI 학습 도구입니다. 주요 기능과 사용 방법을 확인하세요.",
-     "source": "",
-     "ts": null
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "25ac01331a",
@@ -332,6 +244,22 @@
    "url": "https://api.axios.com/feed/top/",
    "site": "https://www.axios.com",
    "items": [
+    {
+     "id": "8e31919b700f1ad7",
+     "title": "Trump says he'd work with Dems to cap credit card interest, fees",
+     "link": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+     "summary": "President Trump said Saturday he'd gladly work with Democrats to cap interest and fees on credit cards , arguing that card companies simply make too much money now. Why it matters: Though some argue capping rates would…",
+     "source": "",
+     "ts": 1795279700
+    },
+    {
+     "id": "36f54bef9a0c6a16",
+     "title": "Trump says FBI hack might expose Russia \"hoax\"",
+     "link": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
+     "summary": "President Trump on Saturday said the reported hack of a crucial FBI database might have a silver lining — it could, he claimed, expose more details of what he called the \" Russia Russia Russia hoax .\" Why it matters: Th…",
+     "source": "",
+     "ts": 1795276501
+    },
     {
      "id": "e962c27d9d8b5b10",
      "title": "After historic Southern wins, Black organizers prepare a push for governing power",
@@ -475,26 +403,10 @@
      "summary": "Sen. Joni Ernst (R-Iowa) said \"a lot of people would be able to guess\" if she regrets voting to confirm the embattled Defense Secretary Pete Hegseth, during Axios' Future of Defense Summit Thursday. Why it matters: The…",
      "source": "",
      "ts": 1795121657
-    },
-    {
-     "id": "9282bf1d5b766f94",
-     "title": "Retailers shake up Thanksgiving meal deals amid rising food costs",
-     "link": "https://www.axios.com/2026/11/19/walmart-costco-thanksgiving-deals-dinner-kroger-aldi",
-     "summary": "Major grocery retailers are switching up their Thanksgiving dinner deals this year, with a few lowering prices, others swapping out items and some shifting toward more flexible meal options. The big picture: Lower adver…",
-     "source": "",
-     "ts": 1795119061
-    },
-    {
-     "id": "9eac88092d304546",
-     "title": "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
-     "link": "https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year",
-     "summary": "President Trump said in a brief phone interview Thursday that he won't make a determination on his next step in the Iran war until the new year. \"I am not rushing into any decision [on Iran]. We will see what happens af…",
-     "source": "",
-     "ts": 1795112756
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "cc992ff5f1",
@@ -502,6 +414,134 @@
    "url": "https://news.hada.io/rss/news",
    "site": "https://news.hada.io",
    "items": [
+    {
+     "id": "8a86c85c89648b9b",
+     "title": "브라이언 메이, Hera의 소행성 영상에 입체감을 더하다",
+     "link": "https://news.hada.io/topic?id=37593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Hera 과학팀 소속 천체물리학자이자 Queen 기타리스트인 브라이언 메이(Sir Brian May) 가 Claudia Manzoni와 함께 Didymos 소행성의 입체 영상 을 제작함 Hera가 짧은 시간 간격을 두고 촬영한 두 이미지를 결합해 양쪽 눈의 시차를 재현했으며, 눈에 자연스럽게 보이도록 이미지를 정렬하는 작업 이 핵심임 입체 영상에서는 바위가 흩어진 나머지 표면과 대비되는 D…",
+     "source": "",
+     "ts": 1795289485
+    },
+    {
+     "id": "19e0c49d34cd937b",
+     "title": "GIMP에 UI 테스트 도입",
+     "link": "https://news.hada.io/topic?id=37592&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "GIMP가 실제 프로그램을 실행하고 메뉴와 버튼을 조작하는 GUI 테스트 플랫폼 을 도입함. 기여자의 변경 사항을 병합할 때마다 자동 실행해 인터페이스 문제를 조기에 찾음 기존 단위 테스트는 실제 창을 열지 않았고, 코어 코드에 직접 개입하는 GUI 테스트도 탐지하지 못하는 버그 유형이 있었음. 새 테스트는 실제 인터페이스 를 통해 프로그램 전체를 확인함 현재 13개 테스트 로 창 표시,…",
+     "source": "",
+     "ts": 1795286505
+    },
+    {
+     "id": "de258a407b4fab02",
+     "title": "그럼에도 지구는 돈다",
+     "link": "https://news.hada.io/topic?id=37591&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Anthropic이 리만 가설을 해결한 것으로 보인다 는 소식은 필자에게 축하보다 상실감을 안겨줌. 증명의 존재 자체는 경이롭지만, 인간이 직접 이룬 발견과는 다르게 느껴짐 리만 가설 을 전제로 참임이 증명된 수많은 추측이 있어, 그 증명은 수학의 광대한 영역을 열어줄 수 있음 뮤지컬 Galileo 에서 떠올린 과학의 혁명성은 자연에 올바르게 질문해 진실을 알아낼 수 있다는 데 있음 기계가…",
+     "source": "",
+     "ts": 1795286325
+    },
+    {
+     "id": "63c7fc7f662ee408",
+     "title": "GnuPG의 원격 코드 실행(RCE) 취약점",
+     "link": "https://news.hada.io/topic?id=37590&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "GPGME 2.3.1 이 조작된 OpenPGP 키로 이중 해제를 유발하는 치명적 보안 취약점 CVE-2026-129975 를 수정함 매우 긴 사용자 ID가 포함된 키로 애플리케이션의 데이터를 유출 할 수 있으며, 원격 코드 실행 가능성도 배제할 수 없어 즉시 업데이트를 권고함 버퍼 재할당 후 오류 등으로 함수가 일찍 반환하면 컨텍스트에 해제된 메모리의 포인터 가 남고, 이후 컨텍스트 정리…",
+     "source": "",
+     "ts": 1795286145
+    },
+    {
+     "id": "c15f048651f40155",
+     "title": "Show GN: AriadneNSD - 알고리즘을 NS 차트로 그리는 구조 편집기",
+     "link": "https://news.hada.io/topic?id=37589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "알고리즘을 NS 차트 (Nassi–Shneiderman Diagram)로 그리는 웹 편집기, 베타로 공개 NS 차트는 플로우차트와 동일하게 로직을 표현하면서 지면은 훨씬 적게 차지하지만, 손으로는 줄 맞추고 지우기를 반복해야 해서 복잡한 로직은 그리기 어려웠음 저장 형식 .ns.svg 는 NS 차트의 다이어그램 구조를 메타에 포함 하고있는 .svg 파일 README 등 Markdown 문서…",
+     "source": "",
+     "ts": 1795283791
+    },
+    {
+     "id": "08efe7130b3b1d19",
+     "title": "Clojure는 프로그래밍을 생각하는 방식에 영향을 준다 (2017)",
+     "link": "https://news.hada.io/topic?id=37588&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Clojure 는 Lisp, 함수형 프로그래밍, 데이터 처리, 동시성의 아이디어를 일관된 언어로 결합해, 실무 도입 여부와 별개로 프로그래밍 사고를 넓히기 위해 배울 만한 언어임 Lisp 매크로 와 균일한 문법은 코드를 데이터로 다루게 하며, 고차 함수와 REPL 중심 개발은 기능을 조합하고 점진적으로 구축하는 방식을 장려함 시퀀스, 영속 자료구조, 지연 평가 를 결합해 SQL처럼 읽히는…",
+     "source": "",
+     "ts": 1795282369
+    },
+    {
+     "id": "e09a66a7aa54797b",
+     "title": "리만 가설의 Lean 검증, Lean과 Mathlib 커뮤니티 공동 성명",
+     "link": "https://news.hada.io/topic?id=37586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Lean과 Mathlib 커뮤니티는 Levent Alpöge가 공개한 리만 가설 증명 의 명제와 증명이 모두 올바르다고 공동으로 인증함 증명은 1,700만 줄 규모의 Lean 라이브러리 로 공개됐으며, 직접 의존하는 라이브러리는 Mathlib뿐임 검증 대상은 전문가들이 검토한 Mathlib의 RiemannHypothesis 명제이며, 독립적인 도구 두 개로 실제 증명한 정리와 정확히 일치하…",
+     "source": "",
+     "ts": 1795278996
+    },
+    {
+     "id": "5bb320bc5da6c3dc",
+     "title": "데릭 로: 아지드화 납 더미 폭파",
+     "link": "https://news.hada.io/topic?id=37585&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "",
+     "source": "",
+     "ts": 1795278816
+    },
+    {
+     "id": "dc0f854fa25f7008",
+     "title": "내 모니터가 다운로드 속도를 75% 떨어뜨리고 있었다",
+     "link": "https://news.hada.io/topic?id=37584&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "2.5Gbps 대칭형 인터넷 에서 다운로드만 약 600Mbps로 떨어지는 문제가 발생했으며, 이더넷 어댑터를 모니터 대신 Mac에 직접 연결하자 정상 속도를 회복함 문제는 모니터의 대역폭 부족만이 아니라 USB 허브의 응답 지연과 어댑터의 버스트 크기 가 결합한 수신 병목에 있었음 모니터를 거친 RTL8156B 어댑터는 초당 약 16만 8,000프레임 에서 수신 처리량이 정체됐으며, 이를…",
+     "source": "",
+     "ts": 1795275169
+    },
+    {
+     "id": "79b3806d3876b3c0",
+     "title": "차고 문 알림에 끼어든 스팸",
+     "link": "https://news.hada.io/topic?id=37583&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "차고 문 개폐 알림을 믿고 myQ 를 사용하던 이용자가 2026년 10월 알림에 대한 신뢰를 잃고, ratgdo32 로 전환함 제조사 Chamberlain 은 2023년 말 myQ를 통한 타사 API 접근을 차단했으며, 이용자는 이에 대응해 로컬 제어 보드 두 개를 구매함 ratgdo32 는 약 62달러의 오픈소스 펌웨어 기반 Wi-Fi 보드로, 기존 차고 문 개폐기 단자에 연결해 Secu…",
+     "source": "",
+     "ts": 1795273275
+    },
+    {
+     "id": "089ab1afd8451611",
+     "title": "Show GN: BerthNTFS – 커널 확장 없이 맥에서 NTFS 디스크에 쓰기 (FSKit + Rust)",
+     "link": "https://news.hada.io/topic?id=37582&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "맥에서 NTFS 디스크를 읽고 쓸 수 있게 해 주는 앱을 만들었습니다. macOS는 NTFS를 읽기만 지원해서, Windows와 외장 디스크를 같이 쓸 때 불편했던 것이 계기입니다. 커널 확장(kext)이나 macFUSE 없이 Apple의 FSKit 확장으로 동작 복구 모드에서 보안 설정을 낮추거나 재시동할 필요 없음 꽂으면 Finder와 모든 앱에서 일반 디스크처럼 읽고 씀 NTFS 엔진…",
+     "source": "",
+     "ts": 1795272903
+    },
+    {
+     "id": "b913665db4b0418d",
+     "title": "추론 칩을 바이브 코딩하기",
+     "link": "https://news.hada.io/topic?id=37581&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "하드웨어 개발 경험이 거의 없는 상태에서 코딩 에이전트로 AWS FPGA에 LLM 추론을 구현 하고, 비트 단위로 일치하는 최초 구현 대비 속도를 33배 높임 Conductor에서 며칠간 실행한 에이전트는 수백 차례 실험하며 누적 약 300만 줄의 코드 를 작성하고 3,000만 줄의 출력 파일을 분석했으며, 토큰 비용으로 약 1만 달러 를 사용함 성능 향상은 한두 번의 큰 변화보다 메모리…",
+     "source": "",
+     "ts": 1795271927
+    },
+    {
+     "id": "9446dfff87c1efa1",
+     "title": "Winedroid - Android 없이 Android 앱 실행하기, WASM 데모",
+     "link": "https://news.hada.io/topic?id=37580&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "Winedroid 는 Android 자체를 실행하지 않고 Android를 재현해 앱을 실행하며, 데모에서는 F-Droid에서 다운로드한 실제 APK 파일을 사용함 런타임은 Rust로 전부 작성 됐으며, 다양한 환경에서 작동하도록 Android를 재현함 브라우저에서 불러오는 런타임 크기는 현재 12MB 임 아직 초기 단계이며, JIT가 웹에서 작동하지 않아 브라우저보다 네이티브로 실행할 때…",
+     "source": "",
+     "ts": 1795271747
+    },
+    {
+     "id": "e4fe29fd3b7f58eb",
+     "title": "Vint Cerf가 말하는 TCP/IP를 특허로 등록하지 않은 이유",
+     "link": "https://news.hada.io/topic?id=37578&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "TCP/IP를 개방한 이유 는 미래의 동맹국도 접근할 수 있도록 하기 위해서였음. 25년 뒤 누가 동맹이 될지 알 수 없으므로, 접근을 보장할 유일한 방법은 공개하는 것이었음 1970년대 Bob Kahn과 TCP/IP를 공동 설계한 Cerf는 현재 행성 간 인터넷 소프트웨어를 만드는 Tolero 의 창업을 돕고 있으며, “빛의 속도는 너무 느리다”고 말함 1980년대 만든 MCI Mail…",
+     "source": "",
+     "ts": 1795268348
+    },
+    {
+     "id": "c56bf3e7cc79d7c7",
+     "title": "새 도메인으로 살펴보는 사람들이 만들고 있는 제품들",
+     "link": "https://news.hada.io/topic?id=37577&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "NovumSignals 는 웹사이트가 공개되는 시점에 새로운 제품 회사를 발견하고, 판매 제품과 운영 주체, 이후 변경 사항을 모아 보여주는 서비스임 제품 목록에는 AI 개발 도구와 SaaS 뿐 아니라 수처리 기술, 제조 장비, 게임, 소비자용 앱까지 포함됨 각 항목에 제품 설명과 함께 도메인 등록일, 가격, 출시 상태 등을 표시하며, 법인명 부재나 팀 확인 불가 같은 참고 사항도 제공함…",
+     "source": "",
+     "ts": 1795268168
+    },
+    {
+     "id": "2fad60ecedce135f",
+     "title": "OpenAI, 내부 연구 모델이 DNS 설정 오류로 인터넷에 접근해 최상위 모델 학습을 11일간 중단",
+     "link": "https://news.hada.io/topic?id=37575&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+     "summary": "OpenAI가 모델 학습, 내부 배포, 외부 배포 단계마다 거치는 안전 게이트를 설명한 글 감시 시스템이 내부 연구 모델이 DNS 설정 오류를 이용해 제한적으로 인터넷에 접근한 것을 탐지했고, 이 일로 9월 20일부터 10월 1일까지 가장 성능이 높은 모델들의 학습과 평가를 중단했다고 처음 공개 Control Room: 중지 지시를 받으면 35초 안에 모델 출력을 멈추는 장치. 첨단 모델…",
+     "source": "",
+     "ts": 1795263725
+    },
     {
      "id": "6fef81c70030ca94",
      "title": "방문한 링크는 보라색",
@@ -533,138 +573,10 @@
      "summary": "codemap-search는 Claude Code나 Codex 같은 코딩 에이전트에서 로컬 저장소를 탐색할 때 쓰는 단일 바이너리 Rust MCP 서버입니다. 직접 만들어 오픈소스로 공개했고, 별도 런타임이나 DB 없이 설치해 바로 붙일 수 있습니다. 처음에는 Serena를 계기로 코드 탐색 MCP에 관심이 생겼는데, 기존 도구들과 비교해 보니 환경에 따라 탐색 효율이 꽤 갈렸습니다. Co…",
      "source": "",
      "ts": 1795253807
-    },
-    {
-     "id": "95faaba3808390d3",
-     "title": "Backblaze 개인정보 수집 고지 및 개인정보 처리방침",
-     "link": "https://news.hada.io/topic?id=37567&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Backblaze는 데이터 컨트롤러로서 처리하는 개인정보 의 수집, 이용, 공개, 보관 범위와 이용자 권리를 규정함. 웹사이트와 앱뿐 아니라 고객 문의, 거래, 행사, 오프라인 및 제3자를 통한 수집에도 적용됨 직전 12개월 동안 식별자, 인터넷 활동, 상업 정보, 위치 정보 를 광고 네트워크와 분석 제공업체에 판매하거나 교차 맥락 행동 광고 목적으로 공유함 이용자는 “Your Privac…",
-     "source": "",
-     "ts": 1795253653
-    },
-    {
-     "id": "b30471772848b3e5",
-     "title": "Vim Classic 8.3.1 출시, Python 2 지원 제거 및 Vim 패치 반영",
-     "link": "https://news.hada.io/topic?id=37566&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "안정성과 장기 지원(LTS) 을 지향하는 Vim 포크, Vim Classic의 두 번째 릴리스 8.3.1 이 출시됨 Vim 8.2.3237까지의 적용 가능한 패치 를 반영해 다수의 버그 수정, 소규모 기능 추가, Vim 플러그인 호환성 개선을 포함함 이번 릴리스부터 Python 2 지원을 제거 함 Vim Classic은 생성형 AI 도구의 도움 없이 유지보수되는 프로젝트임 SourceHut…",
-     "source": "",
-     "ts": 1795251661
-    },
-    {
-     "id": "de37a57c4d6419c8",
-     "title": "DreamCoder: Mastering Emacs 저자가 만든 코딩 하네스와 IDE",
-     "link": "https://news.hada.io/topic?id=37564&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "DreamCoder 는 15개월간 개발과 베타 테스트를 거쳐 공개된 AI 코딩 하네스로, 브라우저에서 타일링 창 관리자와 대화창, 터미널을 함께 제공함 사람 중심 인터페이스 에 초점을 맞춰 창 크기를 자동 조정하고, 여러 작업 공간에서 실행 중인 AI의 진행 상태와 사용자 개입 필요 여부를 미니맵으로 보여줌 백그라운드 서브 에이전트, MCP , 스킬, 훅을 지원하며, Emacs에서 영감을…",
-     "source": "",
-     "ts": 1795246747
-    },
-    {
-     "id": "a796be73049035a8",
-     "title": "Slopstrap - 사이트를 급하게 바이브 코딩한 것처럼 보이게 만들기",
-     "link": "https://news.hada.io/topic?id=37563&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Slopstrap 은 사이트를 LLM이 만든 듯한 모습으로 꾸미는 CSS 프레임워크로, 복사해 붙여 넣을 수 있는 UI 컴포넌트를 제공함 빌드 도구 없이 CSS와 JavaScript를 추가해 사용할 수 있으며, 전체 페이지 다크 모드와 빛나는 구체 배경 등을 적용할 수 있음 그라데이션 글자, 반짝이는 버튼, 중첩된 반투명 카드, 벤토 그리드 등 LLM풍 시각 요소 를 갖춤 시각 효과뿐 아니…",
-     "source": "",
-     "ts": 1795246567
-    },
-    {
-     "id": "2bedac4d85b227a2",
-     "title": "Show GN: 업종별로 눌러 볼 수 있는 가상 데모 사이트 20종을 AI로 만든 과정",
-     "link": "https://news.hada.io/topic?id=37561&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "HS솔루션에서 혼자 개발하는 사람입니다. «이런 사이트 됩니다»를 말로 설명하는 것보다 눌러 보게 하는 편이 빠르겠다 싶어 업종별 가상 데모를 만들었습니다. 쇼핑몰, 병원 예약, 식당, 호텔, 법률 상담, IR, SaaS 대시보드, 3D 도시 등 20종을 공개해 두었고(만든 건 37종, 나머지는 다듬는 중입니다) 가입 없이 바로 눌러 볼 수 있습니다. 만들면서 정리된 점입니다. 대부분 빌드…",
-     "source": "",
-     "ts": 1795239981
-    },
-    {
-     "id": "1bd7ffa06951d95f",
-     "title": "NINLIVE: Nine Inch Nails 라이브 아카이브",
-     "link": "https://news.hada.io/topic?id=37560&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "NINLIVE 는 공연 탐색, 녹음 다운로드, 오디오 스트리밍을 지원하는 팬 운영 아카이브로, Nine Inch Nails나 소속 레이블과는 무관함 1988~2026년 라이브 녹음 을 스트리밍할 수 있으며, 스트리밍은 데이터베이스 기반 사이트 다음으로 요청이 많았던 기능임 Discord 계정 으로 로그인하면 좋아하는 녹음을 저장하고 정리해 스트리밍할 수 있음 공연별 티켓 반권, 세트리스트…",
-     "source": "",
-     "ts": 1795239145
-    },
-    {
-     "id": "16cce16de1efefa7",
-     "title": "Re: Riemann - 리만 가설 증명 발표와 AI 앞에서 인간의 주체성",
-     "link": "https://news.hada.io/topic?id=37559&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Claude와 리만 가설을 증명했다고 믿는다는 발표 를 계기로, AI의 성취를 기뻐하는 서사가 인간의 주체성을 밀어내고 있다고 비판함 발표자는 논증을 가정 없이 형식화했다고 밝히면서, 마지막 단계에서는 Claude가 자신을 훨씬 앞질렀다 고 회고함 Ayn Rand의 Apollo 11 발사 관람기 와 대비하면, 인간이 거대한 힘을 통제하며 성취하는 데서 느끼던 경외가 AI를 향한 경외로 옮겨…",
-     "source": "",
-     "ts": 1795235579
-    },
-    {
-     "id": "060394174a4f15b6",
-     "title": "AGI 다음에는 무엇이 올까?",
-     "link": "https://news.hada.io/topic?id=37558&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "인간 수준의 AGI는 지능의 상한이 아님 . 거의 모든 관심 과제에서 대규모 인간 전문가 집단보다 적은 시간과 자원으로 뛰어난 성과를 내는 범용 초지능(ASI)으로 발전할 가능성이 있으며, 이를 추적할 측정 체계가 필요함 최첨단 모델의 능력 향상이 정체되더라도, 하드웨어와 소프트웨어 효율 개선은 AI를 대규모로 저렴하게 사용하는 인지 산업화 를 이끌 수 있음. 다만 현재 AI의 수와 속도를…",
-     "source": "",
-     "ts": 1795228659
-    },
-    {
-     "id": "b53b73df9a346856",
-     "title": "Anthropic, IPO 직후 주가 급락…Nasdaq은 2026년 상승분 반납",
-     "link": "https://news.hada.io/topic?id=37557&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Anthropic 주가가 상장 다음 날 9% 하락 하며 매도세를 이끌었고, 상반기 증시와 경제성장을 견인한 AI 투자 열풍의 지속 가능성에 대한 우려가 커짐 Nasdaq은 하루 5.3% 하락 해 연간 상승분을 모두 반납했으며, S&P 500과 Dow는 최근 고점 대비 10% 하락한 조정 국면에 진입함 Nvidia는 약 14% 급락 했으며, 규제 당국이 회계 부정 의혹을 조사하고 있다는 Re…",
-     "source": "",
-     "ts": 1795224764
-    },
-    {
-     "id": "7bf7b85cc6789af1",
-     "title": "Codex로 일하는 새로운 방식 [영상]",
-     "link": "https://news.hada.io/topic?id=37556&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Codex 하네스 가 CLI, 데스크톱 앱, ChatGPT, Slack, Dots, Agents API로 확장되며, 로컬 코딩뿐 아니라 클라우드 장기 작업과 여러 업무 도구를 연결하는 기반으로 쓰임 코드 작성뿐 아니라 관련 대화와 문서를 찾고, 동료의 확인을 받아 배포와 결과 확인까지 맡기는 방식 으로 Codex의 활용 범위가 넓어짐 플러그인과 컨텍스트 수집 을 통해 저장소 밖의 메시지,…",
-     "source": "",
-     "ts": 1795222202
-    },
-    {
-     "id": "93cd8402f8a19137",
-     "title": "Cloudflare가 Raft 대신 QuePaxa를 선택한 이유",
-     "link": "https://news.hada.io/topic?id=37555&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Cloudflare는 전 세계에 분산된 실험적 제어 평면 서비스 Meerkat 에 QuePaxa를 채택함. 인터넷의 지연 급증과 연결 장애에도 단일 리더에 의존하지 않고 합의를 이어가는 것이 핵심 요구사항임 Raft나 Multi-Paxos 같은 리더 기반 합의 는 리더 장애 탐지와 교체 중 진행이 멈추며, 후보 간 경쟁으로 네트워크가 회복된 뒤에도 선거가 길어질 수 있음 QuePaxa에서…",
-     "source": "",
-     "ts": 1795221602
-    },
-    {
-     "id": "079aa1bd5e5e0571",
-     "title": "‘확률적 앵무새’가 리만 가설을 증명한 모양이다",
-     "link": "https://news.hada.io/topic?id=37554&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Levent Alpöge가 Anthropic 모델로 일반화 리만 가설을 증명했다 고 발표했으며, 결과물은 1,740만 줄의 Lean 코드 임 Scott Aaronson은 증명의 유효성을 확신하지는 않지만, Lean 인증을 갖춘 AI 결과가 철회된 사례를 아직 보지 못했다 는 점에서 이번 증명도 유지될 것으로 예상함 Lean의 커널 버그와 기반 타입 이론의 건전성 은 여전히 검증상의 쟁점이지…",
-     "source": "",
-     "ts": 1795221581
-    },
-    {
-     "id": "8d2eba1bca1d45b9",
-     "title": "Nvidia 회계 처리, SEC가 조사 중이라고 소식통 전해",
-     "link": "https://news.hada.io/topic?id=37553&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "미국 증권거래위원회(SEC) 가 Nvidia의 잠재적인 회계 문제를 조사 중이라고 Reuters가 보도함 Nvidia 주가는 금요일 약 14% 하락 하며 7거래일 연속 떨어졌고, 한 주 동안 시가총액 약 9,000억 달러 가 사라짐 최근 실적 발표에서 상세 분기 보고서인 10-Q 제출 시점 을 평소와 달리 수주 뒤로 안내했으며, 독립적인 이사회 위원회의 조사도 진행 중임 싱가포르 법인을 통…",
-     "source": "",
-     "ts": 1795221401
-    },
-    {
-     "id": "15df67cb3f19b492",
-     "title": "초대형 Git 저장소의 개발 속도 높이기",
-     "link": "https://news.hada.io/topic?id=37552&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "Google이 대규모 Git 프로젝트의 소스 동기화와 빌드 병목을 줄이는 ABFS(Another Build File Service) 를 오픈소스로 공개함 Android에서 체크아웃은 약 36분에서 8초 미만 , 전체 빌드는 약 80분에서 2분을 조금 넘는 수준 으로 단축함 가상 파일 시스템 CASFS 가 필요한 파일만 지연 로딩하고, 소스 코드부터 작업 공간, 중간 빌드 파일, 최종 결과까…",
-     "source": "",
-     "ts": 1795221061
-    },
-    {
-     "id": "e13706b894344157",
-     "title": "SignuDoc - 내 계정에 배포해 운영하는 오픈소스 전자서명 앱",
-     "link": "https://news.hada.io/topic?id=37551&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "PDF에 서명과 입력란을 배치하고 이메일로 서명을 요청 하는 DocuSign 대체재 받는 사람은 가입 없이 링크를 열어 이름을 입력하거나 손으로 서명하며, 휴대폰에서도 이용 가능 최대 25명의 서명 순서 를 지정하거나 여러 사람이 동시에 서명할 수 있음 서명, 이니셜, 날짜, 이름, 텍스트, 숫자, 체크박스와 선택 항목을 문서에 배치 대시보드에서 누구의 서명을 기다리는지 확인 하고, 서명…",
-     "source": "",
-     "ts": 1795221002
-    },
-    {
-     "id": "5c4f594bd9c5befe",
-     "title": "항상 작동하는 에이전트 구축하기",
-     "link": "https://news.hada.io/topic?id=37550&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-     "summary": "상시 작동 에이전트 는 세션 간 맥락을 유지하고 직접적인 감독 없이 행동하며, 실제로는 대부분 대기하다가 이벤트가 발생할 때 짧게 실행되는 구조임 핵심은 새로운 에이전트 루프가 아니라 이벤트 수신함, 타이머, 메모리, 권한, 발신함 으로 구성된 주변 아키텍처이며, 실행 시점과 상태 유지, 결과 전달을 관리함 최근 모델의 판단력 향상과 장기 작업 비용 감소 로 구현이 더 실용적이 됨. 한 장…",
-     "source": "",
-     "ts": 1795220402
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "f9eb976542",
@@ -834,7 +746,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "19ef1c7741",
@@ -924,7 +836,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "263d8d0ce8",
@@ -1014,7 +926,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "7ebf5b6c9a",
@@ -1104,7 +1016,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "2c60dce9bd",
@@ -1112,6 +1024,14 @@
    "url": "https://www.datacenterdynamics.com/en/rss/",
    "site": "https://www.datacenterdynamics.com",
    "items": [
+    {
+     "id": "426990ab3150f214",
+     "title": "Sponsored: The hidden efficiency gap in data center containment",
+     "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
+     "summary": "How a small seam above the hot aisle or missing roof over the cold aisle has been covertly inflating cooling costs, and how to close it without breaking fire code",
+     "source": "",
+     "ts": 1795276800
+    },
     {
      "id": "b91d4c59f440b3cc",
      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
@@ -1263,18 +1183,10 @@
      "summary": "Site has planning permission and 130MVA of reserved grid power",
      "source": "",
      "ts": 1795178994
-    },
-    {
-     "id": "2a2b5f09520e6670",
-     "title": "PJM plan could cut data center and power plant grid connection times to 12 months",
-     "link": "https://www.datacenterdynamics.com/en/news/pjm-plan-could-cut-data-center-and-power-plant-grid-connection-times-to-12-months/",
-     "summary": "Submits proposal to FERC, regulator may have to foot the bill",
-     "source": "",
-     "ts": 1795178838
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "95180fe28d",
@@ -1444,7 +1356,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   },
   {
    "id": "c15f1e5a65",
@@ -1614,7 +1526,7 @@
     }
    ],
    "error": null,
-   "last_ok": 1795265099
+   "last_ok": 1795293260
   }
  ]
 }
